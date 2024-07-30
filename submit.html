@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Create Submission</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <link rel="icon" type="image/x-icon" href="https://cdn.monerica.com/directorycontent/icons/favicon.ico">
+    <style>
+            body {
+                background-color: #000000eb;
+                color: #FFFFFF;
+                font-family: Helvetica;
+            }
+
+            h1 {
+                margin-top: 0;
+            }
+
+            h3 {
+                margin-bottom: 0;
+                padding-bottom: 0;
+            }
+
+            a {
+                color: #008cff
+            }
+
+            li p {
+                margin:0;
+            }
+
+                a:hover {
+                    text-decoration: none;
+                }
+
+            .table td { padding: 5px; }
+            
+            .right {
+                text-align: right;
+            }
+
+            .create-sponsored-listing {
+                text-align: right;
+                font-size: 13px;
+                font-style: italic;
+            }
+
+            .sponsored-section
+            {
+                background-color: #1E1E1E;
+                border: 4px solid #FF6600;
+                padding: 3px;
+                font-size: 18px;
+            }
+
+            .sponsored-section p
+            {
+                margin-top: 0px; margin-bottom: 0px; padding-bottom: 0px;
+            }
+
+            .sponsored-section ul {  list-style: none; margin-top: 2px; margin-bottom: 4px; padding-left: 0; }
+
+            .sponsored-section li {  margin-bottom: 9px; }
+
+            .sponsored-section > p:nth-child(1) > b:nth-child(1)
+            {
+                font-size: 14px;
+                font-style: italic;
+                color: #727272;
+            }
+
+            li.sponsored  {
+                background-color: #1E1E1E;
+                border: 1px solid #FF6600;
+                padding: 3px;
+                margin-bottom: 3px;
+                margin-top: 3px;
+                font-size: 18px;
+            }
+
+            .sub-category-sponsored-listing {
+                font-style: italic;
+                font-size: 12px;
+                margin-top: auto;
+                padding-top: 0;
+            }
+
+        .adspace-full p {
+ 
+            font-size: 18px;
+            color: #FF6600
+        }
+
+
+         .legend p {margin-bottom: 3px; margin-top:3px;}
+
+            /* top banner related */
+
+            .multi-line-text {
+                word-break: break-all;
+                display: inline;
+            }
+
+            .input-width { width: 300px;}
+
+
+        .form-group {
+            margin-bottom: 20px; /* increased space between form groups */
+        }
+
+            .form-group label {
+                display: block;            
+            }
+
+        .text-danger, .alert-danger {
+            color: red;
+        }
+
+        .btn {
+            background-color: green;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            color: white;
+            font-weight: bold;
+        }
+
+        
+        a.btn {
+            text-decoration: none;
+        }
+
+
+
+.submission-guidelines {color: Yellow; }
+
+            /* begin: expandable lists */
+
+            .hidden {
+                display: none;
+            }
+
+            :checked + .hidden {
+                display: block;
+            }
+
+            ul#categories_list {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+            }
+
+                ul#categories_list li label {
+                    font-size: 20px;
+                    font-weight: bold;
+                    padding-right: 15px;
+                }
+
+                ul#categories_list li input[type=checkbox] {
+                    display: none;
+                }
+
+                footer {
+                    margin-top: 30px;
+                    padding:10px;
+                    border-top-color: #FFFFFF;
+                    border-top-style: solid;
+                    border-top-width: 1px;  
+                }
+
+                .small-font
+                {
+                    font-size:12px;
+                    font-family: 'Lucida Console','Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+                }
+
+
+        #toggleImageCheckbox {
+            display: none;
+        }
+
+        /* Initially hide the image */
+        #toggleImage {
+            display: none;
+        }
+
+        /* Show the image when the checkbox is checked */
+        #toggleImageCheckbox:checked~#toggleImage {
+            display: block;
+        }
+
+            /* end: expandable lists */
+
+            /* begin banner style
+                            div#banner {
+                              text-align: center;
+                              position: absolute;
+                              top: 0;
+                              left: 0;
+                              color: #FFF;
+                              font-weight:bold;
+                              background-color: red;
+                              width: 100%;
+                            }
+                            div#banner-content {
+
+                              margin: 0 auto;
+                              padding: 10px;
+
+                            }
+                            div#main-content {
+                               padding-top: 70px;
+                            }
+                            end banner style */
+        </style>
+    </head>
+<body>
+    
+    <div id="main-content">
+        
+<h1>Create Submission</h1>
+
+<a href="/">back to home</a>
+
+<div class="submission-guidelines">
+<p>
+
+<b>Submission Guidelines:</b>
+
+<ul>
+<li>
+   All business related links MUST clearly show acceptance or use of Monero somewhere, preferably with a Monero logo. If a person cannot clearly see that they can pay in Monero, your submission will be rejected.
+</li>
+<li>
+ Duplicate sites with different URLs will be rejected. 
+</li>
+<li>   
+   Links related to political parties will be rejected.
+</li>
+<li>
+  Only put public notes you want displayed in the "Note" section. Use "Note To Admin" section for personal comments you do not want displayed.
+</li>
+<li>
+  By being on Monerica, it's implied that your site already accepts Monero, do not state that you accept Monero.
+</li>
+<li>
+  Site cannot sell, or facilitate, illegal activity.
+</li>
+<li>
+  Site must be live and functioning.
+</li>
+</ul>
+
+
+</div>
+
+<hr>
+
+ <a href="/submission/findexisting">click here to edit an existing listing</a>
+ 
+<form method="post" action="https://app.monerica.com/submit">
+
+    <input id="SubmissionId" name="SubmissionId" type="hidden" value="">
+
+    <input id="DirectoryEntryId" name="DirectoryEntryId" type="hidden" value="">
+
+    <h3>Required Information</h3>
+
+
+    <div class="form-group">
+        <label for="SubCategoryId">Category</label>
+        <select required="" id="SubCategoryId" name="SubCategoryId"><option value="0">Please select a category</option>
+<option value="1">Businesses &gt; Accounting</option>
+<option value="124">Businesses &gt; Artwork</option>
+<option value="21">Businesses &gt; Astrology</option>
+<option value="22">Businesses &gt; Audio Services</option>
+<option value="23">Businesses &gt; Automotives</option>
+<option value="24">Businesses &gt; Blockchain Services</option>
+<option value="146">Businesses &gt; Carpenters</option>
+<option value="26">Businesses &gt; Clothing, Apparel &amp; Accessories</option>
+<option value="27">Businesses &gt; Counseling &amp; Therapy</option>
+<option value="28">Businesses &gt; Design Services</option>
+<option value="150">Businesses &gt; Device Repair</option>
+<option value="29">Businesses &gt; Digital Goods/ Services</option>
+<option value="30">Businesses &gt; DJs</option>
+<option value="31">Businesses &gt; E-Mail Providers/ Forwarders</option>
+<option value="32">Businesses &gt; Electricians</option>
+<option value="160">Businesses &gt; Fitness</option>
+<option value="33">Businesses &gt; Food &amp; Drink</option>
+<option value="159">Businesses &gt; Food &amp; Drink (IRL)</option>
+<option value="34">Businesses &gt; Gambling</option>
+<option value="35">Businesses &gt; Gardening/ Farming</option>
+<option value="36">Businesses &gt; Giftcards/ Pre-Paid Cards</option>
+<option value="37">Businesses &gt; IT Services</option>
+<option value="38">Businesses &gt; Legal Services</option>
+<option value="39">Businesses &gt; Locksmiths</option>
+<option value="40">Businesses &gt; Luxury Goods</option>
+<option value="154">Businesses &gt; Marketing</option>
+<option value="41">Businesses &gt; Marketplaces</option>
+<option value="42">Businesses &gt; Medical/ Pharmaceutical</option>
+<option value="43">Businesses &gt; Membership</option>
+<option value="44">Businesses &gt; Mining and Node Hardware</option>
+<option value="45">Businesses &gt; Miscellaneous</option>
+<option value="46">Businesses &gt; Monero Merchandise</option>
+<option value="47">Businesses &gt; Pets</option>
+<option value="48">Businesses &gt; Phone Plans &amp; SIM Cards</option>
+<option value="49">Businesses &gt; Pornography</option>
+<option value="50">Businesses &gt; Postage &amp; Shipping Services</option>
+<option value="51">Businesses &gt; Precious Metals</option>
+<option value="144">Businesses &gt; Printing Services</option>
+<option value="52">Businesses &gt; Proxies</option>
+<option value="53">Businesses &gt; Real Estate Services</option>
+<option value="54">Businesses &gt; Recycling</option>
+<option value="55">Businesses &gt; Residency</option>
+<option value="149">Businesses &gt; Software Developers</option>
+<option value="56">Businesses &gt; Technology/ Computer Hardware</option>
+<option value="57">Businesses &gt; Tobacco Products &amp; Accessories</option>
+<option value="58">Businesses &gt; Translation</option>
+<option value="59">Businesses &gt; Travel</option>
+<option value="60">Businesses &gt; VPN Companies</option>
+<option value="61">Businesses &gt; Weapons &amp; Self-Defense</option>
+<option value="62">Businesses &gt; Web Hosting</option>
+<option value="2">Communities &gt; Chatrooms</option>
+<option value="63">Communities &gt; Forums</option>
+<option value="64">Communities &gt; Offline Conferences</option>
+<option value="65">Communities &gt; Online Communities</option>
+<option value="128">Communities &gt; Other</option>
+<option value="67">Communities &gt; Technical Questions</option>
+<option value="3">Education &gt; E-Books</option>
+<option value="68">Education &gt; Guides</option>
+<option value="69">Education &gt; Knowledge</option>
+<option value="70">Education &gt; Physical Books</option>
+<option value="129">Education &gt; Research</option>
+<option value="72">Education &gt; Tutorials</option>
+<option value="134">Exchanges &gt; ATMs</option>
+<option value="4">Exchanges &gt; Atomic Swaps</option>
+<option value="73">Exchanges &gt; Comparison/ Aggregation</option>
+<option value="143">Exchanges &gt; Decentralized Exchanges</option>
+<option value="74">Exchanges &gt; KYC Exchanges (Non-United States)</option>
+<option value="135">Exchanges &gt; KYC Exchanges (United States)</option>
+<option value="75">Exchanges &gt; Non-KYC Exchanges</option>
+<option value="76">Exchanges &gt; Peer to Peer Exchanges</option>
+<option value="5">Finance &gt; Calculator</option>
+<option value="77">Finance &gt; Charts</option>
+<option value="78">Finance &gt; Conversion</option>
+<option value="79">Finance &gt; Interest/ Loans</option>
+<option value="80">Finance &gt; Market Cap Comparision</option>
+<option value="81">Finance &gt; Price Display</option>
+<option value="156">Freelancers &gt; Chatrooms</option>
+<option value="155">Freelancers &gt; Privacy &amp; Security Consultants</option>
+<option value="153">Freelancers &gt; Software Developers</option>
+<option value="6">Jobs &gt; Bounties</option>
+<option value="82">Jobs &gt; Crowdfunding</option>
+<option value="83">Jobs &gt; Freelance</option>
+<option value="84">Jobs &gt; Fundraising</option>
+<option value="85">Jobs &gt; Grants</option>
+<option value="7">Media &gt; Artwork</option>
+<option value="137">Media &gt; Miscellaneous</option>
+<option value="152">Media &gt; Monero Adjacent</option>
+<option value="136">Media &gt; Music</option>
+<option value="88">Media &gt; News (Czech)</option>
+<option value="89">Media &gt; News (English)</option>
+<option value="157">Media &gt; News (Portuguese)</option>
+<option value="90">Media &gt; News (Russian)</option>
+<option value="91">Media &gt; News (Taiwanese)</option>
+<option value="86">Media &gt; News Aggregators</option>
+<option value="87">Media &gt; Newsletters</option>
+<option value="92">Media &gt; Radio Stations</option>
+<option value="93">Media &gt; Social Media (Twitter)</option>
+<option value="94">Media &gt; Talk Shows/ Podcasts (English)</option>
+<option value="95">Media &gt; Talk Shows/ Podcasts (German)</option>
+<option value="141">Media &gt; Videos</option>
+<option value="96">Media &gt; YouTube Channels (English)</option>
+<option value="97">Media &gt; YouTube Channels (German)</option>
+<option value="99">Media &gt; YouTube Channels (Russian)</option>
+<option value="98">Media &gt; YouTube Channels (Spanish)</option>
+<option value="8">Merchant Services &gt; ATMs</option>
+<option value="100">Merchant Services &gt; Integrations</option>
+<option value="158">Merchant Services &gt; Miscellaneous</option>
+<option value="139">Merchant Services &gt; Open Source Projects</option>
+<option value="9">Mining &gt; Apps</option>
+<option value="140">Mining &gt; Calculators</option>
+<option value="133">Mining &gt; Guides</option>
+<option value="127">Mining &gt; Miscellaneous</option>
+<option value="103">Mining &gt; Pools</option>
+<option value="104">Mining &gt; Rentals</option>
+<option value="132">Mining &gt; Software</option>
+<option value="10">Non-Profits &gt; Activism</option>
+<option value="148">Non-Profits &gt; Institutes</option>
+<option value="147">Non-Profits &gt; Knowledge</option>
+<option value="123">Non-Profits &gt; Media</option>
+<option value="125">Non-Profits &gt; Medical</option>
+<option value="126">Non-Profits &gt; Miscellaneous</option>
+<option value="107">Non-Profits &gt; Operating Systems</option>
+<option value="130">Non-Profits &gt; Research</option>
+<option value="108">Non-Profits &gt; Science</option>
+<option value="131">Non-Profits &gt; Security</option>
+<option value="142">Non-Profits &gt; Technologies</option>
+<option value="11">Official Sites &gt; Code</option>
+<option value="111">Official Sites &gt; Project Homepage</option>
+<option value="12">Onions &gt; Mirrors</option>
+<option value="112">Onions &gt; Monero Onions</option>
+<option value="25">Other Directories &gt; Business Directories</option>
+<option value="13">Utilities &gt; Address Verification</option>
+<option value="113">Utilities &gt; Blockchain Helpers</option>
+<option value="145">Utilities &gt; Developer Tools</option>
+<option value="101">Utilities &gt; Open Source Projects</option>
+<option value="114">Utilities &gt; QR Code Generator</option>
+<option value="14">Wallets &gt; Browser Wallets</option>
+<option value="115">Wallets &gt; Desktop Wallets</option>
+<option value="116">Wallets &gt; Hardware Wallets</option>
+<option value="117">Wallets &gt; Mobile Wallets</option>
+<option value="118">Wallets &gt; Multi-Sig Wallets</option>
+<option value="119">Wallets &gt; Web Wallets</option>
+</select>
+    </div>
+
+    <div class="form-group">
+        <label for="SuggestedSubCategory">Suggested Category (Optional)</label>
+        <input class="form-control input-width" type="text" data-val="true" data-val-maxlength="The field Suggested Category must be a string or array type with a maximum length of &#x27;255&#x27;." data-val-maxlength-max="255" id="SuggestedSubCategory" maxlength="255" name="SuggestedSubCategory" placeholder="New category &gt; New Subcategory" value="">
+        <span class="text-danger field-validation-valid" data-valmsg-for="SuggestedSubCategory" data-valmsg-replace="true"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Name">Name</label>
+        <input class="form-control input-width" type="text" data-val="true" data-val-maxlength="The field Name must be a string or array type with a maximum length of &#x27;255&#x27;." data-val-maxlength-max="255" data-val-required="The Name field is required." id="Name" maxlength="255" name="Name" placeholder="Company or project name" value="">
+        <span class="text-danger field-validation-valid" data-valmsg-for="Name" data-valmsg-replace="true"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Link">Link</label>
+        <input class="form-control input-width" type="text" data-val="true" data-val-maxlength="The field Link must be a string or array type with a maximum length of &#x27;500&#x27;." data-val-maxlength-max="500" data-val-required="The Link field is required." id="Link" maxlength="500" name="Link" placeholder="https://yoursite.net" value="">
+        <span class="text-danger field-validation-valid" data-valmsg-for="Link" data-valmsg-replace="true"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Description">Description</label>
+        <textarea class="form-control input-width" data-val="true" data-val-maxlength="The field Description must be a string or array type with a maximum length of &#x27;500&#x27;." data-val-maxlength-max="500" id="Description" maxlength="500" name="Description" placeholder="Describe your listing">
+</textarea>
+        <span class="text-danger field-validation-valid" data-valmsg-for="Description" data-valmsg-replace="true"></span>
+    </div>
+
+    <h3>Optional Information</h3>
+
+    <div class="form-group">
+        <label for="Link2">TOR</label>
+        <input class="form-control input-width" type="text" data-val="true" data-val-maxlength="The field Link 2 must be a string or array type with a maximum length of &#x27;500&#x27;." data-val-maxlength-max="500" id="Link2" maxlength="500" name="Link2" placeholder="Link 2" value="">
+        <span class="text-danger field-validation-valid" data-valmsg-for="Link2" data-valmsg-replace="true"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Link3">I2P</label>
+        <input class="form-control input-width" type="text" data-val="true" data-val-maxlength="The field Link 3 must be a string or array type with a maximum length of &#x27;500&#x27;." data-val-maxlength-max="500" id="Link3" maxlength="500" name="Link3" placeholder="Link 3" value="">
+        <span class="text-danger field-validation-valid" data-valmsg-for="Link3" data-valmsg-replace="true"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Contact">Contact</label>
+        <input class="form-control input-width" type="text" data-val="true" data-val-maxlength="The field Contact must be a string or array type with a maximum length of &#x27;75&#x27;." data-val-maxlength-max="75" id="Contact" maxlength="75" name="Contact" placeholder="@yourname on Twitter/ GitHub, etc." value="">
+        <span class="text-danger field-validation-valid" data-valmsg-for="Contact" data-valmsg-replace="true"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Location">Location</label>
+        <input class="form-control input-width" type="text" data-val="true" data-val-maxlength="The field Location must be a string or array type with a maximum length of &#x27;255&#x27;." data-val-maxlength-max="255" id="Location" maxlength="255" name="Location" placeholder="City, Region, Country (example: New York, NY, USA)" value="">
+        <span class="text-danger field-validation-valid" data-valmsg-for="Location" data-valmsg-replace="true"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Note">Note</label>
+        <textarea class="form-control input-width" data-val="true" data-val-maxlength="The field Note must be a string or array type with a maximum length of &#x27;1000&#x27;." data-val-maxlength-max="1000" id="Note" maxlength="1000" name="Note" placeholder="Notes about listing you want displayed">
+</textarea>
+        <span class="text-danger field-validation-valid" data-valmsg-for="Note" data-valmsg-replace="true"></span>
+    </div>
+
+    <hr>
+
+    <h3>To Reviewer</h3>
+    <div class="form-group">
+        <label for="NoteToAdmin">Note To Admin</label>
+        <textarea class="form-control input-width" data-val="true" data-val-maxlength="The field Note To Admin must be a string or array type with a maximum length of &#x27;1000&#x27;." data-val-maxlength-max="1000" id="NoteToAdmin" maxlength="1000" name="NoteToAdmin" placeholder="Notes to admin reviewing submission">
+</textarea>
+        <span class="text-danger field-validation-valid" data-valmsg-for="NoteToAdmin" data-valmsg-replace="true"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Preview</button>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8LZdp0sM3H9JuQFp6fPSJZcJQT5UPXrK-QV7Ji8U1JFeBVdg6HAVUW21DReOt0jyi9O3Z5sKQWdRtmtWyu1KQKVWZKP58s6qkk2B7XsPxpJIGHfztp6cJCZJkD-S1d2PLTMpSB2bFF3Soovt1NVzdS4"></form> 
+    </div>
+ 
+    <footer>
+        <a href="/">Monerica</a> | <a href="/sponsoredlisting">Advertise</a> | <a href="/sitemap">Sitemap</a> | <a href="/submit">Submit</a> | <a href="/newsletter">Newsletter</a> | <a href="/contact">Contact</a>
+    </footer>
+</body>
+</html>
