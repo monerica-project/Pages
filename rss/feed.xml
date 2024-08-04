@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>Web Wipe</title>
+      <link>https://webwipe.io</link>
+      <description>Online data removal, private mobile phone plans, and phishing concierge.</description>
+      <pubDate>Sun, 04 Aug 2024 02:09:28 GMT</pubDate>
+    </item>
+    <item>
       <title>OxaPay</title>
       <link>https://oxapay.com</link>
       <description>From 0.4% Fees, 24/7 Support, No hidden fee, No KYC/KYB</description>
@@ -597,12 +603,6 @@ Link your crypto address and share a subdomain to accept any currency.</descript
       <link>https://christopherlawrence.us</link>
       <description>Luxury leather products that are handcrafted, high-quality, and ethically sourced from Leon, Gunajuato.</description>
       <pubDate>Tue, 21 Nov 2023 20:40:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bity</title>
-      <link>https://bity.com/products/crypto-atms/</link>
-      <description />
-      <pubDate>Mon, 20 Nov 2023 17:13:34 GMT</pubDate>
     </item>
   </channel>
 </rss>
