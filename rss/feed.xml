@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>Autotek</title>
+      <link>http://autotek.com.pl/index.php?r=site/contact</link>
+      <description>Car service of all brands. Repairs General repairs and reconstruction of off -road and camping cars. Construction of cars for individual needs</description>
+      <pubDate>Wed, 07 Aug 2024 12:33:18 GMT</pubDate>
+    </item>
+    <item>
       <title>Web Wipe</title>
       <link>https://webwipe.io</link>
       <description>Online data removal, private mobile phone plans, and phishing concierge.</description>
@@ -597,12 +603,6 @@ Link your crypto address and share a subdomain to accept any currency.</descript
       <link>https://simplelogin.io/</link>
       <description>Receive and send emails anonymously with an email alias</description>
       <pubDate>Fri, 24 Nov 2023 16:27:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Christopher Lawrence</title>
-      <link>https://christopherlawrence.us</link>
-      <description>Luxury leather products that are handcrafted, high-quality, and ethically sourced from Leon, Gunajuato.</description>
-      <pubDate>Tue, 21 Nov 2023 20:40:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
