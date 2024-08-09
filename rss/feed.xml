@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>Crunchbits</title>
+      <link>https://crunchbits.com/</link>
+      <description>Hosting company located in the United States</description>
+      <pubDate>Fri, 09 Aug 2024 18:35:44 GMT</pubDate>
+    </item>
+    <item>
       <title>Autotek</title>
       <link>http://autotek.com.pl/index.php?r=site/contact</link>
       <description>Car service of all brands. Repairs General repairs and reconstruction of off -road and camping cars. Construction of cars for individual needs</description>
@@ -597,12 +603,6 @@ Link your crypto address and share a subdomain to accept any currency.</descript
       <link>https://zeroeyes.host/</link>
       <description>Beta hosting company offering privacy-oriented services including the new post quantum cryptographic Polynom e2e community server.</description>
       <pubDate>Sat, 25 Nov 2023 01:21:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>SimpleLogin</title>
-      <link>https://simplelogin.io/</link>
-      <description>Receive and send emails anonymously with an email alias</description>
-      <pubDate>Fri, 24 Nov 2023 16:27:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
