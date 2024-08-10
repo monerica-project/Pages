@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>XMRChat</title>
+      <link>https://xmrchat.com/</link>
+      <description>Tip your favorite streamer in cryptocurrency.</description>
+      <pubDate>Sat, 10 Aug 2024 15:44:43 GMT</pubDate>
+    </item>
+    <item>
       <title>Crunchbits</title>
       <link>https://crunchbits.com/</link>
       <description>Hosting company located in the United States</description>
@@ -597,12 +603,6 @@ Link your crypto address and share a subdomain to accept any currency.</descript
       <link>https://monerospace.com.br/</link>
       <description />
       <pubDate>Fri, 01 Dec 2023 20:21:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zero Eyes Hosting</title>
-      <link>https://zeroeyes.host/</link>
-      <description>Beta hosting company offering privacy-oriented services including the new post quantum cryptographic Polynom e2e community server.</description>
-      <pubDate>Sat, 25 Nov 2023 01:21:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
