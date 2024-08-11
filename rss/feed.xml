@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>SecureShift</title>
+      <link>https://secureshift.io/</link>
+      <description>Instant Crypto Exchange</description>
+      <pubDate>Sun, 11 Aug 2024 12:19:16 GMT</pubDate>
+    </item>
+    <item>
       <title>XMRChat</title>
       <link>https://xmrchat.com/</link>
       <description>Tip your favorite streamer in cryptocurrency.</description>
@@ -597,12 +603,6 @@ Link your crypto address and share a subdomain to accept any currency.</descript
       <link>https://shroomsupply.com</link>
       <description>Mushroom SUPERSTORE specializing in fungi growing supplies, mycology tools, mushroom grow kits, and lab equipment.</description>
       <pubDate>Sat, 09 Dec 2023 19:12:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monero Space Brazil</title>
-      <link>https://monerospace.com.br/</link>
-      <description />
-      <pubDate>Fri, 01 Dec 2023 20:21:39 GMT</pubDate>
     </item>
   </channel>
 </rss>
