@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>Bitgolder</title>
+      <link>https://bitgolder.com/?currency=XMR</link>
+      <description>Bridging the gap between gold, silver, and cryptocurrencies.</description>
+      <pubDate>Wed, 14 Aug 2024 15:54:42 GMT</pubDate>
+    </item>
+    <item>
       <title>SecureShift</title>
       <link>https://secureshift.io/</link>
       <description>Instant Crypto Exchange</description>
@@ -597,12 +603,6 @@ Link your crypto address and share a subdomain to accept any currency.</descript
       <link>https://www.zpzap.net</link>
       <description>Nikola Tesla Plasma Electrotherapy and Zeolite detox powder</description>
       <pubDate>Thu, 14 Dec 2023 03:09:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shroom Supply</title>
-      <link>https://shroomsupply.com</link>
-      <description>Mushroom SUPERSTORE specializing in fungi growing supplies, mycology tools, mushroom grow kits, and lab equipment.</description>
-      <pubDate>Sat, 09 Dec 2023 19:12:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
