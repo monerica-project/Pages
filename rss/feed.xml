@@ -280,13 +280,6 @@
       <pubDate>Tue, 23 Apr 2024 19:33:42 GMT</pubDate>
     </item>
     <item>
-      <title>anonpay.biz</title>
-      <link>https://anonpay.biz</link>
-      <description>Subdomain powered payment-processor.
-Link your crypto address and share a subdomain to accept any currency.</description>
-      <pubDate>Tue, 23 Apr 2024 04:18:47 GMT</pubDate>
-    </item>
-    <item>
       <title>Datalix</title>
       <link>https://datalix.eu/</link>
       <description>VPS, Webhosting, Storage and Nextcloud hosting</description>
@@ -603,6 +596,12 @@ Link your crypto address and share a subdomain to accept any currency.</descript
       <link>https://www.2ears.online/vinyl</link>
       <description>Shop that consists of mostly underground hip-hop vinyl.</description>
       <pubDate>Mon, 18 Dec 2023 03:09:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zero Point Zap</title>
+      <link>https://www.zpzap.net</link>
+      <description>Nikola Tesla Plasma Electrotherapy and Zeolite detox powder</description>
+      <pubDate>Thu, 14 Dec 2023 03:09:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
