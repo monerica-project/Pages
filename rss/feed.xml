@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>Kryptex</title>
+      <link>https://pool.kryptex.com/xmr</link>
+      <description />
+      <pubDate>Fri, 16 Aug 2024 00:54:15 GMT</pubDate>
+    </item>
+    <item>
       <title>Bitgolder</title>
       <link>https://bitgolder.com/?currency=XMR</link>
       <description>Bridging the gap between gold, silver, and cryptocurrencies.</description>
@@ -597,12 +603,6 @@ Link your crypto address and share a subdomain to accept any currency.</descript
       <link>https://www.2ears.online/vinyl</link>
       <description>Shop that consists of mostly underground hip-hop vinyl.</description>
       <pubDate>Mon, 18 Dec 2023 03:09:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zero Point Zap</title>
-      <link>https://www.zpzap.net</link>
-      <description>Nikola Tesla Plasma Electrotherapy and Zeolite detox powder</description>
-      <pubDate>Thu, 14 Dec 2023 03:09:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
