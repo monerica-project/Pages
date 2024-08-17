@@ -4,6 +4,18 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>Haveno Decentralised Exchange</title>
+      <link>https://blog.nowhere.moe/servers/haveno-client-f2f/index.html</link>
+      <description>Haveno Decentralised Exchange direct Fiat -&gt; XMR transaction</description>
+      <pubDate>Sat, 17 Aug 2024 15:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Haveno DEX Cash By Mail</title>
+      <link>https://blog.nowhere.moe/servers/haveno-cashbymail/index.html</link>
+      <description />
+      <pubDate>Sat, 17 Aug 2024 15:01:46 GMT</pubDate>
+    </item>
+    <item>
       <title>Kryptex</title>
       <link>https://pool.kryptex.com/xmr</link>
       <description />
@@ -590,18 +602,6 @@
       <link>https://monero.shopping</link>
       <description>Buy anything, anywhere with Monero. An order-forwarding and fulfillment service.</description>
       <pubDate>Tue, 19 Dec 2023 13:12:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>2ears.online</title>
-      <link>https://www.2ears.online/vinyl</link>
-      <description>Shop that consists of mostly underground hip-hop vinyl.</description>
-      <pubDate>Mon, 18 Dec 2023 03:09:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zero Point Zap</title>
-      <link>https://www.zpzap.net</link>
-      <description>Nikola Tesla Plasma Electrotherapy and Zeolite detox powder</description>
-      <pubDate>Thu, 14 Dec 2023 03:09:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
