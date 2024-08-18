@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>Apple Bitcoins</title>
+      <link>https://applebitcoins.com/</link>
+      <description>Wide range of Apple Products and electronics</description>
+      <pubDate>Sun, 18 Aug 2024 11:57:05 GMT</pubDate>
+    </item>
+    <item>
       <title>xmrmemes</title>
       <link>https://xmrmemes.org</link>
       <description>Get tipped in XMR for creating and sharing your Monero memes.</description>
@@ -596,12 +602,6 @@
       <link>https://peepsoft.3vm.cl</link>
       <description>Peep Software is a software development company</description>
       <pubDate>Wed, 27 Dec 2023 12:00:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>ghostBox</title>
-      <link>https://ghostbox.cc</link>
-      <description>a privacy-oriented, free speech, one-time payment email service. Pay €5 one-time and keep your address forever.</description>
-      <pubDate>Sat, 23 Dec 2023 14:17:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
