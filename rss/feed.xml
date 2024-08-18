@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>xmrmemes</title>
+      <link>https://xmrmemes.org</link>
+      <description>Get tipped in XMR for creating and sharing your Monero memes.</description>
+      <pubDate>Sun, 18 Aug 2024 11:03:52 GMT</pubDate>
+    </item>
+    <item>
       <title>Haveno Decentralised Exchange</title>
       <link>https://blog.nowhere.moe/servers/haveno-client-f2f/index.html</link>
       <description>Haveno Decentralised Exchange direct Fiat -&gt; XMR transaction</description>
@@ -596,12 +602,6 @@
       <link>https://ghostbox.cc</link>
       <description>a privacy-oriented, free speech, one-time payment email service. Pay €5 one-time and keep your address forever.</description>
       <pubDate>Sat, 23 Dec 2023 14:17:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>monero.shopping</title>
-      <link>https://monero.shopping</link>
-      <description>Buy anything, anywhere with Monero. An order-forwarding and fulfillment service.</description>
-      <pubDate>Tue, 19 Dec 2023 13:12:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
