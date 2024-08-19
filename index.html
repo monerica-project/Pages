@@ -222,6 +222,42 @@
                             }  
 
  /* endbanner style  */
+
+
+
+
+
+    /* Breadcrumb container */
+    .breadcrumb {
+        display: flex;
+        flex-wrap: wrap;
+        list-style: none;
+    }
+
+    /* Breadcrumb items */
+    .breadcrumb-item {
+        display: inline-block;
+        font-size: 1rem;
+    }
+
+    .breadcrumb-item + .breadcrumb-item::before {
+        content: ">";
+        padding: 2px 4px;
+    }
+
+    /* Active breadcrumb item */
+    .breadcrumb-item.active {
+        color: #6c757d;
+    }
+
+    .breadcrumb-item a {       
+        text-decoration: none;
+    }
+
+    .breadcrumb-item a:hover {
+        text-decoration: underline;
+    }
+
                       
         </style>
     </head>
