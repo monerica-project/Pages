@@ -30,6 +30,7 @@
                 color: #008cff
             }
 
+
             li p {
                 margin:0;
             }
@@ -43,6 +44,8 @@
             .right {
                 text-align: right;
             }
+
+            .directory-entry-details { margin-bottom: 150px; }
 
             .create-sponsored-listing {
                 text-align: right;
@@ -218,6 +221,44 @@
                             }  
 
  /* endbanner style  */
+
+
+
+
+
+    /* Breadcrumb container */
+    .breadcrumb {
+        display: flex;
+        flex-wrap: wrap;
+        list-style: none;
+        padding-left: 0;
+    }
+
+    /* Breadcrumb items */
+    .breadcrumb-item {
+        display: inline-block;
+        font-size: 1rem;
+    }
+
+    .breadcrumb-item + .breadcrumb-item::before {
+        content: ">";
+        padding: 2px 4px;
+    }
+
+    /* Active breadcrumb item */
+    .breadcrumb-item.active {
+        color: #6c757d;
+    }
+
+    .breadcrumb-item a {       
+        text-decoration: none;
+    }
+
+    .breadcrumb-item a:hover {
+        text-decoration: underline;
+    }
+
+ 
                       
         </style>
     </head>
@@ -266,29 +307,55 @@
 
         <ul>
 
-<li>    <p>&#9989; <a target="_blank" href="https://ninja.exchange/">Ninja.Exchange</a>
- - Anonymous Crypto to Crypto exchanges. - Contact: <span class="multi-line-text">@ninjaexchangesupport  Tox: 2E129AE83CE1DA61E048B297D746C241269C0A097FCDF28</span>
-            <i>(Note: Custom exchange requests accepted.)</i>
-    </p>
+<li><p>
+
+&#9989;            <a href="https://ninja.exchange/" target=&quot;_blank&quot;>Ninja.Exchange</a>
+
+
+ - Anonymous Crypto to Crypto exchanges.
+        <i>(Note: Custom exchange requests accepted.)</i>
+</p>
 </li>
-<li>    <p>&#9989; <a target="_blank" href="https://silent.exchange/">Silent Exchange</a>
- - Fast & Anonymous Crypto to Crypto Swaps. No email. No KYC.Trade-in Minutes. 1500+ Crypto Pairs 24/7/365 Service Fee starting from 1%. - Contact: <span class="multi-line-text">@silentexchange</span>
-            <i>(Note: Trade using Telegram Bot - @silentexchangerobot , 
+
+<li><p>
+
+&#9989;            <a href="https://silent.exchange/" target=&quot;_blank&quot;>Silent Exchange</a>
+
+
+ - Fast & Anonymous Crypto to Crypto Swaps. No email. No KYC.Trade-in Minutes. 1500+ Crypto Pairs 24/7/365 Service Fee starting from 1%.
+        <i>(Note: Trade using Telegram Bot - @silentexchangerobot , 
 Support - @silentexchangeadmin)</i>
-    </p>
+</p>
 </li>
-<li>    <p>&#9989; <a target="_blank" href="https://anonshop.app/">Anon Shop</a>
- - Spend XMR anywhere! We offer a white glove concierge service with anonymous delivery options. - Contact: <span class="multi-line-text">Chat onsite</span>
- - Location: Ridgeland, MS, USA    </p>
+
+<li><p>
+
+&#9989;            <a href="https://anonshop.app/" target=&quot;_blank&quot;>Anon Shop</a>
+
+
+ - Spend XMR anywhere! We offer a white glove concierge service with anonymous delivery options.
+</p>
 </li>
-<li>    <p>&#9989; <a target="_blank" href="https://privateweb.ch/">Private WebHost</a>
- - Offshore, privacy-focused, reliable, and secure hosting and domain registration services. - Location: Switzerland            <i>(Note: Services provided: Shared cPanel Hosting, VPS, Dedicated Servers and domains)</i>
-    </p>
+
+<li><p>
+
+&#9989;            <a href="https://privateweb.ch/" target=&quot;_blank&quot;>Private WebHost</a>
+
+
+ - Offshore, privacy-focused, reliable, and secure hosting and domain registration services.
+        <i>(Note: Services provided: Shared cPanel Hosting, VPS, Dedicated Servers and domains)</i>
+</p>
 </li>
-<li>    <p>&#9989; <a target="_blank" href="https://stealths.net/">Stealths</a>
- - VISA & Mastercard prepaid cards and virtual phone numbers. Strict no-KYC/ no-identifiable data policy. - Contact: <span class="multi-line-text">Telegram: https://t.me/stealthsnet</span>
-    </p>
-</li>        </ul>
+
+<li><p>
+
+&#9989;            <a href="https://stealths.net/" target=&quot;_blank&quot;>Stealths</a>
+
+
+ - VISA & Mastercard prepaid cards and virtual phone numbers. Strict no-KYC/ no-identifiable data policy.
+</p>
+</li>
+        </ul>
         </div>
         <p class="create-sponsored-listing">
                 <a class="app-link" href="https://app.monerica.com/sponsoredlisting">About sponsored listings</a>  <span>(0 available)</span>
