@@ -562,12 +562,6 @@
       <pubDate>Wed, 10 Jan 2024 17:48:10 GMT</pubDate>
     </item>
     <item>
-      <title>Department 256</title>
-      <link>https://department256.store/</link>
-      <description>Where Luxury Meets Privacy. Est. 2023</description>
-      <pubDate>Tue, 09 Jan 2024 19:01:35 GMT</pubDate>
-    </item>
-    <item>
       <title>Sin City Mining</title>
       <link>https://sincitymining.com/</link>
       <description>ASIC mining hardware</description>
@@ -602,6 +596,12 @@
       <link>https://wmodels.3vm.cl</link>
       <description>A 3D modelling &amp; CAD business</description>
       <pubDate>Wed, 27 Dec 2023 12:05:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Peep Software</title>
+      <link>https://peepsoft.3vm.cl</link>
+      <description>Peep Software is a software development company</description>
+      <pubDate>Wed, 27 Dec 2023 12:00:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
