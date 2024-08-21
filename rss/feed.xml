@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>CoinCraddle</title>
+      <link>https://coincraddle.com/</link>
+      <description>Crypto exchange established in 2020 which enables trading anonymously, and most importantly, in a safe way.</description>
+      <pubDate>Wed, 21 Aug 2024 13:45:18 GMT</pubDate>
+    </item>
+    <item>
       <title>4rkal.com</title>
       <link>https://4rkal.com/tags/crypto</link>
       <description>Guides about cold storage and using Monero</description>
@@ -596,12 +602,6 @@
       <link>https://wmodels.3vm.cl</link>
       <description>A 3D modelling &amp; CAD business</description>
       <pubDate>Wed, 27 Dec 2023 12:05:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Peep Software</title>
-      <link>https://peepsoft.3vm.cl</link>
-      <description>Peep Software is a software development company</description>
-      <pubDate>Wed, 27 Dec 2023 12:00:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
