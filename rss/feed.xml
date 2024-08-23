@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>MarbleBox - XMR</title>
+      <link>https://marblebox.kyun.li/box.php?key=XMR</link>
+      <description>Anonymous and ephemeral XMR chatboard with PoW anti-spam.</description>
+      <pubDate>Fri, 23 Aug 2024 20:33:19 GMT</pubDate>
+    </item>
+    <item>
       <title>UDN</title>
       <link>https://www.urdn.com.ua/</link>
       <description>Ukrainian Data Network is an Internet Service Provider</description>
@@ -596,12 +602,6 @@
       <link>https://shapiroworks.com</link>
       <description>Specializes in helping individuals &amp; small businesses plan, design, build and manage their online presence.</description>
       <pubDate>Mon, 01 Jan 2024 11:49:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>NovaCustom</title>
-      <link>https://novacustom.com/</link>
-      <description>Linux laptops with custom hardware, firmware and OS for better privacy, security and personalisation.</description>
-      <pubDate>Wed, 27 Dec 2023 18:32:27 GMT</pubDate>
     </item>
   </channel>
 </rss>
