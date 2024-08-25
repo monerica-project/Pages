@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>bpname</title>
+      <link>https://bpname.com/</link>
+      <description>Total anonymous private registration of domains. No Personal information required. Completely anonymous. Bitcoin and other cryptos accepted. Register your domain without the need of passport.</description>
+      <pubDate>Sun, 25 Aug 2024 22:51:56 GMT</pubDate>
+    </item>
+    <item>
       <title>MarbleBox - XMR</title>
       <link>https://marblebox.kyun.li/box.php?key=XMR</link>
       <description>Anonymous and ephemeral XMR chatboard with PoW anti-spam.</description>
@@ -596,12 +602,6 @@
       <link>https://shapiroworks.com</link>
       <description>Specializes in helping individuals &amp; small businesses plan, design, build and manage their online presence.</description>
       <pubDate>Mon, 01 Jan 2024 11:49:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>NovaCustom</title>
-      <link>https://novacustom.com/</link>
-      <description>Linux laptops with custom hardware, firmware and OS for better privacy, security and personalisation.</description>
-      <pubDate>Wed, 27 Dec 2023 18:32:27 GMT</pubDate>
     </item>
   </channel>
 </rss>
