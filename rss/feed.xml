@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>Red Rock Mycology</title>
+      <link>https://redrockmycology.com/</link>
+      <description>Specializes in clean high-quality culture syringes.</description>
+      <pubDate>Mon, 26 Aug 2024 13:43:41 GMT</pubDate>
+    </item>
+    <item>
       <title>bpname</title>
       <link>https://bpname.com/</link>
       <description>Total anonymous private registration of domains. No Personal information required. Register your domain without the need of passport.</description>
@@ -596,12 +602,6 @@
       <link>https://soymart.kozow.com</link>
       <description>Finest Soy Merchandise</description>
       <pubDate>Wed, 03 Jan 2024 23:38:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>ShapiroWorks</title>
-      <link>https://shapiroworks.com</link>
-      <description>Specializes in helping individuals &amp; small businesses plan, design, build and manage their online presence.</description>
-      <pubDate>Mon, 01 Jan 2024 11:49:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
