@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>SMMKind</title>
+      <link>https://smmkind.com/</link>
+      <description>Social media marketing panel for reseller</description>
+      <pubDate>Mon, 26 Aug 2024 20:55:04 GMT</pubDate>
+    </item>
+    <item>
       <title>XMRCM</title>
       <link>https://xmr.cm/</link>
       <description>Directory listing of services</description>
@@ -596,12 +602,6 @@
       <link>https://sincitymining.com/</link>
       <description>ASIC mining hardware</description>
       <pubDate>Sat, 06 Jan 2024 18:43:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>MrCharles Cryptocards</title>
-      <link>https://mrcharles-cryptocards.com</link>
-      <description>Easily receive cryptocurrencies by sharing your public key through a integrated QRcode on a card.</description>
-      <pubDate>Wed, 03 Jan 2024 23:44:31 GMT</pubDate>
     </item>
   </channel>
 </rss>
