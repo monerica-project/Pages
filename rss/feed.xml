@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>Meile dVPN</title>
+      <link>https://meile.app</link>
+      <description>A decentralized VPN powered by the Sentinel blockchain. 5000+ community ran nodes.</description>
+      <pubDate>Fri, 30 Aug 2024 01:35:39 GMT</pubDate>
+    </item>
+    <item>
       <title>SMMKind</title>
       <link>https://smmkind.com/</link>
       <description>Social media marketing panel for reseller</description>
@@ -596,12 +602,6 @@
       <link>https://iam3rdegree.store</link>
       <description>Unique works of Art by Street Artist 3rDegree</description>
       <pubDate>Wed, 10 Jan 2024 17:48:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sin City Mining</title>
-      <link>https://sincitymining.com/</link>
-      <description>ASIC mining hardware</description>
-      <pubDate>Sat, 06 Jan 2024 18:43:47 GMT</pubDate>
     </item>
   </channel>
 </rss>
