@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>CloudBlast</title>
+      <link>https://cloudblast.io/</link>
+      <description>Hourly paid VPS cloud hosting with servers in multiple locations.</description>
+      <pubDate>Sun, 01 Sep 2024 15:50:34 GMT</pubDate>
+    </item>
+    <item>
       <title>Meile dVPN</title>
       <link>https://meile.app</link>
       <description>A decentralized VPN powered by the Sentinel blockchain. 5000+ community ran nodes.</description>
@@ -596,12 +602,6 @@
       <link>https://bitcoinvn.io/?deposit=btc&amp;settle=xmr</link>
       <description>Vietnam's premier cryptocurrency exchange</description>
       <pubDate>Fri, 12 Jan 2024 13:11:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>3rDegree Co Link</title>
-      <link>https://iam3rdegree.store</link>
-      <description>Unique works of Art by Street Artist 3rDegree</description>
-      <pubDate>Wed, 10 Jan 2024 17:48:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
