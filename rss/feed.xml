@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>SimpleX - Monero &amp; PrivacyCoin</title>
+      <link>https://simplex.chat/contact#/?v=1-4&amp;smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2FlG8iICBMC11b1Tvwi5UNhtbBVND4sEdF%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAciIsZEcoYgI97bE08qdb3bv9HgE6RK2eVE0FvO7F13M%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion&amp;data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22UHBD5vOaGzQ-fnGIvx-6Zw%3D%3D%22%7D</link>
+      <description>SimpleX Monero &amp; privacy coin chat</description>
+      <pubDate>Mon, 02 Sep 2024 14:51:30 GMT</pubDate>
+    </item>
+    <item>
       <title>CloudBlast</title>
       <link>https://cloudblast.io/</link>
       <description>Hourly paid VPS cloud hosting with servers in multiple locations.</description>
@@ -596,12 +602,6 @@
       <link>https://coinswithoutborders.com/</link>
       <description>Get rid of fiat for numismatic precious metal coins.</description>
       <pubDate>Fri, 12 Jan 2024 13:13:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>BitcoinVN</title>
-      <link>https://bitcoinvn.io/?deposit=btc&amp;settle=xmr</link>
-      <description>Vietnam's premier cryptocurrency exchange</description>
-      <pubDate>Fri, 12 Jan 2024 13:11:47 GMT</pubDate>
     </item>
   </channel>
 </rss>
