@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="https://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://monerica.com</loc><lastmod>2024-09-05</lastmod><changefreq>Daily</changefreq><priority>1</priority>
+<loc>https://monerica.com</loc><lastmod>2024-09-07</lastmod><changefreq>Daily</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/newest</loc><lastmod>2024-09-05</lastmod><changefreq>Daily</changefreq><priority>1</priority>
+<loc>https://monerica.com/newest</loc><lastmod>2024-09-07</lastmod><changefreq>Daily</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/contact</loc><lastmod>2024-09-05</lastmod><changefreq>Daily</changefreq><priority>1</priority>
+<loc>https://monerica.com/contact</loc><lastmod>2024-09-07</lastmod><changefreq>Daily</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/sitemap</loc><lastmod>2024-09-05</lastmod><changefreq>Daily</changefreq><priority>1</priority>
+<loc>https://monerica.com/sitemap</loc><lastmod>2024-09-07</lastmod><changefreq>Daily</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/rss/feed.xml</loc><lastmod>2024-09-05</lastmod><changefreq>Daily</changefreq><priority>1</priority>
+<loc>https://monerica.com/rss/feed.xml</loc><lastmod>2024-09-07</lastmod><changefreq>Daily</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -150,7 +150,7 @@
 <loc>https://monerica.com/businesses/weapons-and-self-defense</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/web-hosting</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+<loc>https://monerica.com/businesses/web-hosting</loc><lastmod>2024-09-07</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://monerica.com/communities</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -2203,6 +2203,9 @@
 </url>
 <url>
 <loc>https://monerica.com/businesses/vpn-companies/vpn-surf</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+</url>
+<url>
+<loc>https://monerica.com/businesses/web-hosting/vps-price-tracker</loc><lastmod>2024-09-07</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://monerica.com/exchanges/kyc-exchanges-non-united-states/wazirx</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
