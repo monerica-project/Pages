@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>smscodes</title>
+      <link>https://www.smscodes.io/</link>
+      <description>Provides real sim card numbers for you to create and verify your accounts.</description>
+      <pubDate>Tue, 10 Sep 2024 13:51:57 GMT</pubDate>
+    </item>
+    <item>
       <title>VPS Price Tracker</title>
       <link>https://vpspricetracker.com/search?monero_payment=true</link>
       <description>An independent search engine for thousands of VPSs: search for CPU, RAM, disk size &amp; type and sort by price</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://teji.io</link>
       <description>Developer and digital artist</description>
       <pubDate>Sun, 14 Jan 2024 13:32:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Luara Djijad</title>
-      <link>https://luaradjijad.com</link>
-      <description>Psicóloga clínica - atendimento online para brasileiros (clinical psychologist, online service for brazilians)</description>
-      <pubDate>Sun, 14 Jan 2024 00:18:48 GMT</pubDate>
     </item>
   </channel>
 </rss>
