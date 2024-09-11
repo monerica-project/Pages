@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>ChipEX</title>
+      <link>https://chipex.cc/</link>
+      <description>Anonymous Crypto to Crypto Exchange - No Trade Limits</description>
+      <pubDate>Wed, 11 Sep 2024 22:45:48 GMT</pubDate>
+    </item>
+    <item>
       <title>smscodes</title>
       <link>https://www.smscodes.io/</link>
       <description>Provides real sim card numbers for you to create and verify your accounts.</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://swabcity.shop</link>
       <description>Mycology Spore Swabs for your favorite species.</description>
       <pubDate>Mon, 15 Jan 2024 12:46:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>TEJI</title>
-      <link>https://teji.io</link>
-      <description>Developer and digital artist</description>
-      <pubDate>Sun, 14 Jan 2024 13:32:55 GMT</pubDate>
     </item>
   </channel>
 </rss>
