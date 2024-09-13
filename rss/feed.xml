@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>Swappix</title>
+      <link>https://swappix.io</link>
+      <description>Instant crypto exchange with over 570 pairs</description>
+      <pubDate>Fri, 13 Sep 2024 00:09:44 GMT</pubDate>
+    </item>
+    <item>
       <title>ChipEX</title>
       <link>https://chipex.cc/</link>
       <description>Anonymous Crypto to Crypto Exchange - No Trade Limits</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://instagram.com/travessarest</link>
       <description>Self-service Restaurant</description>
       <pubDate>Mon, 22 Jan 2024 12:40:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>SwabCity.Shop</title>
-      <link>https://swabcity.shop</link>
-      <description>Mycology Spore Swabs for your favorite species.</description>
-      <pubDate>Mon, 15 Jan 2024 12:46:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
