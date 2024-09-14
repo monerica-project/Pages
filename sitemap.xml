@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="https://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://monerica.com</loc><lastmod>2024-09-13</lastmod><changefreq>Daily</changefreq><priority>1</priority>
+<loc>https://monerica.com</loc><lastmod>2024-09-14</lastmod><changefreq>Daily</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/newest</loc><lastmod>2024-09-13</lastmod><changefreq>Daily</changefreq><priority>1</priority>
+<loc>https://monerica.com/newest</loc><lastmod>2024-09-14</lastmod><changefreq>Daily</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/contact</loc><lastmod>2024-09-13</lastmod><changefreq>Daily</changefreq><priority>1</priority>
+<loc>https://monerica.com/contact</loc><lastmod>2024-09-14</lastmod><changefreq>Daily</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/sitemap</loc><lastmod>2024-09-13</lastmod><changefreq>Daily</changefreq><priority>1</priority>
+<loc>https://monerica.com/sitemap</loc><lastmod>2024-09-14</lastmod><changefreq>Daily</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/rss/feed.xml</loc><lastmod>2024-09-13</lastmod><changefreq>Daily</changefreq><priority>1</priority>
+<loc>https://monerica.com/rss/feed.xml</loc><lastmod>2024-09-14</lastmod><changefreq>Daily</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -135,7 +135,7 @@
 <loc>https://monerica.com/businesses/residency</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+<loc>https://monerica.com/businesses/technology-computer-hardware</loc><lastmod>2024-09-14</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/tobacco-products-and-accessories</loc><lastmod>2024-09-04</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -475,6 +475,9 @@
 </url>
 <url>
 <loc>https://monerica.com/businesses/artwork/abdullah-khan</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+</url>
+<url>
+<loc>https://monerica.com/businesses/technology-computer-hardware/above-phones</loc><lastmod>2024-09-14</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://monerica.com/merchant-services/open-source-projects/acceptxmr</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
