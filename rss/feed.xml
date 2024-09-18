@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>COIN.HOST</title>
+      <link>https://coin.host</link>
+      <description>Dedicated and virtual servers</description>
+      <pubDate>Wed, 18 Sep 2024 23:34:55 GMT</pubDate>
+    </item>
+    <item>
       <title>SwapSpace</title>
       <link>https://swapspace.co</link>
       <description>Crypto exchange aggregator</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://liberatelife.com/</link>
       <description>Seminars on fundamental mechanics of reality.</description>
       <pubDate>Sat, 27 Jan 2024 20:17:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Súper 66</title>
-      <link>https://maps.app.goo.gl/pUwPKSjvDYLcvVLX7?g_st=ic</link>
-      <description>Supermarket</description>
-      <pubDate>Fri, 26 Jan 2024 03:18:52 GMT</pubDate>
     </item>
   </channel>
 </rss>
