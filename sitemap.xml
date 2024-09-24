@@ -78,9 +78,6 @@
 <loc>https://monerica.com/businesses/it-services</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/laboratory-equipment-and-service</loc><lastmod>2024-09-24</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
-</url>
-<url>
 <loc>https://monerica.com/businesses/legal-services</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
@@ -96,7 +93,10 @@
 <loc>https://monerica.com/businesses/marketplaces</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/medical-pharmaceutical</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+<loc>https://monerica.com/businesses/medical-testing-and-laboratory-supplies</loc><lastmod>2024-09-24</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+</url>
+<url>
+<loc>https://monerica.com/businesses/medical-pharmaceutical</loc><lastmod>2024-09-24</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/membership</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -855,7 +855,7 @@
 <loc>https://monerica.com/businesses/phone-plans-and-sim-cards/crypton-sh</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/medical-pharmaceutical/cryptopharma</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+<loc>https://monerica.com/businesses/medical-pharmaceutical/cryptopharma</loc><lastmod>2024-09-24</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/postage-and-shipping-services/cryptopostage</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -1212,7 +1212,7 @@
 <loc>https://monerica.com/businesses/web-hosting/kyun</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/laboratory-equipment-and-service/labcradle</loc><lastmod>2024-09-24</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+<loc>https://monerica.com/businesses/medical-testing-and-laboratory-supplies/labcradle</loc><lastmod>2024-09-24</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://monerica.com/exchanges/kyc-exchanges-non-united-states/latoken</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -1824,7 +1824,7 @@
 <loc>https://monerica.com/mining/apps/react-native-xmrig</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/medical-pharmaceutical/reagent-tests-uk</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+<loc>https://monerica.com/businesses/medical-testing-and-laboratory-supplies/reagent-tests-uk</loc><lastmod>2024-09-24</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/food-and-drink/real-mad-honey</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
