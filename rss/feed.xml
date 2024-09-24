@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>Labcradle</title>
+      <link>https://labcradle.com</link>
+      <description>Laboratory equipment and service. Vacuum, pressure, ultra low freezers, high temperature heaters, filtering, distillation, glassware, reactors and more.</description>
+      <pubDate>Tue, 24 Sep 2024 02:50:07 GMT</pubDate>
+    </item>
+    <item>
       <title>GoExme</title>
       <link>https://goexme.io/</link>
       <description>Fast and anonymous exchange. Many XMR pairs. No registration.</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://www.venmusica.com/</link>
       <description>Featuring the music and writing of VEN.</description>
       <pubDate>Mon, 29 Jan 2024 02:46:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monezon</title>
-      <link>https://monezon.com/</link>
-      <description>Buy on Amazon using Monero. Earn Monero by becoming an executor on Monezon</description>
-      <pubDate>Sun, 28 Jan 2024 13:31:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
