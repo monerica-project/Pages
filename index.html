@@ -275,30 +275,64 @@
     <div id="main-content">
         
 
-    <h1>Welcome To Monerica!</h1>
+    <style>
+  /* Flex layout for larger screens */
+  .top-container {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap; /* Allows elements to wrap if needed */
+  }
 
-<h4>A directory for a Monero circular economy</h4>
+  .top-container p {text-align: justify; }
+  .top-container img {
+      width: 333px;
+      height: auto;
+  }
 
-<img style="width:333px;" src="/images/Logo.png" alt="Monerica logo">
+  .text-block {
+      margin-left: 20px;
+      flex: 1; /* Allows the text to take up remaining space */
+  }
 
-<p>
-    The goal of Monerica is to reflect the freedom ideals of the United States of America
-    in the age of cryptocurrency by using Monero. There are no borders to Monerica. One has the ability
-    to transact freely and privately without the need for a bank account, without the permission of
-    any third party, and without the prying eyes of those who wish to control the thoughts
-    and behaviors of others through surveillance and overreaching regulations.
-</p>
+  /* Responsive layout for mobile devices */
+  @media (max-width: 768px) {
+      .container {
+          display: block; /* Stack logo and text vertically */
+          text-align: justify;
+      }
+
+      .text-block {
+          margin-left: 0;
+      }
+
+      .container img {
+          width: 100%; /* Make the image take full width on mobile */
+          max-width: 333px; /* Ensure it doesn't get larger than the original */
+      }
+  }
+</style>
+
+<div class="top-container">
+    <img src="/images/Logo.png" alt="Monerica logo">
+    <div class="text-block">
+        <h1>Welcome To Monerica!</h1>
+        <h4>A directory for a Monero circular economy</h4>
+        <p>
+            The goal of Monerica is to reflect the freedom ideals of the United States of America
+            in the age of cryptocurrency by using Monero. There are no borders to Monerica. One has the ability
+            to transact freely and privately without the need for a bank account, without the permission of
+            any third party, and without the prying eyes of those who wish to control the thoughts
+            and behaviors of others through surveillance and overreaching regulations.
+        </p>
+    </div>
+</div>
     <hr>
     <p>
         <b>Last update:</b> 2024-09-25T01:42:33Z
     </p>
     <hr>
         <div class="legend">
-<p>
-        <i>
-            Note: None of the provided links here are endorsements and some may contain affiliate links.
-        </i>
-    </p>
+<p><i>Note: These links are not endorsements, and some may include affiliate links.</i></p>
 
     <p>
         &#9989; - indicates someone in the community has done a successful test transaction or has used this software/
