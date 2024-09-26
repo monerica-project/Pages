@@ -4,6 +4,18 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>Hostiko</title>
+      <link>https://hostiko.com.ua/</link>
+      <description>Virtual and private servers</description>
+      <pubDate>Thu, 26 Sep 2024 23:07:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>AnyCOLO</title>
+      <link>https://anycolo.net/</link>
+      <description>Virtual private services</description>
+      <pubDate>Thu, 26 Sep 2024 23:04:45 GMT</pubDate>
+    </item>
+    <item>
       <title>Bitcart</title>
       <link>https://bitcart.ai/</link>
       <description>A self-hosted, open-source cryptocurrency all-in-one solution. It's secure, private, censorship-resistant and free.</description>
@@ -591,18 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://dimonero.com/</link>
       <description>Digital Asset Management firm, focused on privacy-preserving technologies, blockchain infrastructure, and early-stage ventures.</description>
       <pubDate>Thu, 01 Feb 2024 18:50:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Crypto Grinders</title>
-      <link>https://cryptogrinders.us/</link>
-      <description>Crypto themed grinders</description>
-      <pubDate>Tue, 30 Jan 2024 22:50:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>VEN Musica</title>
-      <link>https://www.venmusica.com/</link>
-      <description>Featuring the music and writing of VEN.</description>
-      <pubDate>Mon, 29 Jan 2024 02:46:47 GMT</pubDate>
     </item>
   </channel>
 </rss>
