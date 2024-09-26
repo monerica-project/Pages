@@ -201,30 +201,92 @@
             display: block;
         }
 
-            /* end: expandable lists */
 
-/* begin banner style  */
-                            div#banner {
-                              text-align: center;
-                              position: absolute;
-                              top: 0;
-                              left: 0;
-                              color: #FFF;
-                              font-weight:bold;
-                              background-color:  #FF6600;
-                              width: 100%;
-                            }
-                            div#banner-content {
 
-                              margin: 0 auto;
-                              padding: 2px;
 
-                            }
-                            div#main-content {
-                               padding-top: 40px;
-                            }  
+/* Top banner adjustments */
+div#banner {
+  text-align: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: #FFF;
+  font-weight: bold;
+  background-color: #FF6600;
+  width: 100%;
+  padding: 5px 0; /* Reduce padding for a more compact banner */
+  font-size: 16px; /* Set a reasonable default font size */
+  box-sizing: border-box; /* Ensure padding doesn't add to width */
+}
 
- /* endbanner style  */
+div#banner-content {
+  margin: 0 auto;
+  max-width: 1000px; /* Limit the banner width */
+  padding: 0 10px; /* Add side padding to prevent text from touching edges */
+  box-sizing: border-box;
+}
+
+div#main-content {
+  padding-top: 50px; /* Smaller padding to push the content below the banner */
+}
+
+/* Ensure no horizontal scrolling */
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden; /* Prevent horizontal scrolling */
+  box-sizing: border-box; /* Ensure padding and borders don't add to element size */
+}
+
+/* Flex layout for larger screens */
+.top-container {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 100%; /* Ensure the container does not exceed screen width */
+}
+
+.top-container img {
+  width: 333px;
+  height: auto;
+  max-width: 100%; /* Ensure the image scales properly */
+}
+
+.text-block {
+  margin-left: 20px;
+  flex: 1; /* Allows the text to take up remaining space */
+  max-width: 100%; /* Prevent text block from exceeding screen width */
+}
+
+/* Responsive layout for mobile devices */
+@media (max-width: 768px) {
+  div#banner {
+    padding: 8px 5px; /* Slightly increase padding on mobile for readability */
+    font-size: 14px; /* Reduce font size for smaller screens */
+  }
+
+  div#main-content {
+    padding-top: 70px; /* Ensure enough space between the banner and content */
+  }
+
+  div#banner-content {
+    font-size: 14px; /* Keep the text smaller on mobile */
+  }
+
+  .top-container {
+    flex-direction: column; /* Stack items vertically on mobile */
+  }
+
+  .text-block {
+    margin-left: 0;
+    padding: 0 10px; /* Add padding to avoid text touching edges */
+  }
+
+  .top-container img {
+    width: 100%; /* Ensure the image scales properly on mobile */
+    max-width: 333px;
+  }
+}
 
 
 
@@ -262,20 +324,9 @@
         text-decoration: underline;
     }
 
- 
-                      
-        </style>
-    </head>
-<body>
-    <div id="banner">
-        <div id="banner-content">
-          <a style="color:#FFF" target="_blank" href="https://monerotopia.com/">MoneroTopia 2024</a>, November 14th-17th, in Mexico City (promo: "Monerica24" for 10% off!)
-         </div>
-    </div>
-    <div id="main-content">
-        
 
-    <style>
+
+
   /* Flex layout for larger screens */
   .top-container {
       display: flex;
@@ -299,6 +350,7 @@
       .container {
           display: block; /* Stack logo and text vertically */
           text-align: justify;
+       
       }
 
       .text-block {
@@ -310,9 +362,20 @@
           max-width: 333px; /* Ensure it doesn't get larger than the original */
       }
   }
-</style>
+ 
+                      
+        </style>
+    </head>
+<body>
+    <div id="banner">
+        <div id="banner-content">
+          <a style="color:#FFF" target="_blank" href="https://monerotopia.com/">MoneroTopia 2024</a>, November 14th-17th, in Mexico City (promo: "Monerica24" for 10% off!)
+         </div>
+    </div>
+    <div id="main-content">
+        
 
-<div class="top-container">
+    <div class="top-container">
     <img src="/images/Logo.png" alt="Monerica logo">
     <div class="text-block">
         <h1>Welcome To Monerica!</h1>
