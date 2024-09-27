@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>Mailum</title>
+      <link>https://mailum.com/</link>
+      <description>No IP Logs, end to end email encryption, MITM protection</description>
+      <pubDate>Fri, 27 Sep 2024 16:46:16 GMT</pubDate>
+    </item>
+    <item>
       <title>Hostiko</title>
       <link>https://hostiko.com.ua/</link>
       <description>Virtual and private servers</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://magicshroomary.com</link>
       <description>Magic Mushrooms distributor</description>
       <pubDate>Sun, 04 Feb 2024 13:42:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>di Monero</title>
-      <link>https://dimonero.com/</link>
-      <description>Digital Asset Management firm, focused on privacy-preserving technologies, blockchain infrastructure, and early-stage ventures.</description>
-      <pubDate>Thu, 01 Feb 2024 18:50:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
