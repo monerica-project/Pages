@@ -4,6 +4,18 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>Haveno-reto</title>
+      <link>https://haveno-reto.com</link>
+      <description>A decentralized and P2P exchange, to trade Cryptos/FIAT for Monero without custody.</description>
+      <pubDate>Sat, 28 Sep 2024 15:24:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Robert Blinov</title>
+      <link>https://robertblinov.net</link>
+      <description>Product designer creating user interfaces, transit maps, logos, and promotional material</description>
+      <pubDate>Sat, 28 Sep 2024 15:23:19 GMT</pubDate>
+    </item>
+    <item>
       <title>Mailum</title>
       <link>https://mailum.com/</link>
       <description>No IP Logs, end to end email encryption, MITM protection</description>
@@ -591,18 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://veracrypt.eu/en/Home.html</link>
       <description>a free open source disk encryption software for Windows, Mac OSX and Linux</description>
       <pubDate>Mon, 05 Feb 2024 00:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>XMRbin.com - Crypto Pastebin</title>
-      <link>https://xmrbin.com</link>
-      <description>A markdown pastebin that allows anyone to easily get their own custom page and URL, and use it to accept Monero payments. Each custom markdown page gives you the ability create your own custom payment buttons and manage Monero invoices. Every invoice allows the creator and page owner to message each other. Page owners can withdraw their balance instantly and edit their page at anytime.</description>
-      <pubDate>Sun, 04 Feb 2024 17:21:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>josephstalincoba's magicshroomary</title>
-      <link>https://magicshroomary.com</link>
-      <description>Magic Mushrooms distributor</description>
-      <pubDate>Sun, 04 Feb 2024 13:42:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
