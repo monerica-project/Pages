@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="https://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://monerica.com</loc><lastmod>2024-09-27</lastmod><changefreq>Daily</changefreq><priority>1</priority>
+<loc>https://monerica.com</loc><lastmod>2024-09-28</lastmod><changefreq>Daily</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/newest</loc><lastmod>2024-09-27</lastmod><changefreq>Daily</changefreq><priority>1</priority>
+<loc>https://monerica.com/newest</loc><lastmod>2024-09-28</lastmod><changefreq>Daily</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/contact</loc><lastmod>2024-09-27</lastmod><changefreq>Daily</changefreq><priority>1</priority>
+<loc>https://monerica.com/contact</loc><lastmod>2024-09-28</lastmod><changefreq>Daily</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/sitemap</loc><lastmod>2024-09-27</lastmod><changefreq>Daily</changefreq><priority>1</priority>
+<loc>https://monerica.com/sitemap</loc><lastmod>2024-09-28</lastmod><changefreq>Daily</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/rss/feed.xml</loc><lastmod>2024-09-27</lastmod><changefreq>Daily</changefreq><priority>1</priority>
+<loc>https://monerica.com/rss/feed.xml</loc><lastmod>2024-09-28</lastmod><changefreq>Daily</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -210,7 +210,7 @@
 <loc>https://monerica.com/exchanges/comparison-aggregation</loc><lastmod>2024-09-16</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/exchanges/decentralized-exchanges</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+<loc>https://monerica.com/exchanges/decentralized-exchanges</loc><lastmod>2024-09-28</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://monerica.com/exchanges/kyc-exchanges-non-united-states</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -247,6 +247,9 @@
 </url>
 <url>
 <loc>https://monerica.com/freelancers</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+</url>
+<url>
+<loc>https://monerica.com/freelancers/designers</loc><lastmod>2024-09-28</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://monerica.com/freelancers/privacy-and-security-consultants</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -1080,6 +1083,9 @@
 <loc>https://monerica.com/education/tutorials/haveno-dex-cash-by-mail</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
+<loc>https://monerica.com/exchanges/decentralized-exchanges/haveno-reto</loc><lastmod>2024-09-28</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+</url>
+<url>
 <loc>https://monerica.com/businesses/food-and-drink-irl/helicon-brewing</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
@@ -1858,6 +1864,9 @@
 </url>
 <url>
 <loc>https://monerica.com/businesses/miscellaneous/roam-glamping-co</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+</url>
+<url>
+<loc>https://monerica.com/freelancers/designers/robert-blinov</loc><lastmod>2024-09-28</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/technology-computer-hardware/rogue-phone</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
