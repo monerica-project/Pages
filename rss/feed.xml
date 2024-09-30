@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>ShapeBTC</title>
+      <link>https://shapebtc.com/</link>
+      <description>Fast and safe. 20.000+ pairs. XMR/BTC, XMR/USDT and more</description>
+      <pubDate>Mon, 30 Sep 2024 10:25:50 GMT</pubDate>
+    </item>
+    <item>
       <title>Haveno-reto</title>
       <link>https://haveno-reto.com</link>
       <description>A decentralized and P2P exchange, to trade Cryptos/FIAT for Monero without custody.</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://cryptopharma.to</link>
       <description>Online pharmacy shipping worldwide</description>
       <pubDate>Wed, 07 Feb 2024 21:49:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>VeraCrypt</title>
-      <link>https://veracrypt.eu/en/Home.html</link>
-      <description>a free open source disk encryption software for Windows, Mac OSX and Linux</description>
-      <pubDate>Mon, 05 Feb 2024 00:01:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
