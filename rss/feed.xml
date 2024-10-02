@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>LetsExchange</title>
+      <link>https://letsexchange.io/</link>
+      <description>Swap, buy, and sell crypto secure and hassle-free</description>
+      <pubDate>Wed, 02 Oct 2024 16:39:40 GMT</pubDate>
+    </item>
+    <item>
       <title>ShapeBTC</title>
       <link>https://shapebtc.com/</link>
       <description>Fast and safe. 20.000+ pairs. XMR/BTC, XMR/USDT and more</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://t.me/+gfxbAbdUgKMwNjRh</link>
       <description>Jerky, sticks, and ground beef. 100% pastured, grass-fed/finished, chemical free, shipped anywhere in the U.S. lower 48</description>
       <pubDate>Fri, 09 Feb 2024 18:29:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>cryptopharma</title>
-      <link>https://cryptopharma.to</link>
-      <description>Online pharmacy shipping worldwide</description>
-      <pubDate>Wed, 07 Feb 2024 21:49:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
