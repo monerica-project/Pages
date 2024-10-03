@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>FairTrade</title>
+      <link>http://fairfffoxrgxgi6tkcaxhxre2hpwiuf6autt75ianjkvmcn65dxxydad.onion/swap</link>
+      <description>FairTrade offers crypto swaps &amp; a automated escrow service. Exchange BTC to XMR instantly with PGP Guarantees and No KYC. Only a 2% swap fee.</description>
+      <pubDate>Thu, 03 Oct 2024 14:22:32 GMT</pubDate>
+    </item>
+    <item>
       <title>LetsExchange</title>
       <link>https://letsexchange.io/</link>
       <description>Swap, buy, and sell crypto secure and hassle-free</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://safing.io</link>
       <description>Safing develops the open-source privacy firewall „Portmaster“ and runs the „Safing Privacy Network“ (SPN) which joins features of Onion Routing and VPN.</description>
       <pubDate>Mon, 19 Feb 2024 11:03:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Beef for Monero</title>
-      <link>https://t.me/+gfxbAbdUgKMwNjRh</link>
-      <description>Jerky, sticks, and ground beef. 100% pastured, grass-fed/finished, chemical free, shipped anywhere in the U.S. lower 48</description>
-      <pubDate>Fri, 09 Feb 2024 18:29:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
