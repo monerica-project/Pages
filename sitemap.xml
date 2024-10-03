@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="https://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://monerica.com</loc><lastmod>2024-10-02</lastmod><changefreq>Daily</changefreq><priority>1</priority>
+<loc>https://monerica.com</loc><lastmod>2024-10-03</lastmod><changefreq>Daily</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/newest</loc><lastmod>2024-10-02</lastmod><changefreq>Daily</changefreq><priority>1</priority>
+<loc>https://monerica.com/newest</loc><lastmod>2024-10-03</lastmod><changefreq>Daily</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/contact</loc><lastmod>2024-10-02</lastmod><changefreq>Daily</changefreq><priority>1</priority>
+<loc>https://monerica.com/contact</loc><lastmod>2024-10-03</lastmod><changefreq>Daily</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/sitemap</loc><lastmod>2024-10-02</lastmod><changefreq>Daily</changefreq><priority>1</priority>
+<loc>https://monerica.com/sitemap</loc><lastmod>2024-10-03</lastmod><changefreq>Daily</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/rss/feed.xml</loc><lastmod>2024-10-02</lastmod><changefreq>Daily</changefreq><priority>1</priority>
+<loc>https://monerica.com/rss/feed.xml</loc><lastmod>2024-10-03</lastmod><changefreq>Daily</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses</loc><lastmod>2024-09-30</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -201,7 +201,7 @@
 <loc>https://monerica.com/education/tutorials</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/exchanges</loc><lastmod>2024-10-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+<loc>https://monerica.com/exchanges</loc><lastmod>2024-10-03</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://monerica.com/exchanges/atms</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -222,7 +222,7 @@
 <loc>https://monerica.com/exchanges/kyc-exchanges-united-states</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/exchanges/non-kyc-exchanges</loc><lastmod>2024-10-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+<loc>https://monerica.com/exchanges/non-kyc-exchanges</loc><lastmod>2024-10-03</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://monerica.com/exchanges/peer-to-peer-exchanges</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -979,6 +979,9 @@
 </url>
 <url>
 <loc>https://monerica.com/businesses/web-hosting/extravm</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+</url>
+<url>
+<loc>https://monerica.com/exchanges/non-kyc-exchanges/fairtrade</loc><lastmod>2024-10-03</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://monerica.com/wallets/desktop-wallets/feather</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
