@@ -15,7 +15,7 @@
 <loc>https://monerica.com/rss/feed.xml</loc><lastmod>2024-10-04</lastmod><changefreq>Daily</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses</loc><lastmod>2024-09-30</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+<loc>https://monerica.com/businesses</loc><lastmod>2024-10-04</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/accounting</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -156,7 +156,7 @@
 <loc>https://monerica.com/businesses/weapons-and-self-defense</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/web-hosting</loc><lastmod>2024-09-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+<loc>https://monerica.com/businesses/web-hosting</loc><lastmod>2024-10-04</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://monerica.com/communities</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -342,9 +342,6 @@
 <loc>https://monerica.com/merchant-services/integrations</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/merchant-services/miscellaneous</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
-</url>
-<url>
 <loc>https://monerica.com/merchant-services/open-source-projects</loc><lastmod>2024-09-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
@@ -393,7 +390,7 @@
 <loc>https://monerica.com/non-profits/miscellaneous</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/non-profits/operating-systems</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+<loc>https://monerica.com/non-profits/operating-systems</loc><lastmod>2024-10-04</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://monerica.com/non-profits/research</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -1119,7 +1116,7 @@
 <loc>https://monerica.com/businesses/web-hosting/hostiko</loc><lastmod>2024-09-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/web-hosting/hostmenow</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+<loc>https://monerica.com/businesses/web-hosting/hostmenow</loc><lastmod>2024-10-04</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/web-hosting/hostry</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -1824,7 +1821,7 @@
 <loc>https://monerica.com/businesses/web-hosting/pulsedmedia</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/non-profits/operating-systems/qubes</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+<loc>https://monerica.com/non-profits/operating-systems/qubes</loc><lastmod>2024-10-04</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://monerica.com/exchanges/non-kyc-exchanges/quickex</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -2166,7 +2163,7 @@
 <loc>https://monerica.com/businesses/giftcards-pre-paid-cards/top-up-balance</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/non-profits/technologies/tor</loc><lastmod>2024-10-04</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+<loc>https://monerica.com/non-profits/technologies/tor-project-inc</loc><lastmod>2024-10-04</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/vpn-companies/torguard</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -2314,9 +2311,6 @@
 </url>
 <url>
 <loc>https://monerica.com/businesses/marketplaces-peer-to-peer/xmrbazaar</loc><lastmod>2024-09-29</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
-</url>
-<url>
-<loc>https://monerica.com/merchant-services/miscellaneous/xmrbin-com-crypto-pastebin</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://monerica.com/utilities/blockchain-helpers/xmrchain-net</loc><lastmod>2024-09-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
