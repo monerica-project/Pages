@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>BetGlide</title>
+      <link>https://betglide.net</link>
+      <description>Monero native sports betting platform.</description>
+      <pubDate>Mon, 07 Oct 2024 00:54:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Altrosky</title>
       <link>https://altrosky.net/</link>
       <description>Offshore servers and layer 7 proxy services</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://xmrstreet.store/</link>
       <description>MoneroSigner</description>
       <pubDate>Sat, 02 Mar 2024 16:04:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Peer Shop</title>
-      <link>https://peershop.app/</link>
-      <description>Get Discounts on Amazon with Monero. Our platform uses zk proofs for secure p2p transactions.</description>
-      <pubDate>Tue, 27 Feb 2024 22:04:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
