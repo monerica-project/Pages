@@ -201,7 +201,7 @@
 <loc>https://monerica.com/education/tutorials</loc><lastmod>2024-10-07</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/exchanges</loc><lastmod>2024-10-07</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+<loc>https://monerica.com/exchanges</loc><lastmod>2024-10-09</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://monerica.com/exchanges/atms</loc><lastmod>2024-10-07</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -222,7 +222,7 @@
 <loc>https://monerica.com/exchanges/kyc-exchanges-united-states</loc><lastmod>2024-10-07</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://monerica.com/exchanges/non-kyc-exchanges</loc><lastmod>2024-10-07</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+<loc>https://monerica.com/exchanges/non-kyc-exchanges</loc><lastmod>2024-10-09</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://monerica.com/exchanges/peer-to-peer-exchanges</loc><lastmod>2024-10-07</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -2263,6 +2263,9 @@
 </url>
 <url>
 <loc>https://monerica.com/communities/online-communities/workgroups</loc><lastmod>2024-10-07</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+</url>
+<url>
+<loc>https://monerica.com/exchanges/non-kyc-exchanges/xchange-me</loc><lastmod>2024-10-09</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/blockchain-services/xcubicle</loc><lastmod>2024-10-07</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
