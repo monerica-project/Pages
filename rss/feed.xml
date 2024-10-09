@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>xChange.me</title>
+      <link>https://xchange.me/</link>
+      <description />
+      <pubDate>Wed, 09 Oct 2024 17:06:55 GMT</pubDate>
+    </item>
+    <item>
       <title>BetGlide</title>
       <link>https://betglide.net</link>
       <description>Monero native sports betting platform.</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://orangewebsite.com</link>
       <description>Web hosting, VPS, dedicated servers, domain registration, etc.</description>
       <pubDate>Fri, 08 Mar 2024 16:42:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>XMR Street</title>
-      <link>https://xmrstreet.store/</link>
-      <description>MoneroSigner</description>
-      <pubDate>Sat, 02 Mar 2024 16:04:31 GMT</pubDate>
     </item>
   </channel>
 </rss>
