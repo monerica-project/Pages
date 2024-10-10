@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>PayPerQ</title>
+      <link>https://ppq.ai/</link>
+      <description>A polished and functional GPT4o, Sonnet3.5, and more AI chatbot that uses a pay-per-usage model via XMR.</description>
+      <pubDate>Thu, 10 Oct 2024 15:29:18 GMT</pubDate>
+    </item>
+    <item>
       <title>xChange.me</title>
       <link>https://xchange.me</link>
       <description>Instant exchange with CLI option</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://www.staynsee.com/</link>
       <description>Alternative to Airbnb. Rent out your vacation home, provide an activity or a service, or simply upload your crypto friendly business to our directory.</description>
       <pubDate>Fri, 08 Mar 2024 21:09:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>OrangeWebsite</title>
-      <link>https://orangewebsite.com</link>
-      <description>Web hosting, VPS, dedicated servers, domain registration, etc.</description>
-      <pubDate>Fri, 08 Mar 2024 16:42:25 GMT</pubDate>
     </item>
   </channel>
 </rss>
