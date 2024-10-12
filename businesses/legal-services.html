@@ -61,6 +61,13 @@ li p {
     padding: 5px;
 }
 
+
+table tbody tr:nth-child(even) {
+    background-color:#262626;
+    color: white;
+}
+
+
 .input-width { width: 330px; }
 
 .right {
@@ -208,6 +215,7 @@ div#main-content {
     padding-top: 50px;
 }
 
+
 /* Image and Text Block Layout */
 .top-container {
     display: flex;
@@ -319,6 +327,17 @@ footer {
 }
 
 
+
+li.blank_list_item {
+     list-style-type: none;
+}
+
+
+label.expansion_item {
+     cursor:pointer;
+     padding-right: 5px;
+}
+ 
                       
         </style>
     </head>
@@ -349,10 +368,10 @@ footer {
     </p>
 <ul>
 
- <li><p><a href="/businesses/legal-services/blockchain-legal">Blockchain Legal</a></p></li>
- <li><p><a href="/businesses/legal-services/destination-freedom">Destination Freedom</a> - Freedom consultations</p></li>
- <li><p><a href="/businesses/legal-services/johnathan-kleiman">Johnathan Kleiman</a> - Business and small claims court lawyer.</p></li>
- <li><p><a href="/businesses/legal-services/ronald-rohde-law">Ronald Rohde Law</a> - Real estate investments and corporate general counsel.</p></li></ul> 
+ <li class="blank_list_item"><p><label for="entry_checkbox_629_SubcategorySponsor" class="expansion_item">+</label><a href="/businesses/legal-services/blockchain-legal">Blockchain Legal</a></p><input type="checkbox" id="entry_checkbox_629_SubcategorySponsor" style="display:none;"><div class="hidden"><ul><li>Added: 2023-10-18</li><li>Updated: 2024-08-19</li><li>Location: Prague, CZ</li></ul></div></li>
+ <li class="blank_list_item"><p><label for="entry_checkbox_72_SubcategorySponsor" class="expansion_item">+</label><a href="/businesses/legal-services/destination-freedom">Destination Freedom</a> - Freedom consultations</p><input type="checkbox" id="entry_checkbox_72_SubcategorySponsor" style="display:none;"><div class="hidden"><ul><li>Added: 2023-09-12</li><li>Updated: 2024-08-19</li></ul></div></li>
+ <li class="blank_list_item"><p><label for="entry_checkbox_73_SubcategorySponsor" class="expansion_item">+</label><a href="/businesses/legal-services/johnathan-kleiman">Johnathan Kleiman</a> - Business and small claims court lawyer.</p><input type="checkbox" id="entry_checkbox_73_SubcategorySponsor" style="display:none;"><div class="hidden"><ul><li>Added: 2023-09-12</li><li>Updated: 2024-08-19</li><li>Location: Toronto, Cananda</li></ul></div></li>
+ <li class="blank_list_item"><p><label for="entry_checkbox_74_SubcategorySponsor" class="expansion_item">+</label><a href="/businesses/legal-services/ronald-rohde-law">Ronald Rohde Law</a> - Real estate investments and corporate general counsel.</p><input type="checkbox" id="entry_checkbox_74_SubcategorySponsor" style="display:none;"><div class="hidden"><ul><li>Added: 2023-09-12</li><li>Updated: 2024-08-19</li><li>Location: Texas and Florida</li></ul></div></li></ul> 
     </div>
  
     <footer>

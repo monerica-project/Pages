@@ -61,6 +61,13 @@ li p {
     padding: 5px;
 }
 
+
+table tbody tr:nth-child(even) {
+    background-color:#262626;
+    color: white;
+}
+
+
 .input-width { width: 330px; }
 
 .right {
@@ -208,6 +215,7 @@ div#main-content {
     padding-top: 50px;
 }
 
+
 /* Image and Text Block Layout */
 .top-container {
     display: flex;
@@ -319,6 +327,17 @@ footer {
 }
 
 
+
+li.blank_list_item {
+     list-style-type: none;
+}
+
+
+label.expansion_item {
+     cursor:pointer;
+     padding-right: 5px;
+}
+ 
                       
         </style>
     </head>
@@ -346,8 +365,8 @@ footer {
 
 <ul>
 
- <li><p>&#10060; <del><a rel="nofollow" href="/finance/interest-loans/coinloan">CoinLoan</a></del> - Earn interest in Monero, get loans using Monero as collateral. <i>(Note: 2023-04-26 withdrawls suspended)</i> </p></li>
- <li><p><a href="/finance/interest-loans/coinrabbit">Coinrabbit</a> - Use XMR as collateral to get a loan <i>(Note: this is a custodial solution and KYC is not required, only phone number or e-mail is required)</i> </p></li></ul> 
+ <li class="blank_list_item"><p><label for="entry_checkbox_515_SubcategorySponsor" class="expansion_item">+</label>&#10060; <del><a rel="nofollow" href="/finance/interest-loans/coinloan">CoinLoan</a></del> - Earn interest in Monero, get loans using Monero as collateral. <i>(Note: 2023-04-26 withdrawls suspended)</i> </p><input type="checkbox" id="entry_checkbox_515_SubcategorySponsor" style="display:none;"><div class="hidden"><ul><li>Added: 2023-09-13</li><li>Updated: 2024-08-19</li><li>Location: Tallinn, Estonia.</li></ul></div></li>
+ <li class="blank_list_item"><p><label for="entry_checkbox_335_SubcategorySponsor" class="expansion_item">+</label><a href="/finance/interest-loans/coinrabbit">Coinrabbit</a> - Use XMR as collateral to get a loan <i>(Note: this is a custodial solution and KYC is not required, only phone number or e-mail is required)</i> </p><input type="checkbox" id="entry_checkbox_335_SubcategorySponsor" style="display:none;"><div class="hidden"><ul><li>Added: 2023-09-12</li><li>Updated: 2024-08-19</li></ul></div></li></ul> 
     </div>
  
     <footer>

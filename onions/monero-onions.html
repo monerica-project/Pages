@@ -61,6 +61,13 @@ li p {
     padding: 5px;
 }
 
+
+table tbody tr:nth-child(even) {
+    background-color:#262626;
+    color: white;
+}
+
+
 .input-width { width: 330px; }
 
 .right {
@@ -208,6 +215,7 @@ div#main-content {
     padding-top: 50px;
 }
 
+
 /* Image and Text Block Layout */
 .top-container {
     display: flex;
@@ -319,6 +327,17 @@ footer {
 }
 
 
+
+li.blank_list_item {
+     list-style-type: none;
+}
+
+
+label.expansion_item {
+     cursor:pointer;
+     padding-right: 5px;
+}
+ 
                       
         </style>
     </head>
@@ -346,7 +365,7 @@ footer {
 
 <ul>
 
- <li><p><a href="/onions/monero-onions/monero-onions">Monero Onions</a></p></li></ul> 
+ <li class="blank_list_item"><p><label for="entry_checkbox_518_SubcategorySponsor" class="expansion_item">+</label><a href="/onions/monero-onions/monero-onions">Monero Onions</a></p><input type="checkbox" id="entry_checkbox_518_SubcategorySponsor" style="display:none;"><div class="hidden"><ul><li>Added: 2023-09-13</li><li>Updated: 2024-08-19</li></ul></div></li></ul> 
     </div>
  
     <footer>
