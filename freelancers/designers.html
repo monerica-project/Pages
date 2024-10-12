@@ -59,6 +59,13 @@ li p {
     padding: 5px;
 }
 
+
+table tbody tr:nth-child(even) {
+    background-color:#262626;
+    color: white;
+}
+
+
 .input-width { width: 330px; }
 
 .right {
@@ -206,6 +213,7 @@ div#main-content {
     padding-top: 50px;
 }
 
+
 /* Image and Text Block Layout */
 .top-container {
     display: flex;
@@ -317,6 +325,17 @@ footer {
 }
 
 
+
+li.blank_list_item {
+     list-style-type: none;
+}
+
+
+label.expansion_item {
+     cursor:pointer;
+     padding-right: 5px;
+}
+ 
                       
         </style>
     </head>
@@ -343,7 +362,7 @@ footer {
 
 <ul>
 
- <li><p>&#9989; <a href="/freelancers/designers/robert-blinov">Robert Blinov</a> - Product designer creating user interfaces, transit maps, logos, and promotional material</p></li></ul> 
+ <li class="blank_list_item"><p><label for="entry_checkbox_815_SubcategorySponsor" class="expansion_item">+</label>&#9989; <a href="/freelancers/designers/robert-blinov">Robert Blinov</a> - Product designer creating user interfaces, transit maps, logos, and promotional material</p><input type="checkbox" id="entry_checkbox_815_SubcategorySponsor" style="display:none;"><div class="hidden"><ul><li>Added: 2024-09-28</li><li>Updated: 2024-09-30</li></ul></div></li></ul> 
     </div>
  
     <footer>
