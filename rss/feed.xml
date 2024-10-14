@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>Monero dot Market</title>
+      <link>https://monero.market/</link>
+      <description>A decentralized, privacy-focused marketplace where users can buy and sell goods using Monero (XMR), ensuring complete anonymity and security.</description>
+      <pubDate>Mon, 14 Oct 2024 11:21:40 GMT</pubDate>
+    </item>
+    <item>
       <title>Cloaked Wireless</title>
       <link>https://cloakedwireless.com/</link>
       <description>Uses cryptographically proven authentication technologies and prevents staff from modifying customer accounts creating the best protection against SIM swap attacks available</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://jobsonblocks.com/</link>
       <description>A crypto job board designed to streamline the process of earning cryptocurrency, offering a comprehensive ecosystem where job seekers and employers can easily connect and engage in transactions with cryptocurrency.</description>
       <pubDate>Sat, 16 Mar 2024 22:11:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>CryptoTalks</title>
-      <link>https://cryptotalks.ai/</link>
-      <description>LLM services from OpenAI (ChatGPT), anthropic (ClaudeAI) and others paid with Monero.</description>
-      <pubDate>Sat, 16 Mar 2024 13:43:37 GMT</pubDate>
     </item>
   </channel>
 </rss>
