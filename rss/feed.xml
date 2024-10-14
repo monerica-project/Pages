@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>PrivateAlps</title>
+      <link>https://privatealps.net/</link>
+      <description>Offshore hosting services, powered by an ethical team of professionals</description>
+      <pubDate>Mon, 14 Oct 2024 22:38:47 GMT</pubDate>
+    </item>
+    <item>
       <title>Tails Wallet</title>
       <link>https://tailswallet.net</link>
       <description>Non-custodial Tails / Linux / Windows. Tor-integrated, multi-wallet. Swap coins without KYC. Advanced node management which neutralizes meta data leaks (chain analysis).</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://organicmaps.app</link>
       <description>Offline Hike, Bike, Trails and Navigation</description>
       <pubDate>Tue, 19 Mar 2024 20:56:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Independent Crypto Coaching</title>
-      <link>https://yawaia.com</link>
-      <description>Crypto self-custody courses &amp; individual coaching in regards to crypto privacy and security.</description>
-      <pubDate>Tue, 19 Mar 2024 18:16:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
