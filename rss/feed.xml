@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>Tails Wallet</title>
+      <link>https://tailswallet.net</link>
+      <description>Non-custodial Tails / Linux / Windows. Tor-integrated, multi-wallet. Swap coins without KYC. Advanced node management which neutralizes meta data leaks (chain analysis).</description>
+      <pubDate>Mon, 14 Oct 2024 22:19:58 GMT</pubDate>
+    </item>
+    <item>
       <title>Monero dot Market</title>
       <link>https://monero.market/</link>
       <description>A decentralized, privacy-focused marketplace where users can buy and sell goods using Monero (XMR), ensuring complete anonymity and security.</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://yawaia.com</link>
       <description>Crypto self-custody courses &amp; individual coaching in regards to crypto privacy and security.</description>
       <pubDate>Tue, 19 Mar 2024 18:16:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>JobsOnBlocks</title>
-      <link>https://jobsonblocks.com/</link>
-      <description>A crypto job board designed to streamline the process of earning cryptocurrency, offering a comprehensive ecosystem where job seekers and employers can easily connect and engage in transactions with cryptocurrency.</description>
-      <pubDate>Sat, 16 Mar 2024 22:11:41 GMT</pubDate>
     </item>
   </channel>
 </rss>
