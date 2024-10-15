@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>bl4cksqu4re</title>
+      <link>https://bl4cksqu4re.github.io/</link>
+      <description>An open space based for organizing and holding various events, interest clubs, concerts, film screenings. Anyone can freely share knowledge and experience in a cozy, friendly place.</description>
+      <pubDate>Tue, 15 Oct 2024 11:17:41 GMT</pubDate>
+    </item>
+    <item>
       <title>PrivateAlps</title>
       <link>https://privatealps.net/</link>
       <description>Offshore hosting services, powered by an ethical team of professionals</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://isabellas.coffee</link>
       <description>Organic, fair trade coffee focused on supporting small farms with sustainable &amp; clean farming practices. Including espresso and decaf beans</description>
       <pubDate>Wed, 20 Mar 2024 09:12:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Organic Maps</title>
-      <link>https://organicmaps.app</link>
-      <description>Offline Hike, Bike, Trails and Navigation</description>
-      <pubDate>Tue, 19 Mar 2024 20:56:38 GMT</pubDate>
     </item>
   </channel>
 </rss>
