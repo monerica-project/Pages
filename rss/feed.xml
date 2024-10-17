@@ -4,6 +4,18 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>MyMonero (Android)</title>
+      <link>https://play.google.com/store/apps/details?id=com.mymonero.official_android_application</link>
+      <description>A fast and feature-packed way to use Monero.</description>
+      <pubDate>Thu, 17 Oct 2024 22:05:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monero CLI Wallet</title>
+      <link>https://web.getmonero.org/downloads/#cli</link>
+      <description>Gives you the total control over your Monero node and funds. Highly customizable and includes various analysis tools, as well as an HTTP RPC and 0MQ interface.</description>
+      <pubDate>Thu, 17 Oct 2024 22:02:28 GMT</pubDate>
+    </item>
+    <item>
       <title>MyMonero - iOS</title>
       <link>https://apps.apple.com/us/app/mymonero-send-money-privately/id1372508199</link>
       <description>The MyMonero app is the fastest and most feature-packed way to use Monero.</description>
@@ -591,18 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://orangewebsite.com</link>
       <description>Web hosting, VPS, dedicated servers, domain registration, etc. Note: Website can remove your domain</description>
       <pubDate>Fri, 08 Mar 2024 16:42:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Peer Shop</title>
-      <link>https://peershop.app/</link>
-      <description>Get Discounts on Amazon with Monero. Our platform uses zk proofs for secure p2p transactions.</description>
-      <pubDate>Tue, 27 Feb 2024 22:04:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Roam Glamping Co.</title>
-      <link>https://roamglamping.co</link>
-      <description>Go glamping in your own backyard. We bring a fully furnished canvas bell tent to you for whatever special event you are celebrating, whether it is a birthday, anniversary, proposal, or even just a night under the stars with loved ones.</description>
-      <pubDate>Sun, 25 Feb 2024 22:31:32 GMT</pubDate>
     </item>
   </channel>
 </rss>

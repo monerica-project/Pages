@@ -429,6 +429,9 @@
 <loc>https://monerica.com/wallets</loc><lastmod>2024-10-17</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
+<loc>https://monerica.com/wallets/cli-wallets</loc><lastmod>2024-10-17</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+</url>
+<url>
 <loc>https://monerica.com/wallets/desktop-wallets</loc><lastmod>2024-10-17</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
@@ -1338,6 +1341,9 @@
 <loc>https://monerica.com/jobs/bounties/monero-bounties</loc><lastmod>2024-10-17</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
+<loc>https://monerica.com/wallets/cli-wallets/monero-cli-wallet</loc><lastmod>2024-10-17</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+</url>
+<url>
 <loc>https://monerica.com/communities/online-communities/monero-community-index</loc><lastmod>2024-10-17</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
@@ -1609,6 +1615,9 @@
 </url>
 <url>
 <loc>https://monerica.com/wallets/mobile-wallets/mymonero-ios</loc><lastmod>2024-10-17</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+</url>
+<url>
+<loc>https://monerica.com/wallets/mobile-wallets/mymonero-android</loc><lastmod>2024-10-17</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/web-hosting/mynymbox</loc><lastmod>2024-10-17</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
