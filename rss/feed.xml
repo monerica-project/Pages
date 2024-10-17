@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>MyMonero - iOS</title>
+      <link>https://apps.apple.com/us/app/mymonero-send-money-privately/id1372508199</link>
+      <description>The MyMonero app is the fastest and most feature-packed way to use Monero.</description>
+      <pubDate>Thu, 17 Oct 2024 21:59:49 GMT</pubDate>
+    </item>
+    <item>
       <title>ShopinBit Schweiz</title>
       <link>https://shopinbit.ch/</link>
       <description>200,000 products, travel agency, concierge service Note: Not live until 2024-10-25</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://roamglamping.co</link>
       <description>Go glamping in your own backyard. We bring a fully furnished canvas bell tent to you for whatever special event you are celebrating, whether it is a birthday, anniversary, proposal, or even just a night under the stars with loved ones.</description>
       <pubDate>Sun, 25 Feb 2024 22:31:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Safing Privacy Network</title>
-      <link>https://safing.io</link>
-      <description>Safing develops the open-source privacy firewall „Portmaster“ and runs the „Safing Privacy Network“ (SPN) which joins features of Onion Routing and VPN.</description>
-      <pubDate>Mon, 19 Feb 2024 11:03:43 GMT</pubDate>
     </item>
   </channel>
 </rss>
