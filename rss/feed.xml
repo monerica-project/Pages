@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>Spore Monkey</title>
+      <link>https://sporemonkey.com</link>
+      <description>Cheap mushroom liquid cultures and spore syringes</description>
+      <pubDate>Sat, 19 Oct 2024 10:49:23 GMT</pubDate>
+    </item>
+    <item>
       <title>MyMonero (Android)</title>
       <link>https://play.google.com/store/apps/details?id=com.mymonero.official_android_application</link>
       <description>A fast and feature-packed way to use Monero.</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://www.staynsee.com/</link>
       <description>Alternative to Airbnb. Rent out your vacation home, provide an activity or a service, or simply upload your crypto friendly business to our directory.</description>
       <pubDate>Fri, 08 Mar 2024 21:09:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scam! - OrangeWebsite</title>
-      <link>https://orangewebsite.com</link>
-      <description>Web hosting, VPS, dedicated servers, domain registration, etc. Note: Website can remove your domain</description>
-      <pubDate>Fri, 08 Mar 2024 16:42:25 GMT</pubDate>
     </item>
   </channel>
 </rss>
