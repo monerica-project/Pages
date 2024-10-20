@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>Soldinchange</title>
+      <link>https://soldinchange.top/</link>
+      <description>Cryptocurrency exchange service</description>
+      <pubDate>Sun, 20 Oct 2024 10:51:53 GMT</pubDate>
+    </item>
+    <item>
       <title>Psb Hosting</title>
       <link>https://psb.hosting/en</link>
       <description>VPS cloud services and wireguard</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://yawaia.com</link>
       <description>Crypto self-custody courses &amp; individual coaching in regards to crypto privacy and security. Note: 5% off for payments with Monero</description>
       <pubDate>Tue, 19 Mar 2024 18:16:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>CryptoTalks</title>
-      <link>https://cryptotalks.ai/</link>
-      <description>LLM services from OpenAI (ChatGPT), anthropic (ClaudeAI) and others paid with Monero.</description>
-      <pubDate>Sat, 16 Mar 2024 13:43:37 GMT</pubDate>
     </item>
   </channel>
 </rss>
