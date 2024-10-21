@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>E-Templates</title>
+      <link>https://editable-templates.cc/</link>
+      <description>High-quality passport, ID, DL or driving license editable templates.</description>
+      <pubDate>Mon, 21 Oct 2024 00:21:31 GMT</pubDate>
+    </item>
+    <item>
       <title>Soldinchange</title>
       <link>https://soldinchange.top/</link>
       <description>Cryptocurrency exchange service</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://organicmaps.app</link>
       <description>Offline Hike, Bike, Trails and Navigation</description>
       <pubDate>Tue, 19 Mar 2024 20:56:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Independent Crypto Coaching</title>
-      <link>https://yawaia.com</link>
-      <description>Crypto self-custody courses &amp; individual coaching in regards to crypto privacy and security. Note: 5% off for payments with Monero</description>
-      <pubDate>Tue, 19 Mar 2024 18:16:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
