@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>rdp.sh</title>
+      <link>https://rdp.sh</link>
+      <description>Security-focused cloud provider with backed by EU-legislation and high quality standards from the Netherlands, Phoenix and Poland</description>
+      <pubDate>Mon, 21 Oct 2024 10:36:41 GMT</pubDate>
+    </item>
+    <item>
       <title>E-Templates</title>
       <link>https://editable-templates.cc/</link>
       <description>High-quality passport, ID, DL or driving license editable templates.</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://isabellas.coffee</link>
       <description>Organic, fair trade coffee focused on supporting small farms with sustainable &amp; clean farming practices. Including espresso and decaf beans</description>
       <pubDate>Wed, 20 Mar 2024 09:12:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Organic Maps</title>
-      <link>https://organicmaps.app</link>
-      <description>Offline Hike, Bike, Trails and Navigation</description>
-      <pubDate>Tue, 19 Mar 2024 20:56:38 GMT</pubDate>
     </item>
   </channel>
 </rss>
