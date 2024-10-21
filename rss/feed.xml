@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>Cake Wallet Desktop - MacOS</title>
+      <link>https://apps.apple.com/us/app/cake-wallet-for-xmr-monero/id1334702542</link>
+      <description>Sore, buy and sell crypto with fiat, and trade crypto directly in the wallet.</description>
+      <pubDate>Mon, 21 Oct 2024 16:15:38 GMT</pubDate>
+    </item>
+    <item>
       <title>rdp.sh</title>
       <link>https://rdp.sh</link>
       <description>Security-focused cloud provider with backed by EU-legislation and high quality standards from the Netherlands, Phoenix and Poland</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://xeggex.com/</link>
       <description>Fast, secure, and fully supported, ensuring you have a seamless trading experience. Note: No KYC required for daily withdrawals under $5000</description>
       <pubDate>Wed, 27 Mar 2024 01:42:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tabac Shopping</title>
-      <link>https://tabac-shopping.com/</link>
-      <description>tobacco products</description>
-      <pubDate>Wed, 20 Mar 2024 18:45:33 GMT</pubDate>
     </item>
   </channel>
 </rss>
