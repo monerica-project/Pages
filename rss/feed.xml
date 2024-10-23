@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>Monero Garden</title>
+      <link>https://monero.garden/</link>
+      <description>A community project by anhdres where you can learn about Monero.</description>
+      <pubDate>Wed, 23 Oct 2024 03:08:40 GMT</pubDate>
+    </item>
+    <item>
       <title>haveno.markets</title>
       <link>https://haveno.markets/</link>
       <description>Monero price and liquidity tracker</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://undergroundwires.dev/donate/</link>
       <description>Open-source developer who made privacy.sexy.</description>
       <pubDate>Thu, 11 Apr 2024 20:36:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mynymbox</title>
-      <link>https://mynymbox.io/</link>
-      <description>Anonymous hosting and internet services, dedicated to safeguarding the privacy and security.</description>
-      <pubDate>Thu, 28 Mar 2024 11:35:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
