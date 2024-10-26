@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>XMR Nodes</title>
+      <link>https://xmr.ditatompel.com/remote-nodes/</link>
+      <description>Public Monero remote nodes list</description>
+      <pubDate>Sat, 26 Oct 2024 15:27:30 GMT</pubDate>
+    </item>
+    <item>
       <title>Keys 4 Coins - Gift Cards</title>
       <link>https://www.keys4coins.com/product-category/gift-cards/</link>
       <description>Gift cards to Amazon, Netflix, Uber, Apple and other merchants.</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://ninja.exchange/</link>
       <description>Anonymous Crypto to Crypto exchanges. Note: Custom exchange requests accepted.</description>
       <pubDate>Sat, 13 Apr 2024 13:46:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>undergroundwires.dev</title>
-      <link>https://undergroundwires.dev/donate/</link>
-      <description>Open-source developer who made privacy.sexy.</description>
-      <pubDate>Thu, 11 Apr 2024 20:36:58 GMT</pubDate>
     </item>
   </channel>
 </rss>
