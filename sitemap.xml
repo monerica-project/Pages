@@ -411,10 +411,13 @@
 <loc>https://app.monerica.com/utilities/address-verification</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://app.monerica.com/utilities/blockchain-helpers</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+<loc>https://app.monerica.com/utilities/blockchain-explorers</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://app.monerica.com/utilities/developer-tools</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+</url>
+<url>
+<loc>https://app.monerica.com/utilities/node-lists</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://app.monerica.com/utilities/open-source-projects</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -447,7 +450,7 @@
 <loc>https://app.monerica.com/businesses/artwork/3rdegree-co-link</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://app.monerica.com/utilities/blockchain-helpers/3xpl</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+<loc>https://app.monerica.com/utilities/blockchain-explorers/3xpl</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://app.monerica.com/education/guides/4rkal-com</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -627,7 +630,7 @@
 <loc>https://app.monerica.com/businesses/legal-services/blockchain-legal</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://app.monerica.com/utilities/blockchain-helpers/blockchair</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+<loc>https://app.monerica.com/utilities/blockchain-explorers/blockchair</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://app.monerica.com/businesses/web-hosting/bluevps</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -936,7 +939,7 @@
 <loc>https://app.monerica.com/exchanges/non-kyc-exchanges/exolix</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://app.monerica.com/utilities/blockchain-helpers/explore-monero</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+<loc>https://app.monerica.com/utilities/blockchain-explorers/explore-monero</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://app.monerica.com/businesses/web-hosting/extravm</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -1317,7 +1320,7 @@
 <loc>https://app.monerica.com/mining/miscellaneous/monero-benchmarks</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://app.monerica.com/utilities/blockchain-helpers/monero-blocks</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+<loc>https://app.monerica.com/utilities/blockchain-explorers/monero-blocks</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://app.monerica.com/jobs/bounties/monero-bounties</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -1491,7 +1494,7 @@
 <loc>https://app.monerica.com/wallets/mobile-wallets/monero-com-cake-wallet</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://app.monerica.com/utilities/blockchain-helpers/monero-fail</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+<loc>https://app.monerica.com/utilities/node-lists/monero-fail</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://app.monerica.com/communities/online-communities/monero-land</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -2226,6 +2229,9 @@
 <loc>https://app.monerica.com/other-directories/business-directories/xmr-directory</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
+<loc>https://app.monerica.com/utilities/node-lists/xmr-nodes</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+</url>
+<url>
 <loc>https://app.monerica.com/exchanges/atomic-swaps/xmr-swap</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
@@ -2259,7 +2265,7 @@
 <loc>https://app.monerica.com/businesses/marketplaces-peer-to-peer/xmrbazaar</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://app.monerica.com/utilities/blockchain-helpers/xmrchain-net</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+<loc>https://app.monerica.com/utilities/blockchain-explorers/xmrchain-net</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://app.monerica.com/utilities/open-source-projects/xmrchat</loc><lastmod>2024-10-26</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
