@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>Swaponix</title>
+      <link>https://swaponix.io/</link>
+      <description>Swap 1000+ of coins</description>
+      <pubDate>Tue, 29 Oct 2024 21:49:18 GMT</pubDate>
+    </item>
+    <item>
       <title>Monero Node - Running Node</title>
       <link>https://landchad.net/monerod/</link>
       <description>Monero node installation and configuration guide</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://sigmanero.org/</link>
       <description>Non-custodial betting exchange with Monero Note: With multisigs, your keys, your coins</description>
       <pubDate>Sun, 14 Apr 2024 18:10:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ninja.Exchange</title>
-      <link>https://ninja.exchange/</link>
-      <description>Anonymous Crypto to Crypto exchanges. Note: Custom exchange requests accepted.</description>
-      <pubDate>Sat, 13 Apr 2024 13:46:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
