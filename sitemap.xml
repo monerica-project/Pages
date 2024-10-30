@@ -216,6 +216,9 @@
 <loc>https://app.monerica.com/exchanges/non-kyc-exchanges</loc><lastmod>2024-10-30</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
+<loc>https://app.monerica.com/exchanges/non-kyc-exchanges-account-based</loc><lastmod>2024-10-30</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+</url>
+<url>
 <loc>https://app.monerica.com/finance</loc><lastmod>2024-10-30</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
@@ -846,7 +849,7 @@
 <loc>https://app.monerica.com/web-hosting/vps-and-dedicated-server-providers/cryptoho-st</loc><lastmod>2024-10-30</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://app.monerica.com/exchanges/non-kyc-exchanges/cryptoinvest</loc><lastmod>2024-10-30</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+<loc>https://app.monerica.com/exchanges/non-kyc-exchanges-account-based/cryptoinvest</loc><lastmod>2024-10-30</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://app.monerica.com/merchant-services/integrations/cryptomus</loc><lastmod>2024-10-30</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -1095,7 +1098,7 @@
 <loc>https://app.monerica.com/exchanges/kyc-exchanges-non-united-states/hitbtc</loc><lastmod>2024-10-30</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://app.monerica.com/exchanges/non-kyc-exchanges/hodl-hodl</loc><lastmod>2024-10-30</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+<loc>https://app.monerica.com/exchanges/non-kyc-exchanges-account-based/hodl-hodl</loc><lastmod>2024-10-30</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://app.monerica.com/businesses/clothing-apparel-and-accessories/horrifiq</loc><lastmod>2024-10-30</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -1108,9 +1111,6 @@
 </url>
 <url>
 <loc>https://app.monerica.com/web-hosting/domain-registration-and-dns-services/hostry</loc><lastmod>2024-10-30</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
-</url>
-<url>
-<loc>https://app.monerica.com/exchanges/non-kyc-exchanges/hotbit</loc><lastmod>2024-10-30</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://app.monerica.com/merchant-services/open-source-projects/hotshop</loc><lastmod>2024-10-30</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
@@ -1644,9 +1644,6 @@
 <loc>https://app.monerica.com/businesses/medical-pharmaceutical-treatments/natural-ether</loc><lastmod>2024-10-30</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://app.monerica.com/exchanges/non-kyc-exchanges/neroswap</loc><lastmod>2024-10-30</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
-</url>
-<url>
 <loc>https://app.monerica.com/exchanges/non-kyc-exchanges/ninja-exchange</loc><lastmod>2024-10-30</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
@@ -1659,7 +1656,7 @@
 <loc>https://app.monerica.com/exchanges/kyc-exchanges-non-united-states/nominex</loc><lastmod>2024-10-30</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
-<loc>https://app.monerica.com/exchanges/non-kyc-exchanges/nonkyc</loc><lastmod>2024-10-30</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+<loc>https://app.monerica.com/exchanges/non-kyc-exchanges-account-based/nonkyc</loc><lastmod>2024-10-30</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://app.monerica.com/businesses/technology-computer-hardware/novacustom</loc><lastmod>2024-10-30</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
