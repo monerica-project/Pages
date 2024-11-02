@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>NoOnes</title>
+      <link>https://noones.com/</link>
+      <description>A peer-to-peer crypto marketplace in the USA.</description>
+      <pubDate>Sat, 02 Nov 2024 19:16:11 GMT</pubDate>
+    </item>
+    <item>
       <title>NanoGPT</title>
       <link>https://nano-gpt.com/invite/3ymANnHN</link>
       <description>Lets you access ChatGPT, Claude and all other top LLMs + image models without subscription.</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://datalix.eu/</link>
       <description>VPS, Webhosting, Storage and Nextcloud hosting</description>
       <pubDate>Thu, 18 Apr 2024 17:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Biomance Technologies</title>
-      <link>https://www.biomance.com/</link>
-      <description>Software as a service (SaaS) - We build custom mobile, desktop, and web apps for clients across all industries, prioritizing exceptional communication and client privacy.</description>
-      <pubDate>Wed, 17 Apr 2024 21:53:32 GMT</pubDate>
     </item>
   </channel>
 </rss>
