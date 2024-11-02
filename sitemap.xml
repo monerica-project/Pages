@@ -219,6 +219,9 @@
 <loc>https://app.monerica.com/exchanges/non-kyc-exchanges-account-based</loc><lastmod>2024-11-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
+<loc>https://app.monerica.com/exchanges/peer-to-peer-exchanges</loc><lastmod>2024-11-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+</url>
+<url>
 <loc>https://app.monerica.com/exchanges/software</loc><lastmod>2024-11-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
@@ -1660,6 +1663,9 @@
 </url>
 <url>
 <loc>https://app.monerica.com/exchanges/non-kyc-exchanges-account-based/nonkyc</loc><lastmod>2024-11-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
+</url>
+<url>
+<loc>https://app.monerica.com/exchanges/peer-to-peer-exchanges/noones</loc><lastmod>2024-11-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
 </url>
 <url>
 <loc>https://app.monerica.com/businesses/technology-computer-hardware/novacustom</loc><lastmod>2024-11-02</lastmod><changefreq>Weekly</changefreq><priority>1</priority>
