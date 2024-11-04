@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>Unredacted</title>
+      <link>https://unredacted.org/</link>
+      <description>Non-Profits &gt; Technologies : A 501(c)(3) non-profit organization that provides free and open services that help people evade censorship and protect their right to privacy</description>
+      <pubDate>Mon, 04 Nov 2024 23:12:33 GMT</pubDate>
+    </item>
+    <item>
       <title>Silver IT</title>
       <link>https://www.slvit.us/</link>
       <description>Businesses &gt; Technology/ Computer Hardware : Computers, phones, routers and accessories.</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://www.astrill.com</link>
       <description>Businesses &gt; VPN Companies : Private no-logs VPN that supports multiple protocols and works on Windows, macOS, Linux, Android, iOS and routers</description>
       <pubDate>Wed, 24 Apr 2024 23:38:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Private Phone Shop</title>
-      <link>https://privatephoneshop.com</link>
-      <description>Businesses &gt; Technology/ Computer Hardware : Degoogled phones - Note: 3% discount for XMR</description>
-      <pubDate>Wed, 24 Apr 2024 19:12:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
