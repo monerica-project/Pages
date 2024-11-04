@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>Yefeth, LLC</title>
+      <link>https://yefeth.com/</link>
+      <description>Various coffee mugs.</description>
+      <pubDate>Mon, 04 Nov 2024 13:18:36 GMT</pubDate>
+    </item>
+    <item>
       <title>NiceVPS.net</title>
       <link>https://nicevps.net</link>
       <description>Professional hosting for high risk businesses.</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://forgingblock.io/</link>
       <description>API with non-custodial payment gateway</description>
       <pubDate>Tue, 23 Apr 2024 19:34:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cryptomus</title>
-      <link>https://cryptomus.com/white_label</link>
-      <description>White label crypto payment gateway Note: Use referral code: "7oxg00"</description>
-      <pubDate>Tue, 23 Apr 2024 19:33:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
