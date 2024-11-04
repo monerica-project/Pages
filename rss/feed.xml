@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>NiceVPS.net</title>
+      <link>https://nicevps.net</link>
+      <description>Professional hosting for high risk businesses.</description>
+      <pubDate>Mon, 04 Nov 2024 01:43:19 GMT</pubDate>
+    </item>
+    <item>
       <title>NoOnes</title>
       <link>https://noones.com/</link>
       <description>A peer-to-peer crypto marketplace in the USA.</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://cryptomus.com/white_label</link>
       <description>White label crypto payment gateway Note: Use referral code: "7oxg00"</description>
       <pubDate>Tue, 23 Apr 2024 19:33:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Datalix</title>
-      <link>https://datalix.eu/</link>
-      <description>VPS, Webhosting, Storage and Nextcloud hosting</description>
-      <pubDate>Thu, 18 Apr 2024 17:00:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
