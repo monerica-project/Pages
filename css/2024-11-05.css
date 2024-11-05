@@ -434,3 +434,15 @@ p.centered-text {
     margin-bottom: 0;
     font-size: 14px;
 }
+
+a.text-margin {
+    margin: 5px;
+}
+
+p.text-inline {
+    display: inline;
+}
+
+span.bold {
+    font-weight: bold;
+}
