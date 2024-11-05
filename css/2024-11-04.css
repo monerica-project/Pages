@@ -400,14 +400,14 @@ p {
 
 .top-container-left-column {
     flex: 0 0 38.2%;
-    padding-right: 10px;
+    padding-left: 10px;
     padding-left: 10px;
 }
 
 .top-container-right-column {
     flex: 1;
     padding-right: 10px;
-    padding-left: 10px;
+    padding-right: 10px;
 }
 
 @media (max-width: 768px) {
