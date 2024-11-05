@@ -409,7 +409,8 @@ p {
 
 .top-container-right-column {
     flex: 1;
-    padding: 20px; /* Add inner padding to create space around text */
+    padding-left: 10px;
+    padding-right: 10px;
     text-align: justify; /* Ensure text is justified */
     border-radius: 8px; /* Optional: rounded corners for a softer look */
     box-sizing: border-box; /* Include padding in the element's width */
