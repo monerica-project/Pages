@@ -398,22 +398,25 @@ p {
     display: flex;
 }
 
+.top-container {
+    display: flex;
+}
+
 .top-container-left-column {
     flex: 0 0 38.2%;
-    padding-right: 10px;
-    padding-right: 10px;
-    padding-left: 10px;
-    padding-left: 10px;
+    text-align: center; /* Center-align the content in the left column */
 }
 
 .top-container-right-column {
     flex: 1;
-    padding-right: 10px;
-    padding-right: 10px;
-    padding-left: 10px;
-    padding-left: 10px;
+    padding: 20px; /* Add inner padding to create space around text */
+    text-align: justify; /* Ensure text is justified */
+    border-radius: 8px; /* Optional: rounded corners for a softer look */
+    box-sizing: border-box; /* Include padding in the element's width */
+    overflow-wrap: break-word; /* Ensure long words break to fit */
 }
 
+/* Mobile layout */
 @media (max-width: 768px) {
     .top-container {
         flex-direction: column;
@@ -422,5 +425,6 @@ p {
     .top-container-left-column, .top-container-right-column {
         flex: 0 0 auto;
         width: 100%;
+        box-sizing: border-box; /* Ensure padding fits within the full width on mobile */
     }
 }
