@@ -429,7 +429,7 @@ p {
     }
 }
 
-.centered-text {
+p.centered-text {
     text-align: center;
     margin-bottom: 0;
     font-size: 14px;
