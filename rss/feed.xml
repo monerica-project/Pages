@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>VigorSwap</title>
+      <link>https://vigorswap.io</link>
+      <description>Exchanges &gt; Non-KYC Exchanges : Trade a range of cryptocurrencies securely and privately.</description>
+      <pubDate>Tue, 05 Nov 2024 16:03:42 GMT</pubDate>
+    </item>
+    <item>
       <title>Unredacted</title>
       <link>https://unredacted.org/</link>
       <description>Non-Profits &gt; Technologies : A 501(c)(3) non-profit organization that provides free and open services that help people evade censorship and protect their right to privacy</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://maps.app.goo.gl/KhJ2vSeSRz76yaFu7?g_st=ic</link>
       <description>Businesses &gt; Automotives : Car battery &amp; accessories business since 1983</description>
       <pubDate>Sat, 04 May 2024 20:37:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>AstrillVPN</title>
-      <link>https://www.astrill.com</link>
-      <description>Businesses &gt; VPN Companies : Private no-logs VPN that supports multiple protocols and works on Windows, macOS, Linux, Android, iOS and routers</description>
-      <pubDate>Wed, 24 Apr 2024 23:38:50 GMT</pubDate>
     </item>
   </channel>
 </rss>
