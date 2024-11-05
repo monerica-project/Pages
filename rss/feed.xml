@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>Kewbit's Privacy Blog</title>
+      <link>https://kewbit.org/tag/monero/</link>
+      <description>Education &gt; Guides : Exploree topics on privacy, Monero, Tor and provide updates for the software maintained such as Haveno and dart I2P and I also provide privacy insights and guides.</description>
+      <pubDate>Tue, 05 Nov 2024 20:01:09 GMT</pubDate>
+    </item>
+    <item>
       <title>Robosats</title>
       <link>https://dex.robosats.com/</link>
       <description>Exchanges &gt; Peer to Peer Exchanges : P2P exchange for national currencies. Robosats simplifies the peer-to-peer user experience.</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want.</descr
       <link>https://xmr.ist</link>
       <description>Utilities &gt; Address Verification : OpenAlias service, convert long wallet addresses to human readable format. Try monerochan@xmr.ist in your wallet.</description>
       <pubDate>Sat, 25 May 2024 17:56:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>CelticGold</title>
-      <link>https://celticgold.eu/</link>
-      <description>Businesses &gt; Precious Metals : Gold and silver coins and bars.</description>
-      <pubDate>Fri, 24 May 2024 12:53:35 GMT</pubDate>
     </item>
   </channel>
 </rss>
