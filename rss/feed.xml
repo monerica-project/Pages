@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>Gameserver24</title>
+      <link>https://gameserver24.io</link>
+      <description>Web Hosting &gt; Gaming Servers : Serves high quality servers for an affordable price, without having to give up any personal information and staying anonymous. - Location: Seychelles - Processor: BTCPayServer - Contact: @mynymbox</description>
+      <pubDate>Thu, 07 Nov 2024 20:23:49 GMT</pubDate>
+    </item>
+    <item>
       <title>Kewbit's Privacy Blog</title>
       <link>https://kewbit.org/tag/monero/</link>
       <description>Education &gt; Guides : Explore topics on privacy, Monero, Tor and provide updates for the software maintained such as Haveno and dart I2P and I also provide privacy insights and guides.</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want. - Cont
       <link>https://chaos.yoga</link>
       <description>Businesses &gt; Counseling &amp; Therapy : Modern approach to shadow work using Kundalini &amp; Neo-Reichian breathe/bodywork. - Location: Online - Contact: @chaosyoga on Telegram</description>
       <pubDate>Sun, 26 May 2024 00:31:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>XMR.IST</title>
-      <link>https://xmr.ist</link>
-      <description>Utilities &gt; Address Verification : OpenAlias service, convert long wallet addresses to human readable format. Try monerochan@xmr.ist in your wallet. - Contact: xmrist@tuta.com</description>
-      <pubDate>Sat, 25 May 2024 17:56:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
