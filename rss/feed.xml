@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>SwapSphera</title>
+      <link>https://swapsphera.com/</link>
+      <description>Exchanges &gt; Peer to Peer Exchanges : Is a platform that allows you to exchange cryptocurrency at the most favorable rates that are tracked in real time - Location: USA - Contact: https://x.com/SwapSphera</description>
+      <pubDate>Fri, 08 Nov 2024 10:22:35 GMT</pubDate>
+    </item>
+    <item>
       <title>Gameserver24</title>
       <link>https://gameserver24.io</link>
       <description>Web Hosting &gt; Gaming Servers : Serves high quality servers for an affordable price, without having to give up any personal information and staying anonymous. - Location: Seychelles - Processor: BTCPayServer - Contact: @mynymbox</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want. - Cont
       <link>https://libereco.xyz/</link>
       <description>Media &gt; News Aggregators : Monero news aggregator</description>
       <pubDate>Mon, 03 Jun 2024 22:05:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Initech</title>
-      <link>https://initech.global</link>
-      <description>Web Hosting &gt; Resellers &amp; Aggregators : Reseller of VPS hosting services providing access to AWS, Google Cloud, Vultr, Alibaba Cloud, Hetzner, and Digital Ocean. Also offers residential proxies globally with anonymous sign-up, no verification, and no restrictions.</description>
-      <pubDate>Mon, 03 Jun 2024 10:31:14 GMT</pubDate>
     </item>
   </channel>
 </rss>
