@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>Erstose</title>
+      <link>https://erstose.wixsite.com/erstose</link>
+      <description>Businesses &gt; Proxies : You can pay for anything with Monero. You can also buy or sell Monero. - Location: Global - Contact: Session: 05d4a0efa318bb27ee1168e6632181457d477afd1d177e64f43c96d616a7a7fc37</description>
+      <pubDate>Wed, 13 Nov 2024 15:32:31 GMT</pubDate>
+    </item>
+    <item>
       <title>Darkness.su</title>
       <link>https://darkness.su/xmr</link>
       <description>Exchanges &gt; Atomic Swaps : Atomic Swap provider - Location: Russia</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want. - Cont
       <link>https://xmrbazaar.com/</link>
       <description>Businesses &gt; Marketplaces (Peer-to-Peer) : P2P marketplace for buying/ selling goods &amp; services. With built in encrypted chat and trust-less multi-sig escrow. Zero fees.</description>
       <pubDate>Wed, 05 Jun 2024 12:51:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Liberty Under Attack Publications</title>
-      <link>https://libertyunderattack.com</link>
-      <description>Education &gt; Physical Books : LUA Publications is a freedom-focused, solutions-oriented publisher. Also offered: publishing services, privacy tools (GhostPhones/ GhostPads), health/ wellness products, and more. - Note: Use email to purchase with Monero - Contact: shane@libertyunderattack.com</description>
-      <pubDate>Tue, 04 Jun 2024 20:08:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
