@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>3v-Hosting</title>
+      <link>https://3v-host.com/</link>
+      <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : A Ukrainian hosting provider with data centers in Kyiv, Amsterdam and Washington, specializing in providing Virtual Servers (VPS/VDS) and Dedicated Servers for rent and sale of domain names in various DNS zones. - Location: Kiev, Ukraine - Processor: Cryptomus - Contact: https://twitter.com/3v_hosting/</description>
+      <pubDate>Thu, 14 Nov 2024 11:47:02 GMT</pubDate>
+    </item>
+    <item>
       <title>Erstose</title>
       <link>https://erstose.wixsite.com/erstose</link>
       <description>Businesses &gt; Proxies : Pay all of your expenses (shopping, bills etc.) with Monero. You can also buy or sell Monero here. - Location: Global - Contact: Session: 05d4a0efa318bb27ee1168e6632181457d477afd1d177e64f43c96d616a7a7fc37</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want. - Cont
       <link>https://floppy-vpn.net</link>
       <description>Businesses &gt; VPN Companies : Open source, private, classic and bloatless VPN service. - Location: Kryzhopil, Ukraine - Contact: github.com/OtsoSoftware</description>
       <pubDate>Thu, 06 Jun 2024 16:32:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>XMRBazaar</title>
-      <link>https://xmrbazaar.com/</link>
-      <description>Businesses &gt; Marketplaces (Peer-to-Peer) : P2P marketplace for buying/ selling goods &amp; services. With built in encrypted chat and trust-less multi-sig escrow. Zero fees.</description>
-      <pubDate>Wed, 05 Jun 2024 12:51:38 GMT</pubDate>
     </item>
   </channel>
 </rss>
