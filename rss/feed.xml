@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>Cupcake by Cake Wallet (iOS)</title>
+      <link>https://apps.apple.com/us/app/cupcake-by-cake-wallet/id6737430272</link>
+      <description>Wallets &gt; Mobile Wallets : Non-custodial offline wallet</description>
+      <pubDate>Sun, 17 Nov 2024 01:36:33 GMT</pubDate>
+    </item>
+    <item>
       <title>3v-Hosting</title>
       <link>https://3v-host.com/</link>
       <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : A Ukrainian hosting provider with data centers in Kyiv, Amsterdam and Washington, specializing in providing Virtual Servers (VPS/VDS) and Dedicated Servers for rent and sale of domain names in various DNS zones. - Location: Kiev, Ukraine - Processor: Cryptomus - Contact: https://twitter.com/3v_hosting/</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want. - Cont
       <link>https://essens.cc/</link>
       <description>Freelancers &gt; Software Developers : Privacy-first unorthodox (web)software studio - Contact: hi@essens.cc</description>
       <pubDate>Wed, 12 Jun 2024 08:37:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>FloppyVPN</title>
-      <link>https://floppy-vpn.net</link>
-      <description>Businesses &gt; VPN Companies : Open source, private, classic and bloatless VPN service. - Location: Kryzhopil, Ukraine - Contact: github.com/OtsoSoftware</description>
-      <pubDate>Thu, 06 Jun 2024 16:32:37 GMT</pubDate>
     </item>
   </channel>
 </rss>
