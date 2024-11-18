@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>Monero Transactions historical chart</title>
+      <link>https://bitinfocharts.com/comparison/monero-transactions.html#3y</link>
+      <description>Utilities &gt; Transactions : Graph of Monero transactions</description>
+      <pubDate>Mon, 18 Nov 2024 20:05:58 GMT</pubDate>
+    </item>
+    <item>
       <title>Cupcake by Cake Wallet (iOS)</title>
       <link>https://apps.apple.com/us/app/cupcake-by-cake-wallet/id6737430272</link>
       <description>Wallets &gt; Mobile Wallets : Non-custodial offline wallet</description>
@@ -597,12 +603,6 @@ Receive voice messages and continue the conversation as long as you want. - Cont
       <link>https://quickex.io/exchange-BTC-XMR?ref=aff_1089</link>
       <description>Exchanges &gt; Non-KYC Exchanges : Fast and reliable crypto exchange. Swap Monero to BTC and other tokens. Support 24/7. - Contact: marketing@quickex.io</description>
       <pubDate>Fri, 14 Jun 2024 12:58:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>essens.cc</title>
-      <link>https://essens.cc/</link>
-      <description>Freelancers &gt; Software Developers : Privacy-first unorthodox (web)software studio - Contact: hi@essens.cc</description>
-      <pubDate>Wed, 12 Jun 2024 08:37:45 GMT</pubDate>
     </item>
   </channel>
 </rss>
