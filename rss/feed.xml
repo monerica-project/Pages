@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>MoneroTop</title>
+      <link>https://monero.top</link>
+      <description>Communities &gt; Forums : Spasm network forum for Monero.</description>
+      <pubDate>Wed, 11 Dec 2024 14:51:55 GMT</pubDate>
+    </item>
+    <item>
       <title>CoinoSwap</title>
       <link>https://coinoswap.com/</link>
       <description>Exchanges &gt; Comparison/ Aggregation : An Instant Cryptocurrency Exchange Aggregator for swapping XMR pairs across several exchanges at the best prices with no registration required. - Location: Wyoming, 82801, United States - Contact: https://x.com/coinoswap</description>
@@ -598,12 +604,6 @@ Receive voice messages and continue the conversation as long as you want. - Cont
       <link>https://barnjerky.hashrootsinc.io/</link>
       <description>Businesses &gt; Food &amp; Drink : Beef jerky - Note: Ships within the USA - Contact: barnjerky@hashrootsinc.io or Telegram @Barnminer</description>
       <pubDate>Thu, 20 Jun 2024 21:03:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>MX Graphics</title>
-      <link>https://mxgfx.me</link>
-      <description>Businesses &gt; Design Services : Marti's Monero Designing services for all your needs. - Contact: @mxgfx on TG, @mxgraphics:matrix.org</description>
-      <pubDate>Wed, 19 Jun 2024 10:42:51 GMT</pubDate>
     </item>
   </channel>
 </rss>
