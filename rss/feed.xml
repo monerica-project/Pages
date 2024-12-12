@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>OpenMonero</title>
+      <link>https://openmonero.co</link>
+      <description>Exchanges &gt; Peer to Peer Exchanges : Buy and sell Monero (XMR) online without ID verification - use PayPal, credit/debit card or bank transfer, gift cards, cash by mail, Venmo, BTC or any other method. - Note: A sophisticated LocalMonero frontend (agoradesk-app-foss) with self-custodial trade settlements and p2p encrypted Session/Nostr notifications. - Location: Hong Kong - Contact: support@openmonero.co</description>
+      <pubDate>Thu, 12 Dec 2024 02:00:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Textverified</title>
       <link>https://www.textverified.com/</link>
       <description>Businesses &gt; Phone Plans &amp; SIM Cards : Real US mobile numbers backed by physical SIMs – compatible with all platforms.</description>
@@ -598,12 +604,6 @@ Receive voice messages and continue the conversation as long as you want. - Cont
       <link>http://monerocosmos.store/</link>
       <description>Businesses &gt; Artwork : Net-art - Note: Must contact seller via Session Messenger to complete transaction. - Location: Helsinki, Finland</description>
       <pubDate>Sat, 29 Jun 2024 14:16:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Crypto.am</title>
-      <link>https://www.crypto.am/</link>
-      <description>Exchanges &gt; Non-KYC Exchanges (Account-Based) : Crypto Exchange in Yerevan, Armenia that accepts Monero and other coins. - Location: Teryan street 105/1, 0009 Yerevan, Armenia - Contact: Email: info@crypto.am Phone: +37477122223</description>
-      <pubDate>Fri, 28 Jun 2024 16:18:37 GMT</pubDate>
     </item>
   </channel>
 </rss>
