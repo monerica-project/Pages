@@ -4,6 +4,18 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions to our directory.</description>
     <item>
+      <title>Bitrica</title>
+      <link>https://bitrica.com</link>
+      <description>Exchanges &gt; Peer to Peer Exchanges : Bitrica is a P2P crypto exchange that allows you to buy and sell BTC/XMR with FIAT currencies. - Contact: Email: hi@bitrica.com</description>
+      <pubDate>Sun, 15 Dec 2024 11:55:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>XMRGlobal</title>
+      <link>https://xmrglobal.com/</link>
+      <description>Exchanges &gt; Peer to Peer Exchanges : P2P exchange for buying and selling in FIAT currencies for XMR.</description>
+      <pubDate>Sun, 15 Dec 2024 11:55:28 GMT</pubDate>
+    </item>
+    <item>
       <title>Monero Timeline</title>
       <link>https://resilience365.com/monero-timeline/</link>
       <description>Education &gt; Knowledge : A timeline of key developments in the Monero history.</description>
@@ -592,18 +604,6 @@ Receive voice messages and continue the conversation as long as you want. - Cont
       <link>https://cryptoinvest.am/</link>
       <description>Exchanges &gt; Non-KYC Exchanges (Account-Based) : Local Crypto Exchange in Yerevan, Armenia. No KYC - Note: See: &lt;a href="https://xmrbazaar.com/listing/L9c5/"&gt;XMRBazaar&lt;/a&gt; - Location: Marshal Khudyakov Street 177/7, Yerevan, Armenia - Contact: @cryptoinvestexchange on Telegram</description>
       <pubDate>Thu, 04 Jul 2024 00:31:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>VIKHOST</title>
-      <link>https://vikhost.com/</link>
-      <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : VPS, Dedicated servers - Note: Vikhost is a hosting provider offering secure, high-performance, and high-efficiency hosting solutions.</description>
-      <pubDate>Mon, 01 Jul 2024 20:40:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Clams</title>
-      <link>https://paywithclams.com</link>
-      <description>Businesses &gt; Digital Goods/ Services : Sell files privately for Monero with end-to-end encryption and no KYC. - Contact: colby@paywithclams.com</description>
-      <pubDate>Mon, 01 Jul 2024 01:47:28 GMT</pubDate>
     </item>
   </channel>
 </rss>
