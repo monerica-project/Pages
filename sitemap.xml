@@ -246,6 +246,9 @@
 <loc>https://monerica.com/finance/market-cap-comparision</loc><lastmod>2024-12-16</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
+<loc>https://monerica.com/finance/price-display</loc><lastmod>2024-12-16</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
+</url>
+<url>
 <loc>https://monerica.com/freelancers</loc><lastmod>2024-12-16</lastmod><changefreq>Weekly</changefreq><priority>0.6</priority>
 </url>
 <url>
@@ -1522,6 +1525,9 @@
 </url>
 <url>
 <loc>https://monerica.com/education/knowledge/monero-timeline</loc><lastmod>2024-12-16</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+</url>
+<url>
+<loc>https://monerica.com/finance/price-display/monero-trade-visualizer</loc><lastmod>2024-12-16</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/utilities/transactions/monero-transactions-historical-chart</loc><lastmod>2024-12-16</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
