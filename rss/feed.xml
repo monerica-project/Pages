@@ -4,6 +4,12 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions and sponsors in our directory.</description>
     <item>
+      <title>Coinimp</title>
+      <link>https://www.coinimp.com/</link>
+      <description>Mining &gt; Miscellaneous : CoinIMP is a JavaScript miner that can be easily embedded in your website. This way users will pay you with their CPU power for accessing your content.</description>
+      <pubDate>Fri, 20 Dec 2024 22:47:28 GMT</pubDate>
+    </item>
+    <item>
       <title>&amp;#x2705; Servers Guru (sponsored)</title>
       <link>https://servers.guru/</link>
       <description>Web Hosting &gt; Cloud &amp; Web Hosting Providers : Anonymous VPS, Cloud servers and Webhosting available in: Netherlands, Germany, Finland, USA, Canada and Singapore - Location: New Mexico, USA - Processor: bitcart - Contact: contact@severs.guru</description>
@@ -647,12 +653,6 @@ Receive voice messages and continue the conversation as long as you want. - Cont
       <link>https://my.bluevps.com/aff.php?aff=759</link>
       <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : Dedicated servers, VPS, unlimited bandwidth - Location: Estonia - Processor: Coin Payments</description>
       <pubDate>Fri, 26 Jul 2024 17:42:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x2705; OnlineSim</title>
-      <link>https://onlinesim.io/?bref=6807864</link>
-      <description>Businesses &gt; Phone Plans &amp; SIM Cards : Receive SMS online to virtual phone number. - Note: Email verification required - Location: Russia</description>
-      <pubDate>Sat, 13 Jul 2024 12:19:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
