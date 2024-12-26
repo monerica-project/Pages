@@ -4,6 +4,18 @@
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions and sponsors in our directory.</description>
     <item>
+      <title>Anonymousplanet</title>
+      <link>https://anonymousplanet.org/index.html</link>
+      <description>Education &gt; Guides : A maintained guide with the aim of providing an introduction to various online tracking techniques, online ID verification techniques, and detailed guidance to creating and maintaining (truly) anonymous online identities. - Note: The PDF only lets itself download through the Web archive, not through the website. - Contact: contact@anonymousplanet.org</description>
+      <pubDate>Thu, 26 Dec 2024 20:56:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Invidious</title>
+      <link>https://invidious.io/</link>
+      <description>Non-Profits &gt; Technologies : Invidious is an open source alternative front-end to YouTube.</description>
+      <pubDate>Thu, 26 Dec 2024 20:55:40 GMT</pubDate>
+    </item>
+    <item>
       <title>Coinimp</title>
       <link>https://www.coinimp.com/</link>
       <description>Mining &gt; Miscellaneous : A JavaScript miner that can be easily embedded in your website. This way users will pay you with their CPU power for accessing your content.</description>
@@ -641,18 +653,6 @@ Receive voice messages and continue the conversation as long as you want. - Cont
       <link>https://oxapay.com</link>
       <description>Merchant Services &gt; Integrations : From 0.4% Fees, 24/7 Support, No hidden fee, No KYC/KYB</description>
       <pubDate>Sat, 03 Aug 2024 12:45:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>TrilightZone</title>
-      <link>https://trilightzone.org</link>
-      <description>Web Hosting &gt; Specialized or Niche Hosting Services : Longtime player in the game of providing anonymous services (for small sites) - Note: Listed on offshore.cat as "Unverified". Must use email for payment.</description>
-      <pubDate>Fri, 02 Aug 2024 11:15:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x2705; BlueVPS</title>
-      <link>https://my.bluevps.com/aff.php?aff=759</link>
-      <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : Dedicated servers, VPS, unlimited bandwidth - Location: Estonia - Processor: Coin Payments</description>
-      <pubDate>Fri, 26 Jul 2024 17:42:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
