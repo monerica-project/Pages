@@ -10,6 +10,12 @@
       <pubDate>Wed, 08 Jan 2025 19:02:00 GMT</pubDate>
     </item>
     <item>
+      <title>Libretorrent</title>
+      <link>https://gitlab.com/proninyaroslav/libretorrent#donation</link>
+      <description>Non-Profits &gt; Miscellaneous : FOSS Torrenting software</description>
+      <pubDate>Sun, 05 Jan 2025 02:13:40 GMT</pubDate>
+    </item>
+    <item>
       <title>Ungovernable Misfits</title>
       <link>https://fountain.fm/show/sbfNnARG7zj3nL6Xfill</link>
       <description>Media &gt; Talk Shows/ Podcasts (English) : Monero Monthly podcast</description>
@@ -641,12 +647,6 @@ Receive voice messages and continue the conversation as long as you want. - Cont
       <link>https://blog.nowhere.moe/servers/haveno-cashbymail/index.html</link>
       <description>Education &gt; Tutorials : How to use Haveno and cash</description>
       <pubDate>Sat, 17 Aug 2024 15:01:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kryptex</title>
-      <link>https://pool.kryptex.com/xmr</link>
-      <description>Mining &gt; Pools : </description>
-      <pubDate>Fri, 16 Aug 2024 00:54:15 GMT</pubDate>
     </item>
   </channel>
 </rss>
