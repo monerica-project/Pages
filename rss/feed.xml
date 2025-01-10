@@ -9,6 +9,12 @@
       <link>https://monerica.com/rss/feed.xml</link>
     </image>
     <item>
+      <title>TorTrade Escrow</title>
+      <link>http://tortradedolnv35gcqys5qsi5yqx6le5zbbmtkyvsgvhfakb5khffcid.onion/</link>
+      <description>Businesses &gt; Marketplaces (Peer-to-Peer) : TorTrade 🛡️ is a secure, automated, accountless escrow platform allowing users to trade goods and services safely and privately using Monero. - Contact: tortrade@riseup.net</description>
+      <pubDate>Fri, 10 Jan 2025 12:21:44 GMT</pubDate>
+    </item>
+    <item>
       <title>Privacy Sexy</title>
       <link>https://undergroundwires.dev/donate/?project=privacy.sexy</link>
       <description>Non-Profits &gt; Technologies : Enforces privacy &amp; security best-practices on Windows, macOS and Linux. - Note: See: &lt;a href="https://privacy.sexy/" target="_blank"&gt;site&lt;/a&gt; - Contact: web@undergroundwires.dev</description>
@@ -646,12 +652,6 @@ Receive voice messages and continue the conversation as long as you want. - Cont
       <link>https://marblebox.kyun.li/box.php?key=XMR</link>
       <description>Communities &gt; Chatrooms : Anonymous and ephemeral XMR chatboard with PoW anti-spam.</description>
       <pubDate>Fri, 23 Aug 2024 20:33:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>UDN</title>
-      <link>https://www.urdn.com.ua/</link>
-      <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : Ukrainian Data Network is an Internet Service Provider offering a wide range of services including Virtual Machines (VM/VPS), Dedicated Servers, bandwidth and other IP services, as well as consulting and software development. - Note: Monero and other p2p money processed without third parties via in-house billing panel. Must contact to place an initial order. - Location: Kiev/Kyiv, Ukraine - Processor: in-house payments - Contact: sales@urdn.com.ua, support@urdn.com.ua</description>
-      <pubDate>Fri, 23 Aug 2024 17:41:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
