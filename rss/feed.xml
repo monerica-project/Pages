@@ -9,6 +9,12 @@
       <link>https://monerica.com/rss/feed.xml</link>
     </image>
     <item>
+      <title>Silent Donor</title>
+      <link>https://www.silentdonor.com/silent-donor-international-send-a-monero-donation/</link>
+      <description>Non-Profits &gt; Miscellaneous : Ability to donate to charities - Location: Chicago, Illinois, USA European HQ: The Hague, Netherlands - Contact: ContactUs@silentdonor.com</description>
+      <pubDate>Fri, 10 Jan 2025 20:41:17 GMT</pubDate>
+    </item>
+    <item>
       <title>TorTrade Escrow</title>
       <link>http://tortradedolnv35gcqys5qsi5yqx6le5zbbmtkyvsgvhfakb5khffcid.onion/</link>
       <description>Businesses &gt; Marketplaces (Peer-to-Peer) : TorTrade is a secure, automated, accountless escrow platform allowing users to trade goods and services safely and privately using Monero. - Contact: tortrade@riseup.net</description>
@@ -646,12 +652,6 @@ Receive voice messages and continue the conversation as long as you want. - Cont
       <link>https://bpname.com/</link>
       <description>Web Hosting &gt; Domain Registration &amp; DNS Services : Total anonymous private registration of domains. No Personal information required. Register your domain without the need of passport. - Note: Might be a scam. They don't have a &lt;a href="https://www.whmcs.com/members/verifydomain.php/verifydomain.php" target="_blank"&gt;WHMCS license&lt;/a&gt; and they're copying the homepage of another scam site named XUID.ru</description>
       <pubDate>Sun, 25 Aug 2024 22:51:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>MarbleBox - XMR</title>
-      <link>https://marblebox.kyun.li/box.php?key=XMR</link>
-      <description>Communities &gt; Chatrooms : Anonymous and ephemeral XMR chatboard with PoW anti-spam.</description>
-      <pubDate>Fri, 23 Aug 2024 20:33:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
