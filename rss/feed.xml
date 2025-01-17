@@ -9,6 +9,12 @@
       <link>https://monerica.com/rss/feed.xml</link>
     </image>
     <item>
+      <title>Fossify</title>
+      <link>https://www.fossify.org/</link>
+      <description>Non-Profits &gt; Technologies : A group of simple, privacy respecting, open source apps without ads and unnecessary permissions, with customizable colors. A fork of @SimpleMobileTools. - Note: On the &lt;a href="https://github.com/FossifyOrg#support-fossify-heart" target="_blank"&gt;donations page&lt;/a&gt;, You have to select "Crypto Options" to be able to see the XMR wallet. - Contact: hello@fossify.org</description>
+      <pubDate>Fri, 17 Jan 2025 21:02:23 GMT</pubDate>
+    </item>
+    <item>
       <title>&amp;#x2705; CryptoPostage (sponsored)</title>
       <link>https://cryptopostage.info/</link>
       <description>Businesses &gt; Postage &amp; Shipping Services : Buy and print postage fast from home.</description>
@@ -646,12 +652,6 @@ Receive voice messages and continue the conversation as long as you want. - Cont
       <link>https://meile.app</link>
       <description>Businesses &gt; VPN Companies : A decentralized VPN powered by the Sentinel blockchain. 5000+ community ran nodes. - Note: Accepting Monero through BTCPay for unlimited bandwidth subscription plans. - Location: Tallinn, Estonia - Contact: @meiledvpn</description>
       <pubDate>Fri, 30 Aug 2024 01:35:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>SMMKind</title>
-      <link>https://smmkind.com/</link>
-      <description>Businesses &gt; Marketing : Social media marketing panel for reseller</description>
-      <pubDate>Mon, 26 Aug 2024 20:55:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
