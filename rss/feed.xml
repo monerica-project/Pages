@@ -3,10 +3,8 @@
     <title>Monerica - Newest and Sponsored Listings</title>
     <link>https://monerica.com/rss/feed.xml</link>
     <description>The latest additions and sponsors in our directory.</description>
-    <image>
-      <url>https://monerica.com/images/monerica-logo.png</url>
+    <image url="https://monerica.com/images/monerica-logo.png">
       <title>Monerica - Newest and Sponsored Listings</title>
-      <link>https://monerica.com/rss/feed.xml</link>
     </image>
     <item>
       <title>ProxySocks5</title>
