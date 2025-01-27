@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Quackr</title>
+      <link>https://quackr.io/</link>
+      <description>Businesses &gt; Phone Plans &amp; SIM Cards : Rent virtual phone number for SMS verification, or buy private numbers for long term usage.</description>
+      <pubDate>Mon, 27 Jan 2025 23:08:56 GMT</pubDate>
+    </item>
+    <item>
       <title>&amp;#x2705; Anon Shop (sponsored)</title>
       <link>https://anonshop.app</link>
       <description>Businesses &gt; Proxy Shopping : A Quick and Easy bridge between Monero and Amazon! - Location: Ridgeland, Mississippi</description>
@@ -653,12 +659,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://www.smscodes.io/</link>
       <description>Businesses &gt; Phone Plans &amp; SIM Cards : Provides real sim card numbers for you to create and verify your accounts.</description>
       <pubDate>Tue, 10 Sep 2024 13:51:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>VPS Price Tracker</title>
-      <link>https://vpspricetracker.com/search?monero_payment=true</link>
-      <description>Web Hosting &gt; Resellers &amp; Aggregators : An independent search engine for thousands of VPSs: search for CPU, RAM, disk size &amp; type and sort by price - Contact: baldiniebaldini@gmail.com</description>
-      <pubDate>Sat, 07 Sep 2024 16:35:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
