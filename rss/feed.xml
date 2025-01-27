@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>kevinhq.com</title>
+      <link>https://kevinhq.com/</link>
+      <description>Freelancers &gt; Software Developers : An automation expert with over 10 years of experience in streamlining back-end processes and creating custom systems that drive results. - Note: Hourly rate is XMR 0.07 per hour. - Processor: Monero XMR - Contact: https://github.com/kevinhq/</description>
+      <pubDate>Mon, 27 Jan 2025 23:11:42 GMT</pubDate>
+    </item>
+    <item>
       <title>Quackr</title>
       <link>https://quackr.io/</link>
       <description>Businesses &gt; Phone Plans &amp; SIM Cards : Rent virtual phone number for SMS verification, or buy private numbers for long term usage.</description>
@@ -416,7 +422,7 @@ Donation address is here https://4get.ca/donate - Location: Canada - Contact: wi
     <item>
       <title>Monero Node - Running Node</title>
       <link>https://landchad.net/monerod/</link>
-      <description>Education &gt; Guides : Monero node installation and configuration guide</description>
+      <description>Education &gt; Guides : Monero node installation and configuration guide. - Note: This page is on &lt;a target="_blank" href="https://landchad.net/"&gt;LandChad.net&lt;/a&gt;</description>
       <pubDate>Sat, 26 Oct 2024 16:07:42 GMT</pubDate>
     </item>
     <item>
@@ -653,12 +659,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://chipex.cc/</link>
       <description>Exchanges &gt; Non-KYC Exchanges : Anonymous Crypto to Crypto Exchange - No Trade Limits</description>
       <pubDate>Wed, 11 Sep 2024 22:45:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>smscodes</title>
-      <link>https://www.smscodes.io/</link>
-      <description>Businesses &gt; Phone Plans &amp; SIM Cards : Provides real sim card numbers for you to create and verify your accounts.</description>
-      <pubDate>Tue, 10 Sep 2024 13:51:57 GMT</pubDate>
     </item>
   </channel>
 </rss>
