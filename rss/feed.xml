@@ -5,6 +5,14 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>LocalCDN</title>
+      <link>https://codeberg.org/nobody/LocalCDN</link>
+      <description>Non-Profits &gt; Technologies : A web browser extension that emulates Content Delivery Networks to improve your online privacy. It intercepts traffic, finds supported resources locally, and injects them into the environment. - Note: Decentraleyes alternative 
+
+https://www.reddit.com/r/privacytoolsIO/comments/j6lv30/should_i_use_localcdn_instead_of_decentraleyes/</description>
+      <pubDate>Wed, 05 Feb 2025 14:32:25 GMT</pubDate>
+    </item>
+    <item>
       <title>uThrive Labs</title>
       <link>https://uthrivelabs.com</link>
       <description>Businesses &gt; Health/ Beauty : Self-directed holistic health solutions that work. - Note: Monero accepted only over email. Go to the &lt;a href="https://uthrivelabs.com/get-crypto.html" target="_blank"&gt;money page&lt;/a&gt; for more information on ordering. 10% discount when paying with Monero. - Location: Richmond, VA USA - Processor: Email - Contact: @uthrivelabs on X</description>
@@ -653,12 +661,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://swappix.io</link>
       <description>Exchanges &gt; Non-KYC Exchanges : Instant crypto exchange with over 570 pairs</description>
       <pubDate>Fri, 13 Sep 2024 00:09:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChipEX</title>
-      <link>https://chipex.cc/</link>
-      <description>Exchanges &gt; Non-KYC Exchanges : Anonymous Crypto to Crypto Exchange - No Trade Limits</description>
-      <pubDate>Wed, 11 Sep 2024 22:45:48 GMT</pubDate>
     </item>
   </channel>
 </rss>
