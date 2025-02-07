@@ -5,6 +5,18 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Call to Concious</title>
+      <link>https://peaceplea.org/</link>
+      <description>Non-Profits &gt; Activism : Helps people dodge the military draft in Russia. - Contact: https://www.instagram.com/agsnowarbot/</description>
+      <pubDate>Fri, 07 Feb 2025 01:08:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>OVD.info</title>
+      <link>https://donate.ovdinfo.legal/crypto</link>
+      <description>Non-Profits &gt; Activism : Russian human rights media project analysing and giving legal help to political prisoners. - Contact: info@ovdinfo.org</description>
+      <pubDate>Fri, 07 Feb 2025 01:07:47 GMT</pubDate>
+    </item>
+    <item>
       <title>LocalCDN</title>
       <link>https://codeberg.org/nobody/LocalCDN</link>
       <description>Non-Profits &gt; Technologies : A web browser extension that emulates Content Delivery Networks to improve your online privacy. It intercepts traffic, finds supported resources locally, and injects them into the environment. - Note: &lt;a target="_blank"  href="https://www.reddit.com/r/privacytoolsIO/comments/j6lv30/should_i_use_localcdn_instead_of_decentraleyes/"&gt;Decentraleyes alternative&lt;/a&gt;</description>
@@ -647,18 +659,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://swapuz.com/?ref=8bb61963-e9c2-48c9-9aa3-c59c9c6da3af</link>
       <description>Exchanges &gt; Non-KYC Exchanges : Instant crypto exchange</description>
       <pubDate>Mon, 16 Sep 2024 00:27:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Above Phones</title>
-      <link>https://abovephone.com/?above=111</link>
-      <description>Businesses &gt; Technology/ Computer Hardware : Phones and laptops</description>
-      <pubDate>Sat, 14 Sep 2024 01:17:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Swappix</title>
-      <link>https://swappix.io</link>
-      <description>Exchanges &gt; Non-KYC Exchanges : Instant crypto exchange with over 570 pairs</description>
-      <pubDate>Fri, 13 Sep 2024 00:09:44 GMT</pubDate>
     </item>
   </channel>
 </rss>
