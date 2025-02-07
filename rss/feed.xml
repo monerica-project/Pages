@@ -5,6 +5,18 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Media Zone</title>
+      <link>https://donate.zona.media/</link>
+      <description>Media &gt; News (Russian) : Antiwar media</description>
+      <pubDate>Fri, 07 Feb 2025 02:02:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Movement of Conscientious Objectors to military service in Russia - MCO</title>
+      <link>https://stoparmy.org/en/</link>
+      <description>Non-Profits &gt; Activism : ANTI-war and military draft dodgers.</description>
+      <pubDate>Fri, 07 Feb 2025 02:01:41 GMT</pubDate>
+    </item>
+    <item>
       <title>Call to Concious</title>
       <link>https://peaceplea.org/</link>
       <description>Non-Profits &gt; Activism : Helps people dodge the military draft in Russia. - Contact: https://www.instagram.com/agsnowarbot/</description>
@@ -647,18 +659,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://coin.host/?ref=monerica1</link>
       <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : Dedicated and virtual servers</description>
       <pubDate>Wed, 18 Sep 2024 23:34:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>SwapSpace</title>
-      <link>https://swapspace.co</link>
-      <description>Exchanges &gt; Comparison/ Aggregation : Crypto exchange aggregator</description>
-      <pubDate>Mon, 16 Sep 2024 00:31:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Swapuz</title>
-      <link>https://swapuz.com/?ref=8bb61963-e9c2-48c9-9aa3-c59c9c6da3af</link>
-      <description>Exchanges &gt; Non-KYC Exchanges : Instant crypto exchange</description>
-      <pubDate>Mon, 16 Sep 2024 00:27:57 GMT</pubDate>
     </item>
   </channel>
 </rss>
