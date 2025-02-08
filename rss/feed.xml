@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Cointree</title>
+      <link>https://cointr.ee/</link>
+      <description>Businesses &gt; Miscellaneous : A list maker for your crypto addresses which you can also send messages to. - Note: You must sign up to be able to select Monero</description>
+      <pubDate>Sat, 08 Feb 2025 18:09:36 GMT</pubDate>
+    </item>
+    <item>
       <title>Media Zone</title>
       <link>https://donate.zona.media/</link>
       <description>Media &gt; News (Russian) : Antiwar media</description>
@@ -653,12 +659,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://goexme.io/</link>
       <description>Exchanges &gt; Non-KYC Exchanges : Fast and anonymous exchange. Many XMR pairs. No registration. - Location: Warsaw, Poland - Contact: @Exme_support</description>
       <pubDate>Fri, 20 Sep 2024 10:31:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>COIN.HOST</title>
-      <link>https://coin.host/?ref=monerica1</link>
-      <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : Dedicated and virtual servers</description>
-      <pubDate>Wed, 18 Sep 2024 23:34:55 GMT</pubDate>
     </item>
   </channel>
 </rss>
