@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Cryptomator</title>
+      <link>https://cryptomator.org/</link>
+      <description>Non-Profits &gt; Technologies : Encrypts your files for the cloud. - Processor: CoinPayments</description>
+      <pubDate>Sun, 09 Feb 2025 12:01:43 GMT</pubDate>
+    </item>
+    <item>
       <title>Cointree</title>
       <link>https://cointr.ee/</link>
       <description>Businesses &gt; Miscellaneous : A list maker for your crypto addresses which you can also send messages to. - Note: You must sign up to be able to select Monero</description>
@@ -653,12 +659,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>http://labcradle.com/index.php?tracking=rxNErtYK1TzEMUUklscqXEcBqdwQcAOceGG0K0gKY6Iog6H1x8m5PYlQWwDVsz9y</link>
       <description>Businesses &gt; Medical Testing &amp; Laboratory Supplies : Laboratory equipment and service. Vacuum, pressure, ultra low freezers, high temperature heaters, filtering, distillation, glassware, reactors and more. - Location: Toronto, Ontario - Contact: @Serge4Liberty</description>
       <pubDate>Tue, 24 Sep 2024 02:50:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>GoExme</title>
-      <link>https://goexme.io/</link>
-      <description>Exchanges &gt; Non-KYC Exchanges : Fast and anonymous exchange. Many XMR pairs. No registration. - Location: Warsaw, Poland - Contact: @Exme_support</description>
-      <pubDate>Fri, 20 Sep 2024 10:31:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
