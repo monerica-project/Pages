@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Liberty+</title>
+      <link>https://libertypl.us</link>
+      <description>Non-Profits &gt; Activism : A liberty advancement organization for men and women of good character. - Contact: contact@libertypl.us</description>
+      <pubDate>Thu, 13 Feb 2025 14:42:54 GMT</pubDate>
+    </item>
+    <item>
       <title>Arbeitskreis Sicherheit</title>
       <link>https://www.s-f-n.org/</link>
       <description>Education &gt; Research : Working group giving security advice. - Note: see &lt;a href="https://www.s-f-n.org/info/unterstuetzen/" target="_blank"&gt;donations&lt;/a&gt;</description>
@@ -653,12 +659,6 @@ Donation address is here https://4get.ca/donate - Location: Canada - Contact: wi
       <link>https://anycolo.net/</link>
       <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : Virtual private servers</description>
       <pubDate>Thu, 26 Sep 2024 23:04:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bitcart</title>
-      <link>https://bitcart.ai/</link>
-      <description>Merchant Services &gt; Open Source Projects : A self-hosted, open-source cryptocurrency all-in-one solution. It's secure, private, censorship-resistant and free. - Note: &lt;a href="https://github.com/bitcart/bitcart"&gt;see code here&lt;/a&gt;</description>
-      <pubDate>Thu, 26 Sep 2024 15:02:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
