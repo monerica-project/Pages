@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Arbeitskreis Sicherheit</title>
+      <link>https://www.s-f-n.org/</link>
+      <description>Education &gt; Research : Working group giving security advice. - Note: see &lt;a href="https://www.s-f-n.org/info/unterstuetzen/" target="_blank"&gt;donations&lt;/a&gt;</description>
+      <pubDate>Thu, 13 Feb 2025 02:23:24 GMT</pubDate>
+    </item>
+    <item>
       <title>Explace</title>
       <link>https://explace.io/</link>
       <description>Exchanges &gt; Non-KYC Exchanges : Safely exchange up to 2000+ Cryptocurrencies - Contact: X - @Explaceio, Telegram - https://t.me/Explaceio</description>
@@ -653,12 +659,6 @@ Donation address is here https://4get.ca/donate - Location: Canada - Contact: wi
       <link>https://bitcart.ai/</link>
       <description>Merchant Services &gt; Open Source Projects : A self-hosted, open-source cryptocurrency all-in-one solution. It's secure, private, censorship-resistant and free. - Note: &lt;a href="https://github.com/bitcart/bitcart"&gt;see code here&lt;/a&gt;</description>
       <pubDate>Thu, 26 Sep 2024 15:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Labcradle</title>
-      <link>http://labcradle.com/index.php?tracking=rxNErtYK1TzEMUUklscqXEcBqdwQcAOceGG0K0gKY6Iog6H1x8m5PYlQWwDVsz9y</link>
-      <description>Businesses &gt; Medical Testing &amp; Laboratory Supplies : Laboratory equipment and service. Vacuum, pressure, ultra low freezers, high temperature heaters, filtering, distillation, glassware, reactors and more. - Location: Toronto, Ontario - Contact: @Serge4Liberty</description>
-      <pubDate>Tue, 24 Sep 2024 02:50:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
