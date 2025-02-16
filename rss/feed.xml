@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>moneroc</title>
+      <link>https://github.com/antichainalysis/xmr-churner</link>
+      <description>Utilities &gt; Open Source Projects : The proper way to churn Monero.</description>
+      <pubDate>Sun, 16 Feb 2025 00:23:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Liberty+</title>
       <link>https://libertypl.us</link>
       <description>Non-Profits &gt; Activism : A liberty advancement organization for men and women of good character. - Contact: contact@libertypl.us</description>
@@ -647,12 +653,6 @@ Donation address is here https://4get.ca/donate - Location: Canada - Contact: wi
       <link>https://mailum.com/</link>
       <description>Businesses &gt; E-Mail Providers/ Forwarders : No IP Logs, end to end email encryption, MITM protection - Note: Privacy-focused Encrypted Email. (Previously known as "Cyberfear" the alleged honeypot, although these claims have no proof that we have seen.) - Location: Poland - Contact: @MailumCom</description>
       <pubDate>Fri, 27 Sep 2024 16:46:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>AnyCOLO</title>
-      <link>https://anycolo.net/</link>
-      <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : Virtual private servers</description>
-      <pubDate>Thu, 26 Sep 2024 23:04:45 GMT</pubDate>
     </item>
   </channel>
 </rss>
