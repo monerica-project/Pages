@@ -771,6 +771,9 @@
 <loc>https://monerica.com/businesses/miscellaneous/coin-power</loc><lastmod>2025-02-18</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
+<loc>https://monerica.com/wallets/web-wallets/coin-wallet</loc><lastmod>2025-02-18</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+</url>
+<url>
 <loc>https://monerica.com/web-hosting/vps-and-dedicated-server-providers/coin-host</loc><lastmod>2025-02-18</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
@@ -898,9 +901,6 @@
 </url>
 <url>
 <loc>https://monerica.com/businesses/phone-plans-and-sim-cards/crypton-sh</loc><lastmod>2025-02-18</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
-</url>
-<url>
-<loc>https://monerica.com/businesses/medical-pharmaceutical-treatments/cryptopharma</loc><lastmod>2025-02-18</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/postage-and-shipping-services/cryptopostage</loc><lastmod>2025-02-18</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -1417,9 +1417,6 @@
 </url>
 <url>
 <loc>https://monerica.com/media/social-media-twitter/monero</loc><lastmod>2025-02-18</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
-</url>
-<url>
-<loc>https://monerica.com/mining/miscellaneous/monero-benchmarks</loc><lastmod>2025-02-18</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/utilities/blockchain-explorers/monero-blocks</loc><lastmod>2025-02-18</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>

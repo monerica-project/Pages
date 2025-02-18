@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Coin Wallet</title>
+      <link>https://coin.space/</link>
+      <description>Wallets &gt; Web Wallets : Self-custodial, open-source wallet. Supporting Monero since 2022 - Location: Johns Creek, Georgia, USA - Contact: https://x.com/CoinAppWallet</description>
+      <pubDate>Tue, 18 Feb 2025 13:32:12 GMT</pubDate>
+    </item>
+    <item>
       <title>&amp;#x2705; Servers Guru (sponsored)</title>
       <link>https://servers.guru/</link>
       <description>Web Hosting &gt; Cloud &amp; Web Hosting Providers : Anonymous VPS, Cloud servers and Webhosting available in: Netherlands, Germany, Finland, USA, Canada and Singapore - Location: New Mexico, USA - Processor: bitcart - Contact: contact@severs.guru</description>
@@ -647,12 +653,6 @@ Donation address is here https://4get.ca/donate - Location: Canada - Contact: wi
       <link>https://robertblinov.net</link>
       <description>Freelancers &gt; Designers : Product designer creating user interfaces, transit maps, logos, and promotional material</description>
       <pubDate>Sat, 28 Sep 2024 15:23:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x2753; Mailum</title>
-      <link>https://mailum.com/</link>
-      <description>Businesses &gt; E-Mail Providers/ Forwarders : No IP Logs, end to end email encryption, MITM protection - Note: Privacy-focused Encrypted Email. (Previously known as "Cyberfear" the alleged honeypot, although these claims have no proof that we have seen.) - Location: Poland - Contact: @MailumCom</description>
-      <pubDate>Fri, 27 Sep 2024 16:46:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
