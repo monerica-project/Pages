@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Memonero</title>
+      <link>https://codeberg.org/0xanon/memonero</link>
+      <description>Utilities &gt; Open Source Projects : A monero brain wallet.</description>
+      <pubDate>Sat, 22 Feb 2025 20:56:14 GMT</pubDate>
+    </item>
+    <item>
       <title>&amp;#x2705; Coincards (sponsored)</title>
       <link>https://coincards.com/us/</link>
       <description>Businesses &gt; Giftcards/ Pre-Paid Cards : Gift cards from hundreds of top brands, including Amazon, Walmart, Airbnb, Uber, DoorDash, Home Depot, and even Visa or Amex cards, with values up to $2,000. - Location: Surrey, B.C. Canada - Processor: BTCPay Server</description>
@@ -647,12 +653,6 @@ Donation address is here https://4get.ca/donate - Location: Canada - Contact: wi
       <link>https://haveno-reto.com</link>
       <description>Exchanges &gt; Software : A decentralized and P2P exchange, to trade Cryptos/FIAT for Monero without custody. - Contact: @TintedBrief on SimpleXChat (group link is on the webpage)</description>
       <pubDate>Sat, 28 Sep 2024 15:24:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x2705; Robert Blinov</title>
-      <link>https://robertblinov.net</link>
-      <description>Freelancers &gt; Designers : Product designer creating user interfaces, transit maps, logos, and promotional material</description>
-      <pubDate>Sat, 28 Sep 2024 15:23:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
