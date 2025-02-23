@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>XMRGlobal (sponsored)</title>
+      <link>https://xmrglobal.io/</link>
+      <description>Exchanges &gt; Peer to Peer Exchanges : P2P Monero Exchange</description>
+      <pubDate>Sun, 23 Feb 2025 14:39:42 GMT</pubDate>
+    </item>
+    <item>
       <title>Memonero</title>
       <link>https://codeberg.org/0xanon/memonero</link>
       <description>Utilities &gt; Open Source Projects : A monero brain wallet.</description>
@@ -328,12 +334,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://bitrica.com</link>
       <description>Exchanges &gt; Peer to Peer Exchanges : Bitrica is a P2P crypto exchange that allows you to buy and sell BTC/XMR with FIAT currencies. - Contact: Email: hi@bitrica.com</description>
       <pubDate>Sun, 15 Dec 2024 11:55:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>XMRGlobal</title>
-      <link>https://xmrglobal.io/</link>
-      <description>Exchanges &gt; Peer to Peer Exchanges : P2P Monero Exchange</description>
-      <pubDate>Sun, 15 Dec 2024 11:55:28 GMT</pubDate>
     </item>
     <item>
       <title>Monero Timeline</title>
