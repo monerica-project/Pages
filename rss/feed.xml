@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>JackAni</title>
+      <link>https://jackani.com</link>
+      <description>Businesses &gt; Luxury Goods : Online jewelry retailer based in the USA, specializing in high-quality gold jewelry. Offering a range of products like graduation rings, birthstone rings, religious jewelry, and more. Emphasizing honest pricing and craftsmanship, with all items made in America using solid gold. - Note: Select "Bitcoin &amp; Crypto" payment method during checkout. On the "Thank you" page, click on "Complete Payment" to open up payment QR Code. Monero is default, along with other options available. - Location: Los Angeles, CA - Processor: BTCPay Server - Contact: sales@jackani.com</description>
+      <pubDate>Thu, 27 Feb 2025 12:52:26 GMT</pubDate>
+    </item>
+    <item>
       <title>&amp;#x2705; MoneroDice (sponsored)</title>
       <link>https://monerodice.pro/</link>
       <description>Businesses &gt; Gambling : Simple, fast, privacy-respecting dice and blackjack game. Provably fair mode for dice is available too. - Contact: contact [at] monerodice.pro</description>
@@ -635,12 +641,6 @@ Donation address is here https://4get.ca/donate - Location: Canada - Contact: wi
       <link>https://haveno-reto.com</link>
       <description>Exchanges &gt; Software : A decentralized and P2P exchange, to trade Cryptos/FIAT for Monero without custody. - Contact: @TintedBrief on SimpleXChat (group link is on the webpage)</description>
       <pubDate>Sat, 28 Sep 2024 15:24:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x2705; Robert Blinov</title>
-      <link>https://robertblinov.net</link>
-      <description>Freelancers &gt; Designers : Product designer creating user interfaces, transit maps, logos, and promotional material</description>
-      <pubDate>Sat, 28 Sep 2024 15:23:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
