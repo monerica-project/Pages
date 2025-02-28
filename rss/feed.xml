@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Eylenburg Cloud Comparison</title>
+      <link>https://eylenburg.github.io/cloud_comparison.htm</link>
+      <description>Non-Profits &gt; Miscellaneous : An aggregator for Cloud Storage providers</description>
+      <pubDate>Fri, 28 Feb 2025 18:24:58 GMT</pubDate>
+    </item>
+    <item>
       <title>JackAni</title>
       <link>https://jackani.com</link>
       <description>Businesses &gt; Luxury Goods : Online jewelry retailer based in the USA, specializing in high-quality gold jewelry. Offering a range of products like graduation rings, birthstone rings, religious jewelry, and more. Emphasizing honest pricing and craftsmanship, with all items made in America using solid gold. - Note: Select "Bitcoin &amp; Crypto" payment method during checkout. On the "Thank you" page, click on "Complete Payment" to open up payment QR Code. Monero is default, along with other options available. - Location: Los Angeles, CA - Processor: BTCPay Server - Contact: sales@jackani.com</description>
@@ -635,12 +641,6 @@ Donation address is here https://4get.ca/donate - Location: Canada - Contact: wi
       <link>https://shapebtc.com/</link>
       <description>Exchanges &gt; Non-KYC Exchanges : Fast and safe. 20.000+ pairs. XMR/BTC, XMR/USDT and more - Location: czech, prague - Contact: @shapebtc - telegram, admin@shapebtc.com</description>
       <pubDate>Mon, 30 Sep 2024 10:25:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Haveno-reto</title>
-      <link>https://haveno-reto.com</link>
-      <description>Exchanges &gt; Software : A decentralized and P2P exchange, to trade Cryptos/FIAT for Monero without custody. - Contact: @TintedBrief on SimpleXChat (group link is on the webpage)</description>
-      <pubDate>Sat, 28 Sep 2024 15:24:38 GMT</pubDate>
     </item>
   </channel>
 </rss>
