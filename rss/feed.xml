@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>XMR.BAR</title>
+      <link>https://xmr.bar/</link>
+      <description>Businesses &gt; Gambling : Play dices using Monero. Privacy-respecting, registration-free and provably fair. - Location: Available everywhere in the world - Processor: Custom (monero-wallet-rpc wrapper) - Contact: support@xmr.bar via email (preferred), @xmrbar/@xmrbargroup on TG</description>
+      <pubDate>Sun, 02 Mar 2025 19:36:41 GMT</pubDate>
+    </item>
+    <item>
       <title>OpSec Guide</title>
       <link>http://jqibjqqagao3peozxfs53tr6aecoyvctumfsc2xqniu4xgcrksal2iqd.onion/</link>
       <description>Non-Profits &gt; Miscellaneous : A Guide to Opsec - Contact: mikoyangurevich@horsefucker.org</description>
@@ -635,12 +641,6 @@ Donation address is here https://4get.ca/donate - Location: Canada - Contact: wi
       <link>http://fairfffoxrgxgi6tkcaxhxre2hpwiuf6autt75ianjkvmcn65dxxydad.onion/swap</link>
       <description>Exchanges &gt; Non-KYC Exchanges : FairTrade offers crypto swaps and an automated escrow service. Exchange BTC to XMR instantly with PGP Guarantees and No KYC. Only a 2% swap fee. - Location: Worldwide - Contact: /d/FairTrade on Dread</description>
       <pubDate>Thu, 03 Oct 2024 14:22:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x2705; LetsExchange</title>
-      <link>https://letsexchange.io/?ref_id=fEKMDDWtsu9tN98X</link>
-      <description>Exchanges &gt; Non-KYC Exchanges : Swap, buy, and sell crypto secure and hassle-free</description>
-      <pubDate>Wed, 02 Oct 2024 16:39:40 GMT</pubDate>
     </item>
   </channel>
 </rss>
