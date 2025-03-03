@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>AnonRDP</title>
+      <link>https://anonrdp.com/</link>
+      <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : Offers Dedicated servers, vps and anonymous domains.</description>
+      <pubDate>Mon, 03 Mar 2025 12:50:01 GMT</pubDate>
+    </item>
+    <item>
       <title>XMR.BAR</title>
       <link>https://xmr.bar/</link>
       <description>Businesses &gt; Gambling : Play dices using Monero. Privacy-respecting, registration-free and provably fair. - Location: Available everywhere in the world - Processor: Custom (monero-wallet-rpc wrapper) - Contact: support@xmr.bar via email (preferred), @xmrbar/@xmrbargroup on TG</description>
@@ -635,12 +641,6 @@ Donation address is here https://4get.ca/donate - Location: Canada - Contact: wi
       <link>https://altrosky.net/</link>
       <description>Web Hosting &gt; Offshore &amp; Privacy-Focused Hosting : Offshore servers and layer 7 proxy services - Note: Use contact methods on site to purchase</description>
       <pubDate>Sun, 06 Oct 2024 23:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>FairTrade</title>
-      <link>http://fairfffoxrgxgi6tkcaxhxre2hpwiuf6autt75ianjkvmcn65dxxydad.onion/swap</link>
-      <description>Exchanges &gt; Non-KYC Exchanges : FairTrade offers crypto swaps and an automated escrow service. Exchange BTC to XMR instantly with PGP Guarantees and No KYC. Only a 2% swap fee. - Location: Worldwide - Contact: /d/FairTrade on Dread</description>
-      <pubDate>Thu, 03 Oct 2024 14:22:32 GMT</pubDate>
     </item>
   </channel>
 </rss>
