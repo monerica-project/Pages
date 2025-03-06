@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Monero Education</title>
+      <link>https://video.hardlimit.com/c/monero_education/videos</link>
+      <description>Media &gt; Videos : Educational resources about Monero</description>
+      <pubDate>Thu, 06 Mar 2025 23:18:41 GMT</pubDate>
+    </item>
+    <item>
       <title>BTCVPS</title>
       <link>https://btcvps.com/</link>
       <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : Virtual private servers</description>
@@ -635,12 +641,6 @@ Donation address is here https://4get.ca/donate - Location: Canada - Contact: wi
       <link>https://bl4cksqu4re.github.io/</link>
       <description>Non-Profits &gt; Miscellaneous : An open space based for organizing and holding various events, interest clubs, concerts, film screenings. Anyone can freely share knowledge and experience in a cozy, friendly place. - Note: See &lt;a href="https://bl4cksqu4re.github.io/posts/resumo/" target="_blank"&gt;Monero donation post&lt;/a&gt; - Location: Irkutsk, Russia - Contact: Telegram: @black_sq</description>
       <pubDate>Tue, 15 Oct 2024 11:17:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>PrivateAlps</title>
-      <link>https://privatealps.net/?affiliate=0XNBFSSL9P</link>
-      <description>Web Hosting &gt; Offshore &amp; Privacy-Focused Hosting : Offshore hosting services, powered by an ethical team of professionals - Note: Up to 10 % lifetime discount for the first ordered service using code "0XNBFSSL9P"</description>
-      <pubDate>Mon, 14 Oct 2024 22:38:47 GMT</pubDate>
     </item>
   </channel>
 </rss>
