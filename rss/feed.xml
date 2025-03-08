@@ -5,6 +5,18 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Blackflag fleet</title>
+      <link>http://blackflag774dd6puqjyx4iv3he74owovoyzgbx6ggt5eebs7rdn3xid.onion/</link>
+      <description>Non-Profits &gt; Technologies : A little group of servers trying to contribute to freedom, privacy and anti-censorship networks</description>
+      <pubDate>Sat, 08 Mar 2025 23:39:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>XMR.GG</title>
+      <link>https://xmr.gg</link>
+      <description>Businesses &gt; Gambling : Account based no KYC Monero casino with slots, live games, towers, plinko, coinflip, crash and mines. - Note: Instant withdraws and deposits that require 1/10 confirmations. - Contact: @xmr_gg</description>
+      <pubDate>Sat, 08 Mar 2025 23:37:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Monero Education</title>
       <link>https://video.hardlimit.com/c/monero_education/videos</link>
       <description>Media &gt; Videos : Educational resources about Monero</description>
@@ -505,6 +517,12 @@ Donation address is here https://4get.ca/donate - Location: Canada - Contact: wi
       <pubDate>Tue, 05 Nov 2024 16:40:00 GMT</pubDate>
     </item>
     <item>
+      <title>&amp;#x2705; VigorSwap</title>
+      <link>https://vigorswap.io/?referral=l6fdjh</link>
+      <description>Exchanges &gt; Non-KYC Exchanges : Trade a range of cryptocurrencies securely and privately, including Monero, Tether, Bitcoin &amp; more. No hassle of personal information or verifications. Enjoy fast and private swaps with low fees on VigorSwap. - Contact: support@vigorswap.io</description>
+      <pubDate>Tue, 05 Nov 2024 16:03:42 GMT</pubDate>
+    </item>
+    <item>
       <title>Unredacted</title>
       <link>https://unredacted.org/</link>
       <description>Non-Profits &gt; Technologies : A 501(c)(3) non-profit organization that provides free and open services that help people evade censorship and protect their right to privacy - Location: Dover, DE - Processor: Our own wallet - Contact: @unredacted_org (X) / unredacted (GitHub)</description>
@@ -623,24 +641,6 @@ Donation address is here https://4get.ca/donate - Location: Canada - Contact: wi
       <link>https://web.getmonero.org/downloads/#cli</link>
       <description>Wallets &gt; CLI Wallets : Gives you the total control over your Monero node and funds. Highly customizable and includes various analysis tools, as well as an HTTP RPC and 0MQ interface.</description>
       <pubDate>Thu, 17 Oct 2024 22:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>MyMonero (iOS)</title>
-      <link>https://apps.apple.com/us/app/mymonero-send-money-privately/id1372508199</link>
-      <description>Wallets &gt; Mobile Wallets : The MyMonero app is the fastest and most feature-packed way to use Monero.</description>
-      <pubDate>Thu, 17 Oct 2024 21:59:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gupaxx</title>
-      <link>https://github.com/Cyrix126/gupaxx</link>
-      <description>Mining &gt; Software : Fork of Gupax which integrates the XMRvsBeast Raffle and adds other features. - Contact: @Cyrix126</description>
-      <pubDate>Tue, 15 Oct 2024 15:37:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>bl4cksqu4re</title>
-      <link>https://bl4cksqu4re.github.io/</link>
-      <description>Non-Profits &gt; Miscellaneous : An open space based for organizing and holding various events, interest clubs, concerts, film screenings. Anyone can freely share knowledge and experience in a cozy, friendly place. - Note: See &lt;a href="https://bl4cksqu4re.github.io/posts/resumo/" target="_blank"&gt;Monero donation post&lt;/a&gt; - Location: Irkutsk, Russia - Contact: Telegram: @black_sq</description>
-      <pubDate>Tue, 15 Oct 2024 11:17:41 GMT</pubDate>
     </item>
   </channel>
 </rss>
