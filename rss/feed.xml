@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Bitania</title>
+      <link>https://bitania.to</link>
+      <description>Exchanges &gt; Peer to Peer Exchanges : An alternative to the late Agoradesk/ LocalMonero. Enjoy all the same features and more. - Processor: Self-hosted local nodes - Contact: @BitaniaExchange on TG</description>
+      <pubDate>Sun, 09 Mar 2025 01:38:39 GMT</pubDate>
+    </item>
+    <item>
       <title>Blackflag fleet</title>
       <link>http://blackflag774dd6puqjyx4iv3he74owovoyzgbx6ggt5eebs7rdn3xid.onion/</link>
       <description>Non-Profits &gt; Technologies : A little group of servers trying to contribute to freedom, privacy and anti-censorship networks</description>
@@ -635,12 +641,6 @@ Donation address is here https://4get.ca/donate - Location: Canada - Contact: wi
       <link>https://play.google.com/store/apps/details?id=com.mymonero.official_android_application</link>
       <description>Wallets &gt; Mobile Wallets : A fast and feature-packed way to use Monero.</description>
       <pubDate>Thu, 17 Oct 2024 22:05:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x2705; Monero CLI Wallet</title>
-      <link>https://web.getmonero.org/downloads/#cli</link>
-      <description>Wallets &gt; CLI Wallets : Gives you the total control over your Monero node and funds. Highly customizable and includes various analysis tools, as well as an HTTP RPC and 0MQ interface.</description>
-      <pubDate>Thu, 17 Oct 2024 22:02:28 GMT</pubDate>
     </item>
   </channel>
 </rss>
