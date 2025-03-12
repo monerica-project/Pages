@@ -5,6 +5,18 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Monero.win</title>
+      <link>https://monero.win</link>
+      <description>Businesses &gt; Gambling : Bet on coinflips. No signups, no accounts, privacy first, and provably fair. - Contact: /u/monerowin on reddit</description>
+      <pubDate>Wed, 12 Mar 2025 11:56:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bitswitsch</title>
+      <link>https://www.bitswitch.io/</link>
+      <description>Exchanges &gt; Non-KYC Exchanges : Exchange coins without KYC.</description>
+      <pubDate>Wed, 12 Mar 2025 11:55:35 GMT</pubDate>
+    </item>
+    <item>
       <title>&amp;#x2705; XMR.BAR (sponsored)</title>
       <link>https://xmr.bar/</link>
       <description>Businesses &gt; Gambling : Play dices using Monero. Privacy-respecting, registration-free and provably fair. - Location: Available everywhere in the world - Processor: Custom (monero-wallet-rpc wrapper) - Contact: support@xmr.bar via email (preferred), @xmrbar/@xmrbargroup on TG</description>
@@ -378,12 +390,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <pubDate>Thu, 19 Dec 2024 18:27:39 GMT</pubDate>
     </item>
     <item>
-      <title>Vessal</title>
-      <link>https://vessal.com/</link>
-      <description>Businesses &gt; Postage &amp; Shipping Services : Private and secure transportation - Note: see &lt;a href="https://vessal.com/faq/#7" target="blank"&gt;payment&lt;/a&gt;</description>
-      <pubDate>Wed, 18 Dec 2024 21:36:25 GMT</pubDate>
-    </item>
-    <item>
       <title>Ungovernable Misfits</title>
       <link>https://ungovernablemisfits.com/</link>
       <description>Businesses &gt; Clothing, Apparel &amp; Accessories : Cryptocurrency and counter culture t-shirts and apparel</description>
@@ -629,12 +635,6 @@ Donation address is here https://4get.ca/donate - Location: Canada - Contact: wi
       <link>https://sporemonkey.com</link>
       <description>Businesses &gt; Seeds &amp; Spores : Cheap mushroom liquid cultures and spore syringes</description>
       <pubDate>Sat, 19 Oct 2024 10:49:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>MyMonero (Android)</title>
-      <link>https://play.google.com/store/apps/details?id=com.mymonero.official_android_application</link>
-      <description>Wallets &gt; Mobile Wallets : A fast and feature-packed way to use Monero.</description>
-      <pubDate>Thu, 17 Oct 2024 22:05:28 GMT</pubDate>
     </item>
   </channel>
 </rss>
