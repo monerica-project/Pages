@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Invizible</title>
+      <link>https://invizible.net/en/</link>
+      <description>Non-Profits &gt; Technologies : An app combining Tor, i2P and Dnscrypt into one.</description>
+      <pubDate>Fri, 21 Mar 2025 02:06:08 GMT</pubDate>
+    </item>
+    <item>
       <title>ChainSwap.io</title>
       <link>https://chainswap.io</link>
       <description>Exchanges &gt; Non-KYC Exchanges : no kyc ask cryptocurrency swap with 300+ pairs - Contact: https://x.com/chainswap_ex</description>
@@ -629,12 +635,6 @@ Donation address is here https://4get.ca/donate - Location: Canada - Contact: wi
       <link>https://apps.apple.com/us/app/cake-wallet-for-xmr-monero/id1334702542</link>
       <description>Wallets &gt; Desktop Wallets : Store, buy and sell crypto with fiat, and trade crypto directly in the wallet.</description>
       <pubDate>Mon, 21 Oct 2024 16:15:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>E-Templates</title>
-      <link>https://editable-templates.cc/</link>
-      <description>Businesses &gt; Design Services : High-quality passport, ID, DL or driving license editable templates.</description>
-      <pubDate>Mon, 21 Oct 2024 00:21:31 GMT</pubDate>
     </item>
   </channel>
 </rss>
