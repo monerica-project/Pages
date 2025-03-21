@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>CITIZEN_ERASED</title>
+      <link>https://citizen-erased.com</link>
+      <description>Businesses &gt; Clothing, Apparel &amp; Accessories : Shop privacy-inspired t-shirts, merch, tech &amp; gadgets with no KYC - Note: We display prices while shopping in XMR, NOT just at checkout. Connect with us on NOSTR to find coupon codes for discounts. - Location: Billings, MT, USA - Processor: Woocommerce - Contact: NOSTR Address: npub1787z4g3lcjl34gnkve72hxarucy3kzmf9we4l66uzm2fl78jsf0q2x5</description>
+      <pubDate>Fri, 21 Mar 2025 12:38:26 GMT</pubDate>
+    </item>
+    <item>
       <title>Invizible</title>
       <link>https://invizible.net/en/</link>
       <description>Non-Profits &gt; Technologies : An app combining Tor, i2P and Dnscrypt into one.</description>
@@ -629,12 +635,6 @@ Donation address is here https://4get.ca/donate - Location: Canada - Contact: wi
       <link>https://haveno.markets/</link>
       <description>Finance &gt; Charts : Monero price and liquidity tracker</description>
       <pubDate>Tue, 22 Oct 2024 19:07:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cake Wallet Desktop - MacOS</title>
-      <link>https://apps.apple.com/us/app/cake-wallet-for-xmr-monero/id1334702542</link>
-      <description>Wallets &gt; Desktop Wallets : Store, buy and sell crypto with fiat, and trade crypto directly in the wallet.</description>
-      <pubDate>Mon, 21 Oct 2024 16:15:38 GMT</pubDate>
     </item>
   </channel>
 </rss>
