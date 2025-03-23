@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Puzzak</title>
+      <link>https://cointr.ee/puzzak</link>
+      <description>Non-Profits &gt; Individuals : An Ukrainian open source developer who is involved in multiple projects like TGcrawl and uptime monitor. - Location: Kiev</description>
+      <pubDate>Sun, 23 Mar 2025 13:29:25 GMT</pubDate>
+    </item>
+    <item>
       <title>CITIZEN_ERASED</title>
       <link>https://citizen-erased.com</link>
       <description>Businesses &gt; Clothing, Apparel &amp; Accessories : Shop privacy-inspired t-shirts, merch, tech &amp; gadgets with no KYC - Note: We display prices while shopping in XMR, NOT just at checkout. Connect with us on NOSTR to find coupon codes for discounts. - Location: Billings, MT, USA - Processor: Woocommerce - Contact: NOSTR Address: npub1787z4g3lcjl34gnkve72hxarucy3kzmf9we4l66uzm2fl78jsf0q2x5</description>
@@ -629,12 +635,6 @@ Donation address is here https://4get.ca/donate - Location: Canada - Contact: wi
       <link>https://monero.garden/</link>
       <description>Education &gt; Guides : A community project by anhdres where you can learn about Monero.</description>
       <pubDate>Wed, 23 Oct 2024 03:08:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>haveno.markets</title>
-      <link>https://haveno.markets/</link>
-      <description>Finance &gt; Charts : Monero price and liquidity tracker</description>
-      <pubDate>Tue, 22 Oct 2024 19:07:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
