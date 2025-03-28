@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Fosshub</title>
+      <link>https://www.fosshub.com/crypto.html</link>
+      <description>Non-Profits &gt; Technologies : A platform (for developers and projects) where people can download popular free and clean software titles.</description>
+      <pubDate>Fri, 28 Mar 2025 02:40:56 GMT</pubDate>
+    </item>
+    <item>
       <title>Schwobaglamodda</title>
       <link>https://www.schwobaglamodda.de</link>
       <description>Businesses &gt; Clothing, Apparel &amp; Accessories : Clothing for Swabians with Swabian dialect. - Location: Riedlingen, BW, Germany - Processor: Monero Woocommerce Gateway - Contact: @schwobaglamodda</description>
@@ -631,12 +637,6 @@ Donation address is here https://4get.ca/donate - Location: Canada - Contact: wi
       <link>https://nano-gpt.com/invite/3ymANnHN</link>
       <description>Businesses &gt; AI Services : Lets you access ChatGPT, Claude and all other top LLMs + image models without subscription. - Note: 5% discount</description>
       <pubDate>Thu, 31 Oct 2024 19:33:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anti Moonboy</title>
-      <link>https://www.youtube.com/@Anti_Moonboy</link>
-      <description>Media &gt; YouTube Channels (English) : Technical Monero related research and discussion channel. - Contact: twitter- @xenumonero</description>
-      <pubDate>Wed, 30 Oct 2024 12:36:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
