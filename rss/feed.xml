@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>perephoneia.art</title>
+      <link>https://perephoneia.art/</link>
+      <description>Non-Profits &gt; Media : A free library of inspiring stories for the online art community. - Contact: contact@perephoneia.art</description>
+      <pubDate>Fri, 28 Mar 2025 10:06:41 GMT</pubDate>
+    </item>
+    <item>
       <title>Fosshub</title>
       <link>https://www.fosshub.com/crypto.html</link>
       <description>Non-Profits &gt; Technologies : A platform (for developers and projects) where people can download popular free and clean software titles.</description>
@@ -631,12 +637,6 @@ Donation address is here https://4get.ca/donate - Location: Canada - Contact: wi
       <link>https://noones.com/</link>
       <description>Exchanges &gt; Peer to Peer Exchanges : A peer-to-peer crypto marketplace in the USA.</description>
       <pubDate>Sat, 02 Nov 2024 19:16:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>NanoGPT</title>
-      <link>https://nano-gpt.com/invite/3ymANnHN</link>
-      <description>Businesses &gt; AI Services : Lets you access ChatGPT, Claude and all other top LLMs + image models without subscription. - Note: 5% discount</description>
-      <pubDate>Thu, 31 Oct 2024 19:33:52 GMT</pubDate>
     </item>
   </channel>
 </rss>
