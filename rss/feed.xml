@@ -5,6 +5,18 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Port Authority</title>
+      <link>https://github.com/ACK-J/Port_Authority</link>
+      <description>Non-Profits &gt; Technologies : Prevents websites from port scanning.</description>
+      <pubDate>Sat, 29 Mar 2025 18:29:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>dragonwolftech</title>
+      <link>https://cointr.ee/dragonwolftech</link>
+      <description>Non-Profits &gt; Individuals : Some black guy, who is a journalist</description>
+      <pubDate>Sat, 29 Mar 2025 18:28:21 GMT</pubDate>
+    </item>
+    <item>
       <title>MoneroPal</title>
       <link>https://erstose.wixsite.com/moneropal</link>
       <description>Exchanges &gt; Non-KYC Exchanges : Buy &amp; sell Monero directly through PayPal without KYC. - Location: Globally - Contact: moneropal@protonmail.com</description>
@@ -625,18 +637,6 @@ Donation address is here https://4get.ca/donate - Location: Canada - Contact: wi
       <link>https://yefeth.com/</link>
       <description>Businesses &gt; Marketplaces : Various coffee mugs which can be personalized. - Location: USA</description>
       <pubDate>Mon, 04 Nov 2024 13:18:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>NiceVPS.net</title>
-      <link>https://nicevps.net</link>
-      <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : Professional hosting for high risk businesses.</description>
-      <pubDate>Mon, 04 Nov 2024 01:43:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>NoOnes</title>
-      <link>https://noones.com/</link>
-      <description>Exchanges &gt; Peer to Peer Exchanges : A peer-to-peer crypto marketplace in the USA.</description>
-      <pubDate>Sat, 02 Nov 2024 19:16:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
