@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>NYM VPN</title>
+      <link>https://nym.com/</link>
+      <description>Businesses &gt; VPN Companies : Traffic analysis resistant decentralized vpn anonymous credentials and usage, terms of service for operation of nodes no logs - Location: Switzerland - Processor: BTCPay</description>
+      <pubDate>Sun, 30 Mar 2025 15:08:22 GMT</pubDate>
+    </item>
+    <item>
       <title>Proxied</title>
       <link>https://proxied.com/</link>
       <description>Businesses &gt; IT Services : Dedicated 4g and 5g Mobile Proxies with IP rotation Links, unlimited Bandwith and unique Fingerprints. - Location: Wanchai, Hongkong - Processor: Cryptomus - Contact: @Proxied_support</description>
@@ -631,12 +637,6 @@ Donation address is here https://4get.ca/donate - Location: Canada - Contact: wi
       <link>https://unredacted.org/</link>
       <description>Non-Profits &gt; Technologies : A 501(c)(3) non-profit organization that provides free and open services that help people evade censorship and protect their right to privacy - Location: Dover, DE - Processor: Our own wallet - Contact: @unredacted_org (X) / unredacted (GitHub)</description>
       <pubDate>Mon, 04 Nov 2024 23:12:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Silver IT</title>
-      <link>https://www.slvit.us/</link>
-      <description>Businesses &gt; Technology/ Computer Hardware : Computers, phones, routers and accessories.</description>
-      <pubDate>Mon, 04 Nov 2024 13:42:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
