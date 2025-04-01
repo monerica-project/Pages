@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Libertarian Lemmy</title>
+      <link>https://www.libertarianfellowship.org/</link>
+      <description>Non-Profits &gt; Miscellaneous : A Lemmy instance facilitating open discussion for everyone to use.</description>
+      <pubDate>Tue, 01 Apr 2025 19:36:23 GMT</pubDate>
+    </item>
+    <item>
       <title>Preservetube</title>
       <link>https://preservetube.com</link>
       <description>Non-Profits &gt; Technologies : A service to preserve and find archived YouTube videos.</description>
@@ -631,12 +637,6 @@ Donation address is here https://4get.ca/donate - Location: Canada - Contact: wi
       <link>https://kewbit.org/tag/monero/</link>
       <description>Education &gt; Guides : Explore topics on privacy, Monero, Tor and provide updates for the software maintained such as Haveno and dart I2P and I also provide privacy insights and guides.</description>
       <pubDate>Tue, 05 Nov 2024 20:01:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Robosats</title>
-      <link>https://dex.robosats.com/</link>
-      <description>Exchanges &gt; Peer to Peer Exchanges : P2P exchange for national currencies. Robosats simplifies the peer-to-peer user experience.</description>
-      <pubDate>Tue, 05 Nov 2024 16:43:47 GMT</pubDate>
     </item>
   </channel>
 </rss>
