@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Anosim</title>
+      <link>https://anosim.net/</link>
+      <description>Businesses &gt; Phone Plans &amp; SIM Cards : SMS verification service - create accounts with our temporary numbers without exposing your Number. - Location: Dubai, UAE - Processor: Cryptomus - Contact: @anosim_support</description>
+      <pubDate>Wed, 02 Apr 2025 03:14:27 GMT</pubDate>
+    </item>
+    <item>
       <title>Libertarian Lemmy</title>
       <link>https://www.libertarianfellowship.org/</link>
       <description>Non-Profits &gt; Miscellaneous : A Lemmy instance facilitating open discussion for everyone to use.</description>
@@ -631,12 +637,6 @@ Donation address is here https://4get.ca/donate - Location: Canada - Contact: wi
       <link>https://gameserver24.io</link>
       <description>Web Hosting &gt; Gaming Servers : Serves high quality servers for an affordable price, without having to give up any personal information and staying anonymous. - Location: Seychelles - Processor: BTCPayServer - Contact: @mynymbox</description>
       <pubDate>Thu, 07 Nov 2024 20:23:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x274C; Kewbit's Privacy Blog</title>
-      <link>https://kewbit.org/tag/monero/</link>
-      <description>Education &gt; Guides : Explore topics on privacy, Monero, Tor and provide updates for the software maintained such as Haveno and dart I2P and I also provide privacy insights and guides.</description>
-      <pubDate>Tue, 05 Nov 2024 20:01:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
