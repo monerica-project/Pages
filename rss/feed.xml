@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Retoswap</title>
+      <link>https://retoswap.com/</link>
+      <description>Exchanges &gt; Software : A peer-to-peer trading network, not a website or centralized service. It's software you run on your own hardware, which connects to other people running the RetoSwap software to facilitate trades.</description>
+      <pubDate>Fri, 04 Apr 2025 13:21:31 GMT</pubDate>
+    </item>
+    <item>
       <title>OvO Hosting</title>
       <link>https://ovo.hr</link>
       <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : OvO is a high-performance, privacy-oriented Linux/BSD VPS servers provider. - Processor: NowPayments - Contact: https://github.com/car-mrazomor</description>
@@ -643,12 +649,6 @@ Donation address is here https://4get.ca/donate - Location: Canada - Contact: wi
       <link>https://bitinfocharts.com/comparison/monero-transactions.html#3y</link>
       <description>Utilities &gt; Transactions : Graph of Monero transactions</description>
       <pubDate>Mon, 18 Nov 2024 20:05:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cupcake by Cake Wallet (iOS)</title>
-      <link>https://apps.apple.com/us/app/cupcake-by-cake-wallet/id6737430272</link>
-      <description>Wallets &gt; Mobile Wallets : Non-custodial offline wallet</description>
-      <pubDate>Sun, 17 Nov 2024 01:36:33 GMT</pubDate>
     </item>
   </channel>
 </rss>
