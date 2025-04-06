@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>America First Jewelry</title>
+      <link>https://americafirst.jewelry/</link>
+      <description>Businesses &gt; Luxury Goods : America First Jewelry proudly crafts high-quality, patriotic jewelry right here in the USA. Every piece celebrates American pride, featuring designs inspired by the stars and stripes, eagles, and other iconic symbols of freedom. From necklaces to rings, our handcrafted collections honor the red, white, and blue with unwavering commitment to domestic craftsmanship. Wear your love for the nation close to your heart with America First Jewelry. - Note: Use "Pay with Crypto" option at checkout. - Location: Los Angeles, CA</description>
+      <pubDate>Sun, 06 Apr 2025 18:26:01 GMT</pubDate>
+    </item>
+    <item>
       <title>&amp;#x2705; XMR.BAR (sponsored)</title>
       <link>https://xmr.bar/</link>
       <description>Businesses &gt; Gambling : Play dices using Monero. Privacy-respecting, registration-free and provably fair. - Location: Available everywhere in the world - Processor: Custom (monero-wallet-rpc wrapper) - Contact: support@xmr.bar via email (preferred), @xmrbar/@xmrbargroup on TG</description>
@@ -643,12 +649,6 @@ Donation address is here https://4get.ca/donate - Location: Canada - Contact: wi
       <link>https://noiz.co.za/</link>
       <description>Businesses &gt; IT Services : A cybersecurity company, offering a range of digital security services.</description>
       <pubDate>Wed, 20 Nov 2024 00:31:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monero Transactions historical chart</title>
-      <link>https://bitinfocharts.com/comparison/monero-transactions.html#3y</link>
-      <description>Utilities &gt; Transactions : Graph of Monero transactions</description>
-      <pubDate>Mon, 18 Nov 2024 20:05:58 GMT</pubDate>
     </item>
   </channel>
 </rss>
