@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>&amp;#x2705; XMR.BAR (sponsored)</title>
+      <link>https://xmr.bar/</link>
+      <description>Businesses &gt; Gambling : Play dices using Monero. Privacy-respecting, registration-free and provably fair. - Location: Available everywhere in the world - Processor: Custom (monero-wallet-rpc wrapper) - Contact: support@xmr.bar via email (preferred), @xmrbar/@xmrbargroup on TG</description>
+      <pubDate>Sun, 06 Apr 2025 12:15:13 GMT</pubDate>
+    </item>
+    <item>
       <title>RetoSwap</title>
       <link>https://retoswap.com/</link>
       <description>Exchanges &gt; Software : A peer-to-peer trading network, not a website or centralized service. It's software you run on your own hardware, which connects to other people running the software to facilitate trades.</description>
@@ -97,7 +103,7 @@
     <item>
       <title>MoneroPal</title>
       <link>https://erstose.wixsite.com/moneropal</link>
-      <description>Businesses &gt; Proxy Shopping : Pay all of your expenses (online shopping, bills etc.) with Monero. - Contact: moneropal@protonmail.com</description>
+      <description>Businesses &gt; Proxy Shopping : Pay all of your expenses (online shopping, bills etc.) with Monero. You can also buy &amp; sell Monero trough PayPal. - Contact: moneropal@protonmail.com</description>
       <pubDate>Sat, 29 Mar 2025 09:33:09 GMT</pubDate>
     </item>
     <item>
@@ -203,12 +209,6 @@ Swap across 30 different blockchains, including Bitcoin, Ethereum, Monero &amp; 
       <link>https://www.bitswitch.io/</link>
       <description>Exchanges &gt; Non-KYC Exchanges : Exchange coins without KYC.</description>
       <pubDate>Wed, 12 Mar 2025 11:55:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x2705; XMR.BAR (sponsored)</title>
-      <link>https://xmr.bar/</link>
-      <description>Businesses &gt; Gambling : Play dices using Monero. Privacy-respecting, registration-free and provably fair. - Location: Available everywhere in the world - Processor: Custom (monero-wallet-rpc wrapper) - Contact: support@xmr.bar via email (preferred), @xmrbar/@xmrbargroup on TG</description>
-      <pubDate>Sun, 09 Mar 2025 19:30:45 GMT</pubDate>
     </item>
     <item>
       <title>Bitania</title>
