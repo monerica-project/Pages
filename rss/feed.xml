@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Easynode</title>
+      <link>https://easynode.kerlann.org/</link>
+      <description>Utilities &gt; Open Source Projects : A software simplifying the node deployment process.</description>
+      <pubDate>Mon, 07 Apr 2025 12:14:29 GMT</pubDate>
+    </item>
+    <item>
       <title>America First Jewelry</title>
       <link>https://americafirst.jewelry/</link>
       <description>Businesses &gt; Luxury Goods : America First Jewelry proudly crafts high-quality, patriotic jewelry right here in the USA. Every piece celebrates American pride, featuring designs inspired by the stars and stripes, eagles, and other iconic symbols of freedom. From necklaces to rings, our handcrafted collections honor the red, white, and blue with unwavering commitment to domestic craftsmanship. Wear your love for the nation close to your heart with America First Jewelry. - Note: Use "Pay with Crypto" option at checkout. - Location: Los Angeles, CA</description>
@@ -643,12 +649,6 @@ Donation address is here https://4get.ca/donate - Location: Canada - Contact: wi
       <link>https://t.me/monerocasinobot</link>
       <description>Businesses &gt; Gambling : An easy to use, provably fair Telegram bot to gamble.</description>
       <pubDate>Tue, 26 Nov 2024 18:17:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Noiz</title>
-      <link>https://noiz.co.za/</link>
-      <description>Businesses &gt; IT Services : A cybersecurity company, offering a range of digital security services.</description>
-      <pubDate>Wed, 20 Nov 2024 00:31:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
