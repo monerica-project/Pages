@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Monero Eco system</title>
+      <link>https://monero.eco/</link>
+      <description>Other Directories &gt; Business Directories : A Monero directory</description>
+      <pubDate>Mon, 07 Apr 2025 19:54:51 GMT</pubDate>
+    </item>
+    <item>
       <title>Easynode</title>
       <link>https://easynode.kerlann.org/</link>
       <description>Utilities &gt; Open Source Projects : A software simplifying the node deployment process.</description>
@@ -643,12 +649,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <description>Non-Profits &gt; Miscellaneous : A proxy search engine including multiple results of different search engines like Google, Yandex, Bing and DuckDuckGo. - Note: For a subscription without captchas, you need to pay 4$ a month. 
 Donation address is here https://4get.ca/donate - Location: Canada - Contact: will@lolcat.ca</description>
       <pubDate>Wed, 27 Nov 2024 13:38:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monero Casino Bot</title>
-      <link>https://t.me/monerocasinobot</link>
-      <description>Businesses &gt; Gambling : An easy to use, provably fair Telegram bot to gamble.</description>
-      <pubDate>Tue, 26 Nov 2024 18:17:57 GMT</pubDate>
     </item>
   </channel>
 </rss>
