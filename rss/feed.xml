@@ -5,6 +5,18 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Bank Exit</title>
+      <link>https://bank-exit.org/en</link>
+      <description>Other Directories &gt; Business Directories : French buisness directory that take Monero.</description>
+      <pubDate>Tue, 08 Apr 2025 02:54:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2705; AriaVPN (sponsored)</title>
+      <link>https://ariavpn.net/</link>
+      <description>Businesses &gt; VPN Companies : Protect your online privacy with a VPN service that is OpenVPN-based and run by sovereign privacy advocates. There's no need for sign-up, and no personal data are collected, nor any logs of any kind. All our VPN servers are equipped with in-house DNS servers in anonymous mode. - Contact: https://twitter.com/ariavpn_net</description>
+      <pubDate>Tue, 08 Apr 2025 02:41:22 GMT</pubDate>
+    </item>
+    <item>
       <title>van Eckert | Strafrecht &amp; Steuerrecht</title>
       <link>https://www.ve-strafrecht.de/</link>
       <description>Businesses &gt; Legal Services : German version of Saul Goodman</description>
@@ -642,12 +654,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://swissdedi.com/</link>
       <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : Bare metal systems, dedicated servers. - Processor: NOWPayments</description>
       <pubDate>Sun, 01 Dec 2024 12:17:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>MonsterMegs</title>
-      <link>https://monstermegs.com</link>
-      <description>Web Hosting &gt; Cloud &amp; Web Hosting Providers : Web hosting, reseller hosting, WordPress hosting, semi-dedicated hosting, domain registration, anonymous domain registration - Location: USA - Processor: Cryptomus</description>
-      <pubDate>Sat, 30 Nov 2024 00:20:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
