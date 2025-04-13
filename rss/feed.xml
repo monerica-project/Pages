@@ -5,6 +5,31 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Unshackled</title>
+      <link>https://unshakled.org/</link>
+      <description>Non-Profits &gt; Security : 501(c)(3) Non-Profit dedicated to defending digital freedom through secure technologies, education, and advocacy.</description>
+      <pubDate>Sun, 13 Apr 2025 16:44:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Privacy layer</title>
+      <link>https://privacylayer.xyz/</link>
+      <description>Non-Profits &gt; Technologies : A Tor Node Operator.</description>
+      <pubDate>Sun, 13 Apr 2025 16:43:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>anonbnb</title>
+      <link>https://infosec.exchange/@project_1</link>
+      <description>Businesses &gt; Real Estate Services : Anonymous alternative to airbnb, aligns with common values, from open source all the way to democracy. 
+
+We do not want to post about daily politics. Our principles are clear and we are working for a future full of live, diversity and protection. We will always work towards that goal no matter the political situation. - Note: This project is early stage, but we already have one host on anonbnb.
+
+1. See nice bnb
+2. Send us a message
+3. Connected to host
+4. Enjoying the anonbnb</description>
+      <pubDate>Sun, 13 Apr 2025 16:43:03 GMT</pubDate>
+    </item>
+    <item>
       <title>&amp;#x2705; Silent Exchange (sponsored)</title>
       <link>https://silent.exchange/</link>
       <description>Exchanges &gt; Non-KYC Exchanges : Fast &amp; Anonymous Crypto to Crypto Swaps. No email. No KYC.Trade-in Minutes. 1500+ Crypto Pairs 24/7/365 Service Fee starting from 1%. - Note: Trade using Telegram Bot - @silentexchangerobot , 
@@ -628,24 +653,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://monero.top</link>
       <description>Communities &gt; Forums : Spasm network forum for Monero.</description>
       <pubDate>Wed, 11 Dec 2024 14:51:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>CoinoSwap</title>
-      <link>https://coinoswap.com/</link>
-      <description>Exchanges &gt; Comparison/ Aggregation : An Instant Cryptocurrency Exchange Aggregator for swapping XMR pairs across several exchanges at the best prices with no registration required. - Location: Wyoming, 82801, United States - Contact: https://x.com/coinoswap</description>
-      <pubDate>Sun, 08 Dec 2024 20:14:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x2705; XGRAM</title>
-      <link>https://xgram.io</link>
-      <description>Exchanges &gt; Non-KYC Exchanges : Multi-chain exchange - Note: Over 590 exchange pairs with super low fees around 0.1% and an average swap time of just 12 minutes. - Location: Cyprus</description>
-      <pubDate>Wed, 04 Dec 2024 12:33:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Swissdedi</title>
-      <link>https://swissdedi.com/</link>
-      <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : Bare metal systems, dedicated servers. - Processor: NOWPayments</description>
-      <pubDate>Sun, 01 Dec 2024 12:17:35 GMT</pubDate>
     </item>
   </channel>
 </rss>
