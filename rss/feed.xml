@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Quetzalcoatl</title>
+      <link>https://quetzalcoatl-relays.org/</link>
+      <description>Non-Profits &gt; Security : Funder and maintainer of Tor Exit relays.</description>
+      <pubDate>Mon, 14 Apr 2025 12:58:38 GMT</pubDate>
+    </item>
+    <item>
       <title>&amp;#x2705; XGRAM (sponsored)</title>
       <link>https://xgram.io</link>
       <description>Exchanges &gt; Non-KYC Exchanges : Multi-chain exchange - Note: Over 590 exchange pairs with super low fees around 0.1% and an average swap time of just 12 minutes. - Location: Cyprus</description>
@@ -653,12 +659,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://resilience365.com/monero-timeline/</link>
       <description>Education &gt; Knowledge : A timeline of key developments in the Monero history.</description>
       <pubDate>Fri, 13 Dec 2024 13:14:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x2753; OpenMonero</title>
-      <link>https://openmonero.com</link>
-      <description>Exchanges &gt; Peer to Peer Exchanges : Buy and sell Monero (XMR) online without ID verification - use PayPal, credit/debit card or bank transfer, gift cards, cash by mail, Venmo, BTC or any other method. - Note: See &lt;a target="_blank"  href="https://www.reddit.com/r/LocalMonero/comments/1eymqy5/comment/ljelos4/"&gt;report&lt;/a&gt; - Location: Hong Kong - Contact: admin@openmonero.co</description>
-      <pubDate>Thu, 12 Dec 2024 02:00:14 GMT</pubDate>
     </item>
   </channel>
 </rss>
