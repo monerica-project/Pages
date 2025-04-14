@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Kicksecure</title>
+      <link>https://www.kicksecure.com/</link>
+      <description>Non-Profits &gt; Technologies : A secure by default OS always based on the latest security research.</description>
+      <pubDate>Mon, 14 Apr 2025 18:46:20 GMT</pubDate>
+    </item>
+    <item>
       <title>Quetzalcoatl</title>
       <link>https://quetzalcoatl-relays.org/</link>
       <description>Non-Profits &gt; Security : Funder and maintainer of Tor Exit relays.</description>
@@ -653,12 +659,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://bitrica.com</link>
       <description>Exchanges &gt; Peer to Peer Exchanges : Bitrica is a P2P crypto exchange that allows you to buy and sell BTC/XMR with FIAT currencies. - Contact: Email: hi@bitrica.com</description>
       <pubDate>Sun, 15 Dec 2024 11:55:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monero Timeline</title>
-      <link>https://resilience365.com/monero-timeline/</link>
-      <description>Education &gt; Knowledge : A timeline of key developments in the Monero history.</description>
-      <pubDate>Fri, 13 Dec 2024 13:14:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
