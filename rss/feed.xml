@@ -5,6 +5,18 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>V2ray</title>
+      <link>https://www.v2ray.com/en/index.html</link>
+      <description>Non-Profits &gt; Technologies : A set of tools to help you build your own privacy network over internet. The core of Project V, named V2Ray, is responsible for network protocols and communications. It can work alone, as well as combine with other tools.</description>
+      <pubDate>Tue, 15 Apr 2025 00:57:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>RabbitDNS</title>
+      <link>https://rabbitdns.org/</link>
+      <description>Non-Profits &gt; Technologies : A privacy-focused DNS service that doesn't collect any user data. We believe that your online activity should be private, so we don't log or track any of your DNS queries.</description>
+      <pubDate>Tue, 15 Apr 2025 00:56:37 GMT</pubDate>
+    </item>
+    <item>
       <title>Kicksecure</title>
       <link>https://www.kicksecure.com/</link>
       <description>Non-Profits &gt; Technologies : A secure by default OS always based on the latest security research.</description>
@@ -653,12 +665,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://fiatleak.com/xmr#google_vignette</link>
       <description>Finance &gt; Price Display : Shows trades of Monero at various exchanges and locations</description>
       <pubDate>Mon, 16 Dec 2024 22:46:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bitrica</title>
-      <link>https://bitrica.com</link>
-      <description>Exchanges &gt; Peer to Peer Exchanges : Bitrica is a P2P crypto exchange that allows you to buy and sell BTC/XMR with FIAT currencies. - Contact: Email: hi@bitrica.com</description>
-      <pubDate>Sun, 15 Dec 2024 11:55:58 GMT</pubDate>
     </item>
   </channel>
 </rss>
