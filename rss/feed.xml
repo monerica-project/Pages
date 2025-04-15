@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>OpenAlias</title>
+      <link>https://openalias.org/</link>
+      <description>Non-Profits &gt; Technologies : Seeks to provide a way to simplify aliasing amidst a rapidly shifting technology climate. Users are trying to cross the bridge to private and cryptographically secure infrastructure and systems, but many of them have just barely started remembering the email addresses of their friends and family.</description>
+      <pubDate>Tue, 15 Apr 2025 01:09:46 GMT</pubDate>
+    </item>
+    <item>
       <title>V2ray</title>
       <link>https://www.v2ray.com/en/index.html</link>
       <description>Non-Profits &gt; Technologies : A set of tools to help you build your own privacy network over internet. The core of Project V, named V2Ray, is responsible for network protocols and communications. It can work alone, as well as combine with other tools.</description>
@@ -659,12 +665,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://ungovernablemisfits.com/</link>
       <description>Businesses &gt; Clothing, Apparel &amp; Accessories : Cryptocurrency and counter culture t-shirts and apparel</description>
       <pubDate>Tue, 17 Dec 2024 23:33:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monero trade visualizer</title>
-      <link>https://fiatleak.com/xmr#google_vignette</link>
-      <description>Finance &gt; Price Display : Shows trades of Monero at various exchanges and locations</description>
-      <pubDate>Mon, 16 Dec 2024 22:46:36 GMT</pubDate>
     </item>
   </channel>
 </rss>
