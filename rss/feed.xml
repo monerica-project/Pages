@@ -5,6 +5,24 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Memorial Center</title>
+      <link>http://memopzk.org</link>
+      <description>Non-Profits &gt; Activism : Institute helping political prisoners.</description>
+      <pubDate>Thu, 17 Apr 2025 00:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Solidarityzone</title>
+      <link>https://solidarityzone.net/</link>
+      <description>Non-Profits &gt; Activism : Solidarity zone is a horizontal initiative, which exposes the persecution of, and provides practical support to, those arrested for anti-war actions in Russia.</description>
+      <pubDate>Thu, 17 Apr 2025 00:48:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>DroidFS</title>
+      <link>https://github.com/hardcore-sushi/DroidFS?tab=readme-ov-file</link>
+      <description>Non-Profits &gt; Technologies : Android Encrypted folder - Note: &lt;a target=“_blank” href=“https://forge.chapril.org/hardcoresushi/DroidFS/src/branch/master/DONATE.txt”&gt;donations&lt;/a&gt;</description>
+      <pubDate>Thu, 17 Apr 2025 00:47:12 GMT</pubDate>
+    </item>
+    <item>
       <title>OpenAlias</title>
       <link>https://openalias.org/</link>
       <description>Non-Profits &gt; Technologies : Seeks to provide a way to simplify aliasing amidst a rapidly shifting technology climate. Users are trying to cross the bridge to private and cryptographically secure infrastructure and systems, but many of them have just barely started remembering the email addresses of their friends and family.</description>
@@ -647,24 +665,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://anonymousplanet.org/index.html</link>
       <description>Education &gt; Guides : A maintained guide with the aim of providing an introduction to various online tracking techniques, online ID verification techniques, and detailed guidance to creating and maintaining (truly) anonymous online identities. - Note: The PDF only lets itself download through the Web archive, not through the website. - Contact: contact@anonymousplanet.org</description>
       <pubDate>Thu, 26 Dec 2024 20:56:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Invidious</title>
-      <link>https://invidious.io/</link>
-      <description>Non-Profits &gt; Technologies : Invidious is an open source alternative front-end to YouTube.</description>
-      <pubDate>Thu, 26 Dec 2024 20:55:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Coinimp</title>
-      <link>https://www.coinimp.com/</link>
-      <description>Mining &gt; Miscellaneous : A JavaScript miner that can be easily embedded in your website. This way users will pay you with their CPU power for accessing your content.</description>
-      <pubDate>Fri, 20 Dec 2024 22:47:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ryan Edgar Research</title>
-      <link>https://ryanedgar-research.com/</link>
-      <description>Businesses &gt; Miscellaneous : I can make FOIA/Public Records Requests on your behalf to keep your identity private. Under the Privacy Act you have the right to know what information US government agencies retain about you, I can assist you in accessing this information.</description>
-      <pubDate>Thu, 19 Dec 2024 18:27:39 GMT</pubDate>
     </item>
   </channel>
 </rss>
