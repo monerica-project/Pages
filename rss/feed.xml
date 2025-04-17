@@ -5,6 +5,18 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Piped</title>
+      <link>https://github.com/TeamPiped/Piped</link>
+      <description>Non-Profits &gt; Technologies : Privacy preserving YouTube Frontend</description>
+      <pubDate>Thu, 17 Apr 2025 20:53:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Codemonkeys</title>
+      <link>https://codemonkeys.tech/</link>
+      <description>Non-Profits &gt; Knowledge : Coding learning</description>
+      <pubDate>Thu, 17 Apr 2025 20:52:32 GMT</pubDate>
+    </item>
+    <item>
       <title>Cwtch</title>
       <link>https://docs.cwtch.im/</link>
       <description>Non-Profits &gt; Technologies : a decentralized, privacy-preserving, multi-party messaging protocol that can be used to build metadata resistant applications.</description>
@@ -653,18 +665,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://hiddence.net</link>
       <description>Web Hosting &gt; Offshore &amp; Privacy-Focused Hosting : Offshore VPS solutions for projects of any scale, reliable performance, anonymity, and convenience. - Location: Belize City, Belize District, Belize - Processor: Own - Contact: @hiddence_bot</description>
       <pubDate>Fri, 03 Jan 2025 20:10:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Luke Smith's Webpage</title>
-      <link>https://lukesmith.xyz</link>
-      <description>Non-Profits &gt; Individuals : The official website of Luke Smith - Note: see &lt;a target="_blank" href="https://lukesmith.xyz/donate/"&gt;donations page&lt;/a&gt; - Contact: luke@lukesmith.xyz</description>
-      <pubDate>Fri, 03 Jan 2025 12:25:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>SponsorBlock</title>
-      <link>https://sponsor.ajay.app/donate/</link>
-      <description>Non-Profits &gt; Technologies : An open-source crowdsourced browser extension and open API for skipping sponsor segments in YouTube videos</description>
-      <pubDate>Mon, 30 Dec 2024 00:03:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
