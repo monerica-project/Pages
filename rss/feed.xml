@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Cwtch</title>
+      <link>https://docs.cwtch.im/</link>
+      <description>Non-Profits &gt; Technologies : a decentralized, privacy-preserving, multi-party messaging protocol that can be used to build metadata resistant applications.</description>
+      <pubDate>Thu, 17 Apr 2025 09:43:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Memorial Center</title>
       <link>http://memopzk.org</link>
       <description>Non-Profits &gt; Activism : Institute helping political prisoners.</description>
@@ -659,12 +665,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://sponsor.ajay.app/donate/</link>
       <description>Non-Profits &gt; Technologies : An open-source crowdsourced browser extension and open API for skipping sponsor segments in YouTube videos</description>
       <pubDate>Mon, 30 Dec 2024 00:03:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anonymousplanet</title>
-      <link>https://anonymousplanet.org/index.html</link>
-      <description>Education &gt; Guides : A maintained guide with the aim of providing an introduction to various online tracking techniques, online ID verification techniques, and detailed guidance to creating and maintaining (truly) anonymous online identities. - Note: The PDF only lets itself download through the Web archive, not through the website. - Contact: contact@anonymousplanet.org</description>
-      <pubDate>Thu, 26 Dec 2024 20:56:23 GMT</pubDate>
     </item>
   </channel>
 </rss>
