@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Almazex.com</title>
+      <link>https://almazex.com/</link>
+      <description>Exchanges &gt; Non-KYC Exchanges : Exchanging more than 300 cryptocurrency pairs with maximum profit, fast transactions and continuous protection. - Location: Estonia, Tallinn - Contact: AlmazexExchange</description>
+      <pubDate>Fri, 18 Apr 2025 15:23:15 GMT</pubDate>
+    </item>
+    <item>
       <title>Mailhaven</title>
       <link>https://mailhaven.su/</link>
       <description>Businesses &gt; E-Mail Providers/ Forwarders : Free encrypted E-Mail service</description>
@@ -659,12 +665,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://gitlab.com/proninyaroslav/libretorrent#donation</link>
       <description>Non-Profits &gt; Miscellaneous : FOSS Torrenting software</description>
       <pubDate>Sun, 05 Jan 2025 02:13:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ungovernable Misfits</title>
-      <link>https://fountain.fm/show/sbfNnARG7zj3nL6Xfill</link>
-      <description>Media &gt; Talk Shows/ Podcasts (English) : Monero Monthly podcast</description>
-      <pubDate>Sun, 05 Jan 2025 00:49:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
