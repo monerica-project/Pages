@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Mailhaven</title>
+      <link>https://mailhaven.su/</link>
+      <description>Businesses &gt; E-Mail Providers/ Forwarders : Free encrypted E-Mail service</description>
+      <pubDate>Fri, 18 Apr 2025 10:43:36 GMT</pubDate>
+    </item>
+    <item>
       <title>Piped</title>
       <link>https://github.com/TeamPiped/Piped</link>
       <description>Non-Profits &gt; Technologies : Privacy preserving YouTube Frontend</description>
@@ -659,12 +665,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://fountain.fm/show/sbfNnARG7zj3nL6Xfill</link>
       <description>Media &gt; Talk Shows/ Podcasts (English) : Monero Monthly podcast</description>
       <pubDate>Sun, 05 Jan 2025 00:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hiddence</title>
-      <link>https://hiddence.net</link>
-      <description>Web Hosting &gt; Offshore &amp; Privacy-Focused Hosting : Offshore VPS solutions for projects of any scale, reliable performance, anonymity, and convenience. - Location: Belize City, Belize District, Belize - Processor: Own - Contact: @hiddence_bot</description>
-      <pubDate>Fri, 03 Jan 2025 20:10:38 GMT</pubDate>
     </item>
   </channel>
 </rss>
