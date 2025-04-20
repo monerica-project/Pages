@@ -5,6 +5,36 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Herman Shine</title>
+      <link>https://hermanshine.com</link>
+      <description>Businesses &gt; Marketing : We don't ask who you are, we don't judge your vision and ideas, we don't keep records of our customers and we don't give out any data. - Location: Europe</description>
+      <pubDate>Sun, 20 Apr 2025 16:16:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>KeyboardVisualizer</title>
+      <link>https://gitlab.com/CalcProgrammer1/KeyboardVisualizer/-/blob/master/README.md</link>
+      <description>Non-Profits &gt; Technologies : Turns your OpenRGB-supported RGB setup into a spectacular light show for your music. Keyboard Visualizer is able to listen to any input or loopback audio device on your computer so it can visualize audio from any music player, website, game, or other application.</description>
+      <pubDate>Sun, 20 Apr 2025 16:14:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>mmgen-wallet</title>
+      <link>https://gitlab.com/MMGen/mmgen-wallet</link>
+      <description>Non-Profits &gt; Technologies : Monero transacting and wallet management via the interactive mmgen-xmrwallet command.</description>
+      <pubDate>Sun, 20 Apr 2025 16:14:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ergo</title>
+      <link>https://gitlab.com/calm-os/ergo</link>
+      <description>Non-Profits &gt; Technologies : Qt-based toolkit for developing converged applications.</description>
+      <pubDate>Sun, 20 Apr 2025 16:13:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>MoneroMixer</title>
+      <link>https://gitlab.com/epidemic_fancy/MoneroMixer</link>
+      <description>Non-Profits &gt; Miscellaneous : Exchange and properly mix XMR, BTC, LTC, ETH, BCH, &amp; 100+ other coins on Tails OS or Whonix.</description>
+      <pubDate>Sun, 20 Apr 2025 16:12:59 GMT</pubDate>
+    </item>
+    <item>
       <title>Mentality Cloud Services</title>
       <link>https://mentality.cloud</link>
       <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : Offshore VPS Servers With Free DDoS Protection - Location: FR</description>
@@ -629,36 +659,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>http://tortradedolnv35gcqys5qsi5yqx6le5zbbmtkyvsgvhfakb5khffcid.onion/</link>
       <description>Businesses &gt; Marketplaces (Peer-to-Peer) : TorTrade is a secure, automated, accountless escrow platform allowing users to trade goods and services safely and privately using Monero. - Contact: tortrade@riseup.net</description>
       <pubDate>Fri, 10 Jan 2025 12:21:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Privacy Sexy</title>
-      <link>https://undergroundwires.dev/donate/?project=privacy.sexy</link>
-      <description>Non-Profits &gt; Technologies : Enforces privacy &amp; security best-practices on Windows, macOS and Linux. - Note: See: &lt;a href="https://privacy.sexy/" target="_blank"&gt;site&lt;/a&gt; - Contact: web@undergroundwires.dev</description>
-      <pubDate>Thu, 09 Jan 2025 01:27:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xmrscan</title>
-      <link>https://xmrscan.org/</link>
-      <description>Utilities &gt; Blockchain Explorers : A Monero block explorer.</description>
-      <pubDate>Wed, 08 Jan 2025 14:08:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>CalyxOS</title>
-      <link>https://calyxos.org/</link>
-      <description>Non-Profits &gt; Operating Systems : An Android mobile operating system that puts privacy and security into the hands of everyday users - Note: see &lt;a target="_blank" href="https://members.calyxinstitute.org/donate"&gt;donations page&lt;/a&gt; and &lt;a target="_blank" href="https://calyxinstitute.org/"&gt;Calyx Institute&lt;/a&gt;</description>
-      <pubDate>Wed, 08 Jan 2025 13:01:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cryptocurrency Checkout</title>
-      <link>https://cryptocurrencycheckout.com/</link>
-      <description>Merchant Services &gt; Integrations : Payment gateway which integrates with BigCommerce, Shopify, WooCommerce, WordPress, WC Marketplace.</description>
-      <pubDate>Tue, 07 Jan 2025 20:01:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Beauty Abounded</title>
-      <link>https://www.beautyabounded.com/</link>
-      <description>Businesses &gt; Health/ Beauty : Facial serums, soaps, face moisturizers, complexion cleansers and other beauty and skincare products for men and women. - Location: Colorado Springs, CO - Processor: cryptocurrency checkout</description>
-      <pubDate>Tue, 07 Jan 2025 19:27:44 GMT</pubDate>
     </item>
   </channel>
 </rss>
