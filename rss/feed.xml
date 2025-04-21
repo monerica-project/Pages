@@ -5,6 +5,18 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Meduza</title>
+      <link>https://meduza.io/</link>
+      <description>Media &gt; News (Russian) : Russian opposition media - Note: https://support.meduza.io/en</description>
+      <pubDate>Mon, 21 Apr 2025 11:25:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bitmafia</title>
+      <link>https://bitmafia.io/</link>
+      <description>Exchanges &gt; Non-KYC Exchanges : Anonymous Russian exchange</description>
+      <pubDate>Mon, 21 Apr 2025 11:24:49 GMT</pubDate>
+    </item>
+    <item>
       <title>Owl. Lc</title>
       <link>https://owl.lc/donate</link>
       <description>Non-Profits &gt; Technologies : Monero Node operator</description>
@@ -653,18 +665,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://www.fossify.org/</link>
       <description>Non-Profits &gt; Technologies : A group of simple, privacy respecting, open source apps without ads and unnecessary permissions, with customizable colors. A fork of @SimpleMobileTools. - Note: See &lt;a href="https://www.fossify.org/donate/" target="_blank"&gt;donations page&lt;/a&gt; - Contact: hello@fossify.org</description>
       <pubDate>Fri, 17 Jan 2025 21:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mgnet XYZ</title>
-      <link>https://mgnet.xyz/ref/t/-OM995D</link>
-      <description>Businesses &gt; Miscellaneous : A URL Shortener that pays out links for Monero and other currencies.</description>
-      <pubDate>Mon, 13 Jan 2025 12:48:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Silent Donor</title>
-      <link>https://www.silentdonor.com/silent-donor-international-send-a-monero-donation/</link>
-      <description>Non-Profits &gt; Miscellaneous : Ability to donate to charities - Location: Chicago, Illinois, USA European HQ: The Hague, Netherlands - Contact: ContactUs@silentdonor.com</description>
-      <pubDate>Fri, 10 Jan 2025 20:41:17 GMT</pubDate>
     </item>
   </channel>
 </rss>
