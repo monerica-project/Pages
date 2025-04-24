@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Nepswap.com</title>
+      <link>https://nepswap.com/</link>
+      <description>Exchanges &gt; Non-KYC Exchanges : Experience seamless, privacy-focused cryptocurrency exchanges without the hassle of KYC. Trade securely and instantly, 24/7 - Contact: @nepswap</description>
+      <pubDate>Thu, 24 Apr 2025 17:04:57 GMT</pubDate>
+    </item>
+    <item>
       <title>Monero United</title>
       <link>http://mj3kba27wxj5ai6jdp5t3gxuzkxfycxwttglvz2edkichegye2etivqd.onion</link>
       <description>Businesses &gt; Marketplaces : Marketplace where all listings must be clear, accurate, and compliant with international regulations. - Contact: tiptony@mailfence.com</description>
@@ -608,8 +614,8 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
     </item>
     <item>
       <title>Media Zone</title>
-      <link>https://donate.zona.media/</link>
-      <description>Media &gt; News (Russian) : Antiwar media</description>
+      <link>https://en.zona.media/</link>
+      <description>Media &gt; News (Russian) : Russian media platform</description>
       <pubDate>Fri, 07 Feb 2025 02:02:01 GMT</pubDate>
     </item>
     <item>
@@ -659,12 +665,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://quackr.io/</link>
       <description>Businesses &gt; Phone Plans &amp; SIM Cards : Rent virtual phone number for SMS verification, or buy private numbers for long term usage.</description>
       <pubDate>Mon, 27 Jan 2025 23:08:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>SmartTube App</title>
-      <link>https://smarttubeapp.github.io/</link>
-      <description>Utilities &gt; Open Source Projects : An advanced player for Android-based set-top boxes and TV, free &amp; open source.</description>
-      <pubDate>Thu, 23 Jan 2025 21:43:58 GMT</pubDate>
     </item>
   </channel>
 </rss>
