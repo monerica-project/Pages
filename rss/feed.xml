@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Tuxli Tor Node Operator</title>
+      <link>https://metrics.torproject.org/rs.html#details/045BBCA9602A22C112984F25003CD4897CFFB9E5</link>
+      <description>Non-Profits &gt; Technologies : Operates a Tor Node</description>
+      <pubDate>Sun, 27 Apr 2025 01:41:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Alchemy Pay</title>
       <link>https://alchemypay.org</link>
       <description>Exchanges &gt; KYC Exchanges (Non-United States) : Fiat to any cryptocurrency. - Note: E-Mail required. - Location: Singepore</description>
@@ -657,12 +663,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://codeberg.org/nobody/LocalCDN</link>
       <description>Non-Profits &gt; Technologies : A browser extension that boosts privacy by emulating CDNs—intercepts traffic, finds supported resources locally, and injects them into your environment. - Note: &lt;a target="_blank"  href="https://www.reddit.com/r/privacytoolsIO/comments/j6lv30/should_i_use_localcdn_instead_of_decentraleyes/"&gt;Decentraleyes alternative&lt;/a&gt;</description>
       <pubDate>Wed, 05 Feb 2025 14:32:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>uThrive Labs</title>
-      <link>https://uthrivelabs.com</link>
-      <description>Businesses &gt; Health/ Beauty : Self-directed holistic health solutions that work. - Note: Monero accepted only over email. Go to the &lt;a href="https://uthrivelabs.com/get-crypto.html" target="_blank"&gt;money page&lt;/a&gt; for more information on ordering. 10% discount when paying with Monero. - Location: Richmond, VA USA - Processor: Email - Contact: @uthrivelabs on X</description>
-      <pubDate>Tue, 04 Feb 2025 09:21:37 GMT</pubDate>
     </item>
   </channel>
 </rss>
