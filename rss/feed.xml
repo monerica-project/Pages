@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>shellfire</title>
+      <link>https://www.shellfire.net/</link>
+      <description>Businesses &gt; VPN Companies : Surf freely and securely with Shellfire VPN. Protect your online privacy from cyber threats and ensure anonymous browsing. Your path to a free, secure internet starts here.</description>
+      <pubDate>Mon, 28 Apr 2025 22:32:04 GMT</pubDate>
+    </item>
+    <item>
       <title>LibreNode</title>
       <link>https://librenode.com</link>
       <description>Non-Profits &gt; Technologies : A service hosting many open source privacy-respecting tools and a Monero node. - Contact: Email: contact@librenode.com</description>
@@ -657,12 +663,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://stoparmy.org/en/</link>
       <description>Non-Profits &gt; Activism : ANTI-war and military draft dodgers.</description>
       <pubDate>Fri, 07 Feb 2025 02:01:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Call to Concious</title>
-      <link>https://peaceplea.org/</link>
-      <description>Non-Profits &gt; Activism : Helps people dodge the military draft in Russia. - Contact: https://www.instagram.com/agsnowarbot/</description>
-      <pubDate>Fri, 07 Feb 2025 01:08:48 GMT</pubDate>
     </item>
   </channel>
 </rss>
