@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>CypherToshi</title>
+      <link>https://cyphertoshi.com</link>
+      <description>Non-Profits &gt; Knowledge : Open-source tools and guides to help others reclaim their digital autonomy.</description>
+      <pubDate>Tue, 29 Apr 2025 00:08:46 GMT</pubDate>
+    </item>
+    <item>
       <title>shellfire</title>
       <link>https://www.shellfire.net/</link>
       <description>Businesses &gt; VPN Companies : Surf freely and securely with Shellfire VPN. Protect your online privacy from cyber threats and ensure anonymous browsing. Your path to a free, secure internet starts here.</description>
@@ -657,12 +663,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://en.zona.media/</link>
       <description>Media &gt; News (Russian) : Russian media platform</description>
       <pubDate>Fri, 07 Feb 2025 02:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Movement of Conscientious Objectors to military service in Russia - MCO</title>
-      <link>https://stoparmy.org/en/</link>
-      <description>Non-Profits &gt; Activism : ANTI-war and military draft dodgers.</description>
-      <pubDate>Fri, 07 Feb 2025 02:01:41 GMT</pubDate>
     </item>
   </channel>
 </rss>
