@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Xenaps</title>
+      <link>https://xenaps.com/</link>
+      <description>Exchanges &gt; Comparison/ Aggregation : Find the best cryptocurrency exchanges and services that accept your coins such as Monero.</description>
+      <pubDate>Tue, 29 Apr 2025 12:22:18 GMT</pubDate>
+    </item>
+    <item>
       <title>CypherToshi</title>
       <link>https://cyphertoshi.com</link>
       <description>Non-Profits &gt; Knowledge : Open-source tools and guides to help others reclaim their digital autonomy.</description>
@@ -657,12 +663,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://cointr.ee/</link>
       <description>Businesses &gt; Miscellaneous : A list maker for your crypto addresses which you can also send messages to. - Note: You must sign up to be able to select Monero</description>
       <pubDate>Sat, 08 Feb 2025 18:09:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Media Zone</title>
-      <link>https://en.zona.media/</link>
-      <description>Media &gt; News (Russian) : Russian media platform</description>
-      <pubDate>Fri, 07 Feb 2025 02:02:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
