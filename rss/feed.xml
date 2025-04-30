@@ -41,12 +41,6 @@
       <pubDate>Sun, 27 Apr 2025 01:41:00 GMT</pubDate>
     </item>
     <item>
-      <title>Alchemy Pay</title>
-      <link>https://alchemypay.org</link>
-      <description>Exchanges &gt; KYC Exchanges (Non-United States) : Fiat to any cryptocurrency. - Note: E-Mail required. - Location: Singepore</description>
-      <pubDate>Sat, 26 Apr 2025 19:31:32 GMT</pubDate>
-    </item>
-    <item>
       <title>xmr.email</title>
       <link>https://xmr.email/</link>
       <description>Businesses &gt; E-Mail Providers/ Forwarders : Email with certainty, knowing your privacy is our top priority.</description>
@@ -663,6 +657,12 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://cointr.ee/</link>
       <description>Businesses &gt; Miscellaneous : A list maker for your crypto addresses which you can also send messages to. - Note: You must sign up to be able to select Monero</description>
       <pubDate>Sat, 08 Feb 2025 18:09:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Media Zone</title>
+      <link>https://en.zona.media/</link>
+      <description>Media &gt; News (Russian) : Russian media platform</description>
+      <pubDate>Fri, 07 Feb 2025 02:02:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
