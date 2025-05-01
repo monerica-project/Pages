@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Tech1k</title>
+      <link>https://tech1k.com</link>
+      <description>Non-Profits &gt; Individuals : Official website of Tech1k, a developer of many open-source privacy-focused programs. - Contact: GitHub: https://github.com/Tech1k</description>
+      <pubDate>Thu, 01 May 2025 09:43:21 GMT</pubDate>
+    </item>
+    <item>
       <title>&amp;#x2705; XMR.BAR (sponsored)</title>
       <link>https://xmr.bar/</link>
       <description>Businesses &gt; Gambling : Play dices using Monero. Privacy-respecting, registration-free and provably fair. - Location: Available everywhere in the world - Processor: Custom (monero-wallet-rpc wrapper) - Contact: support@xmr.bar via email (preferred), @xmrbar/@xmrbargroup on TG</description>
@@ -657,12 +663,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://cointr.ee/</link>
       <description>Businesses &gt; Miscellaneous : A list maker for your crypto addresses which you can also send messages to. - Note: You must sign up to be able to select Monero</description>
       <pubDate>Sat, 08 Feb 2025 18:09:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Media Zone</title>
-      <link>https://en.zona.media/</link>
-      <description>Media &gt; News (Russian) : Russian media platform</description>
-      <pubDate>Fri, 07 Feb 2025 02:02:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
