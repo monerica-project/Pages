@@ -162,9 +162,6 @@
 <loc>https://monerica.com/businesses/travel</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/vpn-companies</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
-</url>
-<url>
 <loc>https://monerica.com/businesses/weapons-and-self-defense</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
@@ -462,7 +459,16 @@
 <loc>https://monerica.com/vpn-companies/europe-eu</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
+<loc>https://monerica.com/vpn-companies/europe-non-eu</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
+</url>
+<url>
 <loc>https://monerica.com/vpn-companies/global-unspecified</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
+</url>
+<url>
+<loc>https://monerica.com/vpn-companies/north-america-central-america-and-caribbean</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
+</url>
+<url>
+<loc>https://monerica.com/vpn-companies/usa</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
 <loc>https://monerica.com/wallets</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.6</priority>
@@ -990,7 +996,7 @@
 <loc>https://monerica.com/businesses/postage-and-shipping-services/cryptostamps</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/vpn-companies/cryptostorm</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/vpn-companies/europe-non-eu/cryptostorm</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/ai-services/cryptotalks</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -1260,10 +1266,10 @@
 <loc>https://monerica.com/web-hosting/offshore-and-privacy-focused-hosting/hiddence</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/vpn-companies/hide-me</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/vpn-companies/usa/hide-me</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/vpn-companies/hidemy-name</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/vpn-companies/north-america-central-america-and-caribbean/hidemy-name</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/exchanges/kyc-exchanges-non-united-states/hitbtc</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -1317,7 +1323,7 @@
 <loc>https://monerica.com/businesses/food-and-drink/isabella-s-coffee</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/vpn-companies/ivpn</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/vpn-companies/europe-non-eu/ivpn</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/luxury-goods/jackani</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -1509,7 +1515,7 @@
 <loc>https://monerica.com/non-profits/activism/meduza</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/vpn-companies/meile-dvpn</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/vpn-companies/europe-eu/meile-dvpn</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/communities/online-communities/memes</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -1857,7 +1863,7 @@
 <loc>https://monerica.com/non-profits/activism/movement-of-conscientious-objectors-to-military-service-in-russia-mco</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/vpn-companies/mullvad-vpn</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/vpn-companies/europe-eu/mullvad-vpn</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/merchant-services/integrations/mycryptocheckout</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -1893,7 +1899,7 @@
 <loc>https://monerica.com/exchanges/non-kyc-exchanges/ninja-exchange</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/vpn-companies/njalla</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/vpn-companies/north-america-central-america-and-caribbean/njalla</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/web-hosting/domain-registration-and-dns-services/njalla</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -1929,7 +1935,7 @@
 <loc>https://monerica.com/businesses/pornography/nutaku</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/vpn-companies/nym-vpn</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/vpn-companies/europe-non-eu/nym-vpn</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/utilities/open-source-projects/obs-monero-donation-integration</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -2079,7 +2085,7 @@
 <loc>https://monerica.com/businesses/it-services/proxied</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/vpn-companies/proxysocks5</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/vpn-companies/global-unspecified/proxysocks5</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/proxy-shopping/proxystore-digital-goods</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -2178,7 +2184,7 @@
 <loc>https://monerica.com/businesses/travel/sabaidee-resort</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/vpn-companies/safing-privacy-network</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/vpn-companies/europe-eu/safing-privacy-network</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/clothing-apparel-and-accessories/schwobaglamodda</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -2214,7 +2220,7 @@
 <loc>https://monerica.com/businesses/it-services/shapiroworks</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/vpn-companies/shellfire</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/vpn-companies/global-unspecified/shellfire</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/marketplaces/shopinbit</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -2274,7 +2280,7 @@
 <loc>https://monerica.com/businesses/phone-plans-and-sim-cards/sms-pool</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/vpn-companies/snowhaze</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/vpn-companies/europe-non-eu/snowhaze</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/web-hosting/gaming-servers/solarhosting</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -2343,7 +2349,7 @@
 <loc>https://monerica.com/mining/pools/supportxmr</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/vpn-companies/surfshark</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/vpn-companies/europe-eu/surfshark</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/exchanges/non-kyc-exchanges/swaponix</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -2466,7 +2472,7 @@
 <loc>https://monerica.com/non-profits/technologies/tor-project-inc</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/vpn-companies/torguard</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/vpn-companies/usa/torguard</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/marketplaces-peer-to-peer/tortrade-escrow</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -2559,10 +2565,10 @@
 <loc>https://monerica.com/businesses/marketing/vosto-emisio</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/vpn-companies/vpn-ac</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/vpn-companies/europe-eu/vpn-ac</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/vpn-companies/vpn-surf</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/vpn-companies/europe-eu/vpn-surf</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/web-hosting/resellers-and-aggregators/vps-price-tracker</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -2592,7 +2598,7 @@
 <loc>https://monerica.com/education/knowledge/wikipedia-monero</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/vpn-companies/windscribe-vpn</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/vpn-companies/europe-eu/windscribe-vpn</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/exchanges/non-kyc-exchanges/wizardswap</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -2613,7 +2619,7 @@
 <loc>https://monerica.com/exchanges/comparison-aggregation/xenaps</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/vpn-companies/xeovo</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/vpn-companies/europe-eu/xeovo</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/exchanges/non-kyc-exchanges/xgram</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -2703,7 +2709,7 @@
 <loc>https://monerica.com/exchanges/non-kyc-exchanges-account-based/xt-com</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/vpn-companies/xvpnc</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/vpn-companies/asia/xvpnc</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/marketplaces/yefeth</loc><lastmod>2025-05-03</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
