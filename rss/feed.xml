@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>monerowatch</title>
+      <link>https://monerowat.ch</link>
+      <description>Utilities &gt; Blockchain Explorers : Beautiful Monero Explorer - Note: JS required</description>
+      <pubDate>Tue, 06 May 2025 21:33:59 GMT</pubDate>
+    </item>
+    <item>
       <title>Z Library</title>
       <link>https://z-library.sk/how-to-donate</link>
       <description>Non-Profits &gt; Knowledge : Free instant access to eBooks and articles.</description>
@@ -657,12 +663,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://www.s-f-n.org/</link>
       <description>Education &gt; Research : Working group giving security advice. - Note: see &lt;a href="https://www.s-f-n.org/info/unterstuetzen/" target="_blank"&gt;donations&lt;/a&gt;</description>
       <pubDate>Thu, 13 Feb 2025 02:23:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Explace</title>
-      <link>https://explace.io/</link>
-      <description>Exchanges &gt; Non-KYC Exchanges : Safely exchange up to 2000+ Cryptocurrencies - Contact: X - @Explaceio, Telegram - https://t.me/Explaceio</description>
-      <pubDate>Thu, 13 Feb 2025 02:19:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
