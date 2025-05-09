@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>LNVPN</title>
+      <link>https://lnvpn.net?ref=monerica</link>
+      <description>VPN Companies &gt; Europe (EU) : No logging. No account. No KYC. Instant, anonymous VPN and eSIM services. - Location: Germany</description>
+      <pubDate>Fri, 09 May 2025 18:04:24 GMT</pubDate>
+    </item>
+    <item>
       <title>monerowatch</title>
       <link>https://monerowat.ch</link>
       <description>Utilities &gt; Blockchain Explorers : Beautiful Monero Explorer - Note: JS required</description>
@@ -651,12 +657,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://libertypl.us</link>
       <description>Non-Profits &gt; Activism : A liberty advancement organization for men and women of good character. - Contact: contact@libertypl.us</description>
       <pubDate>Thu, 13 Feb 2025 14:42:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Arbeitskreis Sicherheit</title>
-      <link>https://www.s-f-n.org/</link>
-      <description>Education &gt; Research : Working group giving security advice. - Note: see &lt;a href="https://www.s-f-n.org/info/unterstuetzen/" target="_blank"&gt;donations&lt;/a&gt;</description>
-      <pubDate>Thu, 13 Feb 2025 02:23:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
