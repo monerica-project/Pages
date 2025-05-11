@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Monero Pagamentos</title>
+      <link>https://t.me/moneropagamentosbot</link>
+      <description>Exchanges &gt; Bots : Buy/sell Monero with PIX (Brazil's main payment system) with no KYC. You can also create a personal link to the bot to accept PIX and automatically receive in Monero.</description>
+      <pubDate>Sun, 11 May 2025 00:16:47 GMT</pubDate>
+    </item>
+    <item>
       <title>LNVPN</title>
       <link>https://lnvpn.net?ref=monerica</link>
       <description>VPN Companies &gt; Europe (EU) : No logging. No account. No KYC. Instant, anonymous VPN and eSIM services. - Location: Germany</description>
@@ -651,12 +657,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://github.com/antichainalysis/xmr-churner</link>
       <description>Utilities &gt; Open Source Projects : The proper way to churn Monero.</description>
       <pubDate>Sun, 16 Feb 2025 00:23:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Liberty+</title>
-      <link>https://libertypl.us</link>
-      <description>Non-Profits &gt; Activism : A liberty advancement organization for men and women of good character. - Contact: contact@libertypl.us</description>
-      <pubDate>Thu, 13 Feb 2025 14:42:54 GMT</pubDate>
     </item>
   </channel>
 </rss>
