@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Matrix - MoneroKon</title>
+      <link>https://matrix.to/#/#monerokon:matrix.org</link>
+      <description>Communities &gt; Chatrooms : </description>
+      <pubDate>Mon, 12 May 2025 18:54:40 GMT</pubDate>
+    </item>
+    <item>
       <title>Monero Pagamentos</title>
       <link>https://t.me/moneropagamentosbot</link>
       <description>Exchanges &gt; Bots : Buy/sell Monero with PIX (Brazil's main payment system) with no KYC. You can also create a personal link to the bot to accept PIX and automatically receive in Monero.</description>
@@ -651,12 +657,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://coin.space/</link>
       <description>Wallets &gt; Desktop Wallets : A self custodial wallet with Desktop and Android support</description>
       <pubDate>Tue, 18 Feb 2025 13:32:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>moneroc</title>
-      <link>https://github.com/antichainalysis/xmr-churner</link>
-      <description>Utilities &gt; Open Source Projects : The proper way to churn Monero.</description>
-      <pubDate>Sun, 16 Feb 2025 00:23:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
