@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Crystal Trade</title>
+      <link>https://crystal-trade.org/</link>
+      <description>Exchanges &gt; Non-KYC Exchanges : No KYC exchange</description>
+      <pubDate>Thu, 15 May 2025 20:18:50 GMT</pubDate>
+    </item>
+    <item>
       <title>CypherFaucet</title>
       <link>https://cypherfaucet.com</link>
       <description>Non-Profits &gt; Technologies : Developer faucet for the Monero testnet and stagenet. - Note: see also: &lt;a href="https://cypherfaucet.com/xmr-testnet" target="_blank"&gt;Testnet&lt;/a&gt; and &lt;a href="https://cypherfaucet.com/xmr-stagenet" target="_blank"&gt;Stagenet&lt;/a&gt; - Contact: hello@tech1k.com</description>
@@ -639,12 +645,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://xmrglobal.io/</link>
       <description>Exchanges &gt; Peer to Peer Exchanges : No KYC P2P Monero Exchange - Contact: @xmrglobal</description>
       <pubDate>Sun, 23 Feb 2025 14:39:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Memonero</title>
-      <link>https://codeberg.org/0xanon/memonero</link>
-      <description>Utilities &gt; Open Source Projects : A monero brain wallet.</description>
-      <pubDate>Sat, 22 Feb 2025 20:56:14 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Coincards (sponsored)</title>
