@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>CypherFaucet</title>
+      <link>https://cypherfaucet.com</link>
+      <description>Non-Profits &gt; Technologies : Developer faucet for the Monero testnet and stagenet. - Note: see also: &lt;a href="https://cypherfaucet.com/xmr-testnet" target="_blank"&gt;Testnet&lt;/a&gt; and &lt;a href="https://cypherfaucet.com/xmr-stagenet" target="_blank"&gt;Stagenet&lt;/a&gt; - Contact: hello@tech1k.com</description>
+      <pubDate>Thu, 15 May 2025 14:28:47 GMT</pubDate>
+    </item>
+    <item>
       <title>Matrix - MoneroKon</title>
       <link>https://matrix.to/#/#monerokon:matrix.org</link>
       <description>Communities &gt; Chatrooms : </description>
@@ -645,12 +651,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://coincards.com/us/</link>
       <description>Businesses &gt; Giftcards/ Pre-Paid Cards : Gift cards from hundreds of top brands, including Amazon, Walmart, Airbnb, Uber, DoorDash, Home Depot, and even Visa or Amex cards, with values up to $2,000. - Location: Surrey, B.C. Canada - Processor: BTCPay Server</description>
       <pubDate>Fri, 21 Feb 2025 17:28:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Coin Wallet</title>
-      <link>https://coin.space/</link>
-      <description>Wallets &gt; Desktop Wallets : A self custodial wallet with Desktop and Android support</description>
-      <pubDate>Tue, 18 Feb 2025 13:32:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
