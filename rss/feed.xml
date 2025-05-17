@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>VoidCC</title>
+      <link>https://void-cc.space/</link>
+      <description>Businesses &gt; VPN Companies : Cheap VPN based on WireGuard protocol, 0.03 euro a day - Note: Suitable for torrenting - Location: Russia - Processor: monero-wallet-rpc in a docker container - Contact: void.cc2@proton.me</description>
+      <pubDate>Sat, 17 May 2025 17:45:09 GMT</pubDate>
+    </item>
+    <item>
       <title>XmrB4U</title>
       <link>https://xmrb4u.com/</link>
       <description>Businesses &gt; Proxy Shopping : A place to order anything from any site with Monero while not giving away your identity to any site. - Contact: https://xmrb4u.com/contacts</description>
@@ -627,12 +633,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>http://jqibjqqagao3peozxfs53tr6aecoyvctumfsc2xqniu4xgcrksal2iqd.onion/</link>
       <description>Non-Profits &gt; Miscellaneous : A Guide to Opsec - Contact: mikoyangurevich@horsefucker.org</description>
       <pubDate>Sun, 02 Mar 2025 03:11:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eylenburg Cloud Comparison</title>
-      <link>https://eylenburg.github.io/cloud_comparison.htm</link>
-      <description>Non-Profits &gt; Miscellaneous : An aggregator for Cloud Storage providers</description>
-      <pubDate>Fri, 28 Feb 2025 18:24:58 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; MoneroDice (sponsored)</title>
