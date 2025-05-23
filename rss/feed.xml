@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>AteRX</title>
+      <link>https://aterx.com/</link>
+      <description>Mining &gt; Pools : Monero pool mining on p2pool mini.</description>
+      <pubDate>Fri, 23 May 2025 21:19:20 GMT</pubDate>
+    </item>
+    <item>
       <title>Liberdon</title>
       <link>https://liberdon.com/about</link>
       <description>Non-Profits &gt; Miscellaneous : A Mastodon instance for libertarians, ancaps, anarchists, voluntaryists, agorists, etc to sound off without fear of reprisal. - Contact: admin@liberdon.com</description>
@@ -639,12 +645,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://www.emailprivacytester.com/</link>
       <description>Non-Profits &gt; Technologies : Test the privacy of your email.</description>
       <pubDate>Wed, 19 Mar 2025 01:06:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Return the Dislike</title>
-      <link>https://returnyoutubedislike.com/</link>
-      <description>Non-Profits &gt; Technologies : An extension that makes the dislike count visible. - Contact: selivano.d@gmail.com</description>
-      <pubDate>Wed, 19 Mar 2025 01:06:18 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; MoneroDice (sponsored)</title>
