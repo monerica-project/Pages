@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Darknet Diary</title>
+      <link>https://darknetdiaries.com/</link>
+      <description>Media &gt; Talk Shows/ Podcasts (English) : A podcast about Darknet shenanigans.</description>
+      <pubDate>Tue, 27 May 2025 18:57:16 GMT</pubDate>
+    </item>
+    <item>
       <title>uncensore net</title>
       <link>https://uncensore.net</link>
       <description>VPN Companies &gt; Global / Unspecified : A VPN service without registration that bypasses DPI and works in any country, even behind firewalls. - Note: no hustle VPN service, no account required, free trial for everyone, bypass any DPI. Discount for Monero payments - Location: Global - Processor: Processing by ourselves - Contact: @uncensore_net on Twitter, @uncensore_net in telegram</description>
@@ -657,12 +663,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://bpnode.cc/</link>
       <description>Web Hosting &gt; Cloud &amp; Web Hosting Providers : Bulletproof hosting from 5$ - Spamhaus ignored. - Processor: LitePay</description>
       <pubDate>Tue, 25 Mar 2025 00:38:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x274C; CoreSwap</title>
-      <link>https://coreswap.io/</link>
-      <description>Exchanges &gt; Non-KYC Exchanges : Swap 400+ currencies across 30 blockchains—Bitcoin, Monero, Ethereum &amp; more. No KYC. Powered by CORE &amp; Coreswap to find top rates from 1000s of DEXs &amp; pools. - Note: Exit scam reported - Contact: support@coreswap.io</description>
-      <pubDate>Mon, 24 Mar 2025 19:14:35 GMT</pubDate>
     </item>
   </channel>
 </rss>
