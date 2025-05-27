@@ -5,6 +5,18 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>pnpm</title>
+      <link>https://pnpm.io/</link>
+      <description>Non-Profits &gt; Technologies : Fast package manager. - Note: See &lt;a href="https://pnpm.io/crypto-donations" target="_blank"&gt;donations&lt;/a&gt;</description>
+      <pubDate>Tue, 27 May 2025 12:46:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Webcamoid</title>
+      <link>https://webcamoid.github.io/</link>
+      <description>Non-Profits &gt; Technologies : Webcamoid is a multi-platform camera capture app focused on providing all major features required by power users with a very simple and intuitive interface. - Note: See &lt;a href="https://webcamoid.github.io/donations" target="_blank"&gt;donations&lt;/a&gt;</description>
+      <pubDate>Tue, 27 May 2025 12:46:15 GMT</pubDate>
+    </item>
+    <item>
       <title>Hestia Control Panel</title>
       <link>https://hestiacp.com/</link>
       <description>Non-Profits &gt; Technologies : Fast, reliable, open-source. The control panel you’ve always wanted is just a command away.</description>
@@ -93,12 +105,6 @@
       <link>https://www.kryptor.co.uk/</link>
       <description>Non-Profits &gt; Technologies : Open Source Encryption service</description>
       <pubDate>Tue, 20 May 2025 21:39:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x2753; Lux Crypto Store</title>
-      <link>https://luxcryptostore.io/</link>
-      <description>Businesses &gt; Luxury Goods : Luxury goods in Birmingham, UK - Note: Nearly identical site to Crypto Luxury Store, which is has been reported as a scam. - Location: Birmingham, United Kingdom - Contact: @LuxCryptoStore</description>
-      <pubDate>Tue, 20 May 2025 17:05:04 GMT</pubDate>
     </item>
     <item>
       <title>HostBunker</title>
@@ -657,12 +663,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://cointr.ee/puzzak</link>
       <description>Non-Profits &gt; Individuals : An Ukrainian open source developer who is involved in multiple projects like TGcrawl and uptime monitor. - Location: Kiev</description>
       <pubDate>Sun, 23 Mar 2025 13:29:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x2705; CITIZEN_ERASED</title>
-      <link>https://citizen-erased.com</link>
-      <description>Businesses &gt; Clothing, Apparel &amp; Accessories : Shop privacy-inspired t-shirts, merch, tech &amp; gadgets with no KYC - Note: We display prices while shopping in XMR, NOT just at checkout. Connect with us on NOSTR to find coupon codes for discounts. - Location: Billings, MT, USA - Processor: Woocommerce - Contact: NOSTR Address: npub1787z4g3lcjl34gnkve72hxarucy3kzmf9we4l66uzm2fl78jsf0q2x5</description>
-      <pubDate>Fri, 21 Mar 2025 12:38:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
