@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Hestia Control Panel</title>
+      <link>https://hestiacp.com/</link>
+      <description>Non-Profits &gt; Technologies : Fast, reliable, open-source. The control panel you’ve always wanted is just a command away.</description>
+      <pubDate>Tue, 27 May 2025 02:47:13 GMT</pubDate>
+    </item>
+    <item>
       <title>XMR Donate</title>
       <link>https://xmr-donate.web.app/</link>
       <description>Non-Profits &gt; Miscellaneous : Donates to random people</description>
@@ -657,12 +663,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://citizen-erased.com</link>
       <description>Businesses &gt; Clothing, Apparel &amp; Accessories : Shop privacy-inspired t-shirts, merch, tech &amp; gadgets with no KYC - Note: We display prices while shopping in XMR, NOT just at checkout. Connect with us on NOSTR to find coupon codes for discounts. - Location: Billings, MT, USA - Processor: Woocommerce - Contact: NOSTR Address: npub1787z4g3lcjl34gnkve72hxarucy3kzmf9we4l66uzm2fl78jsf0q2x5</description>
       <pubDate>Fri, 21 Mar 2025 12:38:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Invizible</title>
-      <link>https://invizible.net/en/</link>
-      <description>Non-Profits &gt; Technologies : An app combining Tor, i2P and Dnscrypt into one.</description>
-      <pubDate>Fri, 21 Mar 2025 02:06:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
