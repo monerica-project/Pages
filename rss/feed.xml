@@ -5,6 +5,18 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Catpics</title>
+      <link>https://catpics.lol/</link>
+      <description>Non-Profits &gt; Miscellaneous : Cat picture reel service</description>
+      <pubDate>Tue, 03 Jun 2025 22:37:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Annihilator</title>
+      <link>https://github.com/leandroibov/annihilator</link>
+      <description>Non-Profits &gt; Technologies : Anti-forensic data and metadata protection tool.</description>
+      <pubDate>Tue, 03 Jun 2025 22:35:55 GMT</pubDate>
+    </item>
+    <item>
       <title>Uprampr.com</title>
       <link>https://uprampr.com</link>
       <description>Businesses &gt; Marketplaces : The World's Unbanked Crypto Marketplace, empowering you to buy, sell, work, invoice and hire using monero. Login and ramp up! - Contact: @_uprampr.com_ on Instagram</description>
@@ -651,18 +663,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://github.com/ACK-J/Port_Authority</link>
       <description>Non-Profits &gt; Technologies : Prevents websites from port scanning.</description>
       <pubDate>Sat, 29 Mar 2025 18:29:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>dragonwolftech</title>
-      <link>https://cointr.ee/dragonwolftech</link>
-      <description>Non-Profits &gt; Individuals : Journalist</description>
-      <pubDate>Sat, 29 Mar 2025 18:28:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>MoneroPal</title>
-      <link>https://erstose.wixsite.com/moneropal</link>
-      <description>Businesses &gt; Proxy Shopping : Pay all of your expenses (online shopping, bills etc.) with Monero. You can also buy &amp; sell Monero trough PayPal. - Contact: moneropal@protonmail.com</description>
-      <pubDate>Sat, 29 Mar 2025 09:33:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
