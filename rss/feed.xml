@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Dope! Gallery</title>
+      <link>https://dope.gallery/</link>
+      <description>Businesses &gt; Artwork : An online art gallery specialised in famous art editions and toys. Authenticity guaranteed. Monero Welcome - Note: Must contact directly to &lt;a href="https://dope.gallery/payment-delivery" target="_blank"&gt;pay with Monero&lt;/a&gt;. - Location: HK - Contact: insta: dope.gallery</description>
+      <pubDate>Thu, 05 Jun 2025 21:02:59 GMT</pubDate>
+    </item>
+    <item>
       <title>Townforge</title>
       <link>https://www.townforge.net</link>
       <description>Non-Profits &gt; Miscellaneous : A blockchain based game based on the Monero source. Buy land, create buildings and research new technologies.</description>
@@ -652,12 +658,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://proxied.com/</link>
       <description>Businesses &gt; IT Services : Dedicated 4g and 5g Mobile Proxies with IP rotation Links, unlimited Bandwith and unique Fingerprints. - Location: Wanchai, Hongkong - Processor: Cryptomus - Contact: @Proxied_support</description>
       <pubDate>Sat, 29 Mar 2025 21:25:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Port Authority</title>
-      <link>https://github.com/ACK-J/Port_Authority</link>
-      <description>Non-Profits &gt; Technologies : Prevents websites from port scanning.</description>
-      <pubDate>Sat, 29 Mar 2025 18:29:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
