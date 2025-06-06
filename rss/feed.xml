@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Pstream</title>
+      <link>https://pstream.org/</link>
+      <description>Non-Profits &gt; Miscellaneous : Free series and movie hosting</description>
+      <pubDate>Fri, 06 Jun 2025 23:45:43 GMT</pubDate>
+    </item>
+    <item>
       <title>Dope! Gallery</title>
       <link>https://dope.gallery/</link>
       <description>Businesses &gt; Artwork : An online art gallery specialised in famous art editions and toys. Authenticity guaranteed. Monero Welcome - Note: Must contact directly to &lt;a href="https://dope.gallery/payment-delivery" target="_blank"&gt;pay with Monero&lt;/a&gt;. - Location: HK - Contact: insta: dope.gallery</description>
@@ -652,12 +658,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://nym.com/</link>
       <description>VPN Companies &gt; Europe (Non-EU) : Traffic analysis resistant decentralized vpn anonymous credentials and usage, terms of service for operation of nodes no logs - Location: Switzerland - Processor: BTCPay</description>
       <pubDate>Sun, 30 Mar 2025 15:08:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Proxied</title>
-      <link>https://proxied.com/</link>
-      <description>Businesses &gt; IT Services : Dedicated 4g and 5g Mobile Proxies with IP rotation Links, unlimited Bandwith and unique Fingerprints. - Location: Wanchai, Hongkong - Processor: Cryptomus - Contact: @Proxied_support</description>
-      <pubDate>Sat, 29 Mar 2025 21:25:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
