@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Ankergames</title>
+      <link>https://ankergames.net/</link>
+      <description>Non-Profits &gt; Miscellaneous : Free Download Pre-installed portable PC games from steam and major publishers with fastest downloads.</description>
+      <pubDate>Sat, 07 Jun 2025 19:11:20 GMT</pubDate>
+    </item>
+    <item>
       <title>Pstream</title>
       <link>https://pstream.org/</link>
       <description>Non-Profits &gt; Miscellaneous : Free series and movie hosting</description>
@@ -652,12 +658,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://promptchan.com/</link>
       <description>Businesses &gt; Pornography : NSFW AI image generator and AI sexting. - Processor: NowPayments</description>
       <pubDate>Mon, 31 Mar 2025 21:18:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>NYM VPN</title>
-      <link>https://nym.com/</link>
-      <description>VPN Companies &gt; Europe (Non-EU) : Traffic analysis resistant decentralized vpn anonymous credentials and usage, terms of service for operation of nodes no logs - Location: Switzerland - Processor: BTCPay</description>
-      <pubDate>Sun, 30 Mar 2025 15:08:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
