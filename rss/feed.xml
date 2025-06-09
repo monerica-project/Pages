@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>PaySkip.ORG</title>
+      <link>https://payskip.org</link>
+      <description>Businesses &gt; Marketing : The only URL shortener which also pays in Monero. CPM rates can be negotiated with staff. - Note: See &lt;a href="https://payskip.org/payout-rates" target="_blank"&gt;payout methods&lt;/a&gt;</description>
+      <pubDate>Mon, 09 Jun 2025 21:23:39 GMT</pubDate>
+    </item>
+    <item>
       <title>Ducks Party</title>
       <link>https://ducks.party/</link>
       <description>Non-Profits &gt; Individuals : A one-person project focused on various initiatives, including the scanner.ducks.party, Honeypot network, and creating AI models and datasets under free license</description>
@@ -652,12 +658,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://preservetube.com</link>
       <description>Non-Profits &gt; Technologies : A service to preserve and find archived YouTube videos.</description>
       <pubDate>Tue, 01 Apr 2025 12:36:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nutaku</title>
-      <link>https://www.nutaku.net/</link>
-      <description>Businesses &gt; Pornography : Adult video game distribution platform.</description>
-      <pubDate>Mon, 31 Mar 2025 21:21:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
