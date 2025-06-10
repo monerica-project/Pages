@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Open CryptoPay</title>
+      <link>https://opencryptopay.io/</link>
+      <description>Merchant Services &gt; Integrations : Online and offline merchant integration.</description>
+      <pubDate>Tue, 10 Jun 2025 17:57:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Professional Cybersecurity Services</title>
       <link>https://simplex.chat/contact#/?v=2-7&amp;smp=smp%3A%2F%2FenEkec4hlR3UtKx2NMpOUK_K4ZuDxjWBO1d9Y4YXVaA%3D%40smp14.simplex.im%2FvDX_XGBe4Q1JNgSEzZT5jjRzTSt45F3o%23%2F%3Fv%3D1-4%26dh%3DMCowBQYDK2VuAyEA6rxTCMp48tJfPbRlqT7pYWyy0x5fScvOQXtGTHubVlM%253D%26q%3Dc%26srv%3Daspkyu2sopsnizbyfabtsicikr2s4r3ti35jogbcekhm3fsoeyjvgrid.onion</link>
       <description>Businesses &gt; IT Services : Offensive Cyber, Mobile, Social, Etc. - Note: Simple X chat - Location: Worldwide</description>
@@ -223,7 +229,7 @@
     <item>
       <title>Catbox</title>
       <link>https://catbox.moe/</link>
-      <description>Non-Profits &gt; Technologies : Free file hoster up to 200 MB. - Note: https://catbox.moe/support.php</description>
+      <description>Non-Profits &gt; Technologies : Free file hoster up to 200 MB. - Note: See &lt;a href="https://catbox.moe/support.php" target="_blank"&gt;donations&lt;/a&gt;</description>
       <pubDate>Tue, 20 May 2025 14:24:38 GMT</pubDate>
     </item>
     <item>
@@ -652,12 +658,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://anosim.net/register?rfc=5KGN3ROgkx3O</link>
       <description>Businesses &gt; Phone Plans &amp; SIM Cards : SMS verification service - create accounts with our temporary numbers without exposing your number. - Location: Dubai, UAE - Processor: Cryptomus - Contact: @anosim_support</description>
       <pubDate>Wed, 02 Apr 2025 03:14:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Libertarian Lemmy</title>
-      <link>https://www.libertarianfellowship.org/</link>
-      <description>Non-Profits &gt; Miscellaneous : A Lemmy instance facilitating open discussion for everyone to use.</description>
-      <pubDate>Tue, 01 Apr 2025 19:36:23 GMT</pubDate>
     </item>
   </channel>
 </rss>
