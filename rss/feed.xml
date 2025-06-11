@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Tixati</title>
+      <link>https://tixati.com/</link>
+      <description>Non-Profits &gt; Technologies : Bittorrent Client</description>
+      <pubDate>Wed, 11 Jun 2025 23:16:37 GMT</pubDate>
+    </item>
+    <item>
       <title>Open CryptoPay</title>
       <link>https://opencryptopay.io/</link>
       <description>Merchant Services &gt; Integrations : Online and in-person merchant integration.</description>
@@ -652,12 +658,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://app.nokyc.cards/register?referrer=monerica</link>
       <description>Businesses &gt; Giftcards/ Pre-Paid Cards : No KYC Visa Debit Cards - Reloadable 3D Secure Debit Cards. - Note: Possible scam, see &lt;a href="https://xmrbazaar.com/listing/nDrt/" target="_blank"&gt;reported comment&lt;/a&gt; - Processor: Cryptomus - Contact: t.me/NoKYC_Cards</description>
       <pubDate>Wed, 02 Apr 2025 21:43:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anosim</title>
-      <link>https://anosim.net/register?rfc=5KGN3ROgkx3O</link>
-      <description>Businesses &gt; Phone Plans &amp; SIM Cards : SMS verification service - create accounts with our temporary numbers without exposing your number. - Location: Dubai, UAE - Processor: Cryptomus - Contact: @anosim_support</description>
-      <pubDate>Wed, 02 Apr 2025 03:14:27 GMT</pubDate>
     </item>
   </channel>
 </rss>
