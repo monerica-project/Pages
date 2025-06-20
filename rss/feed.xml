@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Pimux</title>
+      <link>https://pimux.de/</link>
+      <description>Non-Profits &gt; Technologies : XMPP server</description>
+      <pubDate>Fri, 20 Jun 2025 14:14:10 GMT</pubDate>
+    </item>
+    <item>
       <title>Stealthxmr.io</title>
       <link>https://stealthxmr.io/</link>
       <description>Utilities &gt; Node Lists : Monero Node with no tracking, no logs, just a privacy driven node.</description>
@@ -645,12 +651,6 @@
       <link>https://www.kicksecure.com/</link>
       <description>Non-Profits &gt; Operating Systems : A secure by default OS always based on the latest security research.</description>
       <pubDate>Mon, 14 Apr 2025 18:46:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Quetzalcoatl</title>
-      <link>https://quetzalcoatl-relays.org/</link>
-      <description>Non-Profits &gt; Security : Funder and maintainer of Tor Exit relays.</description>
-      <pubDate>Mon, 14 Apr 2025 12:58:38 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Silent Exchange (sponsored)</title>
