@@ -466,3 +466,7 @@ p.text-inline {
 span.bold {
     font-weight: bold;
 }
+
+ol.breadcrumb {
+    padding-left: 0;
+}
