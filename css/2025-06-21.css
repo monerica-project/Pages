@@ -55,13 +55,14 @@ p {
     margin-bottom: 5px;
 }
 
-.table {
+.table-wrapper {
     width: 100%;
     overflow-x: auto; /* allow horizontal scroll */
     -webkit-overflow-scrolling: touch; /* smooth scrolling on iOS */
 }
 
-table.table {
+/* prevent cells from wrapping so the table stays wide */
+.table-wrapper table {
     width: 100%;
     border-collapse: collapse;
     white-space: nowrap;
