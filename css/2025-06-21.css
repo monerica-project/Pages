@@ -61,6 +61,12 @@ p {
     -webkit-overflow-scrolling: touch; /* smooth scrolling on iOS */
 }
 
+table.table {
+    width: 100%;
+    border-collapse: collapse;
+    white-space: nowrap;
+}
+
 .table td {
     padding: 5px;
 }
