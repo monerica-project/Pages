@@ -55,6 +55,12 @@ p {
     margin-bottom: 5px;
 }
 
+.table {
+    width: 100%;
+    overflow-x: auto; /* allow horizontal scroll */
+    -webkit-overflow-scrolling: touch; /* smooth scrolling on iOS */
+}
+
 .table td {
     padding: 5px;
 }
