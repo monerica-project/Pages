@@ -95,6 +95,9 @@ table tbody tr:nth-child(even) {
     margin-bottom: 150px;
 }
 
+.form-check { margin-bottom: 5px; margin-top: 5px;}
+
+
 .create-sponsored-listing {
     text-align: right;
     font-size: 13px;
