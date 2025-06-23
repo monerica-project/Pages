@@ -1,4 +1,9 @@
 ﻿/* General Styles */
+
+html {
+    overflow-y: scroll; /* browser always shows the vertical track */
+}
+
 body {
     background-color: #000000eb;
     color: #FFFFFF;
