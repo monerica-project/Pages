@@ -147,13 +147,23 @@ li.sponsored {
     margin-left: -25px;
 }
 
-    li.sponsored p {
-        margin-left: 0px;
-    }
+li.sponsored p {
+    margin-left: 0px;
+}
+
+.category-sponsored-listing {
+    font-style: normal;
+    font-weight: bold;
+    padding-top: 0;
+    margin-top: auto;
+}
+
+.a {
+    color: #FF6600;
+}
 
 .sub-category-sponsored-listing {
     font-style: normal;
-   
     padding-top: 0;
     margin-top: auto;
 }
