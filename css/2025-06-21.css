@@ -158,17 +158,13 @@ li.sponsored p {
     margin-top: auto;
 }
 
-.a {
-    color: #FF6600;
-}
-
 .sub-category-sponsored-listing {
     font-style: normal;
     padding-top: 0;
     margin-top: auto;
 }
-    .sub-category-sponsored-listing a {
-        color:   #FF6600;
+    .sub-category-sponsored-listing a, .sub-category-sponsored-listing a {
+        color: #FF6600;
     }
     .legend p {
     color: #fff;
