@@ -152,13 +152,15 @@ li.sponsored {
     }
 
 .sub-category-sponsored-listing {
-    font-style: italic;
-    font-size: 12px;
+    font-style: normal;
+   
     padding-top: 0;
     margin-top: auto;
 }
-
-.legend p {
+    .sub-category-sponsored-listing a {
+        color:   #FF6600;
+    }
+    .legend p {
     color: #fff;
     margin-bottom: 3px;
     margin-top: 3px;
