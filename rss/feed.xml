@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Monero Brain Wallet</title>
+      <link>https://monerobrainwallet.com/</link>
+      <description>Utilities &gt; Open Source Projects : Generate a brain wallet.</description>
+      <pubDate>Thu, 26 Jun 2025 11:19:07 GMT</pubDate>
+    </item>
+    <item>
       <title>&amp;#x2705; FogSwap</title>
       <link>https://fogswap.com/</link>
       <description>Exchanges &gt; Non-KYC Exchanges : Telegram bot for exchanging.</description>
@@ -645,12 +651,6 @@
       <link>https://www.v2ray.com/en/index.html</link>
       <description>Non-Profits &gt; Technologies : A toolset for building your own privacy network. Its core, V2Ray, handles network protocols and works solo or with other tools.</description>
       <pubDate>Tue, 15 Apr 2025 00:57:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>RabbitDNS</title>
-      <link>https://rabbitdns.org/</link>
-      <description>Non-Profits &gt; Technologies : A privacy-focused DNS service that doesn't collect any user data. We believe that your online activity should be private, so we don't log or track any of your DNS queries.</description>
-      <pubDate>Tue, 15 Apr 2025 00:56:37 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Silent Exchange (sponsored)</title>
