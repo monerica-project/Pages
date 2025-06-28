@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>&amp;#x2705; xChange.me (sponsored)</title>
+      <link>https://xchange.me</link>
+      <description>Exchanges &gt; Non-KYC Exchanges : Instant exchange with CLI option - Location: Marshall Islands</description>
+      <pubDate>Sat, 28 Jun 2025 11:31:47 GMT</pubDate>
+    </item>
+    <item>
       <title>XMRGlobal (sponsored)</title>
       <link>https://xmrglobal.io/</link>
       <description>Exchanges &gt; Peer-to-Peer Exchanges : No KYC P2P Monero Exchange - Contact: @xmrglobal</description>
@@ -658,12 +664,6 @@
       <description>Exchanges &gt; Non-KYC Exchanges : Fast &amp; Anonymous Crypto to Crypto Swaps. No email. No KYC.Trade-in Minutes. 1500+ Crypto Pairs 24/7/365 Service Fee starting from 1%. - Note: Trade using Telegram Bot - @silentexchangerobot , 
 Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <pubDate>Fri, 11 Apr 2025 16:57:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x2705; xChange.me (sponsored)</title>
-      <link>https://xchange.me</link>
-      <description>Exchanges &gt; Non-KYC Exchanges : Instant exchange with CLI option - Location: Marshall Islands</description>
-      <pubDate>Fri, 04 Apr 2025 08:15:36 GMT</pubDate>
     </item>
   </channel>
 </rss>
