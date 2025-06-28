@@ -283,6 +283,17 @@ div#main-content {
     margin-right: 10px;
 }
 
+pre.payment-response {
+    font-family: Consolas, Menlo, Monaco, monospace;
+    white-space: break-spaces;
+    font-size: 13px;
+    max-height: 200px;
+    overflow: auto;
+    max-width: min(100%, calc(100vw - 30px));
+    word-wrap: anywhere;
+    opacity: 0.5;
+}
+
 pre.pgp-key {
     white-space: break-spaces;
     font-size: 13px;
