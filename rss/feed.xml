@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Reticulum</title>
+      <link>https://reticulum.network/</link>
+      <description>Non-Profits &gt; Technologies : A cryptography-based networking stack for building local and wide-area networks with readily available hardware. - Note: &lt;a href="https://reticulum.network/donate.html" target="_blank"&gt;Donations&lt;/a&gt;</description>
+      <pubDate>Sat, 28 Jun 2025 05:32:05 GMT</pubDate>
+    </item>
+    <item>
       <title>Monero Brain Wallet</title>
       <link>https://monerobrainwallet.com/</link>
       <description>Utilities &gt; Open Source Projects : Generate a brain wallet.</description>
@@ -639,12 +645,6 @@
       <link>https://openalias.org/</link>
       <description>Non-Profits &gt; Technologies : Simplifying aliasing in a shifting tech world—helping users move to private, secure systems, even if they’re just now memorizing email addresses.</description>
       <pubDate>Tue, 15 Apr 2025 01:09:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>V2ray</title>
-      <link>https://www.v2ray.com/en/index.html</link>
-      <description>Non-Profits &gt; Technologies : A toolset for building your own privacy network. Its core, V2Ray, handles network protocols and works solo or with other tools.</description>
-      <pubDate>Tue, 15 Apr 2025 00:57:18 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Silent Exchange (sponsored)</title>
