@@ -162,9 +162,6 @@
 <loc>https://monerica.com/businesses/weapons-and-self-defense</loc><lastmod>2025-06-29</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/web-hosting</loc><lastmod>2025-06-29</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
-</url>
-<url>
 <loc>https://monerica.com/communities</loc><lastmod>2025-06-29</lastmod><changefreq>Weekly</changefreq><priority>0.6</priority>
 </url>
 <url>
@@ -1347,7 +1344,7 @@
 <loc>https://monerica.com/businesses/clothing-apparel-and-accessories/horrifiq</loc><lastmod>2025-06-29</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/web-hosting/hostbunker</loc><lastmod>2025-06-29</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/web-hosting/vps-and-dedicated-server-providers/hostbunker</loc><lastmod>2025-06-29</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/web-hosting/tor-and-dark-web-hosting-services/hostmenow</loc><lastmod>2025-06-29</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -2230,6 +2227,9 @@
 </url>
 <url>
 <loc>https://monerica.com/businesses/membership/rdctd-covert-operative-guide</loc><lastmod>2025-06-29</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+</url>
+<url>
+<loc>https://monerica.com/web-hosting/vps-and-dedicated-server-providers/rdp-monster</loc><lastmod>2025-06-29</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/mining/apps/react-native-xmrig</loc><lastmod>2025-06-29</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
