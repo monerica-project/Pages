@@ -626,7 +626,6 @@ p.intro {
     font-size: 0.88rem;
     margin-bottom: 0.5rem;
     line-height: 1.4;
-    padding-top: 5px;
 }
 
 .sponsors {
@@ -666,7 +665,7 @@ p.intro {
 /* reserve one line of link space so cards never shift */
 .sponsor-links {
     min-height: 1.2em; /* adjust if your line-height is different */
-    margin-bottom: 0.5em; /* keep a little gap before the description */
+    margin-bottom: 0.1em; /* keep a little gap before the description */
 }
 
     /* optional: make empty .sponsor-links still take up space */
