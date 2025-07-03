@@ -661,3 +661,16 @@ p.intro {
     .sponsor-card ul li {
         list-style-type: none;
     }
+
+
+/* reserve one line of link space so cards never shift */
+.sponsor-links {
+    min-height: 1.2em; /* adjust if your line-height is different */
+    margin-bottom: 0.5em; /* keep a little gap before the description */
+}
+
+    /* optional: make empty .sponsor-links still take up space */
+    .sponsor-links:empty {
+        /* could also use height instead of min-height if you want something stricter */
+        min-height: 1.2em;
+    }
