@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>&amp;#x2705; XMRGlobal (sponsored)</title>
+      <link>https://xmrglobal.io/</link>
+      <description>Exchanges &gt; Peer-to-Peer Exchanges : No KYC P2P Monero Exchange - Contact: @xmrglobal</description>
+      <pubDate>Fri, 04 Jul 2025 16:05:03 GMT</pubDate>
+    </item>
+    <item>
       <title>Moleswap</title>
       <link>https://moleswap.xyz</link>
       <description>Exchanges &gt; Non-KYC Exchanges : No Logs and no KYC swap service. Swap a handful of currencies including Monero.</description>
@@ -51,12 +57,6 @@
       <link>https://xchange.me</link>
       <description>Exchanges &gt; Non-KYC Exchanges : Instant exchange with CLI option - Location: Marshall Islands</description>
       <pubDate>Sat, 28 Jun 2025 11:31:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x2705; XMRGlobal (sponsored)</title>
-      <link>https://xmrglobal.io/</link>
-      <description>Exchanges &gt; Peer-to-Peer Exchanges : No KYC P2P Monero Exchange - Contact: @xmrglobal</description>
-      <pubDate>Sat, 28 Jun 2025 09:12:50 GMT</pubDate>
     </item>
     <item>
       <title>Reticulum</title>
