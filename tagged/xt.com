@@ -42,7 +42,7 @@ div#main-content {
 
     <ul class="blank_list_item">
 
-<li><p><label for="entry_checkbox_295_Normal" class="expansion_item">+</label><a href="https://www.xt.com" target="_blank">XT.com</a> - Pairs: XMR/USDT</p><input type="checkbox" id="entry_checkbox_295_Normal" class="hidden"><div class="hidden"><ul><li>Added: 2022-06-22</li><li>Updated: 2024-11-18</li></ul></div></li>    </ul>
+<li><p><label for="entry_checkbox_295_Normal" class="expansion_item">+</label><a href="/exchanges/non-kyc-exchanges-account-based/xt-com">XT.com</a> - Pairs: XMR/USDT</p><input type="checkbox" id="entry_checkbox_295_Normal" class="hidden"><div class="hidden"><ul><li>Added: 2022-06-22</li><li>Updated: 2024-11-18</li></ul></div></li>    </ul>
 
 <hr>
 

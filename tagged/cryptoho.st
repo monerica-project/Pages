@@ -42,7 +42,7 @@ div#main-content {
 
     <ul class="blank_list_item">
 
-<li><p><label for="entry_checkbox_530_Normal" class="expansion_item">+</label>&#9989; <a href="https://cryptoho.st" target="_blank">CryptoHO.ST</a> - VPS and dedicated hosting.</p><input type="checkbox" id="entry_checkbox_530_Normal" class="hidden"><div class="hidden"><ul><li>Added: 2023-09-15</li><li>Updated: 2024-10-28</li><li>Location: Romania</li></ul></div></li>    </ul>
+<li><p><label for="entry_checkbox_530_Normal" class="expansion_item">+</label>&#9989; <a href="/web-hosting/vps-and-dedicated-server-providers/cryptoho-st">CryptoHO.ST</a> - VPS and dedicated hosting.</p><input type="checkbox" id="entry_checkbox_530_Normal" class="hidden"><div class="hidden"><ul><li>Added: 2023-09-15</li><li>Updated: 2024-10-28</li><li>Location: Romania</li></ul></div></li>    </ul>
 
 <hr>
 
