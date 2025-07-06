@@ -160,7 +160,7 @@ li.sponsored {
 }
 
     .sub-category-sponsored-listing a, .category-sponsored-listing a {
-        color: #FF6600;
+        color: #69bbff;
     }
 
 .legend p {
@@ -662,14 +662,70 @@ p.intro {
     }
 
 
-/* reserve one line of link space so cards never shift */
+/* lock the Tor/extra-links row to one line and hide overflow */
 .sponsor-links {
-    min-height: 1.2em; /* adjust if your line-height is different */
-    margin-bottom: 0.1em; /* keep a little gap before the description */
+    /* match your card’s line-height exactly */
+    line-height: 1.4;
+    height: 1.4em !important; /* fix height so child never pushes it bigger */
+    overflow: hidden !important; /* clip any overflow instead of reflowing */
+    white-space: nowrap; /* keep “Tor” on a single line */
+    margin-bottom: 0.5em; /* preserve your spacing to the description */
 }
 
-    /* optional: make empty .sponsor-links still take up space */
-    .sponsor-links:empty {
-        /* could also use height instead of min-height if you want something stricter */
-        min-height: 1.2em;
+    /* remove any transition/delay on links showing up */
+    .sponsor-links a {
+        transition: none !important;
+        display: inline-block;
+    }
+
+/* prevent the description ever moving up by zeroing its top margin */
+.sponsor-desc {
+    margin-top: 0 !important;
+}
+
+ul.search-results {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+    ul.search-results li.search-result-item {
+        margin-bottom: 1.5rem; /* extra space between items */
+        padding-left: 1rem; /* indent a bit */
+        border-left: 2px solid #444;
+    }
+
+        ul.search-results li.search-result-item p {
+            margin: 0.3em 0; /* tighten up paragraphs */
+        }
+
+
+/* ensure the UL lays out its items in a row */
+.pagination {
+    display: flex;
+    flex-wrap: wrap; /* wrap on small screens */
+    gap: 0.25rem; /* space between page items */
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0;
+    justify-content: center; /* center on larger screens */
+}
+
+    .pagination .page-item {
+        margin: 0; /* gap is handled by UL’s gap */
+    }
+
+    .pagination .page-link {
+        padding: 0.5rem 0.75rem;
+        border-radius: 0.25rem;
+        text-decoration: none;
+        color: inherit;
+        border: 1px solid #ccc;
+        display: block;
+    }
+
+    .pagination .page-item.active .page-link {
+        background-color: #007bff;
+        color: white;
+        border-color: #007bff;
     }
