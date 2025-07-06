@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Free Software Database</title>
+      <link>https://fswdb.eu</link>
+      <description>Non-Profits &gt; Technologies : Database of free software - Note: &lt;a href="https://fswdb.eu/donations" target="_blank"&gt;donations&lt;/a&gt;</description>
+      <pubDate>Sun, 06 Jul 2025 00:36:11 GMT</pubDate>
+    </item>
+    <item>
       <title>&amp;#x2705; XMRGlobal (sponsored)</title>
       <link>https://xmrglobal.io</link>
       <description>Exchanges &gt; Peer-to-Peer Exchanges : No KYC P2P Monero Exchange - Contact: @xmrglobal</description>
@@ -651,12 +657,6 @@
       <link>https://mailhaven.su</link>
       <description>Businesses &gt; E-Mail Providers/ Forwarders : Free encrypted E-Mail service</description>
       <pubDate>Fri, 18 Apr 2025 10:43:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Piped</title>
-      <link>https://github.com/TeamPiped/Piped</link>
-      <description>Non-Profits &gt; Technologies : Privacy preserving YouTube Frontend</description>
-      <pubDate>Thu, 17 Apr 2025 20:53:07 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Silent Exchange (sponsored)</title>
