@@ -745,7 +745,7 @@ ul.search-results {
     text-align: center;
 }
 
-@@media (max-width: 576px) {
+@media (max-width: 576px) {
     .top-container {
         flex-direction: column;
         gap: 0.25rem; /* even smaller gap on mobile */
