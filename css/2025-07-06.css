@@ -130,6 +130,7 @@ table tbody tr:nth-child(even) {
         font-size: 14px;
         font-style: italic;
         color: #727272;
+        margin-left: 2px;
     }
 
 li.sponsored {
