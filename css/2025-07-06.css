@@ -756,3 +756,10 @@ ul.search-results {
         font-size: 0.9rem; /* optional: scale text down slightly */
     }
 }
+
+
+ul.search-results li.sponsored {
+    margin-left: 0;
+    border-left: 2px solid #FF6600;
+    font-size: 16px;
+}
