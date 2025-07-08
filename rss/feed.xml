@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Unstoppable</title>
+      <link>https://unstoppable.money</link>
+      <description>Wallets &gt; Mobile Wallets : Multi-wallet for iOS and Android.</description>
+      <pubDate>Tue, 08 Jul 2025 15:34:03 GMT</pubDate>
+    </item>
+    <item>
       <title>getprivacy.earth</title>
       <link>https://getprivacy.earth</link>
       <description>Businesses &gt; Miscellaneous : Individual and organizational training on privacy. - Note: 15% off for Monero</description>
@@ -651,12 +657,6 @@
       <link>https://gitlab.com/MMGen/mmgen-wallet</link>
       <description>Non-Profits &gt; Technologies : Monero transacting and wallet management via the interactive mmgen-xmrwallet command.</description>
       <pubDate>Sun, 20 Apr 2025 16:14:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ergo</title>
-      <link>https://gitlab.com/calm-os/ergo</link>
-      <description>Non-Profits &gt; Technologies : Qt-based toolkit for developing converged applications.</description>
-      <pubDate>Sun, 20 Apr 2025 16:13:23 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Silent Exchange (sponsored)</title>
