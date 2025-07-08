@@ -111,10 +111,14 @@ table tbody tr:nth-child(even) {
     box-shadow: 0 2px 4px rgb(195 195 195 / 50%);
 }
 
-    .sponsored-section p {
-        margin: 0;
-        padding-bottom: 0;
-    }
+.sponsored-section a { 
+    font-weight: bold;
+}
+
+.sponsored-section p {
+    margin: 0;
+    padding-bottom: 0;
+}
 
     .sponsored-section ul {
         list-style: none;
