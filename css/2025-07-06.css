@@ -241,8 +241,9 @@ ul.newest_items li ul li p.small-font {
 }
 
     .breadcrumb-item + .breadcrumb-item::before {
-        content: ">";
-        padding: 2px 4px;
+        content: "\00BB";
+        padding-left: 5px;
+        padding-right: 0;
     }
 
     .breadcrumb-item.active {
