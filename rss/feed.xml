@@ -5,6 +5,18 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>LBR designs</title>
+      <link>https://www.lbr-designs.nl</link>
+      <description>Businesses &gt; Design Services : Freelance graphic designs, run by Luuk BRouwers. - Location: Netherlands</description>
+      <pubDate>Wed, 09 Jul 2025 14:16:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Madison Digital Services</title>
+      <link>https://madison-digital.net</link>
+      <description>Businesses &gt; Technology/ Computer Hardware : Compute, networking, storage, and mobile solutions, all powered by open-source software and tailored for specific use cases. - Location: USA - Processor: BTCPay Server</description>
+      <pubDate>Wed, 09 Jul 2025 14:14:04 GMT</pubDate>
+    </item>
+    <item>
       <title>&amp;#x2705; Silent Exchange (sponsored)</title>
       <link>https://silent.exchange</link>
       <description>Exchanges &gt; Non-KYC Exchanges : Fast &amp; Anonymous Crypto to Crypto Swaps. No email. No KYC.Trade-in Minutes. 1500+ Crypto Pairs 24/7/365 Service Fee starting from 1%. - Note: Trade using Telegram Bot - @silentexchangerobot , 
@@ -652,18 +664,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://owl.lc/donate</link>
       <description>Non-Profits &gt; Technologies : Monero Node operator</description>
       <pubDate>Mon, 21 Apr 2025 10:52:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Herman Shine</title>
-      <link>https://hermanshine.com</link>
-      <description>Businesses &gt; Marketing : We don't ask who you are, we don't judge your vision and ideas, we don't keep records of our customers and we don't give out any data. - Location: Europe</description>
-      <pubDate>Sun, 20 Apr 2025 16:16:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>KeyboardVisualizer</title>
-      <link>https://gitlab.com/CalcProgrammer1/KeyboardVisualizer/-/blob/master/README.md</link>
-      <description>Non-Profits &gt; Technologies : Keyboard Visualizer syncs your OpenRGB lights to music, visualizing audio from any app, site, or game using input or loopback devices.</description>
-      <pubDate>Sun, 20 Apr 2025 16:14:59 GMT</pubDate>
     </item>
   </channel>
 </rss>
