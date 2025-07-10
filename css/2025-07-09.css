@@ -105,20 +105,19 @@ table tbody tr:nth-child(even) {
 .sponsored-section {
     background-color: #1E1E1E;
     border: 3px solid #FF6600;
-     
     font-size: 18px;
     border-radius: 10px;
     box-shadow: 0 2px 4px rgb(195 195 195 / 50%);
 }
 
-.sponsored-section a { 
-    font-weight: bold;
-}
+    .sponsored-section a {
+        font-weight: bold;
+    }
 
-.sponsored-section p {
-    margin: 0;
-    padding-bottom: 0;
-}
+    .sponsored-section p {
+        margin: 0;
+        padding-bottom: 0;
+    }
 
     .sponsored-section ul {
         list-style: none;
@@ -295,7 +294,7 @@ div#main-content {
     padding-top: 0; */
 }
 
- 
+
 
 pre.payment-response {
     font-family: Consolas, Menlo, Monaco, monospace;
@@ -627,19 +626,26 @@ section.sponsors {
     max-height: 80px;
 }
 
-div.centered { text-align: center;}
+div.centered {
+    text-align: center;
+}
 
-h1, h2 { margin: 0; padding: 0;}
+h1, h2 {
+    margin: 0;
+    padding: 0;
+}
+
 h1 {
     font-size: 2.5rem
 }
+
 p.intro {
     font-size: 0.9rem;
     text-align: justify;
     line-height: 1.5;
     color: #CCC;
-  
 }
+
 .sponsor-card p {
     font-size: 0.88rem;
     margin-bottom: 0.5rem;
@@ -672,12 +678,15 @@ p.intro {
 }
 
 
-.sponsor-card ul { padding-left: 25px;padding-right: 5px;}
-
-
-    .sponsor-card ul li {
-        list-style-type: none;
+    .sponsor-card ul {
+        padding-left: 25px;
+        padding-right: 5px;
     }
+
+
+        .sponsor-card ul li {
+            list-style-type: none;
+        }
 
 
 /* lock the Tor/extra-links row to one line and hide overflow */
@@ -889,7 +898,6 @@ body {
         display: flex;
         flex-wrap: wrap;
         align-items: center;
-        
     }
 
     .sidebar .expander {
@@ -1034,12 +1042,11 @@ li.category-item ul {
     float: right;
 }
 
- 
+
 
 /* Sidebar logo at top */
 .sidebar .logo-container {
     text-align: center;
-   
     border-bottom: 1px solid #333; /* optional separator */
 }
 
@@ -1051,5 +1058,5 @@ li.category-item ul {
 
 
 .blank_list_item li {
-     margin-bottom: 3px; 
+    margin-bottom: 3px;
 }
