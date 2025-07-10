@@ -283,7 +283,19 @@ div#main-content {
     padding-top: 5px;
     margin-left: 10px;
     margin-right: 10px;
+    /*margin: 0 auto;
+    max-width: 62rem;*/
 }
+
+#main-content .main {
+    /* undo the auto-centering and max-width
+    margin: 0 !important;
+    max-width: none !important;
+    width: auto !important;
+    padding-top: 0; */
+}
+
+ 
 
 pre.payment-response {
     font-family: Consolas, Menlo, Monaco, monospace;
@@ -831,6 +843,10 @@ body {
     }
 }
 
+
+
+
+
 /* 3) SIDEBAR STYLING
        ------------------------------------------------------------------------ */
 .sidebar {
@@ -840,7 +856,7 @@ body {
     bottom: 0;
     width: 220px;
     background: #1E1E1E;
-    padding: 1rem 0;
+    /* padding: 1rem 0;*/
     overflow-y: auto;
     box-shadow: 2px 0 5px rgba(0,0,0,0.5);
 }
@@ -1016,4 +1032,24 @@ li.category-item ul {
 
 .search-top-align {
     float: right;
+}
+
+ 
+
+/* Sidebar logo at top */
+.sidebar .logo-container {
+    text-align: center;
+   
+    border-bottom: 1px solid #333; /* optional separator */
+}
+
+    .sidebar .logo-container img {
+        max-width: 80px; /* adjust width as needed */
+        height: auto;
+        display: inline-block;
+    }
+
+
+.blank_list_item li {
+     margin-bottom: 3px; 
 }
