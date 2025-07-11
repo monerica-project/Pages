@@ -132,12 +132,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <pubDate>Sat, 28 Jun 2025 05:32:05 GMT</pubDate>
     </item>
     <item>
-      <title>Monero Brain Wallet</title>
-      <link>https://monerobrainwallet.com</link>
-      <description>Utilities &gt; Open Source Projects : Generate a brain wallet.</description>
-      <pubDate>Thu, 26 Jun 2025 11:19:07 GMT</pubDate>
-    </item>
-    <item>
       <title>&amp;#x2705; FogSwap</title>
       <link>https://fogswap.com</link>
       <description>Exchanges &gt; Non-KYC Exchanges : Telegram bot for exchanging.</description>
@@ -667,6 +661,12 @@ Allows the user to pick a platform when paying - Note: Choose your platform and 
       <link>https://meduza.io</link>
       <description>Non-Profits &gt; Activism : Russian opposition media - Note: &lt;a href="https://support.meduza.io/en" target="_blank"&gt;donate&lt;/a&gt;</description>
       <pubDate>Mon, 21 Apr 2025 11:25:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bitmafia</title>
+      <link>https://bitmafia.io</link>
+      <description>Exchanges &gt; Non-KYC Exchanges : Anonymous Russian exchange</description>
+      <pubDate>Mon, 21 Apr 2025 11:24:49 GMT</pubDate>
     </item>
   </channel>
 </rss>
