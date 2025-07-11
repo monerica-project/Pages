@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>SideKick by Monerujo</title>
+      <link>https://sidekick.monerujo.app</link>
+      <description>Wallets &gt; Mobile Wallets : Use your other phone as an offline Monero hardware wallet.</description>
+      <pubDate>Fri, 11 Jul 2025 13:41:50 GMT</pubDate>
+    </item>
+    <item>
       <title>Should Have Used Monero</title>
       <link>https://shum.fyi</link>
       <description>Education &gt; Knowledge : Lists events in which using Monero would have been a better choice for payment.</description>
@@ -661,12 +667,6 @@ Allows the user to pick a platform when paying - Note: Choose your platform and 
       <link>https://meduza.io</link>
       <description>Non-Profits &gt; Activism : Russian opposition media - Note: &lt;a href="https://support.meduza.io/en" target="_blank"&gt;donate&lt;/a&gt;</description>
       <pubDate>Mon, 21 Apr 2025 11:25:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bitmafia</title>
-      <link>https://bitmafia.io</link>
-      <description>Exchanges &gt; Non-KYC Exchanges : Anonymous Russian exchange</description>
-      <pubDate>Mon, 21 Apr 2025 11:24:49 GMT</pubDate>
     </item>
   </channel>
 </rss>
