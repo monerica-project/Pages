@@ -5,6 +5,18 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Digital Privacy Shop</title>
+      <link>https://digitalprivacy.shop</link>
+      <description>Businesses &gt; Marketplaces : Privacy-friendly devices and services.</description>
+      <pubDate>Fri, 11 Jul 2025 23:10:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Satsrefill</title>
+      <link>https://satsrefill.com</link>
+      <description>Businesses &gt; Giftcards/ Pre-Paid Cards : Create an account, deposit and get a card. - Contact: support@satsrefill.com</description>
+      <pubDate>Fri, 11 Jul 2025 23:03:34 GMT</pubDate>
+    </item>
+    <item>
       <title>SideKick by Monerujo</title>
       <link>https://sidekick.monerujo.app</link>
       <description>Wallets &gt; Mobile Wallets : Use your other phone as an offline Monero hardware wallet.</description>
@@ -655,18 +667,6 @@ Allows the user to pick a platform when paying - Note: Choose your platform and 
       <link>https://elpengu.com</link>
       <description>Non-Profits &gt; Technologies : An Instances hoster.</description>
       <pubDate>Mon, 21 Apr 2025 12:11:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meduza</title>
-      <link>https://meduza.io</link>
-      <description>Non-Profits &gt; Activism : Russian opposition media - Note: &lt;a href="https://support.meduza.io/en" target="_blank"&gt;donate&lt;/a&gt;</description>
-      <pubDate>Mon, 21 Apr 2025 11:25:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bitmafia</title>
-      <link>https://bitmafia.io</link>
-      <description>Exchanges &gt; Non-KYC Exchanges : Anonymous Russian exchange</description>
-      <pubDate>Mon, 21 Apr 2025 11:24:49 GMT</pubDate>
     </item>
   </channel>
 </rss>
