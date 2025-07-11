@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Should Have Used Monero</title>
+      <link>https://shum.fyi</link>
+      <description>Education &gt; Knowledge : Lists events in which using Monero would have been a better choice for payment.</description>
+      <pubDate>Fri, 11 Jul 2025 01:06:38 GMT</pubDate>
+    </item>
+    <item>
       <title>&amp;#x2705; XMRGlobal (sponsored)</title>
       <link>https://xmrglobal.io</link>
       <description>Exchanges &gt; Peer-to-Peer Exchanges : No KYC P2P Monero Exchange - Contact: @xmrglobal</description>
@@ -658,12 +664,6 @@ Support - @silentexchangeadmin - Contact: @silentexchange</description>
       <link>https://bitmafia.io</link>
       <description>Exchanges &gt; Non-KYC Exchanges : Anonymous Russian exchange</description>
       <pubDate>Mon, 21 Apr 2025 11:24:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Owl. Lc</title>
-      <link>https://owl.lc/donate</link>
-      <description>Non-Profits &gt; Technologies : Monero Node operator</description>
-      <pubDate>Mon, 21 Apr 2025 10:52:59 GMT</pubDate>
     </item>
   </channel>
 </rss>
