@@ -66,6 +66,9 @@
 <loc>https://monerica.com/tagged/accessories</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
+<loc>https://monerica.com/tagged/accessory</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
+</url>
+<url>
 <loc>https://monerica.com/tagged/account-creation</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
@@ -568,6 +571,9 @@
 </url>
 <url>
 <loc>https://monerica.com/tagged/backyard-events</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
+</url>
+<url>
+<loc>https://monerica.com/tagged/badge</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
 <loc>https://monerica.com/tagged/badges</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
@@ -1345,6 +1351,9 @@
 </url>
 <url>
 <loc>https://monerica.com/tagged/crypto-swap</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
+</url>
+<url>
+<loc>https://monerica.com/tagged/crypto-tool</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
 <loc>https://monerica.com/tagged/crypto-tools</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
@@ -6642,10 +6651,10 @@
 <loc>https://monerica.com/businesses/membership</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/mining-and-node-hardware</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
+<loc>https://monerica.com/businesses/miscellaneous</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/miscellaneous</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
+<loc>https://monerica.com/businesses/monero-hardware</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/monero-merchandise</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
@@ -8211,7 +8220,7 @@
 <loc>https://monerica.com/communities/other/monero-developer</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/miscellaneous/monero-devices</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/monero-merchandise/monero-devices</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/other-directories/business-directories/monero-directory</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -8430,7 +8439,7 @@
 <loc>https://monerica.com/media/music/moneromusic</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/mining-and-node-hardware/moneronodo</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/monero-hardware/moneronodo</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/finance/conversion/monerooo</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -8952,7 +8961,7 @@
 <loc>https://monerica.com/businesses/seeds-and-spores/spawnmagic</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/miscellaneous/sphinx</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/monero-hardware/sphinx</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/non-profits/technologies/sponsorblock</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -9393,7 +9402,7 @@
 <loc>https://monerica.com/utilities/blockchain-explorers/xmrscan</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/miscellaneous/xmrstreet</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/monero-hardware/xmrstreet</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/media/news-taiwanese/xmr-tw-org</loc><lastmod>2025-07-11</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
