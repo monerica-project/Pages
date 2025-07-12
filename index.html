@@ -1903,6 +1903,30 @@ div#main-content {
         <main class="main">
             
 
+     <style>
+        /* container for the two sponsor sections */
+        .sponsor-sections {
+            display: flex;
+            gap: 2rem;
+            flex-wrap: wrap;
+            margin-bottom: 2rem;
+        }
+
+            /* each section takes up half the width (minus gap) */
+            .sponsor-sections section {
+                flex: 1 1 calc(50% - 1rem);
+                box-sizing: border-box;
+            }
+
+            /* keep cards in a grid inside each section */
+            .sponsor-sections .sponsors-grid {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 1rem;
+            }
+
+</style>
+
     <div class="content-wrapper">
  
         <!-- Hero and sponsored listing partial (stays full‐width under the fixed sidebar) -->
@@ -2092,9 +2116,61 @@ div#main-content {
 <li><p><i>2025-07-11</i> <a title="Sphinx" href="https://sphinxgadgets.com" target="_blank">Sphinx</a> - Alternative password manager featuring Monero. <i>(Note: See: <a href="https://sphinxgadgets.com/collections/monero-collection">Monero Collection</a>)</i> </p></li>            </ul>
             <hr>
 
-    </div>
  
-         </main>
+
+        <div class="sponsor-sections">
+            <!-- Category Sponsors -->
+            <section>
+                <h2 class="section-title">Category Sponsors</h2>
+                        <span class="category-name">Businesses</span>
+                        <ul class="blank_list_item">
+
+<li><p>&#9989; <a title="XMR.BAR" href="https://xmr.bar" target="_blank">XMR.BAR</a> | <a href="https://nfu2kimwl4d74hrf2d3obzpbi4mvxuen522c7h37xtuyctrtxspalmqd.onion" target="_blank">Tor</a> - Play dices using Monero. Privacy-respecting, registration-free and provably fair.</p></li>                        </ul>
+                        <span class="category-name">Exchanges</span>
+                        <ul class="blank_list_item">
+
+<li><p>&#9989; <a title="XMRGlobal" href="https://xmrglobal.io" target="_blank">XMRGlobal</a> | <a href="http://xmrglobalbtadqwzhwohwlonc252y5zfdv3ssoob35n5pb3wrghsvvyd.onion" target="_blank">Tor</a> - No KYC P2P Monero Exchange</p></li>                        </ul>
+            </section>
+
+            <!-- Subcategory Sponsors -->
+            <section>
+                <h2 class="section-title">Subcategory Sponsors</h2>
+                        <span class="subcategory-name">
+                            Businesses » Gambling
+                        </span>
+                        <ul class="blank_list_item">
+
+<li><p>&#9989; <a title="MoneroDice" href="https://monerodice.pro" target="_blank">MoneroDice</a> | <a href="http://dicepro4s6naj2jxo64g2fxj4nvn3cs2jp6hjmp36dzioegmfjcn6uad.onion" target="_blank">Tor</a> - Simple, fast, privacy-respecting dice and blackjack game. Provably fair mode for dice is available too.</p></li>                        </ul>
+                        <span class="subcategory-name">
+                            Businesses » Giftcards/ Pre-Paid Cards
+                        </span>
+                        <ul class="blank_list_item">
+
+<li><p>&#9989; <a title="Coincards" href="https://coincards.com/us/" target="_blank">Coincards</a> - Gift cards from hundreds of top brands, including Amazon, Walmart, Airbnb, Uber, DoorDash, Home Depot, and even Visa or Amex cards, with values up to $2,000.</p></li>                        </ul>
+                        <span class="subcategory-name">
+                            Exchanges » Peer-to-Peer Exchanges
+                        </span>
+                        <ul class="blank_list_item">
+
+<li><p>&#9989; <a title="XMRGlobal" href="https://xmrglobal.io" target="_blank">XMRGlobal</a> | <a href="http://xmrglobalbtadqwzhwohwlonc252y5zfdv3ssoob35n5pb3wrghsvvyd.onion" target="_blank">Tor</a> - No KYC P2P Monero Exchange</p></li>                        </ul>
+                        <span class="subcategory-name">
+                            Web Hosting » Cloud & Web Hosting Providers
+                        </span>
+                        <ul class="blank_list_item">
+
+<li><p>&#9989; <a title="Servers Guru" href="https://servers.guru" target="_blank">Servers Guru</a> | <a href="http://srvguru7bjzzjba7xy2hnx2ju4k77qy4eum2h3tgudwc3j2zof4aggyd.onion" target="_blank">Tor</a> - Anonymous VPS, Cloud servers and Webhosting available in: Netherlands, Germany, Finland, USA, Canada and Singapore</p></li>                        </ul>
+                        <span class="subcategory-name">
+                            Web Hosting » VPS & Dedicated Server Providers
+                        </span>
+                        <ul class="blank_list_item">
+
+<li><p>&#9989; <a title="Mynymbox" href="https://mynymbox.io" target="_blank">Mynymbox</a> | <a href="http://mynymecyaiv7t55qiggp76rzqz35si5g7nzdh3yci4wiqbmlwqg7xeyd.onion" target="_blank">Tor</a> | <a href="http://mynymbox.i2p" target="_blank">I2P</a> - Anonymous VPS Servers, Dedicated Servers, Web Hosting, Domain Name Registrations</p></li>                        </ul>
+            </section>
+        </div>
+
+
+    
+         </div></main>
     </div>
 
 
