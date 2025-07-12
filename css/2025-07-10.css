@@ -756,6 +756,7 @@ ul.search-results {
         color: white;
         border-color: #007bff;
     }
+<<<<<<<< HEAD:src/DirectoryManager/DirectoryManager.Web/wwwroot/css/2025-07-10.css
 
 .top-container {
     display: flex;
@@ -1073,3 +1074,51 @@ li.category-item ul {
     margin: 0 auto;
     padding: 1rem;
 }
+
+
+/* Make the sponsor sections stack vertically full-width */
+.sponsor-sections {
+    display: block !important;
+    margin: 2rem 0;
+}
+
+    .sponsor-sections > section {
+        width: 100%;
+        margin-bottom: 2rem;
+    }
+
+    /* Section titles in orange */
+    .sponsor-sections h2.section-title {
+        color: #FF6600;
+        margin-bottom: 1rem;
+    }
+
+    /* Category / Subcategory labels */
+    .sponsor-sections .category-name,
+    .sponsor-sections .subcategory-name {
+        display: block;
+        font-weight: bold;
+        color: #EEE;
+        margin: 1rem 0 0.5rem;
+    }
+    /* indent subcategories under their parents */
+    .sponsor-sections .subcategory-name {
+        padding-left: 1rem;
+    }
+
+    /* Each sponsor entry on its own line, indented */
+    .sponsor-sections ul.blank_list_item {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+        .sponsor-sections ul.blank_list_item > li {
+            margin: 0.5rem 0;
+            padding-left: 2rem;
+        }
+
+    /* Make the status icon orange */
+    .sponsor-sections .status {
+        color: #FF6600 !important;
+    }
