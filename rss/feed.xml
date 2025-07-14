@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>PiNodeXMR</title>
+      <link>https://github.com/shermand100/PiNodeXMR/wiki/Manual</link>
+      <description>Mining &gt; Software : Private Monero nodes.</description>
+      <pubDate>Mon, 14 Jul 2025 16:44:54 GMT</pubDate>
+    </item>
+    <item>
       <title>ShockVpn</title>
       <link>https://shockvpn.com</link>
       <description>VPN Companies &gt; Global / Unspecified : Get started with no personal information, for only $3 per month</description>
@@ -661,12 +667,6 @@ Allows the user to pick a platform when paying - Note: Choose your platform and 
       <link>https://metrics.torproject.org/rs.html#details/045BBCA9602A22C112984F25003CD4897CFFB9E5</link>
       <description>Non-Profits &gt; Technologies : Operates a Tor Node</description>
       <pubDate>Sun, 27 Apr 2025 01:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>xmr.email</title>
-      <link>https://xmr.email</link>
-      <description>Businesses &gt; E-Mail Providers/ Forwarders : Email with certainty, knowing your privacy is our top priority.</description>
-      <pubDate>Sat, 26 Apr 2025 11:39:18 GMT</pubDate>
     </item>
   </channel>
 </rss>
