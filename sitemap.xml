@@ -588,9 +588,6 @@
 <loc>https://monerica.com/tagged/badges</loc><lastmod>2025-07-16</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
-<loc>https://monerica.com/tagged/bare-metal</loc><lastmod>2025-07-16</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
-</url>
-<url>
 <loc>https://monerica.com/tagged/bars</loc><lastmod>2025-07-16</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
@@ -886,6 +883,9 @@
 </url>
 <url>
 <loc>https://monerica.com/tagged/card</loc><lastmod>2025-07-16</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
+</url>
+<url>
+<loc>https://monerica.com/tagged/career</loc><lastmod>2025-07-16</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
 <loc>https://monerica.com/tagged/careers</loc><lastmod>2025-07-16</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
@@ -1564,9 +1564,6 @@
 </url>
 <url>
 <loc>https://monerica.com/tagged/data-analysis</loc><lastmod>2025-07-16</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
-</url>
-<url>
-<loc>https://monerica.com/tagged/data-center</loc><lastmod>2025-07-16</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
 <loc>https://monerica.com/tagged/data-encryption</loc><lastmod>2025-07-16</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
@@ -3280,6 +3277,9 @@
 </url>
 <url>
 <loc>https://monerica.com/tagged/jewelry-store</loc><lastmod>2025-07-16</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
+</url>
+<url>
+<loc>https://monerica.com/tagged/job</loc><lastmod>2025-07-16</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
 <loc>https://monerica.com/tagged/job-board</loc><lastmod>2025-07-16</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
@@ -5850,9 +5850,6 @@
 <loc>https://monerica.com/tagged/sweden</loc><lastmod>2025-07-16</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
-<loc>https://monerica.com/tagged/swiss-hosting</loc><lastmod>2025-07-16</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
-</url>
-<url>
 <loc>https://monerica.com/tagged/switzerland</loc><lastmod>2025-07-16</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
@@ -6985,6 +6982,9 @@
 </url>
 <url>
 <loc>https://monerica.com/jobs/bounties</loc><lastmod>2025-07-16</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
+</url>
+<url>
+<loc>https://monerica.com/jobs/chatrooms</loc><lastmod>2025-07-16</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
 <loc>https://monerica.com/jobs/crowdfunding</loc><lastmod>2025-07-16</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
@@ -9222,9 +9222,6 @@
 <loc>https://monerica.com/exchanges/comparison-aggregation/swapzone</loc><lastmod>2025-07-16</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/web-hosting/vps-and-dedicated-server-providers/swissdedi</loc><lastmod>2025-07-16</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
-</url>
-<url>
 <loc>https://monerica.com/non-profits/operating-systems/tails</loc><lastmod>2025-07-16</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
@@ -9252,7 +9249,7 @@
 <loc>https://monerica.com/communities/chatrooms/telegram-monero-italy</loc><lastmod>2025-07-16</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/communities/chatrooms/telegram-monero-jobs</loc><lastmod>2025-07-16</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/jobs/chatrooms/telegram-monero-jobs</loc><lastmod>2025-07-16</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/communities/chatrooms/telegram-monero-mining</loc><lastmod>2025-07-16</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
