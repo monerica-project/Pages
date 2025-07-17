@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>&amp;#x2705; SPAR</title>
+      <link>https://www.sparinc.com</link>
+      <description>Businesses &gt; Food &amp; Drink (IRL) : A Dutch multinational franchise that provides branding, supplies and support services for independently owned and operated food retail stores. - Note: See locations &lt;a target="_blank" href="https://www.google.com/maps/d/u/0/viewer?mid=1DzX6z5tnUqn1zlzFnL6G58xREItorRM&amp;ll=47.296206748843886%2C8.933059262417341&amp;z=8"&gt;map&lt;/a&gt; - Processor: DFX</description>
+      <pubDate>Thu, 17 Jul 2025 15:28:50 GMT</pubDate>
+    </item>
+    <item>
       <title>Casa Lunarito</title>
       <link>https://lunarito.com</link>
       <description>Businesses &gt; Hotels/ Accommodations : Discover our boutique hotel, a place where Andalusian tradition blends with modern comforts, located in the heart of the historic center of Vejer de la Frontera (Spain). - Location: San Filmo 2, 11150 Vejer de la Frontera, Cádiz, Spain</description>
@@ -667,12 +673,6 @@ Allows the user to pick a platform when paying - Note: Choose your platform and 
       <link>https://xenaps.com</link>
       <description>Exchanges &gt; Comparison/ Aggregation : Find the best cryptocurrency exchanges and services that accept your coins such as Monero.</description>
       <pubDate>Tue, 29 Apr 2025 12:22:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>CypherToshi</title>
-      <link>https://cyphertoshi.com</link>
-      <description>Non-Profits &gt; Knowledge : Open-source tools and guides to help others reclaim their digital autonomy.</description>
-      <pubDate>Tue, 29 Apr 2025 00:08:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
