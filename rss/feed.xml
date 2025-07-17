@@ -5,6 +5,18 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Casa Lunarito</title>
+      <link>https://lunarito.com</link>
+      <description>Businesses &gt; Hotels/ Accommodations : Discover our boutique hotel, a place where Andalusian tradition blends with modern comforts, located in the heart of the historic center of Vejer de la Frontera (Spain). - Location: San Filmo 2, 11150 Vejer de la Frontera, Cádiz, Spain</description>
+      <pubDate>Thu, 17 Jul 2025 12:28:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bitoncard</title>
+      <link>https://bitoncard.com</link>
+      <description>Businesses &gt; Giftcards/ Pre-Paid Cards : Anonymous Mastercard that you can load with crypto and spend online worldwide. 3DS supported. - Processor: Heleket/Cryptomus - Contact: support@bitoncard.com</description>
+      <pubDate>Thu, 17 Jul 2025 12:23:40 GMT</pubDate>
+    </item>
+    <item>
       <title>Easynode (sponsored)</title>
       <link>https://github.com/kerlannXmr/EasyMonerod</link>
       <description>Utilities &gt; Open Source Projects : A software simplifying the node deployment process. - Note: Monero Node</description>
@@ -661,18 +673,6 @@ Allows the user to pick a platform when paying - Note: Choose your platform and 
       <link>https://cyphertoshi.com</link>
       <description>Non-Profits &gt; Knowledge : Open-source tools and guides to help others reclaim their digital autonomy.</description>
       <pubDate>Tue, 29 Apr 2025 00:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>shellfire</title>
-      <link>https://www.shellfire.net</link>
-      <description>VPN Companies &gt; Europe (EU) : Surf freely and securely with Shellfire VPN. Protect your online privacy from cyber threats and ensure anonymous browsing. Your path to a free, secure internet starts here. - Location: Germany</description>
-      <pubDate>Mon, 28 Apr 2025 22:32:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>LibreNode</title>
-      <link>https://librenode.com</link>
-      <description>Non-Profits &gt; Technologies : A service hosting many open source privacy-respecting tools and a Monero node. - Contact: Email: contact@librenode.com</description>
-      <pubDate>Mon, 28 Apr 2025 17:02:41 GMT</pubDate>
     </item>
   </channel>
 </rss>
