@@ -423,9 +423,9 @@ div#main-content {
                 </details>
             </li>
             <li>
-                <details open="open">
+                <details>
                     <summary>
-                        <a class="no-app-link active" href="https://monerica.com/finance">
+                        <a class="no-app-link " href="https://monerica.com/finance">
                             Finance
                         </a>
                     </summary>
@@ -436,7 +436,7 @@ div#main-content {
                                 </a>
                             </li>
                             <li>
-                                <a class="no-app-link active" href="https://monerica.com/finance/charts">
+                                <a class="no-app-link " href="https://monerica.com/finance/charts">
                                     Charts
                                 </a>
                             </li>
@@ -1363,10 +1363,10 @@ div#main-content {
             </li>
             <li class="category-item">
                 <label for="finance_expander" class="expander">+</label>
-                <a class="no-app-link active" href="https://monerica.com/finance">
+                <a class="no-app-link " href="https://monerica.com/finance">
                     Finance
                 </a>
-                <input type="checkbox" id="finance_expander" class="hidden-toggle" checked>
+                <input type="checkbox" id="finance_expander" class="hidden-toggle">
                 <div class="hidden">
                     <ul>
                             <li>
@@ -1375,7 +1375,7 @@ div#main-content {
                                 </a>
                             </li>
                             <li>
-                                <a class="no-app-link active" href="https://monerica.com/finance/charts">
+                                <a class="no-app-link " href="https://monerica.com/finance/charts">
                                     Charts
                                 </a>
                             </li>
@@ -1920,7 +1920,6 @@ div#main-content {
     <div id="main-content">
         <main class="main">
             
-
     <div class="top-section search-section search-top-align">
         
 <div class="text-center mb-3">
@@ -1934,60 +1933,63 @@ div#main-content {
 
     </div>
 
-<h1>CoinMarketCap</h1>
-<hr>
+    <div class="directory-entry-details container py-4">
+        <h1 class="mb-3">CoinMarketCap</h1>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item">
+                    <a class="no-app-link" href="https://monerica.com/">Home</a>
+                </li>
+                <li class="breadcrumb-item">
+                    <a class="no-app-link" href="https://monerica.com/finance">Finance</a>
+                </li>
+                <li class="breadcrumb-item">
+                    <a class="no-app-link" href="https://monerica.com/finance/charts">Charts</a>
+                </li>
+                <li class="breadcrumb-item" aria-current="page">
+                    CoinMarketCap
+                </li>
+            </ol>
+        </nav>
 
-<div class="directory-entry-details">
-
-    <nav aria-label="breadcrumb">
-    <ol class="breadcrumb">
-        <li class="breadcrumb-item">
-            <a class="no-app-link" href="https://monerica.com/">Home</a>
-        </li>
-        <li class="breadcrumb-item">
-            <a class="no-app-link" href="https://monerica.com/finance">Finance</a>
-        </li>
-        <li class="breadcrumb-item">
-            <a class="no-app-link" href="https://monerica.com/finance/charts">Charts</a>
-        </li>
-        <li class="breadcrumb-item" aria-current="page">
-            CoinMarketCap
-        </li>
-    </ol>
-    </nav>
-
-    <div class="entry-details">
-        <p><strong>Name:</strong> CoinMarketCap</p>
-            <p><strong>Link:</strong> <b><a class="multi-line-text" href="https://coinmarketcap.com/currencies/monero" target="_blank">https://coinmarketcap.com/currencies/monero</a></b></p>
-
-        <br>
-        <h3>Details</h3>
-        <p>
-            <strong>Status:</strong>
-
-            
-          
-            Admitted
-        </p>
-
-     
-
-        <p><strong>Added On:</strong> 2022-06-22</p>
-            <p><strong>Last Updated:</strong> 2024-08-19</p>
+        <div class="card mb-4">
+            <div class="card-body">
+                <table class="table table-borderless mb-0">
+                    <tbody>
+                        <tr>
+                            <th scope="row">Name</th>
+                            <td>CoinMarketCap</td>
+                        </tr>
+                            <tr>
+                                <th scope="row">Website</th>
+                                <td><b><a class="multi-line-text" href="https://coinmarketcap.com/currencies/monero" target="_blank">https://coinmarketcap.com/currencies/monero</a></b></td>
+                            </tr>
+                        <tr>
+                            <th scope="row">Status</th>
+                            <td> Admitted</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Added On</th>
+                            <td>2022-06-22</td>
+                        </tr>
+                            <tr>
+                                <th scope="row">Last Updated</th>
+                                <td>2024-08-19</td>
+                            </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
 
 
 
             <br>
             <div class="entry-tags">
                 <strong>Tags:</strong>
-                    <a href="/tagged/crypto-analysis">crypto analysis</a>,                     <a href="/tagged/cryptocurrency">cryptocurrency</a>,                     <a href="/tagged/finance">finance</a>,                     <a href="/tagged/market-data">market data</a>,                     <a href="/tagged/price-charts">price charts</a>            </div>
-    </div>
-</div>
+                    <a href="/tagged/crypto-analysis">crypto analysis</a>,                     <a href="/tagged/cryptocurrency">cryptocurrency</a>,                     <a href="/tagged/finance">finance</a>,                     <a href="/tagged/market-data">market data</a>,                     <a href="/tagged/price-charts">price charts</a>        </div>
 
-
-
-<hr>
-
+        <hr>
+        
 
 
     <section class="sponsors">
@@ -2086,7 +2088,7 @@ div#main-content {
         </p>
 
 
-
+    </div>
 
          </main>
     </div>
