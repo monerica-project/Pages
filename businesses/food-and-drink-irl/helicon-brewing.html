@@ -46,9 +46,9 @@ div#main-content {
     <summary>Menu</summary>
     <ul>
             <li>
-                <details open="open">
+                <details>
                     <summary>
-                        <a class="no-app-link active" href="https://monerica.com/businesses">
+                        <a class="no-app-link " href="https://monerica.com/businesses">
                             Businesses
                         </a>
                     </summary>
@@ -119,7 +119,7 @@ div#main-content {
                                 </a>
                             </li>
                             <li>
-                                <a class="no-app-link active" href="https://monerica.com/businesses/food-and-drink-irl">
+                                <a class="no-app-link " href="https://monerica.com/businesses/food-and-drink-irl">
                                     Food &amp; Drink (IRL)
                                 </a>
                             </li>
@@ -986,10 +986,10 @@ div#main-content {
     <ul>
             <li class="category-item">
                 <label for="businesses_expander" class="expander">+</label>
-                <a class="no-app-link active" href="https://monerica.com/businesses">
+                <a class="no-app-link " href="https://monerica.com/businesses">
                     Businesses
                 </a>
-                <input type="checkbox" id="businesses_expander" class="hidden-toggle" checked>
+                <input type="checkbox" id="businesses_expander" class="hidden-toggle">
                 <div class="hidden">
                     <ul>
                             <li>
@@ -1058,7 +1058,7 @@ div#main-content {
                                 </a>
                             </li>
                             <li>
-                                <a class="no-app-link active" href="https://monerica.com/businesses/food-and-drink-irl">
+                                <a class="no-app-link " href="https://monerica.com/businesses/food-and-drink-irl">
                                     Food &amp; Drink (IRL)
                                 </a>
                             </li>
@@ -1922,7 +1922,6 @@ div#main-content {
     <div id="main-content">
         <main class="main">
             
-
     <div class="top-section search-section search-top-align">
         
 <div class="text-center mb-3">
@@ -1936,69 +1935,84 @@ div#main-content {
 
     </div>
 
-<h1>Helicon Brewing</h1>
-<hr>
+    <div class="directory-entry-details container py-4">
+        <h1 class="mb-3">Helicon Brewing</h1>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item">
+                    <a class="no-app-link" href="https://monerica.com/">Home</a>
+                </li>
+                <li class="breadcrumb-item">
+                    <a class="no-app-link" href="https://monerica.com/businesses">Businesses</a>
+                </li>
+                <li class="breadcrumb-item">
+                    <a class="no-app-link" href="https://monerica.com/businesses/food-and-drink-irl">Food &amp; Drink (IRL)</a>
+                </li>
+                <li class="breadcrumb-item" aria-current="page">
+                    Helicon Brewing
+                </li>
+            </ol>
+        </nav>
 
-<div class="directory-entry-details">
-
-    <nav aria-label="breadcrumb">
-    <ol class="breadcrumb">
-        <li class="breadcrumb-item">
-            <a class="no-app-link" href="https://monerica.com/">Home</a>
-        </li>
-        <li class="breadcrumb-item">
-            <a class="no-app-link" href="https://monerica.com/businesses">Businesses</a>
-        </li>
-        <li class="breadcrumb-item">
-            <a class="no-app-link" href="https://monerica.com/businesses/food-and-drink-irl">Food &amp; Drink (IRL)</a>
-        </li>
-        <li class="breadcrumb-item" aria-current="page">
-            Helicon Brewing
-        </li>
-    </ol>
-    </nav>
-
-    <div class="entry-details">
-        <p><strong>Name:</strong> Helicon Brewing</p>
-            <p><strong>Link:</strong> <b><a class="multi-line-text" href="https://heliconbrewing.com" target="_blank">https://heliconbrewing.com</a></b></p>
-
-        <br>
-        <h3>Details</h3>
-        <p>
-            <strong>Status:</strong>
-
-            
-          
-            Admitted
-        </p>
-
-            <p><strong>Contact:</strong> <span class="multi-line-text">info@heliconbrewing.com</span></p>
-     
-            <p><strong>Location:</strong> 102 Union Ave Oakdale, PA 15071, USA</p>
-    <img class="country-flag" src="/images/flags/us.png" alt="US" title="Flag of:US">
-
-        <p><strong>Added On:</strong> 2022-10-28</p>
-            <p><strong>Last Updated:</strong> 2025-07-16</p>
+        <div class="card mb-4">
+            <div class="card-body">
+                <table class="table table-borderless mb-0">
+                    <tbody>
+                        <tr>
+                            <th scope="row">Name</th>
+                            <td>Helicon Brewing</td>
+                        </tr>
+                            <tr>
+                                <th scope="row">Website</th>
+                                <td><b><a class="multi-line-text" href="https://heliconbrewing.com" target="_blank">https://heliconbrewing.com</a></b></td>
+                            </tr>
+                        <tr>
+                            <th scope="row">Status</th>
+                            <td> Admitted</td>
+                        </tr>
+                            <tr>
+                                <th scope="row">Contact</th>
+                                <td><span class="multi-line-text">info@heliconbrewing.com</span></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Location</th>
+                                <td>
+                                    102 Union Ave Oakdale, PA 15071, USA
+                                        <img class="country-flag ms-2" src="/images/flags/us.png" alt="Flag of US" title="US">
+                                </td>
+                            </tr>
+                        <tr>
+                            <th scope="row">Added On</th>
+                            <td>2022-10-28</td>
+                        </tr>
+                            <tr>
+                                <th scope="row">Last Updated</th>
+                                <td>2025-07-16</td>
+                            </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
 
             <br>
-            <h3>Description</h3>
-            <p>A 15 barrel brewery with a 48 seat taproom.</p>
+            <div class="mb-4">
+                <h3>Description</h3>
+                <p>A 15 barrel brewery with a 48 seat taproom.</p>
+            </div>
 
             <br>
-            <h4>Note</h4>
-            <p><i>see <a href="https://heliconbrewing.com/crypto/">crypto page</a></i></p>
+            <div class="mb-4">
+                <h4>Note</h4>
+                <p><em>see <a href="https://heliconbrewing.com/crypto/">crypto page</a></em></p>
+            </div>
 
             <br>
             <div class="entry-tags">
                 <strong>Tags:</strong>
-                    <a href="/tagged/brewery">brewery</a>,                     <a href="/tagged/craft-beer">craft beer</a>,                     <a href="/tagged/food-and-drink">food and drink</a>,                     <a href="/tagged/local-business">local business</a>,                     <a href="/tagged/pennsylvania">pennsylvania</a>,                     <a href="/tagged/pennsylvanium">pennsylvanium</a>,                     <a href="/tagged/small-business">small business</a>,                     <a href="/tagged/taproom">taproom</a>            </div>
-    </div>
-</div>
+                    <a href="/tagged/brewery">brewery</a>,                     <a href="/tagged/craft-beer">craft beer</a>,                     <a href="/tagged/food-and-drink">food and drink</a>,                     <a href="/tagged/local-business">local business</a>,                     <a href="/tagged/pennsylvania">pennsylvania</a>,                     <a href="/tagged/pennsylvanium">pennsylvanium</a>,                     <a href="/tagged/small-business">small business</a>,                     <a href="/tagged/taproom">taproom</a>        </div>
 
-
-
-<hr>
-
+        <hr>
+        
 
 
     <section class="sponsors">
@@ -2097,7 +2111,7 @@ div#main-content {
         </p>
 
 
-
+    </div>
 
          </main>
     </div>

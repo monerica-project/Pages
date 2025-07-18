@@ -46,9 +46,9 @@ div#main-content {
     <summary>Menu</summary>
     <ul>
             <li>
-                <details open="open">
+                <details>
                     <summary>
-                        <a class="no-app-link active" href="https://monerica.com/businesses">
+                        <a class="no-app-link " href="https://monerica.com/businesses">
                             Businesses
                         </a>
                     </summary>
@@ -64,7 +64,7 @@ div#main-content {
                                 </a>
                             </li>
                             <li>
-                                <a class="no-app-link active" href="https://monerica.com/businesses/artwork">
+                                <a class="no-app-link " href="https://monerica.com/businesses/artwork">
                                     Artwork
                                 </a>
                             </li>
@@ -986,10 +986,10 @@ div#main-content {
     <ul>
             <li class="category-item">
                 <label for="businesses_expander" class="expander">+</label>
-                <a class="no-app-link active" href="https://monerica.com/businesses">
+                <a class="no-app-link " href="https://monerica.com/businesses">
                     Businesses
                 </a>
-                <input type="checkbox" id="businesses_expander" class="hidden-toggle" checked>
+                <input type="checkbox" id="businesses_expander" class="hidden-toggle">
                 <div class="hidden">
                     <ul>
                             <li>
@@ -1003,7 +1003,7 @@ div#main-content {
                                 </a>
                             </li>
                             <li>
-                                <a class="no-app-link active" href="https://monerica.com/businesses/artwork">
+                                <a class="no-app-link " href="https://monerica.com/businesses/artwork">
                                     Artwork
                                 </a>
                             </li>
@@ -1922,7 +1922,6 @@ div#main-content {
     <div id="main-content">
         <main class="main">
             
-
     <div class="top-section search-section search-top-align">
         
 <div class="text-center mb-3">
@@ -1936,68 +1935,83 @@ div#main-content {
 
     </div>
 
-<h1>Dope! Gallery</h1>
-<hr>
+    <div class="directory-entry-details container py-4">
+        <h1 class="mb-3">Dope! Gallery</h1>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item">
+                    <a class="no-app-link" href="https://monerica.com/">Home</a>
+                </li>
+                <li class="breadcrumb-item">
+                    <a class="no-app-link" href="https://monerica.com/businesses">Businesses</a>
+                </li>
+                <li class="breadcrumb-item">
+                    <a class="no-app-link" href="https://monerica.com/businesses/artwork">Artwork</a>
+                </li>
+                <li class="breadcrumb-item" aria-current="page">
+                    Dope! Gallery
+                </li>
+            </ol>
+        </nav>
 
-<div class="directory-entry-details">
-
-    <nav aria-label="breadcrumb">
-    <ol class="breadcrumb">
-        <li class="breadcrumb-item">
-            <a class="no-app-link" href="https://monerica.com/">Home</a>
-        </li>
-        <li class="breadcrumb-item">
-            <a class="no-app-link" href="https://monerica.com/businesses">Businesses</a>
-        </li>
-        <li class="breadcrumb-item">
-            <a class="no-app-link" href="https://monerica.com/businesses/artwork">Artwork</a>
-        </li>
-        <li class="breadcrumb-item" aria-current="page">
-            Dope! Gallery
-        </li>
-    </ol>
-    </nav>
-
-    <div class="entry-details">
-        <p><strong>Name:</strong> Dope! Gallery</p>
-            <p><strong>Link:</strong> <b><a class="multi-line-text" href="https://dope.gallery" target="_blank">https://dope.gallery</a></b></p>
-
-        <br>
-        <h3>Details</h3>
-        <p>
-            <strong>Status:</strong>
-
-            
-          
-            Admitted
-        </p>
-
-            <p><strong>Contact:</strong> <span class="multi-line-text">insta: dope.gallery</span></p>
-     
-            <p><strong>Location:</strong> HK</p>
-
-        <p><strong>Added On:</strong> 2025-06-05</p>
-            <p><strong>Last Updated:</strong> 2025-07-04</p>
+        <div class="card mb-4">
+            <div class="card-body">
+                <table class="table table-borderless mb-0">
+                    <tbody>
+                        <tr>
+                            <th scope="row">Name</th>
+                            <td>Dope! Gallery</td>
+                        </tr>
+                            <tr>
+                                <th scope="row">Website</th>
+                                <td><b><a class="multi-line-text" href="https://dope.gallery" target="_blank">https://dope.gallery</a></b></td>
+                            </tr>
+                        <tr>
+                            <th scope="row">Status</th>
+                            <td> Admitted</td>
+                        </tr>
+                            <tr>
+                                <th scope="row">Contact</th>
+                                <td><span class="multi-line-text">insta: dope.gallery</span></td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Location</th>
+                                <td>
+                                    HK
+                                </td>
+                            </tr>
+                        <tr>
+                            <th scope="row">Added On</th>
+                            <td>2025-06-05</td>
+                        </tr>
+                            <tr>
+                                <th scope="row">Last Updated</th>
+                                <td>2025-07-04</td>
+                            </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
 
             <br>
-            <h3>Description</h3>
-            <p>An online art gallery specialised in famous art editions and toys. Authenticity guaranteed. Monero Welcome</p>
+            <div class="mb-4">
+                <h3>Description</h3>
+                <p>An online art gallery specialised in famous art editions and toys. Authenticity guaranteed. Monero Welcome</p>
+            </div>
 
             <br>
-            <h4>Note</h4>
-            <p><i>Must contact directly to <a href="https://dope.gallery/payment-delivery" target="_blank">pay with Monero</a>.</i></p>
+            <div class="mb-4">
+                <h4>Note</h4>
+                <p><em>Must contact directly to <a href="https://dope.gallery/payment-delivery" target="_blank">pay with Monero</a>.</em></p>
+            </div>
 
             <br>
             <div class="entry-tags">
                 <strong>Tags:</strong>
-                    <a href="/tagged/art-business">art-business</a>,                     <a href="/tagged/art-editions">art-editions</a>,                     <a href="/tagged/art-toys">art-toys</a>,                     <a href="/tagged/authentic-art">authentic-art</a>,                     <a href="/tagged/crypto-payments">crypto-payments</a>,                     <a href="/tagged/online-art-gallery">online-art-gallery</a>            </div>
-    </div>
-</div>
+                    <a href="/tagged/art-business">art-business</a>,                     <a href="/tagged/art-editions">art-editions</a>,                     <a href="/tagged/art-toys">art-toys</a>,                     <a href="/tagged/authentic-art">authentic-art</a>,                     <a href="/tagged/crypto-payments">crypto-payments</a>,                     <a href="/tagged/online-art-gallery">online-art-gallery</a>        </div>
 
-
-
-<hr>
-
+        <hr>
+        
 
 
     <section class="sponsors">
@@ -2096,7 +2110,7 @@ div#main-content {
         </p>
 
 
-
+    </div>
 
          </main>
     </div>
