@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Haveno Dawnswap</title>
+      <link>https://dawnswap.com</link>
+      <description>Exchanges &gt; Peer-to-Peer Exchanges : A decentralized open-source non-custodial peer-to-peer exchange platform built with Monero and Tor at its core. It is based on the open-source Haveno Network. - Note: Monero is the base currency for all trading pairs. All fiat currency supported and many payment methods available for traders to offer and use. - Location: Worldwide - Contact: https://github.com/dawn-collective/haveno-dawn/</description>
+      <pubDate>Fri, 18 Jul 2025 12:38:49 GMT</pubDate>
+    </item>
+    <item>
       <title>&amp;#x2705; SPAR</title>
       <link>https://www.spar.ch</link>
       <description>Businesses &gt; Food &amp; Drink (IRL) : A multinational franchise that provides branding, supplies and support services for independently owned and operated food retail stores. - Note: See locations &lt;a target="_blank" href="https://www.google.com/maps/d/u/0/viewer?mid=1DzX6z5tnUqn1zlzFnL6G58xREItorRM&amp;ll=47.296206748843886%2C8.933059262417341&amp;z=8"&gt;map&lt;/a&gt; - Processor: DFX</description>
@@ -667,12 +673,6 @@ Allows the user to pick a platform when paying - Note: Choose your platform and 
       <link>https://tech1k.com</link>
       <description>Non-Profits &gt; Individuals : Official website of Tech1k, a developer of many open-source privacy-focused programs. - Contact: GitHub: https://github.com/Tech1k</description>
       <pubDate>Thu, 01 May 2025 09:43:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xenaps</title>
-      <link>https://xenaps.com</link>
-      <description>Exchanges &gt; Comparison/ Aggregation : Find the best cryptocurrency exchanges and services that accept your coins such as Monero.</description>
-      <pubDate>Tue, 29 Apr 2025 12:22:18 GMT</pubDate>
     </item>
   </channel>
 </rss>
