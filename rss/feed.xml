@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>AxeSwap</title>
+      <link>https://axeswap.net</link>
+      <description>Exchanges &gt; Atomic Swaps : Atomic Cross-Chain Exchange</description>
+      <pubDate>Fri, 18 Jul 2025 13:45:42 GMT</pubDate>
+    </item>
+    <item>
       <title>PasteEarn</title>
       <link>https://pastearn.com/pages.php?page=Earn</link>
       <description>Businesses &gt; Miscellaneous : The only Monero-paying paste/link site. It also has a leaderboard. Built by the team behind PaySkip.ORG - Note: https://pastearn.com/pages.php?page=Earn</description>
@@ -667,12 +673,6 @@ Allows the user to pick a platform when paying - Note: Choose your platform and 
       <link>https://www.heroes-of-hyperinflation.net</link>
       <description>Other Directories &gt; Business Directories : German business directory</description>
       <pubDate>Fri, 02 May 2025 16:41:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>MMGen Wallet</title>
-      <link>https://mmgen-wallet.cc</link>
-      <description>Wallets &gt; CLI Wallets : Terminal-based online/ offline cryptocurrency wallet - Note: Privacy- and Security-centric, extensive test suite, supports offline transaction signing - Contact: https://x.com/TheMMGenProject</description>
-      <pubDate>Thu, 01 May 2025 18:07:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
