@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>The Monero Book</title>
+      <link>https://monero-book.cuprate.org/</link>
+      <description>Education &gt; Knowledge : Document the Monero protocol. Currently, work is being done to document Monero's consensus rules.</description>
+      <pubDate>Fri, 18 Jul 2025 13:27:24 GMT</pubDate>
+    </item>
+    <item>
       <title>Haveno Dawnswap</title>
       <link>https://dawnswap.com</link>
       <description>Exchanges &gt; Peer-to-Peer Exchanges : A decentralized open-source non-custodial peer-to-peer exchange platform built with Monero and Tor at its core. It is based on the open-source Haveno Network. - Note: Monero is the base currency for all trading pairs. All fiat currency supported and many payment methods available for traders to offer and use. - Location: Worldwide - Contact: https://github.com/dawn-collective/haveno-dawn/</description>
@@ -667,12 +673,6 @@ Allows the user to pick a platform when paying - Note: Choose your platform and 
       <link>https://duinocoin.com/donate.html</link>
       <description>Businesses &gt; Blockchain Services : Anti-privacy centralized “Crypto” project with closed server code and a long history of banning users for using VPN and criticizing the project.</description>
       <pubDate>Thu, 01 May 2025 11:48:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tech1k</title>
-      <link>https://tech1k.com</link>
-      <description>Non-Profits &gt; Individuals : Official website of Tech1k, a developer of many open-source privacy-focused programs. - Contact: GitHub: https://github.com/Tech1k</description>
-      <pubDate>Thu, 01 May 2025 09:43:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
