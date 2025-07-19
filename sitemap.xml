@@ -165,6 +165,9 @@
 <loc>https://monerica.com/tagged/automation</loc><lastmod>2025-07-19</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
+<loc>https://monerica.com/tagged/bank-transfer</loc><lastmod>2025-07-19</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
+</url>
+<url>
 <loc>https://monerica.com/tagged/best-rates</loc><lastmod>2025-07-19</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
@@ -1674,9 +1677,6 @@
 <loc>https://monerica.com/tagged/prepaid-cards</loc><lastmod>2025-07-19</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
-<loc>https://monerica.com/tagged/prepaid-sim</loc><lastmod>2025-07-19</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
-</url>
-<url>
 <loc>https://monerica.com/tagged/price-comparison</loc><lastmod>2025-07-19</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
@@ -3001,6 +3001,9 @@
 </url>
 <url>
 <loc>https://monerica.com/exchanges/kyc-exchanges-non-united-states/biconomy</loc><lastmod>2025-07-19</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+</url>
+<url>
+<loc>https://monerica.com/exchanges/non-kyc-exchanges/bim-finance</loc><lastmod>2025-07-19</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/it-services/biomance-technologies</loc><lastmod>2025-07-19</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -4696,9 +4699,6 @@
 </url>
 <url>
 <loc>https://monerica.com/businesses/digital-goods-services/simplified-privacy</loc><lastmod>2025-07-19</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
-</url>
-<url>
-<loc>https://monerica.com/businesses/phone-plans-and-sim-cards/simstr-net</loc><lastmod>2025-07-19</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/phone-plans-and-sim-cards/simsup-net</loc><lastmod>2025-07-19</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
