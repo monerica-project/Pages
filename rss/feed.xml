@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>BIM Finance</title>
+      <link>https://exchange.bim.finance</link>
+      <description>Exchanges &gt; Non-KYC Exchanges : Buy and sell Monero from a bank account.</description>
+      <pubDate>Sat, 19 Jul 2025 18:37:17 GMT</pubDate>
+    </item>
+    <item>
       <title>AxeSwap</title>
       <link>https://axeswap.net</link>
       <description>Exchanges &gt; Atomic Swaps : Atomic Cross-Chain Exchange</description>
@@ -667,12 +673,6 @@ Allows the user to pick a platform when paying - Note: Choose your platform and 
       <link>https://z-library.sk/how-to-donate</link>
       <description>Non-Profits &gt; Knowledge : Free instant access to eBooks and articles. - Note: no acceptance of Monero</description>
       <pubDate>Mon, 05 May 2025 01:46:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Heroes of Hyperinflation</title>
-      <link>https://www.heroes-of-hyperinflation.net</link>
-      <description>Other Directories &gt; Business Directories : German business directory</description>
-      <pubDate>Fri, 02 May 2025 16:41:38 GMT</pubDate>
     </item>
   </channel>
 </rss>
