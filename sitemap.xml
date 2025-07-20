@@ -1731,6 +1731,9 @@
 <loc>https://monerica.com/tagged/residential-proxies</loc><lastmod>2025-07-20</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
+<loc>https://monerica.com/tagged/residential-proxy</loc><lastmod>2025-07-20</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
+</url>
+<url>
 <loc>https://monerica.com/tagged/resources</loc><lastmod>2025-07-20</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
@@ -1744,6 +1747,9 @@
 </url>
 <url>
 <loc>https://monerica.com/tagged/rotating-proxies</loc><lastmod>2025-07-20</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
+</url>
+<url>
+<loc>https://monerica.com/tagged/rotating-proxy</loc><lastmod>2025-07-20</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
 <loc>https://monerica.com/tagged/rpc</loc><lastmod>2025-07-20</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
@@ -1888,9 +1894,6 @@
 </url>
 <url>
 <loc>https://monerica.com/tagged/slots</loc><lastmod>2025-07-20</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
-</url>
-<url>
-<loc>https://monerica.com/tagged/sm</loc><lastmod>2025-07-20</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
 <loc>https://monerica.com/tagged/small-business</loc><lastmod>2025-07-20</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
@@ -4695,7 +4698,7 @@
 <loc>https://monerica.com/businesses/phone-plans-and-sim-cards/smscodes</loc><lastmod>2025-07-20</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/phone-plans-and-sim-cards/sms-pool</loc><lastmod>2025-07-20</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/phone-plans-and-sim-cards/smspool</loc><lastmod>2025-07-20</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/vpn-companies/europe-non-eu/snowhaze</loc><lastmod>2025-07-20</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
