@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Anotld</title>
+      <link>https://anotld.cc</link>
+      <description>Web Hosting &gt; Domain Registration &amp; DNS Services : Bulletproof Domains by Nicenic &amp; Tonic - Processor: Plisio</description>
+      <pubDate>Mon, 21 Jul 2025 23:27:39 GMT</pubDate>
+    </item>
+    <item>
       <title>&amp;#x2705; Ninja.Exchange (sponsored)</title>
       <link>https://ninja.exchange</link>
       <description>Exchanges &gt; Non-KYC Exchanges : Anonymous Crypto to Crypto exchanges. - Note: Custom exchange requests accepted. - Location: Cayman Islands - Contact: @ninjaexchangesupport  Tox: 2E129AE83CE1DA61E048B297D746C241269C0A097FCDF28</description>
@@ -667,12 +673,6 @@ Allows the user to pick a platform when paying - Note: Choose your platform and 
       <link>https://monerowat.ch</link>
       <description>Utilities &gt; Blockchain Explorers : Beautiful Monero Explorer - Note: JS required</description>
       <pubDate>Tue, 06 May 2025 21:33:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Z Library</title>
-      <link>https://z-library.sk/how-to-donate</link>
-      <description>Non-Profits &gt; Knowledge : Free instant access to eBooks and articles. - Note: no acceptance of Monero</description>
-      <pubDate>Mon, 05 May 2025 01:46:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
