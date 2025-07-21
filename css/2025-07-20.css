@@ -34,6 +34,8 @@ h2, h3 {
     padding-bottom: 0;
 }
 
+h3, h4 { margin-bottom: 5px;}
+
 a {
     color: #008cff;
 }
@@ -709,6 +711,7 @@ p.intro {
 /* prevent the description ever moving up by zeroing its top margin */
 .sponsor-desc {
     margin-top: 0 !important;
+    margin: 5px;
 }
 
 ul.search-results {
@@ -1147,3 +1150,54 @@ li.category-item ul {
     .tag-item:hover {
         background: #e0e0e0;
     }
+
+
+a.external-link {
+    display: inline-block;
+}
+
+    a.external-link::after {
+        content: "\2197"; /* ↗ north‑east arrow */
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 0.8em; /* was 1em */
+        height: 0.8em; /* was 1em */
+        font-size: 1.3em; /* was 1.3em (1.3 * 0.8) */
+        font-weight: bold;
+        line-height: 1;
+        /* vertical nudge: -.05em * 0.8 = -.04em */
+        transform: translateY(-0.04em);
+        /* gap from text: 0.15em * 0.8 = 0.12em */
+        margin-left: 0.12em;
+        /* border‑width: 1px * 0.8 = 0.8px */
+        border: 0.8px solid currentColor;
+        border-radius: 0.16em; /* was 0.2em */
+        vertical-align: middle;
+        box-sizing: content-box;
+    }
+
+    a.external-link:hover::after {
+        color: #00AAFF;
+        border-color: #00AAFF;
+    }
+
+    a.external-link:active::after {
+        color: #FF6600;
+        border-color: #FF6600;
+    }
+
+
+/* Desktop: constrain main content to 62% of its container and center it */
+#main-content .main {
+    max-width: 62%;
+    margin: 0 auto;
+}
+
+/* Mobile: allow it to expand full‑width again */
+@media (max-width: 768px) {
+    #main-content .main {
+        max-width: 100%;
+        margin: 0;
+    }
+}
