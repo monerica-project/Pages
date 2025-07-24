@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Escape the Technocracy</title>
+      <link>https://escapethetechnocracy.com</link>
+      <description>Businesses &gt; Miscellaneous : Video courses on technocracy.</description>
+      <pubDate>Thu, 24 Jul 2025 20:37:35 GMT</pubDate>
+    </item>
+    <item>
       <title>The Opsec Bible</title>
       <link>http://opbible7nans45sg33cbyeiwqmlp5fu7lklu6jd6f3mivrjeqadco5yd.onion/opsec/index.html</link>
       <description>Onion Only &gt; Education : Shows you why and how you can achieve Operational Security from A to Z. From Privacy, to Anonymity, to Deniability, to become fully ungovernable.</description>
@@ -661,12 +667,6 @@ Allows the user to pick a platform when paying - Note: Choose your platform and 
       <link>https://void-cc.space</link>
       <description>VPN Companies &gt; Europe (Non-EU) : Cheap VPN based on WireGuard protocol, 0.03 euro a day - Note: Avoid - Whole service (domain+servers) appears to be offered for sale on &lt;a target="_blank" href="https://xmrbazaar.com/listing/apUW/"&gt;XMRBazaar&lt;/a&gt; - Location: Russia - Processor: monero-wallet-rpc in a docker container - Contact: void.cc2@proton.me</description>
       <pubDate>Sat, 17 May 2025 17:45:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>XMRB4U</title>
-      <link>https://xmrb4u.com</link>
-      <description>Businesses &gt; Proxy Shopping : Buy products from URLs. - Note: Cheap fees, works in most countries, fast respond/ order time. - Contact: @RienNull telegram</description>
-      <pubDate>Fri, 16 May 2025 01:40:59 GMT</pubDate>
     </item>
   </channel>
 </rss>
