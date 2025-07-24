@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Valley Medicinals</title>
+      <link>https://valleymedicinals.com</link>
+      <description>Businesses &gt; Medical/ Pharmaceutical Treatments : Premier medical cannabis dispensary in Rio Grande Valley. - Location: 701 N. 10th St McAllen, TX 78501, USA - Processor: Plisio</description>
+      <pubDate>Thu, 24 Jul 2025 14:40:17 GMT</pubDate>
+    </item>
+    <item>
       <title>DarkFi Hardware</title>
       <link>https://hardware.dark.fi</link>
       <description>Businesses &gt; Clothing, Apparel &amp; Accessories : DarkFi related clothing and accessories. - Location: Switzerland - Processor: NOWPayments - Contact: shop@lunarsystems.info</description>
@@ -661,12 +667,6 @@ Allows the user to pick a platform when paying - Note: Choose your platform and 
       <link>https://crystal-trade.org</link>
       <description>Exchanges &gt; Non-KYC Exchanges : No KYC exchange - Note: Report of &lt;a &lt;a href="https://antiswap.io/exchanger/Crystal-Trade-otzyvy" target="_blank"&gt;AML scam&lt;/a&gt;</description>
       <pubDate>Thu, 15 May 2025 20:18:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>CypherFaucet</title>
-      <link>https://cypherfaucet.com</link>
-      <description>Non-Profits &gt; Technologies : Developer faucet for the Monero testnet and stagenet. - Note: see also: &lt;a href="https://cypherfaucet.com/xmr-testnet" target="_blank"&gt;Testnet&lt;/a&gt; and &lt;a href="https://cypherfaucet.com/xmr-stagenet" target="_blank"&gt;Stagenet&lt;/a&gt; - Contact: hello@tech1k.com</description>
-      <pubDate>Thu, 15 May 2025 14:28:47 GMT</pubDate>
     </item>
   </channel>
 </rss>
