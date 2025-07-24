@@ -5,6 +5,18 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>VPN.SN</title>
+      <link>https://vpn.sn</link>
+      <description>VPN Companies &gt; Africa : Encrypt and hide traffic, change IP, get anonymous remote desktop. - Location: Seychelles</description>
+      <pubDate>Thu, 24 Jul 2025 14:17:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bitpapa</title>
+      <link>https://bitpapa.com</link>
+      <description>Exchanges &gt; Non-KYC Exchanges (Account-Based) : Safely buy and sell cryptocurrencies with no third parties involved - Location: Seychelles - Contact: hi@bitpapa.com</description>
+      <pubDate>Thu, 24 Jul 2025 14:14:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Precision Blasting, LLC</title>
       <link>https://precisionblasting.biz</link>
       <description>Businesses &gt; Miscellaneous : Dependable drilling and precision blasting for all your construction needs. - Note: save 10% on any job (off of labor charges) when you pay with Monero - Location: United States - Contact: precisionblastingllc@gmail.com</description>
@@ -655,18 +667,6 @@ Allows the user to pick a platform when paying - Note: Choose your platform and 
       <link>https://matrix.to/#/#monerokon:matrix.org</link>
       <description>Communities &gt; Chatrooms : </description>
       <pubDate>Mon, 12 May 2025 18:54:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monero Pagamentos</title>
-      <link>https://t.me/moneropagamentosbot</link>
-      <description>Exchanges &gt; Bots : Buy/sell Monero with PIX (Brazil's main payment system) with no KYC. You can also create a personal link to the bot to accept PIX and automatically receive in Monero.</description>
-      <pubDate>Sun, 11 May 2025 00:16:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x2705; LNVPN</title>
-      <link>https://lnvpn.net?ref=monerica</link>
-      <description>VPN Companies &gt; Europe (EU) : No logging. No account. No KYC. Instant, anonymous VPN and eSIM services. - Location: Germany - Processor: MixPay</description>
-      <pubDate>Fri, 09 May 2025 18:04:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
