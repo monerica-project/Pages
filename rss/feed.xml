@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Precision Blasting, LLC</title>
+      <link>https://precisionblasting.biz</link>
+      <description>Businesses &gt; Miscellaneous : Dependable drilling and precision blasting for all your construction needs. - Note: save 10% on any job (off of labor charges) when you pay with Monero - Location: United States - Contact: precisionblastingllc@gmail.com</description>
+      <pubDate>Thu, 24 Jul 2025 13:56:24 GMT</pubDate>
+    </item>
+    <item>
       <title>Easynode (sponsored)</title>
       <link>https://github.com/kerlannXmr/EasyMonerod</link>
       <description>Utilities &gt; Open Source Projects : A software simplifying the node deployment process. - Note: Monero Node</description>
@@ -661,12 +667,6 @@ Allows the user to pick a platform when paying - Note: Choose your platform and 
       <link>https://lnvpn.net?ref=monerica</link>
       <description>VPN Companies &gt; Europe (EU) : No logging. No account. No KYC. Instant, anonymous VPN and eSIM services. - Location: Germany - Processor: MixPay</description>
       <pubDate>Fri, 09 May 2025 18:04:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>monerowatch</title>
-      <link>https://monerowat.ch</link>
-      <description>Utilities &gt; Blockchain Explorers : Beautiful Monero Explorer - Note: JS required</description>
-      <pubDate>Tue, 06 May 2025 21:33:59 GMT</pubDate>
     </item>
   </channel>
 </rss>
