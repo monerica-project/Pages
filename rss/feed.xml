@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Use Monero</title>
+      <link>https://usexmr.com</link>
+      <description>Education &gt; Guides : Simple PDFs and guides on getting and using Monero.</description>
+      <pubDate>Fri, 25 Jul 2025 03:30:36 GMT</pubDate>
+    </item>
+    <item>
       <title>Escape the Technocracy</title>
       <link>https://escapethetechnocracy.com</link>
       <description>Businesses &gt; Miscellaneous : Video courses on technocracy.</description>
@@ -661,12 +667,6 @@ Allows the user to pick a platform when paying - Note: Choose your platform and 
       <link>https://silkbyte.io/?referral_id=CbE8JfCF7C</link>
       <description>Exchanges &gt; Non-KYC Exchanges : Fully Anonymous Crypto to Crypto Swaps. No sign-up/No KYC.Fast trades under 3 mins. 1500+ assets 24/7/365. Service Fee starting from 0.8% - Note: Tainted coins can be processed with a worse rate by up to 2%. Custom exchange requests accepted. Support via Simplex available. - Contact: @silkbyte_support</description>
       <pubDate>Sun, 18 May 2025 18:31:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x2753; VoidCC</title>
-      <link>https://void-cc.space</link>
-      <description>VPN Companies &gt; Europe (Non-EU) : Cheap VPN based on WireGuard protocol, 0.03 euro a day - Note: Avoid - Whole service (domain+servers) appears to be offered for sale on &lt;a target="_blank" href="https://xmrbazaar.com/listing/apUW/"&gt;XMRBazaar&lt;/a&gt; - Location: Russia - Processor: monero-wallet-rpc in a docker container - Contact: void.cc2@proton.me</description>
-      <pubDate>Sat, 17 May 2025 17:45:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
