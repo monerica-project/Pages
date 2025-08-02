@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>XMR Tracker</title>
+      <link>https://explorer.jetskipool.ai/xmr-tracker.html</link>
+      <description>Mining &gt; Miscellaneous : Mining share statistics.</description>
+      <pubDate>Sat, 02 Aug 2025 15:26:29 GMT</pubDate>
+    </item>
+    <item>
       <title>Helpdesk</title>
       <link>https://helpdesk.media</link>
       <description>Non-Profits &gt; Activism : NGO to help people affected by the Ukraine War - Note: &lt;a href="https://helpdesk.media/crypto" target="_blank"&gt;donate&lt;/a&gt; - Location: Russia</description>
@@ -637,12 +643,6 @@ Allows the user to pick a platform when paying - Note: Choose your platform and 
       <link>https://hestiacp.com</link>
       <description>Non-Profits &gt; Technologies : Fast, reliable, open-source. The control panel you’ve always wanted is just a command away.</description>
       <pubDate>Tue, 27 May 2025 02:47:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>XMR Donate</title>
-      <link>https://xmr-donate.web.app</link>
-      <description>Non-Profits &gt; Miscellaneous : Donates to random people</description>
-      <pubDate>Mon, 26 May 2025 23:12:33 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Mynymbox (sponsored)</title>
