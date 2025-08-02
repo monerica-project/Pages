@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Zhuk</title>
+      <link>https://www.zhuk.world/</link>
+      <description>Non-Profits &gt; Activism : Helping politically persecuted people flee Russia - Location: Russia</description>
+      <pubDate>Sat, 02 Aug 2025 22:57:25 GMT</pubDate>
+    </item>
+    <item>
       <title>&amp;#x2705; XMR.BAR (sponsored)</title>
       <link>https://xmr.bar</link>
       <description>Businesses &gt; Gambling : Play dices using Monero. Privacy-respecting, registration-free and provably fair. - Location: Available everywhere in the world - Processor: Custom (monero-wallet-rpc wrapper) - Contact: support@xmr.bar via email (preferred), @xmrbar/@xmrbargroup on TG</description>
@@ -637,12 +643,6 @@ Allows the user to pick a platform when paying - Note: Choose your platform and 
       <link>https://webcamoid.github.io</link>
       <description>Non-Profits &gt; Technologies : A multi-platform camera capture app focused on providing all major features required by power users with a very simple and intuitive interface. - Note: See &lt;a href="https://webcamoid.github.io/donations" target="_blank"&gt;donations&lt;/a&gt;</description>
       <pubDate>Tue, 27 May 2025 12:46:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hestia Control Panel</title>
-      <link>https://hestiacp.com</link>
-      <description>Non-Profits &gt; Technologies : Fast, reliable, open-source. The control panel you’ve always wanted is just a command away.</description>
-      <pubDate>Tue, 27 May 2025 02:47:13 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Mynymbox (sponsored)</title>
