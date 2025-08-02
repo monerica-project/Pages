@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>&amp;#x2705; XMR.BAR (sponsored)</title>
+      <link>https://xmr.bar</link>
+      <description>Businesses &gt; Gambling : Play dices using Monero. Privacy-respecting, registration-free and provably fair. - Location: Available everywhere in the world - Processor: Custom (monero-wallet-rpc wrapper) - Contact: support@xmr.bar via email (preferred), @xmrbar/@xmrbargroup on TG</description>
+      <pubDate>Sat, 02 Aug 2025 16:55:30 GMT</pubDate>
+    </item>
+    <item>
       <title>XMR Tracker</title>
       <link>https://explorer.jetskipool.ai/xmr-tracker.html</link>
       <description>Mining &gt; Miscellaneous : Mining share statistics.</description>
@@ -418,12 +424,6 @@ Support - @silentexchangeadmin - Location: Seychelles - Contact: @silentexchange
       <link>https://fogswap.com</link>
       <description>Exchanges &gt; Non-KYC Exchanges : Telegram bot for exchanging.</description>
       <pubDate>Wed, 25 Jun 2025 18:06:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x2705; XMR.BAR (sponsored)</title>
-      <link>https://xmr.bar</link>
-      <description>Businesses &gt; Gambling : Play dices using Monero. Privacy-respecting, registration-free and provably fair. - Location: Available everywhere in the world - Processor: Custom (monero-wallet-rpc wrapper) - Contact: support@xmr.bar via email (preferred), @xmrbar/@xmrbargroup on TG</description>
-      <pubDate>Wed, 25 Jun 2025 09:42:10 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x274C; Gamegram.com</title>
