@@ -105,14 +105,17 @@ table tbody tr:nth-child(even) {
 .sponsored-section {
     background-color: #1e1e1e;
     border: 3px solid #ff6600;
-    font-size: 18px;
     border-radius: 10px;
     box-shadow: 0 2px 4px rgb(195 195 195 / 50%);
 }
 
-    .sponsored-section a {
-        font-weight: bold;
+    .sponsored-section ul.blank_list_item {
+        font-size: 18px;
     }
+
+.sponsored-section a {
+    font-weight: bold;
+}
 
     .sponsored-section p {
         margin: 0;
@@ -520,7 +523,7 @@ section.sponsors {
     text-align: center;
 }
 
-    section.sponsors > h2.section-title {
+    section.sponsors > h2.section-title, .sponsor-sections h2.section-title {
         font-size: 1.4rem;
         color: #ff6600;
         margin-bottom: 1rem;
@@ -991,7 +994,7 @@ li.category-item ul {
     }
 
 .blank_list_item li {
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 
 .content-wrapper {
@@ -1008,6 +1011,7 @@ li.category-item ul {
 .sponsor-sections {
     display: block !important;
     margin: 2rem 0;
+    font-size: 18px;
 }
 
     .sponsor-sections > section {
@@ -1028,7 +1032,8 @@ li.category-item ul {
         margin: 1rem 0 0.5rem;
     }
 
-    .sponsor-sections .subcategory-name {
+    .sponsor-sections ul.blank_list_item a {
+       font-weight: bold;
     }
 
     .sponsor-sections ul.blank_list_item {
@@ -1047,6 +1052,7 @@ li.category-item ul {
         color: #ff6600 !important;
     }
 
+ 
 .country-flag {
     padding-left: 5px;
     max-height: 14px;
