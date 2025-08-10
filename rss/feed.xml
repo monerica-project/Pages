@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Protonaosp</title>
+      <link>https://protonaosp.org/</link>
+      <description>Non-Profits &gt; Operating Systems : Minimal Android fork for design and performance - Note: &lt;a href="https://protonaosp.org/donate" target="_blank"&gt;donate&lt;/a&gt;</description>
+      <pubDate>Sun, 10 Aug 2025 00:39:56 GMT</pubDate>
+    </item>
+    <item>
       <title>Monero Blockchain Explorer</title>
       <link>https://xmr.se</link>
       <description>Utilities &gt; Blockchain Explorers : See and find Monero transasctions</description>
@@ -648,12 +654,6 @@ Support - @silentexchangeadmin - Location: Seychelles - Contact: @silentexchange
       <link>https://github.com/kkapsner/CanvasBlocker</link>
       <description>Non-Profits &gt; Technologies : Blocks Canvas Fingerprinting</description>
       <pubDate>Mon, 16 Jun 2025 22:48:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Whose Zycher</title>
-      <link>https://whos-zycher.github.io/opsec-guide</link>
-      <description>Education &gt; Guides : Guide to OPSEC.</description>
-      <pubDate>Mon, 16 Jun 2025 22:47:21 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Mynymbox (sponsored)</title>
