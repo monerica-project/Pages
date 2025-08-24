@@ -2076,6 +2076,7 @@ div#main-content {
         <br>
         
 
+
 <div class="reviews-block mt-4">
     <h3 class="mb-3">Reviews</h3>
 
@@ -2085,21 +2086,39 @@ div#main-content {
             <span class="text-muted">(1 review)</span>
         </p>
         <ul class="list-unstyled">
-                <li class="mb-4 pb-3 border-bottom">
+                <li class="mb-4 pb-3 border-bottom" itemscope itemtype="https://schema.org/Review">
                     <div class="d-flex align-items-center">
                         <span class="me-2" aria-label="rating">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</span>
                         <small class="text-muted">5/5</small>
+
+                        <!-- reviewRating microdata -->
+                        <span itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating">
+                            <meta itemprop="ratingValue" content="5">
+                            <meta itemprop="bestRating" content="5">
+                            <meta itemprop="worstRating" content="1">
+                        </span>
                     </div>
-                    <div class="mt-2">
+
+                    <div class="mt-2" itemprop="reviewBody">
                         Bought a couple of shirts from them. nice prints and art. delivery was reasonably fast.<br>Will buy again<br>
                     </div>
+
                     <div class="mt-2">
-                        <small class="text-muted">Author: 6CF8D7453F97B595F78CED78B5847C46712CC7EF</small>
+                        <!-- author microdata -->
+                        <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+                            <small class="text-muted">Author: <span itemprop="name">6CF8D7453F97B595F78CED78B5847C46712CC7EF</span></small>
+                        </span>
                         <small class="text-muted ms-2">•</small>
-                        <small class="text-muted ms-2">2025-08-24</small>
+                        <!-- datePublished microdata -->
+                        <time class="text-muted ms-2" itemprop="datePublished" datetime="2025-08-24">
+                            2025-08-24
+                        </time>
                     </div>
                 </li>
         </ul>
+            <script type="application/ld&#x2B;json">
+                {"context":"https://schema.org","graph":[{"type":"AggregateRating","itemReviewed":{"id":"https://monerica.com/businesses/clothing-apparel-and-accessories/ankap-store"},"ratingValue":5,"ratingCount":1,"bestRating":5,"worstRating":1},{"type":"Review","itemReviewed":{"id":"https://monerica.com/businesses/clothing-apparel-and-accessories/ankap-store"},"reviewRating":{"type":"Rating","ratingValue":5,"bestRating":5,"worstRating":1},"author":{"type":"Person","name":"6CF8D7453F97B595F78CED78B5847C46712CC7EF"},"datePublished":"2025-08-24","reviewBody":"Bought a couple of shirts from them. nice prints and art. delivery was reasonably fast.\r\nWill buy again\r\n"}]}
+            </script>
 
     <form action="https://app.monerica.com/directory-entry-reviews/begin" method="post" class="d-inline" rel="nofollow">
         <input type="hidden" name="directoryEntryId" value="559">
