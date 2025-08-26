@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>&amp;#x2705; MoneroDice (sponsored)</title>
+      <link>https://monerodice.pro</link>
+      <description>Businesses &gt; Gambling : Simple, fast, privacy-respecting dice and blackjack game. Provably fair mode for dice is available too. - Contact: contact [at] monerodice.pro</description>
+      <pubDate>Tue, 26 Aug 2025 06:09:24 GMT</pubDate>
+    </item>
+    <item>
       <title>MoneroLogs</title>
       <link>https://libera.monerologs.net</link>
       <description>Communities &gt; Other : Monero chatroom logs</description>
@@ -678,12 +684,6 @@ Your privacy is our priority.</description>
       <link>https://silent.exchange</link>
       <description>Exchanges &gt; Non-KYC Exchanges : Fast &amp; Anonymous Crypto to Crypto Swaps. No email. No KYC.Trade-in Minutes. 1500+ Crypto Pairs 24/7/365 Service Fee starting from 1%. - Note: Trade using Telegram Bot - @silentexchangerobot - Location: Seychelles - Contact: @silentexchange on Telegram Email: silentexchange@protonmail.com</description>
       <pubDate>Wed, 09 Jul 2025 13:10:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x2705; MoneroDice (sponsored)</title>
-      <link>https://monerodice.pro</link>
-      <description>Businesses &gt; Gambling : Simple, fast, privacy-respecting dice and blackjack game. Provably fair mode for dice is available too. - Contact: contact [at] monerodice.pro</description>
-      <pubDate>Mon, 26 May 2025 02:42:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
