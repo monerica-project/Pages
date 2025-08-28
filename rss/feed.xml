@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Coin Wallet - Web</title>
+      <link>https://coin.space/wallet</link>
+      <description>Wallets &gt; Web Wallets : A self-custodial open-source wallet for web. - Note: See &lt;a href="https://support.coin.space/hc/en-us/articles/4403046925204-How-to-accept-Monero-transactions" target="_blank"&gt;how to accept Monero transactions&lt;/a&gt;</description>
+      <pubDate>Thu, 28 Aug 2025 15:12:05 GMT</pubDate>
+    </item>
+    <item>
       <title>Groza</title>
       <link>https://www.groza.media/en</link>
       <description>Media &gt; News (Russian) : Russian opposition media</description>
@@ -666,12 +672,6 @@ Your privacy is our priority.</description>
       <link>https://usexmr.com</link>
       <description>Education &gt; Guides : Simple PDFs and guides on getting and using Monero.</description>
       <pubDate>Fri, 25 Jul 2025 03:30:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Escape the Technocracy</title>
-      <link>https://escapethetechnocracy.com</link>
-      <description>Businesses &gt; Miscellaneous : Video courses on technocracy.</description>
-      <pubDate>Thu, 24 Jul 2025 20:37:35 GMT</pubDate>
     </item>
     <item>
       <title>Easynode (sponsored)</title>
