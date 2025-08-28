@@ -5,6 +5,18 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Xmpp</title>
+      <link>https://xmpp.is</link>
+      <description>Non-Profits &gt; Technologies : An XMPP server operated by unredacted</description>
+      <pubDate>Thu, 28 Aug 2025 22:18:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jabbim</title>
+      <link>https://www.jabbim.com</link>
+      <description>Non-Profits &gt; Technologies : Free XMPP server</description>
+      <pubDate>Thu, 28 Aug 2025 22:13:05 GMT</pubDate>
+    </item>
+    <item>
       <title>Coin Wallet - MacOS Mobile</title>
       <link>https://apps.apple.com/us/app/coin-wallet-bitcoin-crypto/id980719434?platform=mac&amp;ct=website</link>
       <description>Wallets &gt; Desktop Wallets : Self-custodial multicurrency wallet.</description>
@@ -79,7 +91,7 @@
     <item>
       <title>&amp;#x2705; Monero.win (sponsored)</title>
       <link>https://monero.win</link>
-      <description>Businesses &gt; Gambling : Bet on coinflips. No signups, no accounts, privacy first, and provably fair. - Contact: /u/monerowin on reddit</description>
+      <description>Businesses &gt; Gambling : Bet on coin flips. No signups, no accounts, privacy first, and provably fair. - Contact: /u/monerowin on reddit</description>
       <pubDate>Wed, 27 Aug 2025 11:04:03 GMT</pubDate>
     </item>
     <item>
@@ -660,18 +672,6 @@ Your privacy is our priority.</description>
       <link>https://github.com/Unbanked0/Crypto_Box_sticker</link>
       <description>Non-Profits &gt; Technologies : A standalone way to donate in sovereign cryptocurrency : Monero XMR, Bitcoin BTC &amp; June G1</description>
       <pubDate>Tue, 29 Jul 2025 13:45:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>okTurtles Foundation</title>
-      <link>https://okturtles.org/</link>
-      <description>Non-Profits &gt; Activism : The okTurtles Foundation is a 501(c)(3) non-profit corporation promoting decentralized technology</description>
-      <pubDate>Tue, 29 Jul 2025 13:40:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>XMRPos</title>
-      <link>https://github.com/MoneroKon/XMRpos</link>
-      <description>Utilities &gt; Open Source Projects : FOSS Monero Point of Sale (POS) Android App</description>
-      <pubDate>Tue, 29 Jul 2025 04:33:19 GMT</pubDate>
     </item>
     <item>
       <title>Easynode (sponsored)</title>
