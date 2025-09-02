@@ -5,6 +5,24 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>&amp;#x274C; Bitstamps</title>
+      <link>https://bitstamps.io</link>
+      <description>Businesses &gt; Postage &amp; Shipping Services : Shipping site - Note: asks user to run malicious script to access site</description>
+      <pubDate>Tue, 02 Sep 2025 17:08:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>BuyPostage</title>
+      <link>https://www.buypostage.com</link>
+      <description>Businesses &gt; Printing Services : Buy USPS, Fedex, or UPS Postage - Contact: support@buypostage.com</description>
+      <pubDate>Tue, 02 Sep 2025 17:06:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>SpeedyPostage</title>
+      <link>https://speedypostage.com</link>
+      <description>Businesses &gt; Postage &amp; Shipping Services : Buy and print postage from home fast and anonymously.</description>
+      <pubDate>Tue, 02 Sep 2025 17:03:27 GMT</pubDate>
+    </item>
+    <item>
       <title>Aphasia Network</title>
       <link>https://www.aphasia.network</link>
       <description>Businesses &gt; Technology/ Computer Hardware : Provide security hardware &amp; phones with XMR only payment.</description>
@@ -632,28 +650,10 @@ Your privacy is our priority.</description>
       <pubDate>Sun, 03 Aug 2025 00:47:33 GMT</pubDate>
     </item>
     <item>
-      <title>securonisOS</title>
-      <link>https://securonis.github.io/</link>
-      <description>Non-Profits &gt; Operating Systems : Securonis Linux is a privacy and security-focused distribution based on Debian's Testing branch.</description>
-      <pubDate>Sun, 03 Aug 2025 00:46:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zhuk</title>
-      <link>https://www.zhuk.world/</link>
-      <description>Non-Profits &gt; Activism : Helping politically persecuted people flee Russia. Saved about 164 people to evacuate. - Location: Russia</description>
-      <pubDate>Sat, 02 Aug 2025 22:57:25 GMT</pubDate>
-    </item>
-    <item>
       <title>&amp;#x2705; XMR.BAR (sponsored)</title>
       <link>https://xmr.bar</link>
       <description>Businesses &gt; Gambling : Play dices using Monero. Privacy-respecting, registration-free and provably fair. - Location: Available everywhere in the world - Processor: Custom (monero-wallet-rpc wrapper) - Contact: support@xmr.bar via email (preferred), @xmrbar/@xmrbargroup on TG</description>
       <pubDate>Sat, 02 Aug 2025 16:55:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x2753; XMR Tracker</title>
-      <link>https://explorer.jetskipool.ai/xmr-tracker.html</link>
-      <description>Mining &gt; Miscellaneous : Mining share statistics. - Note: statistics may be inaccurate and reflect the bias of Qubic</description>
-      <pubDate>Sat, 02 Aug 2025 15:26:29 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Strike (sponsored)</title>
