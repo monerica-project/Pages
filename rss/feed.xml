@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Monero Ban List</title>
+      <link>https://github.com/Boog900/monero-ban-list</link>
+      <description>Utilities &gt; Nodes : A banlist for Monero nodes.</description>
+      <pubDate>Mon, 08 Sep 2025 22:00:25 GMT</pubDate>
+    </item>
+    <item>
       <title>XMR.GD</title>
       <link>https://xmr.gd</link>
       <description>Utilities &gt; Nodes : Public XMR Node for WWW, Tor, I2P and Yggdrasil</description>
@@ -615,12 +621,6 @@
       <link>https://mullvad.net/en/browser</link>
       <description>Non-Profits &gt; Technologies : Tor Browser without tor routing - Note: VPN service accepts Monero</description>
       <pubDate>Fri, 29 Aug 2025 21:29:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pomf lain</title>
-      <link>https://pomf.lain.la/</link>
-      <description>Non-Profits &gt; Technologies : 1 Gb free filehoster</description>
-      <pubDate>Fri, 29 Aug 2025 19:14:24 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Monero.win (sponsored)</title>
