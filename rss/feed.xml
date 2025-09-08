@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Matsuridayo</title>
+      <link>https://matsuridayo.github.io/</link>
+      <description>Non-Profits &gt; Technologies : Proxychain app</description>
+      <pubDate>Mon, 08 Sep 2025 22:37:23 GMT</pubDate>
+    </item>
+    <item>
       <title>Monero Ban List</title>
       <link>https://github.com/Boog900/monero-ban-list</link>
       <description>Utilities &gt; Nodes : A banlist for Monero nodes.</description>
@@ -615,12 +621,6 @@
       <link>https://antimoonboy.com</link>
       <description>Media &gt; News (English) : News, interviews, merchandise</description>
       <pubDate>Fri, 29 Aug 2025 21:58:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mullvad Browser</title>
-      <link>https://mullvad.net/en/browser</link>
-      <description>Non-Profits &gt; Technologies : Tor Browser without tor routing - Note: VPN service accepts Monero</description>
-      <pubDate>Fri, 29 Aug 2025 21:29:04 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Monero.win (sponsored)</title>
