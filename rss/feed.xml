@@ -5,6 +5,18 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Opennic</title>
+      <link>https://opennic.org/</link>
+      <description>Non-Profits &gt; Technologies : Free public dns resolvers.</description>
+      <pubDate>Mon, 08 Sep 2025 18:48:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wurstclient</title>
+      <link>https://www.wurstclient.net/</link>
+      <description>Non-Profits &gt; Technologies : A mod to supercharge the Minecraft experience</description>
+      <pubDate>Mon, 08 Sep 2025 18:46:36 GMT</pubDate>
+    </item>
+    <item>
       <title>&amp;#x2705; Mynymbox (sponsored)</title>
       <link>https://mynymbox.net</link>
       <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : Anonymous VPS Servers, Dedicated Servers, Web Hosting, Domain Name Registrations - Location: Nevis - Processor: BTCPayServer - Contact: @mynymbox on Twitter</description>
@@ -609,18 +621,6 @@
       <link>https://apps.apple.com/us/app/coin-wallet-bitcoin-crypto/id980719434?platform=mac&amp;ct=website</link>
       <description>Wallets &gt; Desktop Wallets : Self-custodial multicurrency wallet.</description>
       <pubDate>Thu, 28 Aug 2025 21:50:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Coin Wallet - Windows</title>
-      <link>https://apps.microsoft.com/detail/9nblggh5pxjq?hl=en-US&amp;gl=US</link>
-      <description>Wallets &gt; Desktop Wallets : Windows wallet</description>
-      <pubDate>Thu, 28 Aug 2025 18:55:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Coin Wallet - iOS Mobile</title>
-      <link>https://apps.apple.com/us/app/coin-wallet-bitcoin-crypto/id980719434?platform=iphone&amp;ct=website</link>
-      <description>Wallets &gt; Mobile Wallets : iOS mobile wallet</description>
-      <pubDate>Thu, 28 Aug 2025 18:46:26 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Monero.win (sponsored)</title>
