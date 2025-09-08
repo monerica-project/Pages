@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>XMR.GD</title>
+      <link>https://xmr.gd</link>
+      <description>Utilities &gt; Nodes : Public XMR Node for WWW, Tor, I2P and Yggdrasil</description>
+      <pubDate>Mon, 08 Sep 2025 21:48:18 GMT</pubDate>
+    </item>
+    <item>
       <title>Monfluo</title>
       <link>https://codeberg.org/acx/monfluo</link>
       <description>Wallets &gt; Mobile Wallets : Pure Monero wallet suitable for both newcomers and experienced users.</description>
@@ -615,12 +621,6 @@
       <link>https://pomf.lain.la/</link>
       <description>Non-Profits &gt; Technologies : 1 Gb free filehoster</description>
       <pubDate>Fri, 29 Aug 2025 19:14:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Changer-man</title>
-      <link>https://changer-man.top</link>
-      <description>Exchanges &gt; Non-KYC Exchanges : Instant swap</description>
-      <pubDate>Fri, 29 Aug 2025 04:20:32 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Monero.win (sponsored)</title>
