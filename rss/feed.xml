@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Cuprate</title>
+      <link>https://github.com/Cuprate/cuprate</link>
+      <description>Utilities &gt; Nodes : An effort to create an alternative Monero node implementation in Rust.</description>
+      <pubDate>Mon, 08 Sep 2025 20:58:40 GMT</pubDate>
+    </item>
+    <item>
       <title>Opennic</title>
       <link>https://opennic.org/</link>
       <description>Non-Profits &gt; Technologies : Free public dns resolvers.</description>
@@ -615,12 +621,6 @@
       <link>https://www.jabbim.com</link>
       <description>Non-Profits &gt; Technologies : Free XMPP server - Processor: CoinPayments</description>
       <pubDate>Thu, 28 Aug 2025 22:13:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Coin Wallet - MacOS</title>
-      <link>https://apps.apple.com/us/app/coin-wallet-bitcoin-crypto/id980719434?platform=mac&amp;ct=website</link>
-      <description>Wallets &gt; Desktop Wallets : Self-custodial multicurrency wallet.</description>
-      <pubDate>Thu, 28 Aug 2025 21:50:15 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Monero.win (sponsored)</title>
