@@ -17,6 +17,12 @@
       <pubDate>Wed, 01 Oct 2025 08:15:36 GMT</pubDate>
     </item>
     <item>
+      <title>Gojira</title>
+      <link>https://metrics.torproject.org/rs.html#details/AD0D7618B6E7A4D125ABB07B53EACB2146FFC8D9</link>
+      <description>Utilities &gt; Nodes : Tor relay operator</description>
+      <pubDate>Mon, 22 Sep 2025 01:08:25 GMT</pubDate>
+    </item>
+    <item>
       <title>NgePTimE</title>
       <link>https://metrics.torproject.org/rs.html#details/DB451037C23AF3D028AE1B7E2F82BE5CA77B98A5</link>
       <description>Utilities &gt; Nodes : Tor exit node operator</description>
@@ -634,12 +640,6 @@ Want to automate anything? We got you.</description>
       <link>https://profvds.com</link>
       <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : VPS server hosting - Location: Bratislava - Processor: BTCPay, Cryptomus, Pilsio</description>
       <pubDate>Sat, 06 Sep 2025 17:09:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>TGCrawl</title>
-      <link>https://github.com/Puzzaks/TGCrawl</link>
-      <description>Non-Profits &gt; Technologies : Android App to discover connections with other Telegram channels.</description>
-      <pubDate>Sat, 06 Sep 2025 16:50:32 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; BTCVPS (sponsored)</title>
