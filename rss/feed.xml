@@ -17,6 +17,18 @@
       <pubDate>Wed, 01 Oct 2025 08:15:36 GMT</pubDate>
     </item>
     <item>
+      <title>NgePTimE</title>
+      <link>https://metrics.torproject.org/rs.html#details/DB451037C23AF3D028AE1B7E2F82BE5CA77B98A5</link>
+      <description>Utilities &gt; Nodes : Tor exit node operator</description>
+      <pubDate>Mon, 22 Sep 2025 00:21:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>AnotherTorNode0602</title>
+      <link>https://metrics.torproject.org/rs.html#details/91EE3488AB5271FA998BCE851D01A2608FAC0E61</link>
+      <description>Utilities &gt; Nodes : Guard node operator</description>
+      <pubDate>Mon, 22 Sep 2025 00:21:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Nanswap</title>
       <link>https://nanswap.com/</link>
       <description>Exchanges &gt; Non-KYC Exchanges : Instant exchange</description>
@@ -628,18 +640,6 @@ Want to automate anything? We got you.</description>
       <link>https://github.com/Puzzaks/TGCrawl</link>
       <description>Non-Profits &gt; Technologies : Android App to discover connections with other Telegram channels.</description>
       <pubDate>Sat, 06 Sep 2025 16:50:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>FPtools</title>
-      <link>https://github.com/Puzzaks/FPTools</link>
-      <description>Non-Profits &gt; Technologies : Email and VoIP management tools built with Flutter</description>
-      <pubDate>Sat, 06 Sep 2025 16:33:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>hexapterygon</title>
-      <link>https://github.com/GiorgosXou/hexapterygon</link>
-      <description>Non-Profits &gt; Technologies : A user-friendly all-in-one cross-platform, (uni-curses compatible component, module and uitility) software for orchestrating and debloating your Android devices from unwanted</description>
-      <pubDate>Sat, 06 Sep 2025 15:38:37 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; BTCVPS (sponsored)</title>
