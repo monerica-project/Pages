@@ -17,6 +17,12 @@
       <pubDate>Wed, 01 Oct 2025 08:15:36 GMT</pubDate>
     </item>
     <item>
+      <title>Moneronet</title>
+      <link>https://moneronet.info/</link>
+      <description>Nodes &gt; Node Statistics : Remote Node statistics website</description>
+      <pubDate>Tue, 23 Sep 2025 15:59:09 GMT</pubDate>
+    </item>
+    <item>
       <title>Gojira</title>
       <link>https://metrics.torproject.org/rs.html#details/AD0D7618B6E7A4D125ABB07B53EACB2146FFC8D9</link>
       <description>Nodes &gt; Relay/Exit Operators (individual relays) : Tor relay operator</description>
@@ -634,12 +640,6 @@ Want to automate anything? We got you.</description>
       <link>https://profvds.com</link>
       <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : VPS server hosting - Location: Bratislava - Processor: BTCPay, Cryptomus, Pilsio</description>
       <pubDate>Sat, 06 Sep 2025 17:09:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>TGCrawl</title>
-      <link>https://github.com/Puzzaks/TGCrawl</link>
-      <description>Non-Profits &gt; Technologies : Android App to discover connections with other Telegram channels.</description>
-      <pubDate>Sat, 06 Sep 2025 16:50:32 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; BTCVPS (sponsored)</title>
