@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Bird Marketing UK</title>
+      <link>https://bird.co.uk</link>
+      <description>Businesses &gt; Marketing : A London-based digital marketing agency known for precision, creativity, and measurable results. We specialise in expert SEO, PPC, and web design services - Location: London - Contact: @bird_marketing</description>
+      <pubDate>Fri, 24 Oct 2025 11:21:06 GMT</pubDate>
+    </item>
+    <item>
       <title>TV Rain</title>
       <link>https://tvrain.tv/</link>
       <description>Non-Profits &gt; Media : Russian opposition media.</description>
@@ -640,12 +646,6 @@ Want to automate anything? We got you.</description>
       <link>https://github.com/moneroexamples/onion-monero-blockchain-explorer</link>
       <description>Utilities &gt; Open Source Projects : Currently available Monero blockchain explorers have several limitations which are of special importance to privacy-oriented users.</description>
       <pubDate>Mon, 08 Sep 2025 21:05:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cuprate</title>
-      <link>https://github.com/Cuprate/cuprate</link>
-      <description>Nodes &gt; Node Software &amp; Deployment : An effort to create an alternative Monero node implementation in Rust.</description>
-      <pubDate>Mon, 08 Sep 2025 20:58:40 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Mynymbox (sponsored)</title>
