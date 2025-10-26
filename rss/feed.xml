@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Secret Messenger</title>
+      <link>http://xh4g22fwahjcsbjk3ryxagpyeyurgh3d3qm5arivfi3k3fcictqrw2id.onion/</link>
+      <description>Onion Only &gt; Miscellaneous : Hide secrets inside plain text</description>
+      <pubDate>Sun, 26 Oct 2025 23:24:13 GMT</pubDate>
+    </item>
+    <item>
       <title>Bird Marketing UK</title>
       <link>https://bird.co.uk</link>
       <description>Businesses &gt; Marketing : A London-based digital marketing agency known for precision, creativity, and measurable results. We specialise in expert SEO, PPC, and web design services - Location: London - Contact: @bird_marketing</description>
@@ -640,12 +646,6 @@ Want to automate anything? We got you.</description>
       <link>https://codeberg.org/acx/monfluo</link>
       <description>Wallets &gt; Mobile Wallets : Pure Monero wallet suitable for both newcomers and experienced users.</description>
       <pubDate>Mon, 08 Sep 2025 21:10:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Onion Monero Blockchain Explorer</title>
-      <link>https://github.com/moneroexamples/onion-monero-blockchain-explorer</link>
-      <description>Utilities &gt; Open Source Projects : Currently available Monero blockchain explorers have several limitations which are of special importance to privacy-oriented users.</description>
-      <pubDate>Mon, 08 Sep 2025 21:05:24 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Mynymbox (sponsored)</title>
