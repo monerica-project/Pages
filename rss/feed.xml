@@ -35,12 +35,6 @@
       <pubDate>Wed, 22 Oct 2025 02:56:14 GMT</pubDate>
     </item>
     <item>
-      <title>P2P Central</title>
-      <link>https://p2pcentral.com/</link>
-      <description>Businesses &gt; Marketplaces (Peer-to-Peer) : Secure escrow services with community trusted mediators. Trade with complete privacy through SimpleX groups - Location: Worldwide</description>
-      <pubDate>Tue, 21 Oct 2025 17:53:55 GMT</pubDate>
-    </item>
-    <item>
       <title>Divine Tribe</title>
       <link>https://ineedhemp.com/</link>
       <description>Businesses &gt; Tobacco Products &amp; Accessories : Diffusers for herbs and concentrates</description>
@@ -75,12 +69,6 @@
       <link>https://mixed.exchange/</link>
       <description>Exchanges &gt; Non-KYC Exchanges : Anonymous exchange - no KYC/own liquidity</description>
       <pubDate>Fri, 17 Oct 2025 23:08:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monero - Sam Bent</title>
-      <link>https://www.sambent.com/tag/monero/</link>
-      <description>Education &gt; Knowledge : Monero related articles.</description>
-      <pubDate>Fri, 17 Oct 2025 13:11:00 GMT</pubDate>
     </item>
     <item>
       <title>IntelTechniques</title>
@@ -640,6 +628,18 @@ Want to automate anything? We got you.</description>
       <link>https://codeberg.org/acx/monfluo</link>
       <description>Wallets &gt; Mobile Wallets : Pure Monero wallet suitable for both newcomers and experienced users.</description>
       <pubDate>Mon, 08 Sep 2025 21:10:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Onion Monero Blockchain Explorer</title>
+      <link>https://github.com/moneroexamples/onion-monero-blockchain-explorer</link>
+      <description>Utilities &gt; Open Source Projects : Currently available Monero blockchain explorers have several limitations which are of special importance to privacy-oriented users.</description>
+      <pubDate>Mon, 08 Sep 2025 21:05:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cuprate</title>
+      <link>https://github.com/Cuprate/cuprate</link>
+      <description>Nodes &gt; Node Software &amp; Deployment : An effort to create an alternative Monero node implementation in Rust.</description>
+      <pubDate>Mon, 08 Sep 2025 20:58:40 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Mynymbox (sponsored)</title>
