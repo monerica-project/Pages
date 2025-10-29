@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>SecureShare</title>
+      <link>http://z5cncnfftjajqxeepuu4dvssd6vts44r43qhkye66tlwwf4fobu5siid.onion/</link>
+      <description>Onion Only &gt; Miscellaneous : Makes sharing sensitive information simple, fast, and secure.</description>
+      <pubDate>Wed, 29 Oct 2025 15:39:55 GMT</pubDate>
+    </item>
+    <item>
       <title>Secret Messenger</title>
       <link>http://xh4g22fwahjcsbjk3ryxagpyeyurgh3d3qm5arivfi3k3fcictqrw2id.onion/</link>
       <description>Onion Only &gt; Miscellaneous : Hide secrets inside plain text</description>
@@ -634,12 +640,6 @@ Want to automate anything? We got you.</description>
       <link>https://github.com/moneroexamples/onion-monero-blockchain-explorer</link>
       <description>Utilities &gt; Open Source Projects : Currently available Monero blockchain explorers have several limitations which are of special importance to privacy-oriented users.</description>
       <pubDate>Mon, 08 Sep 2025 21:05:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cuprate</title>
-      <link>https://github.com/Cuprate/cuprate</link>
-      <description>Nodes &gt; Node Software &amp; Deployment : An effort to create an alternative Monero node implementation in Rust.</description>
-      <pubDate>Mon, 08 Sep 2025 20:58:40 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Mynymbox (sponsored)</title>
