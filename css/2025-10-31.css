@@ -102,6 +102,37 @@ table tbody tr:nth-child(even) {
     margin-top: 5px;
 }
 
+:root {
+    --sponsor-accent: #ff6600;
+}
+
+
+
+
+/* Base (unchanged, seam-proof border) */
+.sponsor-card {
+    --accent: var(--sponsor-accent);
+    --bg: var(--card-bg, #222);
+    border-radius: 12px;
+    border: 3px solid transparent; /* space for ring */
+    background: linear-gradient(var(--bg), var(--bg)) padding-box, linear-gradient(var(--accent), var(--accent)) border-box;
+    overflow: clip;
+    transition: box-shadow .08s ease-out; /* was ~.15–.18s */
+
+    box-shadow: none; /* text won’t wobble */
+}
+
+
+    /* Glow: ~10% less than the previous half-strength */
+    .sponsor-card:hover,
+    .sponsor-card:focus-within {
+        box-shadow: 0 0 0 1px color-mix(in srgb, var(--sponsor-accent) 45%, transparent), 0 4px 11px 4px color-mix(in srgb, var(--sponsor-accent) 15%, transparent), 0 0 19px 8px color-mix(in srgb, var(--sponsor-accent) 12%, transparent);
+    }
+
+
+
+
+
 .sponsored-section {
     background-color: #1e1e1e;
     border: 3px solid #ff6600;
@@ -113,9 +144,9 @@ table tbody tr:nth-child(even) {
         font-size: 18px;
     }
 
-.sponsored-section a {
-    font-weight: bold;
-}
+    .sponsored-section a {
+        font-weight: bold;
+    }
 
     .sponsored-section p {
         margin: 0;
@@ -631,10 +662,13 @@ p.intro {
     line-height: 1.4;
 }
 
-.sponsor-card a { font-size: 18px;}
+.sponsor-card a {
+    font-size: 18px;
+}
 
-.sponsors {
-    padding: 1rem;
+
+.sponsor-card .sponsor-desc a {
+    font-size: 0.88rem;
 }
 
 .sponsors-grid {
@@ -684,6 +718,8 @@ p.intro {
     margin: 5px;
 }
 
+
+
 ul.search-results {
     list-style: none;
     margin: 0;
@@ -694,6 +730,7 @@ ul.search-results {
         margin-bottom: 1.5rem;
         padding-left: 1rem;
         border-left: 2px solid #444;
+        list-style: none;
     }
 
         ul.search-results li.search-result-item p {
@@ -1003,7 +1040,7 @@ li.category-item ul {
 }
 
 .main-content-centered {
-    max-width:75rem;
+    max-width: 75rem;
     margin: 0 auto;
     padding: 1rem;
 }
@@ -1033,7 +1070,7 @@ li.category-item ul {
     }
 
     .sponsor-sections ul.blank_list_item a {
-       font-weight: bold;
+        font-weight: bold;
     }
 
     .sponsor-sections ul.blank_list_item {
@@ -1052,7 +1089,7 @@ li.category-item ul {
         color: #ff6600 !important;
     }
 
- 
+
 .country-flag {
     padding-left: 5px;
     max-height: 14px;
@@ -1108,9 +1145,18 @@ a.external-link {
         border-color: #ff6600;
     }
 
+
+.orange-text {
+    color: #ff6600
+}
+
 #main-content .main {
     max-width: 62%;
     margin: 0 auto;
+}
+
+.text-muted {
+    font-size: x-small;
 }
 
 @media (max-width: 768px) {
