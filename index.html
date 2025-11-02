@@ -45,13 +45,16 @@ div#main-content {
 <details class="mobile-nav">
     <summary>Menu</summary>
     <ul>
-            <li>
-                <details>
-                    <summary>
-                        <a class="no-app-link " href="https://monerica.com/businesses">
-                            Businesses
-                        </a>
-                    </summary>
+            <li class="category-item">
+                <div class="cat-row" style="display:flex;align-items:center;gap:.5rem;">
+                    <label for="businesses_expander_mobile" class="expander" aria-label="Expand Businesses" style="cursor:pointer;">+</label>
+                    <a class="no-app-link " href="https://monerica.com/businesses">
+                        Businesses
+                    </a>
+                </div>
+
+                <input type="checkbox" id="businesses_expander_mobile" class="hidden-toggle">
+                <div class="hidden">
                     <ul>
                             <li>
                                 <a class="no-app-link " href="https://monerica.com/businesses/accounting">
@@ -284,15 +287,18 @@ div#main-content {
                                 </a>
                             </li>
                     </ul>
-                </details>
+                </div>
             </li>
-            <li>
-                <details>
-                    <summary>
-                        <a class="no-app-link " href="https://monerica.com/communities">
-                            Communities
-                        </a>
-                    </summary>
+            <li class="category-item">
+                <div class="cat-row" style="display:flex;align-items:center;gap:.5rem;">
+                    <label for="communities_expander_mobile" class="expander" aria-label="Expand Communities" style="cursor:pointer;">+</label>
+                    <a class="no-app-link " href="https://monerica.com/communities">
+                        Communities
+                    </a>
+                </div>
+
+                <input type="checkbox" id="communities_expander_mobile" class="hidden-toggle">
+                <div class="hidden">
                     <ul>
                             <li>
                                 <a class="no-app-link " href="https://monerica.com/communities/chatrooms-other">
@@ -340,15 +346,18 @@ div#main-content {
                                 </a>
                             </li>
                     </ul>
-                </details>
+                </div>
             </li>
-            <li>
-                <details>
-                    <summary>
-                        <a class="no-app-link " href="https://monerica.com/education">
-                            Education
-                        </a>
-                    </summary>
+            <li class="category-item">
+                <div class="cat-row" style="display:flex;align-items:center;gap:.5rem;">
+                    <label for="education_expander_mobile" class="expander" aria-label="Expand Education" style="cursor:pointer;">+</label>
+                    <a class="no-app-link " href="https://monerica.com/education">
+                        Education
+                    </a>
+                </div>
+
+                <input type="checkbox" id="education_expander_mobile" class="hidden-toggle">
+                <div class="hidden">
                     <ul>
                             <li>
                                 <a class="no-app-link " href="https://monerica.com/education/e-books">
@@ -381,15 +390,18 @@ div#main-content {
                                 </a>
                             </li>
                     </ul>
-                </details>
+                </div>
             </li>
-            <li>
-                <details>
-                    <summary>
-                        <a class="no-app-link " href="https://monerica.com/exchanges">
-                            Exchanges
-                        </a>
-                    </summary>
+            <li class="category-item">
+                <div class="cat-row" style="display:flex;align-items:center;gap:.5rem;">
+                    <label for="exchanges_expander_mobile" class="expander" aria-label="Expand Exchanges" style="cursor:pointer;">+</label>
+                    <a class="no-app-link " href="https://monerica.com/exchanges">
+                        Exchanges
+                    </a>
+                </div>
+
+                <input type="checkbox" id="exchanges_expander_mobile" class="hidden-toggle">
+                <div class="hidden">
                     <ul>
                             <li>
                                 <a class="no-app-link " href="https://monerica.com/exchanges/atms">
@@ -447,15 +459,18 @@ div#main-content {
                                 </a>
                             </li>
                     </ul>
-                </details>
+                </div>
             </li>
-            <li>
-                <details>
-                    <summary>
-                        <a class="no-app-link " href="https://monerica.com/finance">
-                            Finance
-                        </a>
-                    </summary>
+            <li class="category-item">
+                <div class="cat-row" style="display:flex;align-items:center;gap:.5rem;">
+                    <label for="finance_expander_mobile" class="expander" aria-label="Expand Finance" style="cursor:pointer;">+</label>
+                    <a class="no-app-link " href="https://monerica.com/finance">
+                        Finance
+                    </a>
+                </div>
+
+                <input type="checkbox" id="finance_expander_mobile" class="hidden-toggle">
+                <div class="hidden">
                     <ul>
                             <li>
                                 <a class="no-app-link " href="https://monerica.com/finance/calculator">
@@ -488,15 +503,18 @@ div#main-content {
                                 </a>
                             </li>
                     </ul>
-                </details>
+                </div>
             </li>
-            <li>
-                <details>
-                    <summary>
-                        <a class="no-app-link " href="https://monerica.com/freelancers">
-                            Freelancers
-                        </a>
-                    </summary>
+            <li class="category-item">
+                <div class="cat-row" style="display:flex;align-items:center;gap:.5rem;">
+                    <label for="freelancers_expander_mobile" class="expander" aria-label="Expand Freelancers" style="cursor:pointer;">+</label>
+                    <a class="no-app-link " href="https://monerica.com/freelancers">
+                        Freelancers
+                    </a>
+                </div>
+
+                <input type="checkbox" id="freelancers_expander_mobile" class="hidden-toggle">
+                <div class="hidden">
                     <ul>
                             <li>
                                 <a class="no-app-link " href="https://monerica.com/freelancers/designers">
@@ -514,15 +532,18 @@ div#main-content {
                                 </a>
                             </li>
                     </ul>
-                </details>
+                </div>
             </li>
-            <li>
-                <details>
-                    <summary>
-                        <a class="no-app-link " href="https://monerica.com/jobs">
-                            Jobs
-                        </a>
-                    </summary>
+            <li class="category-item">
+                <div class="cat-row" style="display:flex;align-items:center;gap:.5rem;">
+                    <label for="jobs_expander_mobile" class="expander" aria-label="Expand Jobs" style="cursor:pointer;">+</label>
+                    <a class="no-app-link " href="https://monerica.com/jobs">
+                        Jobs
+                    </a>
+                </div>
+
+                <input type="checkbox" id="jobs_expander_mobile" class="hidden-toggle">
+                <div class="hidden">
                     <ul>
                             <li>
                                 <a class="no-app-link " href="https://monerica.com/jobs/bounties">
@@ -555,15 +576,18 @@ div#main-content {
                                 </a>
                             </li>
                     </ul>
-                </details>
+                </div>
             </li>
-            <li>
-                <details>
-                    <summary>
-                        <a class="no-app-link " href="https://monerica.com/media">
-                            Media
-                        </a>
-                    </summary>
+            <li class="category-item">
+                <div class="cat-row" style="display:flex;align-items:center;gap:.5rem;">
+                    <label for="media_expander_mobile" class="expander" aria-label="Expand Media" style="cursor:pointer;">+</label>
+                    <a class="no-app-link " href="https://monerica.com/media">
+                        Media
+                    </a>
+                </div>
+
+                <input type="checkbox" id="media_expander_mobile" class="hidden-toggle">
+                <div class="hidden">
                     <ul>
                             <li>
                                 <a class="no-app-link " href="https://monerica.com/media/artwork">
@@ -646,15 +670,18 @@ div#main-content {
                                 </a>
                             </li>
                     </ul>
-                </details>
+                </div>
             </li>
-            <li>
-                <details>
-                    <summary>
-                        <a class="no-app-link " href="https://monerica.com/merchant-services">
-                            Merchant Services
-                        </a>
-                    </summary>
+            <li class="category-item">
+                <div class="cat-row" style="display:flex;align-items:center;gap:.5rem;">
+                    <label for="merchant-services_expander_mobile" class="expander" aria-label="Expand Merchant Services" style="cursor:pointer;">+</label>
+                    <a class="no-app-link " href="https://monerica.com/merchant-services">
+                        Merchant Services
+                    </a>
+                </div>
+
+                <input type="checkbox" id="merchant-services_expander_mobile" class="hidden-toggle">
+                <div class="hidden">
                     <ul>
                             <li>
                                 <a class="no-app-link " href="https://monerica.com/merchant-services/atms">
@@ -672,15 +699,18 @@ div#main-content {
                                 </a>
                             </li>
                     </ul>
-                </details>
+                </div>
             </li>
-            <li>
-                <details>
-                    <summary>
-                        <a class="no-app-link " href="https://monerica.com/mining">
-                            Mining
-                        </a>
-                    </summary>
+            <li class="category-item">
+                <div class="cat-row" style="display:flex;align-items:center;gap:.5rem;">
+                    <label for="mining_expander_mobile" class="expander" aria-label="Expand Mining" style="cursor:pointer;">+</label>
+                    <a class="no-app-link " href="https://monerica.com/mining">
+                        Mining
+                    </a>
+                </div>
+
+                <input type="checkbox" id="mining_expander_mobile" class="hidden-toggle">
+                <div class="hidden">
                     <ul>
                             <li>
                                 <a class="no-app-link " href="https://monerica.com/mining/apps">
@@ -723,15 +753,18 @@ div#main-content {
                                 </a>
                             </li>
                     </ul>
-                </details>
+                </div>
             </li>
-            <li>
-                <details>
-                    <summary>
-                        <a class="no-app-link " href="https://monerica.com/nodes">
-                            Nodes
-                        </a>
-                    </summary>
+            <li class="category-item">
+                <div class="cat-row" style="display:flex;align-items:center;gap:.5rem;">
+                    <label for="nodes_expander_mobile" class="expander" aria-label="Expand Nodes" style="cursor:pointer;">+</label>
+                    <a class="no-app-link " href="https://monerica.com/nodes">
+                        Nodes
+                    </a>
+                </div>
+
+                <input type="checkbox" id="nodes_expander_mobile" class="hidden-toggle">
+                <div class="hidden">
                     <ul>
                             <li>
                                 <a class="no-app-link " href="https://monerica.com/nodes/node-hardware">
@@ -764,15 +797,18 @@ div#main-content {
                                 </a>
                             </li>
                     </ul>
-                </details>
+                </div>
             </li>
-            <li>
-                <details>
-                    <summary>
-                        <a class="no-app-link " href="https://monerica.com/non-profits">
-                            Non-Profits
-                        </a>
-                    </summary>
+            <li class="category-item">
+                <div class="cat-row" style="display:flex;align-items:center;gap:.5rem;">
+                    <label for="non-profits_expander_mobile" class="expander" aria-label="Expand Non-Profits" style="cursor:pointer;">+</label>
+                    <a class="no-app-link " href="https://monerica.com/non-profits">
+                        Non-Profits
+                    </a>
+                </div>
+
+                <input type="checkbox" id="non-profits_expander_mobile" class="hidden-toggle">
+                <div class="hidden">
                     <ul>
                             <li>
                                 <a class="no-app-link " href="https://monerica.com/non-profits/activism">
@@ -840,15 +876,18 @@ div#main-content {
                                 </a>
                             </li>
                     </ul>
-                </details>
+                </div>
             </li>
-            <li>
-                <details>
-                    <summary>
-                        <a class="no-app-link " href="https://monerica.com/official-sites">
-                            Official Sites
-                        </a>
-                    </summary>
+            <li class="category-item">
+                <div class="cat-row" style="display:flex;align-items:center;gap:.5rem;">
+                    <label for="official-sites_expander_mobile" class="expander" aria-label="Expand Official Sites" style="cursor:pointer;">+</label>
+                    <a class="no-app-link " href="https://monerica.com/official-sites">
+                        Official Sites
+                    </a>
+                </div>
+
+                <input type="checkbox" id="official-sites_expander_mobile" class="hidden-toggle">
+                <div class="hidden">
                     <ul>
                             <li>
                                 <a class="no-app-link " href="https://monerica.com/official-sites/code">
@@ -861,15 +900,18 @@ div#main-content {
                                 </a>
                             </li>
                     </ul>
-                </details>
+                </div>
             </li>
-            <li>
-                <details>
-                    <summary>
-                        <a class="no-app-link " href="https://monerica.com/onion-only">
-                            Onion Only
-                        </a>
-                    </summary>
+            <li class="category-item">
+                <div class="cat-row" style="display:flex;align-items:center;gap:.5rem;">
+                    <label for="onion-only_expander_mobile" class="expander" aria-label="Expand Onion Only" style="cursor:pointer;">+</label>
+                    <a class="no-app-link " href="https://monerica.com/onion-only">
+                        Onion Only
+                    </a>
+                </div>
+
+                <input type="checkbox" id="onion-only_expander_mobile" class="hidden-toggle">
+                <div class="hidden">
                     <ul>
                             <li>
                                 <a class="no-app-link " href="https://monerica.com/onion-only/education">
@@ -912,15 +954,18 @@ div#main-content {
                                 </a>
                             </li>
                     </ul>
-                </details>
+                </div>
             </li>
-            <li>
-                <details>
-                    <summary>
-                        <a class="no-app-link " href="https://monerica.com/other-directories">
-                            Other Directories
-                        </a>
-                    </summary>
+            <li class="category-item">
+                <div class="cat-row" style="display:flex;align-items:center;gap:.5rem;">
+                    <label for="other-directories_expander_mobile" class="expander" aria-label="Expand Other Directories" style="cursor:pointer;">+</label>
+                    <a class="no-app-link " href="https://monerica.com/other-directories">
+                        Other Directories
+                    </a>
+                </div>
+
+                <input type="checkbox" id="other-directories_expander_mobile" class="hidden-toggle">
+                <div class="hidden">
                     <ul>
                             <li>
                                 <a class="no-app-link " href="https://monerica.com/other-directories/business-directories">
@@ -933,15 +978,18 @@ div#main-content {
                                 </a>
                             </li>
                     </ul>
-                </details>
+                </div>
             </li>
-            <li>
-                <details>
-                    <summary>
-                        <a class="no-app-link " href="https://monerica.com/utilities">
-                            Utilities
-                        </a>
-                    </summary>
+            <li class="category-item">
+                <div class="cat-row" style="display:flex;align-items:center;gap:.5rem;">
+                    <label for="utilities_expander_mobile" class="expander" aria-label="Expand Utilities" style="cursor:pointer;">+</label>
+                    <a class="no-app-link " href="https://monerica.com/utilities">
+                        Utilities
+                    </a>
+                </div>
+
+                <input type="checkbox" id="utilities_expander_mobile" class="hidden-toggle">
+                <div class="hidden">
                     <ul>
                             <li>
                                 <a class="no-app-link " href="https://monerica.com/utilities/address-verification">
@@ -974,15 +1022,18 @@ div#main-content {
                                 </a>
                             </li>
                     </ul>
-                </details>
+                </div>
             </li>
-            <li>
-                <details>
-                    <summary>
-                        <a class="no-app-link " href="https://monerica.com/vpns">
-                            VPNs
-                        </a>
-                    </summary>
+            <li class="category-item">
+                <div class="cat-row" style="display:flex;align-items:center;gap:.5rem;">
+                    <label for="vpns_expander_mobile" class="expander" aria-label="Expand VPNs" style="cursor:pointer;">+</label>
+                    <a class="no-app-link " href="https://monerica.com/vpns">
+                        VPNs
+                    </a>
+                </div>
+
+                <input type="checkbox" id="vpns_expander_mobile" class="hidden-toggle">
+                <div class="hidden">
                     <ul>
                             <li>
                                 <a class="no-app-link " href="https://monerica.com/vpns/africa">
@@ -1020,15 +1071,18 @@ div#main-content {
                                 </a>
                             </li>
                     </ul>
-                </details>
+                </div>
             </li>
-            <li>
-                <details>
-                    <summary>
-                        <a class="no-app-link " href="https://monerica.com/wallets">
-                            Wallets
-                        </a>
-                    </summary>
+            <li class="category-item">
+                <div class="cat-row" style="display:flex;align-items:center;gap:.5rem;">
+                    <label for="wallets_expander_mobile" class="expander" aria-label="Expand Wallets" style="cursor:pointer;">+</label>
+                    <a class="no-app-link " href="https://monerica.com/wallets">
+                        Wallets
+                    </a>
+                </div>
+
+                <input type="checkbox" id="wallets_expander_mobile" class="hidden-toggle">
+                <div class="hidden">
                     <ul>
                             <li>
                                 <a class="no-app-link " href="https://monerica.com/wallets/cli-wallets">
@@ -1056,15 +1110,18 @@ div#main-content {
                                 </a>
                             </li>
                     </ul>
-                </details>
+                </div>
             </li>
-            <li>
-                <details>
-                    <summary>
-                        <a class="no-app-link " href="https://monerica.com/web-hosting">
-                            Web Hosting
-                        </a>
-                    </summary>
+            <li class="category-item">
+                <div class="cat-row" style="display:flex;align-items:center;gap:.5rem;">
+                    <label for="web-hosting_expander_mobile" class="expander" aria-label="Expand Web Hosting" style="cursor:pointer;">+</label>
+                    <a class="no-app-link " href="https://monerica.com/web-hosting">
+                        Web Hosting
+                    </a>
+                </div>
+
+                <input type="checkbox" id="web-hosting_expander_mobile" class="hidden-toggle">
+                <div class="hidden">
                     <ul>
                             <li>
                                 <a class="no-app-link " href="https://monerica.com/web-hosting/cloud-and-web-hosting-providers">
@@ -1107,7 +1164,7 @@ div#main-content {
                                 </a>
                             </li>
                     </ul>
-                </details>
+                </div>
             </li>
     </ul>
 </details>
@@ -1125,7 +1182,9 @@ div#main-content {
                 <a class="no-app-link " href="https://monerica.com/businesses">
                     Businesses
                 </a>
+
                 <input type="checkbox" id="businesses_expander" class="hidden-toggle">
+
                 <div class="hidden">
                     <ul>
                             <li>
@@ -1366,7 +1425,9 @@ div#main-content {
                 <a class="no-app-link " href="https://monerica.com/communities">
                     Communities
                 </a>
+
                 <input type="checkbox" id="communities_expander" class="hidden-toggle">
+
                 <div class="hidden">
                     <ul>
                             <li>
@@ -1422,7 +1483,9 @@ div#main-content {
                 <a class="no-app-link " href="https://monerica.com/education">
                     Education
                 </a>
+
                 <input type="checkbox" id="education_expander" class="hidden-toggle">
+
                 <div class="hidden">
                     <ul>
                             <li>
@@ -1463,7 +1526,9 @@ div#main-content {
                 <a class="no-app-link " href="https://monerica.com/exchanges">
                     Exchanges
                 </a>
+
                 <input type="checkbox" id="exchanges_expander" class="hidden-toggle">
+
                 <div class="hidden">
                     <ul>
                             <li>
@@ -1529,7 +1594,9 @@ div#main-content {
                 <a class="no-app-link " href="https://monerica.com/finance">
                     Finance
                 </a>
+
                 <input type="checkbox" id="finance_expander" class="hidden-toggle">
+
                 <div class="hidden">
                     <ul>
                             <li>
@@ -1570,7 +1637,9 @@ div#main-content {
                 <a class="no-app-link " href="https://monerica.com/freelancers">
                     Freelancers
                 </a>
+
                 <input type="checkbox" id="freelancers_expander" class="hidden-toggle">
+
                 <div class="hidden">
                     <ul>
                             <li>
@@ -1596,7 +1665,9 @@ div#main-content {
                 <a class="no-app-link " href="https://monerica.com/jobs">
                     Jobs
                 </a>
+
                 <input type="checkbox" id="jobs_expander" class="hidden-toggle">
+
                 <div class="hidden">
                     <ul>
                             <li>
@@ -1637,7 +1708,9 @@ div#main-content {
                 <a class="no-app-link " href="https://monerica.com/media">
                     Media
                 </a>
+
                 <input type="checkbox" id="media_expander" class="hidden-toggle">
+
                 <div class="hidden">
                     <ul>
                             <li>
@@ -1728,7 +1801,9 @@ div#main-content {
                 <a class="no-app-link " href="https://monerica.com/merchant-services">
                     Merchant Services
                 </a>
+
                 <input type="checkbox" id="merchant-services_expander" class="hidden-toggle">
+
                 <div class="hidden">
                     <ul>
                             <li>
@@ -1754,7 +1829,9 @@ div#main-content {
                 <a class="no-app-link " href="https://monerica.com/mining">
                     Mining
                 </a>
+
                 <input type="checkbox" id="mining_expander" class="hidden-toggle">
+
                 <div class="hidden">
                     <ul>
                             <li>
@@ -1805,7 +1882,9 @@ div#main-content {
                 <a class="no-app-link " href="https://monerica.com/nodes">
                     Nodes
                 </a>
+
                 <input type="checkbox" id="nodes_expander" class="hidden-toggle">
+
                 <div class="hidden">
                     <ul>
                             <li>
@@ -1846,7 +1925,9 @@ div#main-content {
                 <a class="no-app-link " href="https://monerica.com/non-profits">
                     Non-Profits
                 </a>
+
                 <input type="checkbox" id="non-profits_expander" class="hidden-toggle">
+
                 <div class="hidden">
                     <ul>
                             <li>
@@ -1922,7 +2003,9 @@ div#main-content {
                 <a class="no-app-link " href="https://monerica.com/official-sites">
                     Official Sites
                 </a>
+
                 <input type="checkbox" id="official-sites_expander" class="hidden-toggle">
+
                 <div class="hidden">
                     <ul>
                             <li>
@@ -1943,7 +2026,9 @@ div#main-content {
                 <a class="no-app-link " href="https://monerica.com/onion-only">
                     Onion Only
                 </a>
+
                 <input type="checkbox" id="onion-only_expander" class="hidden-toggle">
+
                 <div class="hidden">
                     <ul>
                             <li>
@@ -1994,7 +2079,9 @@ div#main-content {
                 <a class="no-app-link " href="https://monerica.com/other-directories">
                     Other Directories
                 </a>
+
                 <input type="checkbox" id="other-directories_expander" class="hidden-toggle">
+
                 <div class="hidden">
                     <ul>
                             <li>
@@ -2015,7 +2102,9 @@ div#main-content {
                 <a class="no-app-link " href="https://monerica.com/utilities">
                     Utilities
                 </a>
+
                 <input type="checkbox" id="utilities_expander" class="hidden-toggle">
+
                 <div class="hidden">
                     <ul>
                             <li>
@@ -2056,7 +2145,9 @@ div#main-content {
                 <a class="no-app-link " href="https://monerica.com/vpns">
                     VPNs
                 </a>
+
                 <input type="checkbox" id="vpns_expander" class="hidden-toggle">
+
                 <div class="hidden">
                     <ul>
                             <li>
@@ -2102,7 +2193,9 @@ div#main-content {
                 <a class="no-app-link " href="https://monerica.com/wallets">
                     Wallets
                 </a>
+
                 <input type="checkbox" id="wallets_expander" class="hidden-toggle">
+
                 <div class="hidden">
                     <ul>
                             <li>
@@ -2138,7 +2231,9 @@ div#main-content {
                 <a class="no-app-link " href="https://monerica.com/web-hosting">
                     Web Hosting
                 </a>
+
                 <input type="checkbox" id="web-hosting_expander" class="hidden-toggle">
+
                 <div class="hidden">
                     <ul>
                             <li>
@@ -2249,7 +2344,7 @@ div#main-content {
 
               <!-- Truncated HTML-safe description -->
               <p class="sponsor-desc">
-                Swap crypto at the best rate on the market. Fast, private, open source.
+                Non-custodial swap aggregator for private crypto exchanges. Find the best rate across trusted providers and swap instantly.
               </p>
             </div>
             <div class="sponsor-card">
@@ -2331,7 +2426,7 @@ div#main-content {
             <div class="top-section update-section">
                 <p class="centered-text">
                     <strong>Last Update:</strong>
-                    2025-11-02T13:51:37Z
+                    2025-11-02T14:08:15Z
                 </p>
             </div>
 
@@ -2393,10 +2488,10 @@ div#main-content {
             <p><b>Newest Revisions</b></p>
             <ul class="blank_list_item">
 
+<li><p><i>2025-11-02</i> &#9989; <a href="https://monerica.com/exchanges/comparison-aggregation/cyphergoat" title="Profile: CypherGoat">CypherGoat</a> <a target="_blank" class="external-link" title="https://cyphergoat.com/?ref=monerica" href="https://cyphergoat.com/?ref=monerica"></a> <img class="country-flag" src="https://monerica.com/images/flags/se.png" alt="Flag of Sweden" title="Sweden"> - Non-custodial swap aggregator for private crypto exchanges. Find the best rate across trusted providers and swap instantly.</p></li>
 <li><p><i>2025-11-02</i> <a href="https://monerica.com/media/youtube-channels-english/monero-matteo" title="Profile: Monero Matteo">Monero Matteo</a> <a target="_blank" class="external-link" title="https://www.youtube.com/channel/UCn1P2pBjXNz2QL-Y9MuhXlg" href="https://www.youtube.com/channel/UCn1P2pBjXNz2QL-Y9MuhXlg"></a> <img class="country-flag" src="https://monerica.com/images/flags/us.png" alt="Flag of United States" title="United States"></p></li>
 <li><p><i>2025-10-31</i> &#10060; <del><a rel="nofollow" href="/finance/interest-loans/coinloan" title="Profile: CoinLoan">CoinLoan</a></del> <a target="_blank" class="external-link" title="https://coinloan.io" href="https://coinloan.io"></a> <img class="country-flag" src="https://monerica.com/images/flags/ee.png" alt="Flag of Estonia" title="Estonia"> - Earn interest in Monero, get loans using Monero as collateral. <i>(Note: 2023-04-26 withdrawls suspended)</i> </p></li>
 <li><p><i>2025-10-31</i> <a href="https://monerica.com/onion-only/education/opsec-guide" title="Profile: OpSec Guide">OpSec Guide</a> <a target="_blank" class="external-link" title="http://jqibjqqagao3peozxfs53tr6aecoyvctumfsc2xqniu4xgcrksal2iqd.onion" href="http://jqibjqqagao3peozxfs53tr6aecoyvctumfsc2xqniu4xgcrksal2iqd.onion"></a>  - A Guide to Opsec</p></li>
-<li><p><i>2025-10-30</i> &#9989; <a href="https://monerica.com/exchanges/comparison-aggregation/cyphergoat" title="Profile: CypherGoat">CypherGoat</a> <a target="_blank" class="external-link" title="https://cyphergoat.com/?ref=monerica" href="https://cyphergoat.com/?ref=monerica"></a> <img class="country-flag" src="https://monerica.com/images/flags/se.png" alt="Flag of Sweden" title="Sweden"> - Swap crypto at the best rate on the market. Fast, private, open source.</p></li>
 <li><p><i>2025-10-29</i> <a href="https://monerica.com/businesses/courses/pwn-guide" title="Profile: pwn.guide">pwn.guide</a> <a target="_blank" class="external-link" title="https://pwn.guide/" href="https://pwn.guide/"></a> <img class="country-flag" src="https://monerica.com/images/flags/si.png" alt="Flag of Slovenia" title="Slovenia"> - Learn hacking from 150+ tutorials & certification training materials. Upgrade for less than 4.79$/month or buy the lifetime plan.</p></li>            </ul>
             <hr>
 
