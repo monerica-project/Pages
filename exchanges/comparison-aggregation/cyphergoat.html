@@ -2410,7 +2410,49 @@ div#main-content {
 <div class="reviews-block mt-4">
     <h3 class="mb-3">Reviews</h3>
 
-        <p class="text-muted">No reviews yet.</p>
+        <p>
+            <strong>Average rating:</strong>
+            4.0 / 5
+            <span class="text-muted">(1 review)</span>
+        </p>
+        <ul class="list-unstyled">
+                <li class="mb-4 pb-3 border-bottom" itemscope itemtype="https://schema.org/Review">
+                    <div class="d-flex align-items-center">
+                        <span class="me-2" aria-label="rating">&#x2605;&#x2605;&#x2605;&#x2605;&#x2606;</span>
+                        <small class="text-muted">4/5</small>
+
+                        <!-- reviewRating microdata -->
+                        <span itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating">
+                            <meta itemprop="ratingValue" content="4">
+                            <meta itemprop="bestRating" content="5">
+                            <meta itemprop="worstRating" content="1">
+                        </span>
+                    </div>
+
+                    <div class="mt-2" itemprop="reviewBody">
+                        I don’t like aggregators, but this one is really cool
+                    </div>
+
+                    <div class="mt-2">
+                        <!-- author microdata -->
+                        <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+                            <small class="text-muted multi-line-text">
+                                Author:
+                                EB557517BC4764D621856D903456187DC7281221
+                            </small>
+                        </span>
+
+                        <small class="text-muted ms-2">•</small>
+                        <!-- datePublished microdata -->
+                        <time class="text-muted ms-2" itemprop="datePublished" datetime="2025-12-01">
+                            2025-12-01
+                        </time>
+                    </div>
+                </li>
+        </ul>
+            <script type="application/ld&#x2B;json">
+                {"context":"https://schema.org","graph":[{"type":"AggregateRating","itemReviewed":{"id":"https://monerica.com/exchanges/comparison-aggregation/cyphergoat"},"ratingValue":4,"ratingCount":1,"bestRating":5,"worstRating":1},{"type":"Review","itemReviewed":{"id":"https://monerica.com/exchanges/comparison-aggregation/cyphergoat"},"reviewRating":{"type":"Rating","ratingValue":4,"bestRating":5,"worstRating":1},"author":{"type":"Person","name":"EB557517BC4764D621856D903456187DC7281221"},"datePublished":"2025-12-01","reviewBody":"I don’t like aggregators, but this one is really cool"}]}
+            </script>
 
     <form action="https://app.monerica.com/directory-entry-reviews/begin" method="post" class="d-inline" rel="nofollow">
         <input type="hidden" name="directoryEntryId" value="952">
