@@ -17,6 +17,18 @@
       <pubDate>Fri, 05 Dec 2025 03:41:00 GMT</pubDate>
     </item>
     <item>
+      <title>mt.exchange</title>
+      <link>https://mt.exchange</link>
+      <description>Exchanges &gt; Non-KYC Exchanges : Instant exchange</description>
+      <pubDate>Thu, 04 Dec 2025 13:13:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>AmgChange</title>
+      <link>https://amgchange.com</link>
+      <description>Exchanges &gt; Non-KYC Exchanges : Instant exchange.</description>
+      <pubDate>Thu, 04 Dec 2025 13:12:24 GMT</pubDate>
+    </item>
+    <item>
       <title>CriptHub</title>
       <link>https://cripthub.ru</link>
       <description>Exchanges &gt; Non-KYC Exchanges : Instant exchange</description>
@@ -646,18 +658,6 @@
       <link>https://mon3ro.com</link>
       <description>Wallets &gt; Web Wallets : Web wallet - Note: Closed source code, blocks right mouse button to prevent opening devtools</description>
       <pubDate>Tue, 23 Sep 2025 23:09:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Moneronet</title>
-      <link>https://moneronet.info/</link>
-      <description>Nodes &gt; Node Statistics : Remote Node statistics website</description>
-      <pubDate>Tue, 23 Sep 2025 15:59:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gojira</title>
-      <link>https://metrics.torproject.org/rs.html#details/AD0D7618B6E7A4D125ABB07B53EACB2146FFC8D9</link>
-      <description>Nodes &gt; Relay/Exit Operators (individual relays) : Tor relay operator</description>
-      <pubDate>Mon, 22 Sep 2025 01:08:25 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Skhron (sponsored)</title>
