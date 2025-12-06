@@ -2416,7 +2416,49 @@ div#main-content {
 <div class="reviews-block mt-4">
     <h3 class="mb-3">Reviews</h3>
 
-        <p class="text-muted">No reviews yet.</p>
+        <p>
+            <strong>Average rating:</strong>
+            1.0 / 5
+            <span class="text-muted">(1 review)</span>
+        </p>
+        <ul class="list-unstyled">
+                <li class="mb-4 pb-3 border-bottom" itemscope itemtype="https://schema.org/Review">
+                    <div class="d-flex align-items-center">
+                        <span class="me-2" aria-label="rating">&#x2605;&#x2606;&#x2606;&#x2606;&#x2606;</span>
+                        <small class="text-muted">1/5</small>
+
+                        <!-- reviewRating microdata -->
+                        <span itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating">
+                            <meta itemprop="ratingValue" content="1">
+                            <meta itemprop="bestRating" content="5">
+                            <meta itemprop="worstRating" content="1">
+                        </span>
+                    </div>
+
+                    <div class="mt-2" itemprop="reviewBody">
+                        After buying vps, their platform not working 
+                    </div>
+
+                    <div class="mt-2">
+                        <!-- author microdata -->
+                        <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+                            <small class="text-muted multi-line-text">
+                                Author:
+                                1934D4B10784DB1E6551598488A6C28EE2D9F6C5
+                            </small>
+                        </span>
+
+                        <small class="text-muted ms-2">•</small>
+                        <!-- datePublished microdata -->
+                        <time class="text-muted ms-2" itemprop="datePublished" datetime="2025-12-06">
+                            2025-12-06
+                        </time>
+                    </div>
+                </li>
+        </ul>
+            <script type="application/ld&#x2B;json">
+                {"context":"https://schema.org","graph":[{"type":"AggregateRating","itemReviewed":{"id":"https://monerica.com/web-hosting/vps-and-dedicated-server-providers/btcvps"},"ratingValue":1,"ratingCount":1,"bestRating":5,"worstRating":1},{"type":"Review","itemReviewed":{"id":"https://monerica.com/web-hosting/vps-and-dedicated-server-providers/btcvps"},"reviewRating":{"type":"Rating","ratingValue":1,"bestRating":5,"worstRating":1},"author":{"type":"Person","name":"1934D4B10784DB1E6551598488A6C28EE2D9F6C5"},"datePublished":"2025-12-06","reviewBody":"After buying vps, their platform not working "}]}
+            </script>
 
     <form action="https://app.monerica.com/directory-entry-reviews/begin" method="post" class="d-inline" rel="nofollow">
         <input type="hidden" name="directoryEntryId" value="945">
