@@ -2706,7 +2706,7 @@
 <loc>https://monerica.com/web-hosting/page/6</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.4</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.6</priority>
+<loc>https://monerica.com/businesses</loc><lastmod>2025-12-09T19:22:40+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.6</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/accounting</loc><lastmod>2025-12-09T20:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
@@ -2743,6 +2743,9 @@
 </url>
 <url>
 <loc>https://monerica.com/businesses/djs</loc><lastmod>2025-12-09T20:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
+</url>
+<url>
+<loc>https://monerica.com/businesses/electronics-computer-hardware</loc><lastmod>2025-12-09T20:22:40+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/email-providers-forwarders</loc><lastmod>2025-12-09T20:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
@@ -2833,9 +2836,6 @@
 </url>
 <url>
 <loc>https://monerica.com/businesses/seeds-and-spores</loc><lastmod>2025-12-09T20:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
-</url>
-<url>
-<loc>https://monerica.com/businesses/technology-computer-hardware</loc><lastmod>2025-12-09T20:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/tobacco-products-and-accessories</loc><lastmod>2025-12-09T20:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.5</priority>
@@ -3354,7 +3354,7 @@
 <loc>https://monerica.com/businesses/artwork/abdullah-khan</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/above-phone</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/above-phone</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/merchant-services/open-source-projects/acceptxmr</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -3483,10 +3483,10 @@
 <loc>https://monerica.com/web-hosting/vps-and-dedicated-server-providers/anycolo</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/aphasia-network</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/aphasia-network</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/apple-bitcoins</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/apple-bitcoins</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/miscellaneous/aquarian-metals</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -3651,7 +3651,7 @@
 <loc>https://monerica.com/exchanges/non-kyc-exchanges/bitflaming</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/bitgear</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/bitgear</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/precious-metals/bitgolder</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -3756,7 +3756,7 @@
 <loc>https://monerica.com/exchanges/kyc-exchanges-non-united-states/btse</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/buskill</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/buskill</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/phone-plans-sms-and-sim-cards/buynumber</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -3936,7 +3936,7 @@
 <loc>https://monerica.com/businesses/gift-and-prepaid-cards/coincards</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/coincart-store</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/coincart-store</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/exchanges/non-kyc-exchanges/coincraddle</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -4458,7 +4458,7 @@
 <loc>https://monerica.com/official-sites/project-homepage/get-monero</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/get-privacy-freedom</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/get-privacy-freedom</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/miscellaneous/getprivacy-earth</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -4689,7 +4689,7 @@
 <loc>https://monerica.com/non-profits/technologies/invidious</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/invizbox</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/invizbox</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/non-profits/technologies/invizible</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -4836,7 +4836,7 @@
 <loc>https://monerica.com/exchanges/non-kyc-exchanges/letsexchange</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/liberated-embedded-systems</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/liberated-embedded-systems</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/counseling-and-therapy/liberatelife</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -4857,7 +4857,7 @@
 <loc>https://monerica.com/non-profits/technologies/libredirect</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/librem-one</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/librem-one</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/non-profits/miscellaneous/libretorrent</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -4911,7 +4911,7 @@
 <loc>https://monerica.com/non-profits/research/madaidans</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/madison-digital-services</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/madison-digital-services</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/jobs/grants/magic-monero-fund</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -5025,7 +5025,7 @@
 <loc>https://monerica.com/businesses/digital-goods-services/mmoga</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/mobisun</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/mobisun</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/wallets/web-wallets/mon3ro</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -5532,7 +5532,7 @@
 <loc>https://monerica.com/exchanges/peer-to-peer-exchanges/noones</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/novacustom</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/novacustom</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/exchanges/kyc-exchanges-non-united-states/novadax</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -5772,7 +5772,7 @@
 <loc>https://monerica.com/exchanges/non-kyc-exchanges/privacygateway-io</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/private-phone-shop</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/private-phone-shop</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/web-hosting/vps-and-dedicated-server-providers/private-webhost</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -5826,7 +5826,7 @@
 <loc>https://monerica.com/businesses/proxy-shopping/proxystore-order-service</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/proxystore-shop</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/proxystore-shop</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/proxy-shopping/proxystore-english</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -6069,7 +6069,7 @@
 <loc>https://monerica.com/businesses/marketplaces/silver-coconut</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/silver-it</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/silver-it</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/exchanges/non-kyc-exchanges/simpleswap</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -6795,7 +6795,7 @@
 <loc>https://monerica.com/businesses/artwork/abdullah-khan</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/above-phone</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/above-phone</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/merchant-services/open-source-projects/acceptxmr</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -6924,10 +6924,10 @@
 <loc>https://monerica.com/web-hosting/vps-and-dedicated-server-providers/anycolo</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/aphasia-network</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/aphasia-network</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/apple-bitcoins</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/apple-bitcoins</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/miscellaneous/aquarian-metals</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -7092,7 +7092,7 @@
 <loc>https://monerica.com/exchanges/non-kyc-exchanges/bitflaming</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/bitgear</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/bitgear</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/precious-metals/bitgolder</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -7197,7 +7197,7 @@
 <loc>https://monerica.com/exchanges/kyc-exchanges-non-united-states/btse</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/buskill</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/buskill</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/phone-plans-sms-and-sim-cards/buynumber</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -7377,7 +7377,7 @@
 <loc>https://monerica.com/businesses/gift-and-prepaid-cards/coincards</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/coincart-store</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/coincart-store</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/exchanges/non-kyc-exchanges/coincraddle</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -7899,7 +7899,7 @@
 <loc>https://monerica.com/official-sites/project-homepage/get-monero</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/get-privacy-freedom</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/get-privacy-freedom</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/miscellaneous/getprivacy-earth</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -8130,7 +8130,7 @@
 <loc>https://monerica.com/non-profits/technologies/invidious</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/invizbox</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/invizbox</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/non-profits/technologies/invizible</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -8277,7 +8277,7 @@
 <loc>https://monerica.com/exchanges/non-kyc-exchanges/letsexchange</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/liberated-embedded-systems</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/liberated-embedded-systems</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/counseling-and-therapy/liberatelife</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -8298,7 +8298,7 @@
 <loc>https://monerica.com/non-profits/technologies/libredirect</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/librem-one</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/librem-one</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/non-profits/miscellaneous/libretorrent</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -8352,7 +8352,7 @@
 <loc>https://monerica.com/non-profits/research/madaidans</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/madison-digital-services</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/madison-digital-services</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/jobs/grants/magic-monero-fund</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -8466,7 +8466,7 @@
 <loc>https://monerica.com/businesses/digital-goods-services/mmoga</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/mobisun</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/mobisun</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/wallets/web-wallets/mon3ro</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -8973,7 +8973,7 @@
 <loc>https://monerica.com/exchanges/peer-to-peer-exchanges/noones</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/novacustom</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/novacustom</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/exchanges/kyc-exchanges-non-united-states/novadax</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -9213,7 +9213,7 @@
 <loc>https://monerica.com/exchanges/non-kyc-exchanges/privacygateway-io</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/private-phone-shop</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/private-phone-shop</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/web-hosting/vps-and-dedicated-server-providers/private-webhost</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -9267,7 +9267,7 @@
 <loc>https://monerica.com/businesses/proxy-shopping/proxystore-order-service</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/proxystore-shop</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/proxystore-shop</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/businesses/proxy-shopping/proxystore-english</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
@@ -9510,7 +9510,7 @@
 <loc>https://monerica.com/businesses/marketplaces/silver-coconut</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
-<loc>https://monerica.com/businesses/technology-computer-hardware/silver-it</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
+<loc>https://monerica.com/businesses/electronics-computer-hardware/silver-it</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
 </url>
 <url>
 <loc>https://monerica.com/exchanges/non-kyc-exchanges/simpleswap</loc><lastmod>2025-12-09T19:16:28+00:00</lastmod><changefreq>Weekly</changefreq><priority>0.7</priority>
