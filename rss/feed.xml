@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>zero-xmr</title>
+      <link>https://zeroxmr.com</link>
+      <description>Exchanges &gt; Decentralized Exchanges : The first trustless, permissionless wrapped Monero. Verify real XMR transactions on-chain without revealing your secrets.</description>
+      <pubDate>Sat, 10 Jan 2026 18:43:27 GMT</pubDate>
+    </item>
+    <item>
       <title>&amp;#x2753; Moneropostage</title>
       <link>https://www.moneropostage.com/</link>
       <description>Businesses &gt; Postage &amp; Shipping Services : Buy postage - Note: Identical looking site to altcoin postage</description>
@@ -637,12 +643,6 @@ Pay with Monero. Access via Tor. No JavaScript. - Contact: @exodia_:matrix.org</
       <link>https://tranza.cc/en</link>
       <description>Exchanges &gt; Non-KYC Exchanges (Russian) : Exchange</description>
       <pubDate>Mon, 08 Dec 2025 22:58:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>BtcWorm</title>
-      <link>https://btcworm.net/en/</link>
-      <description>Exchanges &gt; Non-KYC Exchanges (Russian) : Exchange cryptocurrency</description>
-      <pubDate>Mon, 08 Dec 2025 22:56:59 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; xChange.me (sponsored)</title>
