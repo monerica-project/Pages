@@ -5,9 +5,15 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Baxity</title>
+      <link>https://baxity.com</link>
+      <description>Cards &gt; Gift &amp; Prepaid Cards : Various vouchers and gift cards in defined increments - Note: Requires email verification - Processor: Cryptomus</description>
+      <pubDate>Sat, 10 Jan 2026 23:10:50 GMT</pubDate>
+    </item>
+    <item>
       <title>zero-xmr</title>
       <link>https://zeroxmr.com</link>
-      <description>Exchanges &gt; Decentralized Exchanges : The first trustless, permissionless wrapped Monero. Verify real XMR transactions on-chain without revealing your secrets.</description>
+      <description>Utilities &gt; Open Source Projects : The first trustless, permissionless wrapped Monero. Verify real XMR transactions on-chain without revealing your secrets.</description>
       <pubDate>Sat, 10 Jan 2026 18:43:27 GMT</pubDate>
     </item>
     <item>
@@ -637,12 +643,6 @@ Pay with Monero. Access via Tor. No JavaScript. - Contact: @exodia_:matrix.org</
       <link>https://baltex.io?_bpLink=7f3fa48c-ad72405c2c024ae7</link>
       <description>Exchanges &gt; Non-KYC Exchanges : A non-custodial, no-KYC swap service for Monero (XMR), Bitcoin (BTC), and USDT (TRC-20/ERC-20). - Location: Mahe - Contact: @baltexio</description>
       <pubDate>Tue, 09 Dec 2025 12:30:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tranza</title>
-      <link>https://tranza.cc/en</link>
-      <description>Exchanges &gt; Non-KYC Exchanges (Russian) : Exchange</description>
-      <pubDate>Mon, 08 Dec 2025 22:58:15 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; xChange.me (sponsored)</title>
