@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>DPI Watch</title>
+      <link>https://dpi.watch/</link>
+      <description>Non-Profits &gt; Research : A watchdog by Svoboda Center that list countries that use DPI.</description>
+      <pubDate>Sat, 10 Jan 2026 00:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>MICROFILES</title>
       <link>http://s5xf5q2qbxxts2ytugxr3fcumd2r66z3yp4rzlzscmunyot2ibtlb3id.onion</link>
       <description>Onion Only &gt; Education : An open-source intelligence publication that treats every cyberattack, data leak, and threat as an investigation</description>
@@ -637,12 +643,6 @@ Pay with Monero. Access via Tor. No JavaScript. - Contact: @exodia_:matrix.org</
       <link>https://coinfy.cc/en</link>
       <description>Exchanges &gt; Non-KYC Exchanges (Russian) : Digital currency exchange</description>
       <pubDate>Mon, 08 Dec 2025 22:54:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>EasySwap</title>
-      <link>https://easyswap.info/</link>
-      <description>Exchanges &gt; Non-KYC Exchanges : Exchange</description>
-      <pubDate>Mon, 08 Dec 2025 22:53:17 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; xChange.me (sponsored)</title>
