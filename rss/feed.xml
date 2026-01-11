@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Glassez</title>
+      <link>https://glassez.github.io/</link>
+      <description>Non-Profits &gt; Individuals : Contributer of the Bittorrent project</description>
+      <pubDate>Sun, 11 Jan 2026 17:26:53 GMT</pubDate>
+    </item>
+    <item>
       <title>Baxity</title>
       <link>https://baxity.com</link>
       <description>Cards &gt; Gift &amp; Prepaid Cards : Various vouchers and gift cards in defined increments - Note: Requires email verification - Processor: Cryptomus</description>
@@ -637,12 +643,6 @@ Pay with Monero. Access via Tor. No JavaScript. - Contact: @exodia_:matrix.org</
       <link>https://www.bitcoinbox.io</link>
       <description>Exchanges &gt; Non-KYC Exchanges : Crypto exchanger</description>
       <pubDate>Tue, 09 Dec 2025 20:45:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x2705; Baltex</title>
-      <link>https://baltex.io?_bpLink=7f3fa48c-ad72405c2c024ae7</link>
-      <description>Exchanges &gt; Non-KYC Exchanges : A non-custodial, no-KYC swap service for Monero (XMR), Bitcoin (BTC), and USDT (TRC-20/ERC-20). - Location: Mahe - Contact: @baltexio</description>
-      <pubDate>Tue, 09 Dec 2025 12:30:37 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; xChange.me (sponsored)</title>
