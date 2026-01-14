@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>SlowServers</title>
+      <link>https://slowservers.net</link>
+      <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : VPS servers hosted on OpenBSD in Spokane, WA. Hardware is 100% owned and racked by SlowServers. - Location: Spokane, WA</description>
+      <pubDate>Wed, 14 Jan 2026 09:27:50 GMT</pubDate>
+    </item>
+    <item>
       <title>Monero Gui</title>
       <link>https://github.com/everoddandeven/monerod-gui</link>
       <description>Nodes &gt; Node Software &amp; Deployment : Creates an UI look on your Monero Node</description>
@@ -637,12 +643,6 @@ Pay with Monero. Access via Tor. No JavaScript. - Contact: @exodia_:matrix.org</
       <link>https://elyria.cc/</link>
       <description>Businesses &gt; Email Providers/ Forwarders : To provide a secure, private email service that respects your right to communicate freely and securely, without compromising your personal data or privacy</description>
       <pubDate>Sat, 13 Dec 2025 13:31:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cryptodeal</title>
-      <link>https://cryptodeal.cheap/</link>
-      <description>Exchanges &gt; Aggregators : Find the best crypto deals</description>
-      <pubDate>Fri, 12 Dec 2025 21:28:23 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; xChange.me (sponsored)</title>
