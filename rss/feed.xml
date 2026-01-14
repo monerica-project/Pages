@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Monero Gui</title>
+      <link>https://github.com/everoddandeven/monerod-gui</link>
+      <description>Nodes &gt; Node Software &amp; Deployment : Creates an UI look on your Monero Node</description>
+      <pubDate>Wed, 14 Jan 2026 00:04:04 GMT</pubDate>
+    </item>
+    <item>
       <title>Buy XMR with cash - XMRBazaar</title>
       <link>https://xmrbazaar.com/search/buy-exchange</link>
       <description>Exchanges &gt; Peer-to-Peer Exchanges : Listings in which you can buy Monero from people on XMRBazaar</description>
@@ -637,12 +643,6 @@ Pay with Monero. Access via Tor. No JavaScript. - Contact: @exodia_:matrix.org</
       <link>https://cryptodeal.cheap/</link>
       <description>Exchanges &gt; Aggregators : Find the best crypto deals</description>
       <pubDate>Fri, 12 Dec 2025 21:28:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x274C; Goblin Swap</title>
-      <link>https://goblinswap.io</link>
-      <description>Exchanges &gt; Non-KYC Exchanges : Trade faster than a goblin can grumble. - Note: part of the same scammer group as malgoswap / malgo.finance, darkchange, porkswap, crowswap and others</description>
-      <pubDate>Thu, 11 Dec 2025 23:44:07 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; xChange.me (sponsored)</title>
