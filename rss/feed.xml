@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>3X-UI</title>
+      <link>https://github.com/MHSanaei/3x-ui?tab=readme-ov-file</link>
+      <description>Non-Profits &gt; Technologies : 3X-UI — advanced, open-source web-based control panel designed for managing Xray-core server. It offers a user-friendly interface for configuring and monitoring various VPN an</description>
+      <pubDate>Thu, 15 Jan 2026 03:00:22 GMT</pubDate>
+    </item>
+    <item>
       <title>Xray Core</title>
       <link>https://github.com/XTLS/Xray-core</link>
       <description>Non-Profits &gt; Technologies : Xray Proxy Manager</description>
@@ -637,12 +643,6 @@ Pay with Monero. Access via Tor. No JavaScript. - Contact: @exodia_:matrix.org</
       <link>https://swapcore.exchange/</link>
       <description>Exchanges &gt; Non-KYC Exchanges : Cryptocurrency trading platform</description>
       <pubDate>Mon, 15 Dec 2025 23:01:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>XMR Meet</title>
-      <link>https://www.xmrmeet.com</link>
-      <description>Exchanges &gt; Peer-to-Peer Exchanges : Community directory for Monero enthusiasts looking to connect in person. Find like-minded people in your area for casual meetups and XMR/cash exchanges. - Contact: @zechnologic</description>
-      <pubDate>Mon, 15 Dec 2025 21:59:07 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; xChange.me (sponsored)</title>
