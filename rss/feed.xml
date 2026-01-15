@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Pieq</title>
+      <link>https://bitcointalk.org/index.php?topic=5567017</link>
+      <description>Exchanges &gt; Non-KYC Exchanges (Account-Based) : Direct crypto exchanges with no checks.</description>
+      <pubDate>Thu, 15 Jan 2026 16:12:46 GMT</pubDate>
+    </item>
+    <item>
       <title>LMEX</title>
       <link>https://www.lmex.io/en/ref?c=FJxu2i</link>
       <description>Exchanges &gt; Non-KYC Exchanges (Account-Based) : A no-KYC centralized exchange providing spot trading for Monero (XMR) alongside BTC, ETH, SOL, XRP, and LTC, with unlimited daily withdrawals. - Note: No KYC required for crypto deposits, withdrawals and trading. Unlimited daily withdrawals. - Contact: @LMEXofficial</description>
@@ -637,12 +643,6 @@ Pay with Monero. Access via Tor. No JavaScript. - Contact: @exodia_:matrix.org</
       <link>https://app.lighter.xyz/trade/XMR</link>
       <description>Exchanges &gt; Decentralized Exchanges : A decentralized trading platform, perpetuals DEX.</description>
       <pubDate>Wed, 17 Dec 2025 01:55:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x2753; Hyperliquid</title>
-      <link>https://app.hyperliquid.xyz/trade/flx:XMR</link>
-      <description>Exchanges &gt; Decentralized Exchanges : Pairs: XMR-USDH. Perp market deployed independently. - Note: Trading is on isolated margin only. Beware of low liquidity, high volatility, and increased liquidation risk. Be wary of “no freeze risk”.</description>
-      <pubDate>Wed, 17 Dec 2025 01:49:54 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; xChange.me (sponsored)</title>
