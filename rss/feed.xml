@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>LMEX</title>
+      <link>https://www.lmex.io</link>
+      <description>Exchanges &gt; Non-KYC Exchanges (Account-Based) : A no-KYC centralized exchange providing spot trading for Monero (XMR) alongside BTC, ETH, SOL, XRP, and LTC, with unlimited daily withdrawals. - Note: No KYC required for crypto deposits, withdrawals and trading. Unlimited daily withdrawals. - Contact: @LMEXofficial</description>
+      <pubDate>Thu, 15 Jan 2026 12:38:17 GMT</pubDate>
+    </item>
+    <item>
       <title>3X-UI</title>
       <link>https://github.com/MHSanaei/3x-ui?tab=readme-ov-file</link>
       <description>Non-Profits &gt; Technologies : Advanced, open-source web-based control panel designed for managing Xray-core server. It offers a user-friendly interface for configuring and monitoring various VPN an</description>
@@ -637,12 +643,6 @@ Pay with Monero. Access via Tor. No JavaScript. - Contact: @exodia_:matrix.org</
       <link>https://app.hyperliquid.xyz/trade/flx:XMR</link>
       <description>Exchanges &gt; Decentralized Exchanges : Pairs: XMR-USDH. Perp market deployed independently. - Note: Trading is on isolated margin only. Beware of low liquidity, high volatility, and increased liquidation risk. Be wary of “no freeze risk”.</description>
       <pubDate>Wed, 17 Dec 2025 01:49:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Swapcore</title>
-      <link>https://swapcore.exchange/</link>
-      <description>Exchanges &gt; Non-KYC Exchanges : Cryptocurrency trading platform</description>
-      <pubDate>Mon, 15 Dec 2025 23:01:14 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; xChange.me (sponsored)</title>
