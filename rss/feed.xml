@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Xray Core</title>
+      <link>https://github.com/XTLS/Xray-core</link>
+      <description>Non-Profits &gt; Technologies : Xray Proxy Manager</description>
+      <pubDate>Thu, 15 Jan 2026 02:32:07 GMT</pubDate>
+    </item>
+    <item>
       <title>Le Bon XMR</title>
       <link>https://lebonxmr.com</link>
       <description>Exchanges &gt; Aggregators : French Monero aggregator</description>
@@ -637,12 +643,6 @@ Pay with Monero. Access via Tor. No JavaScript. - Contact: @exodia_:matrix.org</
       <link>https://www.xmrmeet.com</link>
       <description>Exchanges &gt; Peer-to-Peer Exchanges : Community directory for Monero enthusiasts looking to connect in person. Find like-minded people in your area for casual meetups and XMR/cash exchanges. - Contact: @zechnologic</description>
       <pubDate>Mon, 15 Dec 2025 21:59:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>AltQuick</title>
-      <link>https://altquick.com/swap/</link>
-      <description>Exchanges &gt; Non-KYC Exchanges : Swap service - Location: 8 The Green Suite 6253 , 19901, Dover</description>
-      <pubDate>Mon, 15 Dec 2025 20:02:08 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; xChange.me (sponsored)</title>
