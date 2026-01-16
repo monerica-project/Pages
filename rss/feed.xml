@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>kuk.fan</title>
+      <link>https://kuk.fan</link>
+      <description>Nodes &gt; Public Remote Nodes &amp; Operators : Monero node operator for Tor, HTTP and HTTPS(CORS). Clearnet connections made through onion proxy. - Contact: kuk@underworld.dog</description>
+      <pubDate>Fri, 16 Jan 2026 13:56:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Pieq</title>
       <link>https://bitcointalk.org/index.php?topic=5567017</link>
       <description>Exchanges &gt; Non-KYC Exchanges (Account-Based) : Direct crypto exchanges with no checks.</description>
@@ -637,12 +643,6 @@ Pay with Monero. Access via Tor. No JavaScript. - Contact: @exodia_:matrix.org</
       <link>https://xmrsafe.com</link>
       <description>Wallets &gt; Hardware Wallets : Professional-grade hardware wallets designed for true financial sovereignty.</description>
       <pubDate>Wed, 17 Dec 2025 13:35:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lighter</title>
-      <link>https://app.lighter.xyz/trade/XMR</link>
-      <description>Exchanges &gt; Decentralized Exchanges : A decentralized trading platform, perpetuals DEX.</description>
-      <pubDate>Wed, 17 Dec 2025 01:55:24 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; xChange.me (sponsored)</title>
