@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Sparky</title>
+      <link>https://www.elektrikernistockholm.nu</link>
+      <description>Businesses &gt; Electricians : We do electrical installations, with over 20 years of experience ranging from EV installations, smart homes etc. - Location: Stockholm</description>
+      <pubDate>Mon, 19 Jan 2026 14:19:09 GMT</pubDate>
+    </item>
+    <item>
       <title>&amp;#x2705; SageSwap (sponsored)</title>
       <link>https://SageSwap.io/</link>
       <description>Exchanges &gt; Non-KYC Exchanges : Never KYC, no login, no JavaScript, and no freezing of funds. Fast and private swap service. - Note: 1-2% FEE | 24/7 - Contact: https://SageSwap.io/Support</description>
@@ -639,12 +645,6 @@ The first decentralized orderbook exchange supporting native XMR deposits. - Not
       <link>https://monero.boats</link>
       <description>Finance &gt; Price Display : Current Monero street price</description>
       <pubDate>Wed, 17 Dec 2025 21:56:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monstr</title>
-      <link>https://monstr.land</link>
-      <description>Communities &gt; Online Communities : Monero related Nostr</description>
-      <pubDate>Wed, 17 Dec 2025 20:59:30 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; xChange.me (sponsored)</title>
