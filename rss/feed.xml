@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>ShadowRelay</title>
+      <link>https://shadowrelay.org/</link>
+      <description>VPNs &gt; Global / Unspecified : Monero-only VPN. No email, no username - just a 4-word token. WireGuard tunnels with shared exit IPs. EU and US servers. Onion mirror available. - Note: Privacy focused vpn.</description>
+      <pubDate>Wed, 21 Jan 2026 01:29:22 GMT</pubDate>
+    </item>
+    <item>
       <title>VeePN</title>
       <link>https://veepn.com</link>
       <description>VPNs &gt; Europe (Non-EU) : Protect your privacy, browse securely, stay anonymous, and protect your data — all-in-one cybersecurity app, no extra charge. - Processor: CoinPayments</description>
@@ -639,12 +645,6 @@ The first decentralized orderbook exchange supporting native XMR deposits. - Not
       <link>https://lounge.monero.observer/c/</link>
       <description>Communities &gt; Forums : </description>
       <pubDate>Thu, 18 Dec 2025 21:00:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>MoneroMeansMoney</title>
-      <link>https://www.reddit.com/r/MoneroMeansMoney/</link>
-      <description>Communities &gt; Reddit : Off topic Monero discussion</description>
-      <pubDate>Thu, 18 Dec 2025 14:28:22 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; xChange.me (sponsored)</title>
