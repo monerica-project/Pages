@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>lwsadmin</title>
+      <link>https://github.com/lalanza808/lwsadmin</link>
+      <description>Utilities &gt; Open Source Projects : A self-hosted Monero light-wallet service, allowing for an always-on, immediate use wallet without sync times and with private connectivity over Tor. - Contact: https://x.com/monerodotfail</description>
+      <pubDate>Sun, 25 Jan 2026 16:31:57 GMT</pubDate>
+    </item>
+    <item>
       <title>XPL-EX</title>
       <link>https://github.com/0bbedCode/XPL-EX</link>
       <description>Non-Profits &gt; Technologies : Really simple to use privacy manager for Android 6.0 Marshmallow and later</description>
@@ -636,12 +642,6 @@ Pay with Monero. Access via Tor. No JavaScript. - Contact: @exodia_:matrix.org</
       <link>https://nexoscape.com</link>
       <description>Web Hosting &gt; Cloud &amp; Web Hosting Providers : Private cloud hosting</description>
       <pubDate>Sun, 21 Dec 2025 12:37:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monerotopia - Reddit</title>
-      <link>https://www.reddit.com/r/Monerotopia/</link>
-      <description>Communities &gt; Reddit : </description>
-      <pubDate>Sat, 20 Dec 2025 20:22:34 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; xChange.me (sponsored)</title>
