@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>reader.dict</title>
+      <link>https://www.reader-dict.com</link>
+      <description>Education &gt; E-Books : The most comprehensive universal, multilingual, and monolingual dictionaries—perfect for e-readers, phones, tablets, and desktop apps. Powered by Wiktionary. - Contact: github.com/reader-dict</description>
+      <pubDate>Tue, 27 Jan 2026 14:05:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Antiswap</title>
       <link>http://en.antiswap.io</link>
       <description>Exchanges &gt; Aggregators : Exchanger monitor</description>
@@ -636,12 +642,6 @@ Pay with Monero. Access via Tor. No JavaScript. - Contact: @exodia_:matrix.org</
       <link>https://johnnydoe.is</link>
       <description>Businesses &gt; Membership : A privacy first, censorship resistant forum for people using crypto and parallel systems to stay sovereign and free. - Processor: Bitcart - Contact: @johnnydoe_real</description>
       <pubDate>Mon, 22 Dec 2025 11:38:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>EuroXMR</title>
-      <link>https://euroxmr.eu/</link>
-      <description>Mining &gt; Pools : Fee-free, secure, and reliable PPLNS pool in Europe.</description>
-      <pubDate>Mon, 22 Dec 2025 11:22:12 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; xChange.me (sponsored)</title>
