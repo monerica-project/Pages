@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>ClearSwap</title>
+      <link>https://clearswap.io</link>
+      <description>Exchanges &gt; Aggregators : Enables confidential swaps at scale with advanced routing and support for privacy networks.</description>
+      <pubDate>Tue, 27 Jan 2026 19:07:44 GMT</pubDate>
+    </item>
+    <item>
       <title>MIXED (sponsored)</title>
       <link>https://mixed.exchange/</link>
       <description>Exchanges &gt; Instant Swaps : Fully anonymus exchange 24/7 (own liquidity / high volumes), no KYC. Available to everyone.</description>
@@ -642,12 +648,6 @@ Pay with Monero. Access via Tor. No JavaScript. - Contact: @exodia_:matrix.org</
       <link>https://xmr.bio/</link>
       <description>Utilities &gt; Address Verification : Link your X handle to Monero Address.</description>
       <pubDate>Mon, 22 Dec 2025 23:12:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>JohnnyDoe forum</title>
-      <link>https://johnnydoe.is</link>
-      <description>Businesses &gt; Membership : A privacy first, censorship resistant forum for people using crypto and parallel systems to stay sovereign and free. - Processor: Bitcart - Contact: @johnnydoe_real</description>
-      <pubDate>Mon, 22 Dec 2025 11:38:06 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; xChange.me (sponsored)</title>
