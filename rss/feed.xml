@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Gatepath VPN</title>
+      <link>https://gatepath.cc</link>
+      <description>VPNs &gt; Global / Unspecified : Protect your privacy with our premium proxy and VPN services. No logs, maximum speed, complete anonymity.</description>
+      <pubDate>Tue, 27 Jan 2026 02:24:58 GMT</pubDate>
+    </item>
+    <item>
       <title>APO wallet</title>
       <link>https://github.com/niyid/apo</link>
       <description>Wallets &gt; Mobile Wallets : A native Android Monero wallet application built with Kotlin and Jetpack Compose.</description>
@@ -636,12 +642,6 @@ Pay with Monero. Access via Tor. No JavaScript. - Contact: @exodia_:matrix.org</
       <link>https://www.youtube.com/@k4th</link>
       <description>Media &gt; YouTube Channels (English) : Monero tutorials / content</description>
       <pubDate>Mon, 22 Dec 2025 00:49:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x2705; XMRetail POS</title>
-      <link>https://xmretail.store/</link>
-      <description>Merchant Services &gt; Open Source Projects : A professional, zero-knowledge Monero Point of Sale system built with a Cypherpunk Industrial aesthetic. Your browser is your bank.</description>
-      <pubDate>Sun, 21 Dec 2025 21:04:15 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; xChange.me (sponsored)</title>
