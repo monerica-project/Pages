@@ -1774,8 +1774,7 @@ div#main-content {
                         <!-- author microdata -->
                         <span itemprop="author" itemscope itemtype="https://schema.org/Person">
                             <small class="text-muted multi-line-text">
-                                Author:
-                                1934D4B10784DB1E6551598488A6C28EE2D9F6C5
+                                Author: 1934D4B10784DB1E6551598488A6C28EE2D9F6C5
                             </small>
                         </span>
 
@@ -1785,6 +1784,17 @@ div#main-content {
                             2025-12-06
                         </time>
                     </div>
+
+                    <!-- ✅ Reply CTA (starts reply flow for this review) -->
+                    <div class="mt-3">
+                        <form action="https://app.monerica.com/directory-entry-review-replies/begin" method="post" class="d-inline" rel="nofollow">
+                            <input type="hidden" name="directoryEntryReviewId" value="49">
+                            <input type="text" name="website" value="" style="display:none" tabindex="-1" autocomplete="off">
+                            <button class="btn review-btn btn-sm btn-outline-secondary" type="submit">Reply</button>
+                        </form>
+                    </div>
+
+                    <!-- ✅ Threaded replies -->
                 </li>
         </ul>
             <script type="application/ld&#x2B;json">
@@ -1794,9 +1804,9 @@ div#main-content {
     <form action="https://app.monerica.com/directory-entry-reviews/begin" method="post" class="d-inline" rel="nofollow">
         <input type="hidden" name="directoryEntryId" value="945">
         <button class="btn review-btn" type="submit">Leave a review</button>
-
     </form>
 </div>
+
 
     </div>
 
