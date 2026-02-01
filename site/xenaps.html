@@ -1740,31 +1740,10 @@ div#main-content {
  
 
  
-<style>
-    /* Reply items: subtle separation like your screenshot request */
-    .reply-item {
-        padding: 10px 0;
-    }
-
-        .reply-item:not(:last-child) {
-            border-bottom: 1px solid rgba(160, 170, 180, 0.20);
-        }
-
-    .reply-body {
-        margin-top: 2px;
-    }
-
-    .reply-meta {
-        margin-top: 8px;
-    }
-  
-</style>
-
 <div class="reviews-block mt-4">
     <h3 id="reviews" class="mb-3">Reviews</h3> 
 
         <div class="rating-summary" aria-label="Review summary">
-            <!-- Left: Big average + stars + total count -->
             <div class="rs-left">
                 <div class="rs-avg">4.8</div>
 
@@ -1778,7 +1757,6 @@ div#main-content {
                 <div class="rs-count">4 ratings</div>
             </div>
 
-            <!-- Right: Distribution bars -->
             <div class="rs-right" aria-label="Rating distribution">
                 <div class="rating-row">
                     <div class="rating-num">5</div>
@@ -1946,7 +1924,7 @@ div#main-content {
                     </div>
 
                         <div class="mt-3 ps-3 border-start">
-                            <div class="text-muted mb-2"><small><strong>Replies</strong></small></div>
+                            <div class="text-muted mb-2"><span><strong>Replies</strong></span></div>
 
                             <ul class="list-unstyled mb-0">
                                     <li id="review-comment-3" class="reply-item">
