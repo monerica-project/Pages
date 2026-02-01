@@ -12,7 +12,7 @@
     <meta http-equiv="Expires" content="0">
     <link rel="canonical" href="https://monerica.com/site/xenaps">
     <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="/css/2026-01-31-2.min.css">
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="/css/2026-01-31-3.min.css">
     <!-- 
 <style>
 div#main-content {
@@ -1740,7 +1740,25 @@ div#main-content {
  
 
  
+<style>
+    /* Reply items: subtle separation like your screenshot request */
+    .reply-item {
+        padding: 10px 0;
+    }
 
+        .reply-item:not(:last-child) {
+            border-bottom: 1px solid rgba(160, 170, 180, 0.20);
+        }
+
+    .reply-body {
+        margin-top: 2px;
+    }
+
+    .reply-meta {
+        margin-top: 8px;
+    }
+  
+</style>
 
 <div class="reviews-block mt-4">
     <h3 id="reviews" class="mb-3">Reviews</h3> 
@@ -1931,12 +1949,12 @@ div#main-content {
                             <div class="text-muted mb-2"><small><strong>Replies</strong></small></div>
 
                             <ul class="list-unstyled mb-0">
-                                    <li id="review-comment-3" class="mb-3">
-                                        <div class="mt-1">
+                                    <li id="review-comment-3" class="reply-item">
+                                        <div class="reply-body">
                                             Hi everyone. I heard your requests, so the site is now live on the onion domain: <a class="multi-line-text" href="http://ocads2ckpr4e54bkqzmlen3iitkq3tknsi2xxcwj6pltqfiexdlredid.onion/" target="_blank" rel="noopener noreferrer nofollow ugc">http://ocads2ckpr4e54bkqzmlen3iitkq3tknsi2xxcwj6pltqfiexdlredid.onion/</a>
                                         </div>
 
-                                        <div class="mt-2">
+                                        <div class="reply-meta">
                                             <small class="text-muted multi-line-text">
                                                 Author: Xenaps
                                             </small>
@@ -1947,6 +1965,7 @@ div#main-content {
                                         </div>
                                     </li>
                             </ul>
+
                         </div>
                 </li>
                 <li id="review-56" class="mb-4 pb-3 border-bottom" itemscope itemtype="https://schema.org/Review">

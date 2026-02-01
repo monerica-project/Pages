@@ -12,7 +12,7 @@
     <meta http-equiv="Expires" content="0">
     <link rel="canonical" href="https://monerica.com/site/bitxchange">
     <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="/css/2026-01-31-2.min.css">
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="/css/2026-01-31-3.min.css">
     <!-- 
 <style>
 div#main-content {
@@ -1743,7 +1743,25 @@ div#main-content {
  
 
  
+<style>
+    /* Reply items: subtle separation like your screenshot request */
+    .reply-item {
+        padding: 10px 0;
+    }
 
+        .reply-item:not(:last-child) {
+            border-bottom: 1px solid rgba(160, 170, 180, 0.20);
+        }
+
+    .reply-body {
+        margin-top: 2px;
+    }
+
+    .reply-meta {
+        margin-top: 8px;
+    }
+  
+</style>
 
 <div class="reviews-block mt-4">
     <h3 id="reviews" class="mb-3">Reviews</h3> 
@@ -1852,12 +1870,12 @@ div#main-content {
                             <div class="text-muted mb-2"><small><strong>Replies</strong></small></div>
 
                             <ul class="list-unstyled mb-0">
-                                    <li id="review-comment-5" class="mb-3">
-                                        <div class="mt-1">
+                                    <li id="review-comment-5" class="reply-item">
+                                        <div class="reply-body">
                                             UPDATE(SCAM / misleading “No-KYC” claim):<br>BitXchange is NOT a real no-KYC service, despite advertising itself everywhere as “non-KYC/instant swap.” I deposited 50,000 USDT (TRC20) expecting a non-KYC swap, but after receiving my funds they demanded full KYC (including video) and then kept the transaction in “compliance review” for 6 days. During those 6 days they raised the KYC requirements daily and requested more documents each time.<br><br>Because of this delay and their process, I estimate I lost around 15,000 USDT due to rate/market changes. They offered to return only ~35,000 USDT or ~70 XMR instead of my full amount.<br><br>They also appear to be connected to / using a major exchange liquidity venue (WhiteBIT.com) — so this is clearly not a no-KYC model.<br><br>Conclusion: misleading marketing, high risk. Avoid / use extreme caution.
                                         </div>
 
-                                        <div class="mt-2">
+                                        <div class="reply-meta">
                                             <small class="text-muted multi-line-text">
                                                 Author: E30F19DDBD9C2BF10CC3AC19470373DA1890FEB8
                                             </small>
@@ -1868,6 +1886,7 @@ div#main-content {
                                         </div>
                                     </li>
                             </ul>
+
                         </div>
                 </li>
                 <li id="review-71" class="mb-4 pb-3 border-bottom" itemscope itemtype="https://schema.org/Review">
