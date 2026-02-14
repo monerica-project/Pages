@@ -5,6 +5,18 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Purple Swap</title>
+      <link>https://purpleswap.io</link>
+      <description>Exchanges &gt; Instant Swaps : Gateway to instant, secure, and anonymous crypto exchanges</description>
+      <pubDate>Sat, 14 Feb 2026 16:46:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x274C; DarkChange</title>
+      <link>https://darkchange.net/swap</link>
+      <description>Exchanges &gt; Instant Swaps : Anonymous No-KYC Crypto Exchange - Note: Connected to other scammer groups</description>
+      <pubDate>Sat, 14 Feb 2026 16:45:49 GMT</pubDate>
+    </item>
+    <item>
       <title>Monero Malware Response</title>
       <link>https://mrw.getmonero.org</link>
       <description>Education &gt; Guides : Provides resources and live support for multiple types of Monero malware.</description>
@@ -630,18 +642,6 @@ Featuring Bridge Swap - Swap your crypto through multiple services, passing thro
       <link>https://www.gate.com/</link>
       <description>Exchanges &gt; Centralized Exchanges : XMR/USDT perpetual swap futures - Location: Panama City</description>
       <pubDate>Thu, 01 Jan 2026 23:08:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>BitSwap</title>
-      <link>https://bitswap.kr/</link>
-      <description>Exchanges &gt; Instant Swaps : Instant cryptocurrency exchange service based in East Asia.</description>
-      <pubDate>Thu, 01 Jan 2026 23:06:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monero Node Bare-Metal Ubuntu</title>
-      <link>https://expatriotic.me/monero/</link>
-      <description>Nodes &gt; Guides : This guide will walk you through setting up a Monero node (monerod) directly on your Ubuntu server. No Docker, just pure Ubuntu and Monero. - Contact: @expatriodick</description>
-      <pubDate>Thu, 01 Jan 2026 15:38:37 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; xChange.me (sponsored)</title>
