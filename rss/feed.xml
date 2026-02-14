@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Monero Malware Response</title>
+      <link>https://mrw.getmonero.org</link>
+      <description>Education &gt; Guides : Provides resources and live support for multiple types of Monero malware.</description>
+      <pubDate>Sat, 14 Feb 2026 01:11:57 GMT</pubDate>
+    </item>
+    <item>
       <title>&amp;#x2705; OctoSwap (sponsored)</title>
       <link>https://www.octoswap.io/</link>
       <description>Exchanges &gt; Instant Swaps : Digital asset exchange. No limits, low fee, no KYC/own XMR liquidity. 24/7 Support, AML check - Contact: support@octoswap.io</description>
@@ -636,12 +642,6 @@ Featuring Bridge Swap - Swap your crypto through multiple services, passing thro
       <link>https://expatriotic.me/monero/</link>
       <description>Nodes &gt; Guides : This guide will walk you through setting up a Monero node (monerod) directly on your Ubuntu server. No Docker, just pure Ubuntu and Monero. - Contact: @expatriodick</description>
       <pubDate>Thu, 01 Jan 2026 15:38:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Solo Mine Monero - Expatriotic</title>
-      <link>https://expatriotic.me/solo-mine-monero/</link>
-      <description>Mining &gt; Guides : A guide for solo mining Monero that was posted in Revuo. - Contact: @expatriodick</description>
-      <pubDate>Thu, 01 Jan 2026 15:37:10 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; xChange.me (sponsored)</title>
