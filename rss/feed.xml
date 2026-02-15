@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Swapper</title>
+      <link>https://xmrtousdc.xyz</link>
+      <description>Exchanges &gt; Instant Swaps : Non-custodial instant swap between XMR and USDC (Arbitrum). No account, no KYC. Available via web, Telegram bot, and API. - Note: Also available as a Telegram bot for messaging-first users. Supports programmatic integrations via HTTPS API.</description>
+      <pubDate>Sun, 15 Feb 2026 01:34:59 GMT</pubDate>
+    </item>
+    <item>
       <title>Purple Swap</title>
       <link>https://purpleswap.io</link>
       <description>Exchanges &gt; Instant Swaps : Gateway to instant, secure, and anonymous crypto exchanges</description>
@@ -636,12 +642,6 @@ Featuring Bridge Swap - Swap your crypto through multiple services, passing thro
       <link>https://search.davidovski.xyz</link>
       <description>Non-Profits &gt; Search Engines : A LibreY instance.</description>
       <pubDate>Fri, 02 Jan 2026 02:39:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gate Exchange</title>
-      <link>https://www.gate.com/</link>
-      <description>Exchanges &gt; Centralized Exchanges : XMR/USDT perpetual swap futures - Location: Panama City</description>
-      <pubDate>Thu, 01 Jan 2026 23:08:53 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; xChange.me (sponsored)</title>
