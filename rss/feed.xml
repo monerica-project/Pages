@@ -457,12 +457,6 @@ Encrypted E2E note syncing. - Note: You can buy subscription via the proxystore.
       <pubDate>Thu, 15 Jan 2026 02:32:07 GMT</pubDate>
     </item>
     <item>
-      <title>Le Bon XMR</title>
-      <link>https://lebonxmr.com</link>
-      <description>Exchanges &gt; Aggregators : French Monero aggregator</description>
-      <pubDate>Wed, 14 Jan 2026 20:04:59 GMT</pubDate>
-    </item>
-    <item>
       <title>XMR Checkout</title>
       <link>https://xmrcheckout.com</link>
       <description>Merchant Services &gt; Integrations : Monero checkout software with view-only detection and merchant-owned custody.</description>
@@ -648,6 +642,12 @@ Featuring Bridge Swap - Swap your crypto through multiple services, passing thro
       <link>https://darkwebinformer.com</link>
       <description>Businesses &gt; Membership : Providing intel from the dark web, deep web and clearnet: breaches, ransomware, darknet markets, threats, exploits and more. - Processor: BTCPay Server</description>
       <pubDate>Fri, 02 Jan 2026 19:57:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Davidovski search engine</title>
+      <link>https://search.davidovski.xyz</link>
+      <description>Non-Profits &gt; Search Engines : A LibreY instance.</description>
+      <pubDate>Fri, 02 Jan 2026 02:39:58 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; xChange.me (sponsored)</title>
