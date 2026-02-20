@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>&amp;#x2705; MoneroDice (sponsored)</title>
+      <link>https://monerodice.pro</link>
+      <description>Businesses &gt; Gambling : Simple, fast, privacy-respecting dice and blackjack game. Provably fair mode for dice is available too. - Contact: contact [at] monerodice.pro</description>
+      <pubDate>Sun, 22 Feb 2026 08:14:50 GMT</pubDate>
+    </item>
+    <item>
       <title>Ask&amp;Bid</title>
       <link>https://askand.bid</link>
       <description>Exchanges &gt; Aggregators : Privacy-focused DeFi services such as
@@ -668,12 +674,6 @@ Featuring Bridge Swap - Swap your crypto through multiple services, passing thro
       <link>https://coincards.com/us/</link>
       <description>Cards &gt; Gift &amp; Prepaid Cards : Gift cards from hundreds of top brands, including Amazon, Walmart, Airbnb, Uber, DoorDash, Home Depot, and even Visa or Amex cards, with values up to $2,000. - Location: Surrey, B.C. - Processor: BTCPay Server</description>
       <pubDate>Fri, 21 Nov 2025 16:39:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x2705; MoneroDice (sponsored)</title>
-      <link>https://monerodice.pro</link>
-      <description>Businesses &gt; Gambling : Simple, fast, privacy-respecting dice and blackjack game. Provably fair mode for dice is available too. - Contact: contact [at] monerodice.pro</description>
-      <pubDate>Tue, 26 Aug 2025 08:14:50 GMT</pubDate>
     </item>
   </channel>
 </rss>
