@@ -543,12 +543,6 @@ Encrypted E2E note syncing. - Note: You can buy subscription via the proxystore.
       <pubDate>Tue, 20 Jan 2026 16:08:02 GMT</pubDate>
     </item>
     <item>
-      <title>MalgoSwap</title>
-      <link>https://malgoswap.io</link>
-      <description>Exchanges &gt; Instant Swaps : Anonymous cryptocurrency exchange</description>
-      <pubDate>Tue, 20 Jan 2026 00:25:29 GMT</pubDate>
-    </item>
-    <item>
       <title>Thundermoose</title>
       <link>https://thundermoose.co/</link>
       <description>Businesses &gt; Marketplaces : Workshop/maker tool manufacturer, primarily focused on SnapTrunk magnetic vacuum hose connectors. (5% off when paying with XMR) - Location: North Texas - Processor: Manual processing via email</description>
@@ -655,6 +649,12 @@ Encrypted E2E note syncing. - Note: You can buy subscription via the proxystore.
       <link>https://slowservers.net</link>
       <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : VPS servers hosted on OpenBSD in Spokane, WA. Hardware is 100% owned and racked by SlowServers. - Location: Spokane, WA</description>
       <pubDate>Wed, 14 Jan 2026 09:27:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monero Gui</title>
+      <link>https://github.com/everoddandeven/monerod-gui</link>
+      <description>Nodes &gt; Node Software &amp; Deployment : Creates an UI look on your Monero Node</description>
+      <pubDate>Wed, 14 Jan 2026 00:04:04 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Silent Exchange (sponsored)</title>
