@@ -49,16 +49,20 @@
 
     <hr>
     <section id="faq" class="faq-section">
- 
+
   <h2>Monerica FAQ</h2>
- 
-  <!-- Table of Contents -->
-  <table class="faq-toc">
+
+  <!-- =========================== -->
+  <!-- Table of Contents (Grouped) -->
+  <!-- =========================== -->
+  <table class="faq-toc" id="faq-toc">
     <thead>
       <tr><th>Table of Contents</th></tr>
     </thead>
     <tbody>
-      <!-- Sponsorship (TOP) -->
+
+      <!-- Sponsorship -->
+      <tr class="toc-group"><td><strong>Sponsorship</strong></td></tr>
       <tr><td><a href="#sponsorship-overview">How do Monerica sponsorships work?</a></td></tr>
       <tr><td><a href="#sponsorship-requirements">What are the sponsorship requirements and rules?</a></td></tr>
       <tr><td><a href="#sponsorship-availability">What sponsor slots are available right now?</a></td></tr>
@@ -67,22 +71,30 @@
       <tr><td><a href="#renew-sponsor">How do I renew or extend my sponsored listing?</a></td></tr>
       <tr><td><a href="#endorsements">Are sponsorships endorsements?</a></td></tr>
 
-      <!-- General -->
+      <!-- Directory / What is Monerica -->
+      <tr class="toc-group"><td><strong>Directory Basics</strong></td></tr>
       <tr><td><a href="#what-is-monerica">What is Monerica?</a></td></tr>
-      <tr><td><a href="#verification">How do I get verified / a green checkmark?</a></td></tr>
       <tr><td><a href="#listing-statuses">What do the listing statuses mean?</a></td></tr>
-      <tr><td><a href="#submit-new">How do I submit a new link?</a></td></tr>
-      <tr><td><a href="#edit-listing">How do I edit or update an existing listing?</a></td></tr>
+      <tr><td><a href="#affiliate-links">Are you using affiliate links?</a></td></tr>
+      <tr><td><a href="#cloudflare">Why are you using CloudFlare?</a></td></tr>
+
+      <!-- Verification & Reviews -->
+      <tr class="toc-group"><td><strong>Verification &amp; Reviews</strong></td></tr>
+      <tr><td><a href="#verification">How do I get verified / a green checkmark?</a></td></tr>
       <tr><td><a href="#leave-review">How do I leave a review?</a></td></tr>
       <tr><td><a href="#report-scam">How do I report a scam?</a></td></tr>
+
+      <!-- Submissions & Edits -->
+      <tr class="toc-group"><td><strong>Submissions &amp; Edits</strong></td></tr>
+      <tr><td><a href="#submit-new">How do I submit a new link?</a></td></tr>
+      <tr><td><a href="#edit-listing">How do I edit or update an existing listing?</a></td></tr>
       <tr><td><a href="#inactive-site">How do I report an inactive site?</a></td></tr>
       <tr><td><a href="#illegal-activity">What if a site is conducting illegal activity?</a></td></tr>
-      <tr><td><a href="#cloudflare">Why are you using CloudFlare?</a></td></tr>
-      <tr><td><a href="#affiliate-links">Are you using affiliate links?</a></td></tr>
+
     </tbody>
   </table>
 
-  <!-- FAQ ITEMS -->
+  <!-- FAQ ITEMS (unchanged below) -->
 
   <!-- Sponsorship (TOP) -->
 
@@ -260,12 +272,10 @@
   <div style="height:80px;"></div>
   <div class="faq-item" id="endorsements">
     <h3>Are sponsorships endorsements?</h3>
-    <p>
-      No. Sponsored listings are paid placements and not endorsements.
-    </p>
+    <p>No. Sponsored listings are paid placements and not endorsements.</p>
   </div>
 
-  <!-- General -->
+  <!-- Directory Basics -->
 
   <div style="height:80px;"></div>
   <div class="faq-item" id="what-is-monerica">
@@ -273,6 +283,8 @@
     <p>Monerica is a Monero (XMR)–only directory focused on building a real Monero circular economy.</p>
     <p>Every listing either directly accepts Monero or meaningfully supports its use.</p>
   </div>
+
+  <!-- Verification & Reviews -->
 
   <div style="height:80px;"></div>
   <div class="faq-item" id="verification">
@@ -288,7 +300,27 @@
     </p>
   </div>
 
-  <!-- Listings & Statuses (Legend + Definitions) -->
+  <div style="height:80px;"></div>
+  <div class="faq-item" id="leave-review">
+    <h3>How do I leave a review?</h3>
+    <p>
+      Reviews use PGP authentication via Kleopatra to prevent spam while preserving privacy. You enter your public key and confirm a message with it to grant permission.
+    </p>
+    <p>
+      Download: <a href="https://apps.kde.org/kleopatra/" target="_blank">Kleopatra</a>
+      then: File &gt; New Open PGP Key Pair
+    </p>
+  </div>
+
+  <div style="height:80px;"></div>
+  <div class="faq-item" id="report-scam">
+    <h3>How do I report a scam?</h3>
+    <p>
+      Contact the business first. If unresolved, submit a detailed review with evidence.
+    </p>
+  </div>
+
+  <!-- Submissions & Edits -->
 
   <div style="height:80px;"></div>
   <div class="faq-item" id="listing-statuses">
@@ -339,26 +371,6 @@
   </div>
 
   <div style="height:80px;"></div>
-  <div class="faq-item" id="leave-review">
-    <h3>How do I leave a review?</h3>
-    <p>
-      Reviews use PGP authentication via Kleopatra to prevent spam while preserving privacy. You enter your public key and confirm a message with it to grant permission.
-    </p>
-    <p>
-      Download: <a href="https://apps.kde.org/kleopatra/" target="_blank">Kleopatra</a>
-      then: File &gt; New Open PGP Key Pair
-    </p>
-  </div>
-
-  <div style="height:80px;"></div>
-  <div class="faq-item" id="report-scam">
-    <h3>How do I report a scam?</h3>
-    <p>
-      Contact the business first. If unresolved, submit a detailed review with evidence.
-    </p>
-  </div>
-
-  <div style="height:80px;"></div>
   <div class="faq-item" id="inactive-site">
     <h3>How do I report an inactive site?</h3>
     <p>
@@ -374,6 +386,8 @@
       Submit a revision or contact us so it can be reviewed and removed if necessary.
     </p>
   </div>
+
+  <!-- Directory Basics (continued) -->
 
   <div style="height:80px;"></div>
   <div class="faq-item" id="cloudflare">
