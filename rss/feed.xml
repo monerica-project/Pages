@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>LizardSwap</title>
+      <link>https://lizardswap.com/</link>
+      <description>Exchanges &gt; Instant Swaps : Private. Fast. Transparent. Zero KYC. Full control.</description>
+      <pubDate>Wed, 25 Feb 2026 18:55:14 GMT</pubDate>
+    </item>
+    <item>
       <title>VeritasProxy</title>
       <link>https://veritasproxy.com/</link>
       <description>Businesses &gt; Proxies : $0.99/GB residential, $1.5/GB Mobile, $0.5/GB data center fresh IP pool - Processor: Heleket - Contact: @VeritasProxySupport</description>
@@ -650,12 +656,6 @@ Encrypted E2E note syncing. - Note: You can buy subscription via the proxystore.
       <link>https://github.com/XTLS/Xray-core</link>
       <description>Non-Profits &gt; Technologies : Xray Proxy Manager</description>
       <pubDate>Thu, 15 Jan 2026 02:32:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>XMR Checkout</title>
-      <link>https://xmrcheckout.com</link>
-      <description>Merchant Services &gt; Integrations : Monero checkout software with view-only detection and merchant-owned custody.</description>
-      <pubDate>Wed, 14 Jan 2026 15:23:25 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Silent Exchange (sponsored)</title>
