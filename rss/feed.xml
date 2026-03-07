@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Tristero</title>
+      <link>https://app.tristero.com/swap</link>
+      <description>Exchanges &gt; Instant Swaps : Exchange</description>
+      <pubDate>Sat, 07 Mar 2026 13:50:16 GMT</pubDate>
+    </item>
+    <item>
       <title>NoSINT</title>
       <link>https://nosint.org/</link>
       <description>Businesses &gt; Digital Goods/ Services : A powerful CSINT platform designed for security researchers, intelligence analysts, and investigative professionals. - Processor: Paylix</description>
@@ -659,12 +665,6 @@ BTC, ETH, XMR, USDT, USDC and more.</description>
       <link>https://servury.com/?ref=monerica</link>
       <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : Windows and Linux VPS / VDS, proxies with no personal info required. Custom durations, instant deployment, delete anytime. Datacenter proxies, residential proxies and white label partner options. - Processor: Heleket</description>
       <pubDate>Sun, 25 Jan 2026 18:11:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>lwsadmin</title>
-      <link>https://github.com/lalanza808/lwsadmin</link>
-      <description>Utilities &gt; Open Source Projects : A self-hosted Monero light-wallet service, allowing for an always-on, immediate use wallet without sync times and with private connectivity over Tor. - Contact: https://x.com/monerodotfail</description>
-      <pubDate>Sun, 25 Jan 2026 16:31:57 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Silent Exchange (sponsored)</title>
