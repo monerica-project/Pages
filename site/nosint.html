@@ -2,24 +2,20 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Monerica - Monero Directory</title>
+    <title>NoSINT</title>
+
+        <meta name="description" content="A powerful CSINT platform designed for security researchers, intelligence analysts, and investigative professionals.">
+        <meta name="twitter:description" content="A powerful CSINT platform designed for security researchers, intelligence analysts, and investigative professionals.">
 
 
-    <meta name="description" content="Monerica is a directory for a Monero circular economy. Find merchants, businesses, communities, education, exchanges, wallets and other resources.">
-    <meta name="twitter:card" content="Monerica is a directory for the Monero cryptocurrency which has sections for businesses, communities, education, exchanges, mining, wallets and more.">
-    <meta name="twitter:site" content="MonericaProject">
-    <meta name="twitter:title" content="Monerica">
-    <meta name="twitter:description" content="Monerica is a directory for the Monero cryptocurrency which has sections for businesses, communities, education, exchanges, mining, wallets and more.">
-    <meta name="twitter:image" content="https://monerica.com/images/monerica-logo.png">
-    <meta property="og:image" content="https://monerica.com/images/monerica-logo.png">
-            <meta http-equiv="onion-location" content="http://67w4f46nfrfigohl4ypgpo7cjnftl57rorha3zmn4xkll5jvmi6mi4qd.onion/">
+            <meta http-equiv="onion-location" content="http://67w4f46nfrfigohl4ypgpo7cjnftl57rorha3zmn4xkll5jvmi6mi4qd.onion/site/nosint">
 
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
 
-        <link rel="canonical" href="https://monerica.com/">
+        <link rel="canonical" href="https://monerica.com/site/nosint">
 
 
     <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
@@ -53,7 +49,7 @@
   <form method="get" action="https://app.monerica.com/search" class="nav-search-form" role="search" aria-label="Search Monerica">
     <input type="search" name="q" class="nav-search-input" maxlength="50" aria-label="Search" placeholder="Search directory..." autocomplete="off">
     <button type="submit" class="btn btn-primary nav-search-btn">Search</button>
-    <a href="https://app.monerica.com/filter" class="btn btn-info nav-filter-btn">Filter</a>
+    <a href="https://app.monerica.com/filter?CategoryId=5&Page=1&PageSize=10&SubCategoryId=29" class="btn btn-info nav-filter-btn">Filter</a>
   </form>
 </div>
 
@@ -61,12 +57,12 @@
             <li class="category-item">
                 <div class="cat-row" style="display:flex;align-items:center;gap:.5rem;">
                     <label for="businesses_expander_mobile" class="expander" aria-label="Expand Businesses" style="cursor:pointer;">+</label>
-                    <a class="no-app-link " href="https://monerica.com/businesses">
+                    <a class="no-app-link active" href="https://monerica.com/businesses">
                         Businesses
                     </a>
                 </div>
 
-                <input type="checkbox" id="businesses_expander_mobile" class="hidden-toggle">
+                <input type="checkbox" id="businesses_expander_mobile" class="hidden-toggle" checked>
                 <div class="hidden">
                     <ul>
                             <li>
@@ -100,7 +96,7 @@
                                 <a class="no-app-link " href="https://monerica.com/businesses/design-services">Design Services</a>
                             </li>
                             <li>
-                                <a class="no-app-link " href="https://monerica.com/businesses/digital-goods-services">Digital Goods/ Services</a>
+                                <a class="no-app-link active" href="https://monerica.com/businesses/digital-goods-services">Digital Goods/ Services</a>
                             </li>
                             <li>
                                 <a class="no-app-link " href="https://monerica.com/businesses/djs">DJs</a>
@@ -864,18 +860,18 @@
   <form method="get" action="https://app.monerica.com/search" class="nav-search-form" role="search" aria-label="Search Monerica">
     <input type="search" name="q" class="nav-search-input" maxlength="50" aria-label="Search" placeholder="Search directory..." autocomplete="off">
     <button type="submit" class="btn btn-primary nav-search-btn">Search</button>
-    <a href="https://app.monerica.com/filter" class="btn btn-info nav-filter-btn">Filter</a>
+    <a href="https://app.monerica.com/filter?CategoryId=5&Page=1&PageSize=10&SubCategoryId=29" class="btn btn-info nav-filter-btn">Filter</a>
   </form>
 </div>
 
     <ul>
             <li class="category-item">
                 <label for="businesses_expander" class="expander">+</label>
-                <a class="no-app-link " href="https://monerica.com/businesses">
+                <a class="no-app-link active" href="https://monerica.com/businesses">
                     Businesses
                 </a>
 
-                <input type="checkbox" id="businesses_expander" class="hidden-toggle">
+                <input type="checkbox" id="businesses_expander" class="hidden-toggle" checked>
 
                 <div class="hidden">
                     <ul>
@@ -910,7 +906,7 @@
                                 <a class="no-app-link " href="https://monerica.com/businesses/design-services">Design Services</a>
                             </li>
                             <li>
-                                <a class="no-app-link " href="https://monerica.com/businesses/digital-goods-services">Digital Goods/ Services</a>
+                                <a class="no-app-link active" href="https://monerica.com/businesses/digital-goods-services">Digital Goods/ Services</a>
                             </li>
                             <li>
                                 <a class="no-app-link " href="https://monerica.com/businesses/djs">DJs</a>
@@ -1772,16 +1768,110 @@
 
     <main class="main">
         
-    <div>
-        <!-- Logo -->
-    <img src="/images/monerica-logo.png" alt="Monerica Logo" class="logo">
+ 
 
-    <div class="centered">
-    <!-- Welcome Hero --> 
-    <h1>Welcome To Monerica!</h1>
-    <i>A directory for a Monero circular economy</i>
-    </div>
+    <div class="directory-entry-details container py-4">
+        <h1 class="mb-3">NoSINT</h1>
+        <hr>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item">
+                    <a class="no-app-link" href="https://monerica.com/">Home</a>
+                </li>
+                <li class="breadcrumb-item">
+                    <a class="no-app-link" href="https://monerica.com/businesses">Businesses</a>
+                </li>
+                <li class="breadcrumb-item">
+                    <a class="no-app-link" href="https://monerica.com/businesses/digital-goods-services">Digital Goods/ Services</a>
+                </li>
+                <li class="breadcrumb-item" aria-current="page">
+                    NoSINT
+                </li>
+            </ol>
+        </nav>
+
+
+        <div class="card mb-4 ">
+            <div class="card-body">
+                <table class="table table-borderless mb-0">
+                    <tbody>
+                        <tr>
+                            <th scope="row">Name</th>
+                            <td>
+                                <div class="">NoSINT</div>
+                            </td>
+                        </tr>
+
+                            <tr>
+                                <th scope="row">Website</th>
+                                <td>
+                                        <a class="multi-line-text" href="https://nosint.org/" target="_blank">https://nosint.org/</a>
+                                </td>
+                            </tr>
+
+
+
+                        <tr>
+                            <th scope="row">Status</th>
+                            <td> Admitted</td>
+                        </tr>
+
+                            <tr>
+                                <th scope="row">Processor</th>
+                                <td>Paylix</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Founded</th>
+                                <td>2025-02-09</td>
+                            </tr>
+                        <tr>
+                            <th scope="row">Added On</th>
+                            <td>2026-03-07</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+            <br>
+            <a href="https://nosint.org/" class="btn btn-primary btn-cta" target="_blank">Visit Website</a>
+            <br>
+
+            <br>
+            <div class="mb-4">
+                <h3>Description</h3>
+                <p>A powerful CSINT platform designed for security researchers, intelligence analysts, and investigative professionals.</p>
+            </div>
+
+
+
+            <br>
+            <div class="entry-tags">
+                <strong>Tags:</strong>
+                    <a class="no-app-link" href="https://monerica.com/tagged/no-kyc">No KYC</a>            </div>
+
+
+        <br>
         
+
+
+<div class="reviews-block mt-4">
+    <h3 id="reviews" class="mb-3">Reviews</h3>
+
+
+        <p class="text-muted">No reviews yet.</p>
+
+    <form action="https://app.monerica.com/directory-entry-reviews/begin" method="post" class="d-inline" rel="nofollow">
+        <input type="hidden" name="directoryEntryId" value="1807">
+        <button class="btn review-btn" type="submit">Leave a review</button>
+    </form>
+</div>
+
+
+    </div>
+
+    <hr>
+    
 
 
 
@@ -1924,344 +2014,6 @@
  
 
 
-        <hr>
-
-        <p class="intro">
-            The goal of Monerica is to reflect the freedom ideals of the United States of America in the age of cryptocurrency by using Monero. There are no borders to Monerica. One has the ability to transact freely and privately without the need for a bank account, without the permission of any third party, and without the prying eyes of those who wish to control the thoughts and behaviors of others through surveillance and overreaching regulations.
-        </p>
-        <hr>
-
-        <div class="top-container">
-            <div class="top-section update-section">
-                <p class="centered-text">
-                    <strong>Last Update:</strong>
-                    2026-03-07T13:40:06Z
-                </p>
-            </div>
-
-            
-
-            <div class="top-section links-section">
-                <p class="centered-text">
- <a class="app-link" href="https://app.monerica.com/submit">Add/Edit Website</a> 
-| <a class="app-link" href="https://app.monerica.com/newsletter">Join Newsletter</a>
-| <a class="app-link" href="https://app.monerica.com/sponsorship">Become Sponsor</a> 
-</p>
-            </div>
-        </div>
-        <hr>
-
-        <div class="legend" aria-label="Listing status legend">
-  <p><i>Links are not endorsements. Some may be affiliate links. JS/cookies not required.</i> —
-    <a class="no-app-link" href="https://monerica.com/faq#listing-statuses">Statuses</a>:
-    &#x1F7E6;&nbsp;Admitted&nbsp;|&nbsp;&#x2705;&nbsp;Verified&nbsp;|&nbsp;&#x2753;&nbsp;Questionable&nbsp;|&nbsp;&#x274C;&nbsp;Scam
-  </p>
-</div>
-
-            <hr>
-            <h3>Featured</h3>
-            <ul class="blank_list_item">
-
-
-
-<li><p>&#9989; <a title="Profile: MoneroKon" href="https://monerica.com/site/monerokon">MoneroKon</a> <a target="_blank" class="external-link" title="https://monerokon.org" href="https://monerokon.org"></a> <img class="country-flag" src="https://monerica.com/images/flags/pl.png" alt="Flag of Poland" title="Poland"> · Monero conference in Warsaw, Poland, June 5th-7th 2026 <i>(Note: Sponsored by Monerica)</i> </p></li>
-            </ul>
-
-        <p style="border-left:3px solid #f60;padding:.4rem .75rem;margin:1rem 0;font-size:.9rem;color:#eee;background:#1a1a1a;">
-  <strong style="color:#f60;">Win 0.1 XMR!</strong> Leave a verified review with an order URL to enter. 10 winners paid out in June 2026.
-</p>
-
-
-            <hr>
-            <h3>Newest Additions</h3>
-            <i>
-                See:
-                <a href="/newest">all new additions</a>
-                or
-                <a class="no-app-link" href="https://monerica.com/rss/feed.xml">RSS</a>
-            </i>
-            <ul class="blank_list_item">
-
-
-
-<li><p><i>2026-03-07</i> <a title="Profile: NoSINT" href="https://monerica.com/site/nosint">NoSINT</a> <a target="_blank" class="external-link" title="https://nosint.org/" href="https://nosint.org/"></a>  · A powerful CSINT platform designed for security researchers, intelligence analysts, and investigative professionals.</p></li>
-
-
-
-<li><p><i>2026-03-07</i> <a title="Profile: GhostSims" href="https://monerica.com/site/ghostsims">GhostSims</a> <a target="_blank" class="external-link" title="https://ghostsims.com/" href="https://ghostsims.com/"></a>  · Stay anonymous and secure with our encrypted SIM cards. No personal data required, no logs stored, works in 200+ countries worldwide.</p></li>
-
-
-
-<li><p><i>2026-03-07</i> <a title="Profile: konkin.io" href="https://monerica.com/site/konkin-io">konkin.io</a> <a target="_blank" class="external-link" title="https://konkin.io/" href="https://konkin.io/"></a>  · The self-custodial
-crypto wallet wrapper
-for AI agents</p></li>
-
-
-
-<li><p><i>2026-03-06</i> <a title="Profile: Quiverflow CRM" href="https://monerica.com/site/quiverflow-crm">Quiverflow CRM</a> <a target="_blank" class="external-link" title="https://quiverflow.com" href="https://quiverflow.com"></a> <img class="country-flag" src="https://monerica.com/images/flags/ca.png" alt="Flag of Canada" title="Canada"> · One of the most robust, flexible, and affordable marketing platforms available today. It's a competitive alternative to well-known solutions like HubSpot. <i>(Note: Monero (XMR) is accepted by creating a payment invoice and sending a payment link to your email or chat. You’ll just follow the link to pay with XMR.)</i> </p></li>
-
-
-
-<li><p><i>2026-03-05</i> <a title="Profile: molt.productions" href="https://monerica.com/site/molt-productions">molt.productions</a> <a target="_blank" class="external-link" title="https://molt.productions" href="https://molt.productions"></a>  · AI Music Agent + Music Creation Social App <i>(Note: utilizes xmr402 for microtxn payments to pay for AI agents to generate songs for your agents with XMR)</i> </p></li>
-
-
-
-<li><p><i>2026-03-05</i> <a title="Profile: NoirTrade" href="https://monerica.com/site/noirtrade">NoirTrade</a> <a target="_blank" class="external-link" title="https://noirtrade.com" href="https://noirtrade.com"></a>  · Privacy-focused centralized exchange with no KYC or identity verification. Zero-log policy. Identity-free registration with password only; no email required.</p></li>
-
-
-
-<li><p><i>2026-03-04</i> <a title="Profile: BlazeX" href="https://monerica.com/site/blazex">BlazeX</a> <a target="_blank" class="external-link" title="http://gc3ygt7m2xtjicadvsyxopwo6aamvt2qnapnuym3pdjmj2s4t2qdm3ad.onion/" href="http://gc3ygt7m2xtjicadvsyxopwo6aamvt2qnapnuym3pdjmj2s4t2qdm3ad.onion/"></a>  · Legal marketplace <i>(Note: Instant and manual delivery, physical products and more)</i> </p></li>
-
-
-
-<li><p><i>2026-03-04</i> <a title="Profile: MiXXchange" href="https://monerica.com/site/mixxchange">MiXXchange</a> <a target="_blank" class="external-link" title="https://mixxchange.com/" href="https://mixxchange.com/"></a>  · A non-custodial, KYC-free crypto toolkit with direct partner connections. <i>(Note: Compare numerous instant exchanges to identify the one offering the most favorable offer.)</i> </p></li>
-
-
-
-<li><p><i>2026-03-04</i> <a title="Profile: BYDFi" href="https://monerica.com/site/bydfi">BYDFi</a> <a target="_blank" class="external-link" title="https://partner.bydfi.com/j/PAfxEyIk" href="https://partner.bydfi.com/j/PAfxEyIk"></a> <img class="country-flag" src="https://monerica.com/images/flags/us.png" alt="Flag of United States" title="United States"> · XMR/USDT perpetuals</p></li>
-
-
-
-<li><p><i>2026-03-04</i> &#9989; <a title="Profile: MoneroPriceNow.com" href="https://monerica.com/site/moneropricenow-com">MoneroPriceNow.com</a> <a target="_blank" class="external-link" title="https://moneropricenow.com/" href="https://moneropricenow.com/"></a>  · Shows Monero prices across different instant swap exchanges.</p></li>
-            </ul>
-            <hr>
-            <h3>Newest Revisions</h3>
-            <ul class="blank_list_item">
-
-
-
-<li><p><i>2026-03-07</i> &#9989; <a title="Profile: Swapuz" href="https://monerica.com/site/swapuz">Swapuz</a> <a target="_blank" class="external-link" title="https://swapuz.com/?ref=8bb61963-e9c2-48c9-9aa3-c59c9c6da3af" href="https://swapuz.com/?ref=8bb61963-e9c2-48c9-9aa3-c59c9c6da3af"></a> <img class="country-flag" src="https://monerica.com/images/flags/ua.png" alt="Flag of Ukraine" title="Ukraine"> · Instant crypto exchange</p></li>
-
-
-
-<li><p><i>2026-03-06</i> &#9989; <a title="Profile: SimpleSwap" href="https://monerica.com/site/simpleswap">SimpleSwap</a> <a target="_blank" class="external-link" title="https://simpleswap.io/?ref=f3b46b88d743&amp;from=xmr-xmr&amp;to=usdt-trx&amp;amount=1" href="https://simpleswap.io/?ref=f3b46b88d743&amp;from=xmr-xmr&amp;to=usdt-trx&amp;amount=1"></a> <img class="country-flag" src="https://monerica.com/images/flags/mh.png" alt="Flag of Marshall Islands" title="Marshall Islands"> · Pairs: Dozens of XMR trading pairs. <i>(Note: 1: sign up, 2: finish a crypto exchange using code "2qvHNMC2DJEqU83V" 3: get $50 in BTC in your customer account)</i> </p></li>
-
-
-
-<li><p><i>2026-03-06</i> &#9989; <a title="Profile: 2Fiat" href="https://monerica.com/site/2fiat">2Fiat</a> <a target="_blank" class="external-link" title="https://2fiat.com/monerica" href="https://2fiat.com/monerica"></a> <img class="country-flag" src="https://monerica.com/images/flags/de.png" alt="Flag of Germany" title="Germany"> · Virtual prepaid Mastercard, anonymous payments, instant crypto top-ups, Apple & Google Pay ready <i>(Note: 2026-03-06: temporarily paused the issuance of new cards while implementing new products)</i> </p></li>
-
-
-
-<li><p><i>2026-03-06</i> &#10067; <a title="Profile: Jud-ex" href="https://monerica.com/site/jud-ex">Jud-ex</a> <a target="_blank" class="external-link" title="https://jud-ex.com/en/" href="https://jud-ex.com/en/"></a> <img class="country-flag" src="https://monerica.com/images/flags/ru.png" alt="Flag of Russia" title="Russia"> · Instant crypto exchange | No KYC/AML</p></li>
-
-
-
-<li><p><i>2026-03-04</i> <a title="Profile: AltQuick" href="https://monerica.com/site/altquick">AltQuick</a> <a target="_blank" class="external-link" title="https://altquick.com/?aKey=aac1a7bbf419da26aca0067e2ea4d0c1204f99d9" href="https://altquick.com/?aKey=aac1a7bbf419da26aca0067e2ea4d0c1204f99d9"></a> <img class="country-flag" src="https://monerica.com/images/flags/us.png" alt="Flag of United States" title="United States"> · Swap service</p></li>
-            </ul>
-            <hr>
-
-        <div class="sponsor-sections">
-            <!-- Category Sponsors -->
-            <section>
-                <h2 class="section-title sponsor-section-title">Category Sponsors</h2>
-                        <h4>Exchanges</h4>
-                        <ul class="blank_list_item">
-
-
-
-<li><p>&#9989; <a rel="sponsored" title="Devil.Exchange" href="https://devil.exchange" target="_blank">Devil.Exchange</a> | <a rel="sponsored" href="http://devilwy6kfie6cz4imrcvqxprwvfrp34rsy4twjbatv3yetk5z3qxfad.onion" target="_blank">Tor</a><img class="country-flag" src="https://monerica.com/images/flags/fr.png" alt="Flag of France" title="France">&nbsp;<br><span class="rating-wrapper" aria-label="4.9 out of 5 stars from 10 reviews"><span class="stars"><span class="stars-fill" style="width:98%"></span></span><span class="rating-text"> 4.9</span><a class="rating-count-link" href="https://monerica.com/site/devil-exchange#reviews">(10)</a></span><br> Anonymous crypto swaps — no KYC, no account. Flat 0.5% fee.</p></li>
-                        </ul>
-                        <h4>Wallets</h4>
-                        <ul class="blank_list_item">
-
-
-
-<li><p>&#9989; <a rel="sponsored" title="Cake Wallet" href="https://cakewallet.com" target="_blank">Cake Wallet</a><img class="country-flag" src="https://monerica.com/images/flags/us.png" alt="Flag of United States" title="United States">&nbsp;<br><span class="rating-wrapper" aria-label="4.3 out of 5 stars from 3 reviews"><span class="stars"><span class="stars-fill" style="width:86.67%"></span></span><span class="rating-text"> 4.3</span><a class="rating-count-link" href="https://monerica.com/site/cake-wallet#reviews">(3)</a></span><br> Allows you to safely store, send, receive, and exchange your XMR, BTC, and LTC (and exchange other currencies)</p></li>
-                        </ul>
-            </section>
-
-            <!-- Subcategory Sponsors -->
-            <section>
-                <h2 class="section-title sponsor-section-title">Subcategory Sponsors</h2>
-                        <h4>Businesses » Gambling</h4>
-                        <ul class="blank_list_item">
-
-
-
-<li><p>&#9989; <a rel="sponsored" title="MoneroDice" href="https://monerodice.pro" target="_blank">MoneroDice</a> | <a rel="sponsored" href="http://dicepro4s6naj2jxo64g2fxj4nvn3cs2jp6hjmp36dzioegmfjcn6uad.onion" target="_blank">Tor</a>&nbsp;<br><span class="rating-wrapper" aria-label="5.0 out of 5 stars from 1 reviews"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><span class="rating-text"> 5.0</span><a class="rating-count-link" href="https://monerica.com/site/monerodice#reviews">(1)</a></span><br> Simple, fast, privacy-respecting dice and blackjack game. Provably fair mode for dice is available too.</p></li>
-                        </ul>
-                        <h4>Businesses » Proxies</h4>
-                        <ul class="blank_list_item">
-
-
-
-<li><p>&#9989; <a rel="sponsored" title="FleetProxy.io" href="https://fleetproxy.io" target="_blank">FleetProxy.io</a><img class="country-flag" src="https://monerica.com/images/flags/ae.png" alt="Flag of United Arab Emirates" title="United Arab Emirates">&nbsp;<br><span class="rating-wrapper" aria-label="5.0 out of 5 stars from 1 reviews"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><span class="rating-text"> 5.0</span><a class="rating-count-link" href="https://monerica.com/site/fleetproxy-io#reviews">(1)</a></span><br> Rotating Mobile, Residential, Datacenter Proxies | Mobile LTE, Static Residential | IPv4/6 Datacenter <i>(Note: 30% off first order)</i> </p></li>
-                        </ul>
-                        <h4>Cards » Gift & Prepaid Cards</h4>
-                        <ul class="blank_list_item">
-
-
-
-<li><p>&#9989; <a rel="sponsored" title="Coincards" href="https://coincards.com/us/" target="_blank">Coincards</a><img class="country-flag" src="https://monerica.com/images/flags/ca.png" alt="Flag of Canada" title="Canada">&nbsp;<br><span class="rating-wrapper" aria-label="5.0 out of 5 stars from 1 reviews"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><span class="rating-text"> 5.0</span><a class="rating-count-link" href="https://monerica.com/site/coincards#reviews">(1)</a></span><br> Gift cards from hundreds of top brands, including Amazon, Walmart, Airbnb, Uber, DoorDash, Home Depot, and even Visa or Amex cards, with values up to $2,000.</p></li>
-                        </ul>
-                        <h4>Exchanges » Instant Swaps</h4>
-                        <ul class="blank_list_item">
-
-
-
-<li><p>&#9989; <a rel="sponsored" title="Wagyu.xyz" href="https://wagyu.xyz/" target="_blank">Wagyu.xyz</a>&nbsp;<br><span class="rating-wrapper" aria-label="3.5 out of 5 stars from 8 reviews"><span class="stars"><span class="stars-fill" style="width:70%"></span></span><span class="rating-text"> 3.5</span><a class="rating-count-link" href="https://monerica.com/site/wagyu-xyz#reviews">(8)</a></span><br> Seamlessly bridge assets between Monero and Hyperliquid with Wagyu.
-Private Cross-Chain Bridge.
-The first decentralized orderbook exchange supporting native XMR deposits. <i>(Note: US citizens are not welcome in using any Wagyu products)</i> </p></li>
-                        </ul>
-                        <h4>Web Hosting » VPS & Dedicated Server Providers</h4>
-                        <ul class="blank_list_item">
-
-
-
-<li><p>&#9989; <a rel="sponsored" title="Mynymbox" href="https://mynymbox.io" target="_blank">Mynymbox</a> | <a rel="sponsored" href="http://mynymecyaiv7t55qiggp76rzqz35si5g7nzdh3yci4wiqbmlwqg7xeyd.onion" target="_blank">Tor</a> | <a rel="sponsored" href="http://mynymbox.i2p" target="_blank">I2P</a><img class="country-flag" src="https://monerica.com/images/flags/kn.png" alt="Flag of Saint Kitts and Nevis" title="Saint Kitts and Nevis">&nbsp;<br><span class="rating-wrapper" aria-label="5.0 out of 5 stars from 3 reviews"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><span class="rating-text"> 5.0</span><a class="rating-count-link" href="https://monerica.com/site/mynymbox#reviews">(3)</a></span><br> Privacy Hosting Solutions - VPS Servers, Dedicated Servers, Web Hosting, Domain Name Registrations</p></li>
-                        </ul>
-            </section>
-        </div>
-
-
-            <hr>
-            <h3>Latest Reviews</h3>
-            <ul class="blank_list_item">
-                    <li>
-                        <i>2026-03-06</i>
-                        <a href="https://monerica.com/site/b1exch">b1eXch</a>
-                             — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/b1exch#review-341"> 5/5</a></span>
-                        — I swapped USDT (Trc20) to LTC it was an instant exchange without any delay. The exchange was faster&#x2026;
-                    </li>
-                    <li>
-                        <i>2026-03-06</i>
-                        <a href="https://monerica.com/site/rebex">REBEX</a>
-                             — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/rebex#review-340"> 5/5</a></span>
-                        — Everything was exchanged instantly, no mistakes or surprises. Great service!
-                    </li>
-                    <li>
-                        <i>2026-03-05</i>
-                        <a href="https://monerica.com/site/jud-ex">Jud-ex</a>
-                             — <span class="rating-wrapper" aria-label="1 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:20%"></span></span><a class="rating-text" href="https://monerica.com/site/jud-ex#review-339"> 1/5</a></span>
-                        — After prior successful swaps, my 1 BTC to 200 XMR transaction on Feb 25 vanished post-payment.&#x2026;
-                    </li>
-                    <li>
-                        <i>2026-03-05</i>
-                        <a href="https://monerica.com/site/b1exch">b1eXch</a>
-                             — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/b1exch#review-338"> 5/5</a></span>
-                        — Need a fast crypto exchange without KYC/AML? Then feel free to choose the b1exch.io platform. What&#x2026;
-                    </li>
-                    <li>
-                        <i>2026-03-05</i>
-                        <a href="https://monerica.com/site/openmonero">OpenMonero</a>
-                             — <span class="rating-wrapper" aria-label="1 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:20%"></span></span><a class="rating-text" href="https://monerica.com/site/openmonero#review-337"> 1/5</a></span>
-                        — FUCKING SCAM SITE They got &quot;fake&quot; hacked by themselves and stole people&#x27;s money/deposits, i see a&#x2026;
-                    </li>
-                    <li>
-                        <i>2026-03-05</i>
-                        <a href="https://monerica.com/site/zenx">ZENX</a>
-                             — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/zenx#review-336"> 5/5</a></span>
-                        — Great experience using Zenx, swap was completed after a few confirmations, had better experience&#x2026;
-                    </li>
-                    <li>
-                        <i>2026-03-04</i>
-                        <a href="https://monerica.com/site/sageswap">SageSwap</a>
-                             — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/sageswap#review-335"> 5/5</a></span>
-                        — 5000 dollars deal no problems and fast..
-                    </li>
-                    <li>
-                        <i>2026-03-03</i>
-                        <a href="https://monerica.com/site/b1exch">b1eXch</a>
-                             — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/b1exch#review-334"> 5/5</a></span>
-                        — Quick and easy!Swapped my BTC for LTC, first time using thisservice and I was pleasantly surprised.&#x2026;
-                    </li>
-                    <li>
-                        <i>2026-03-03</i>
-                        <a href="https://monerica.com/site/bitlist">BitList</a>
-                             — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/bitlist#review-333"> 5/5</a></span>
-                        — This is an excellent platform where KYC free exchanges are listed and caution is marked against&#x2026;
-                    </li>
-                    <li>
-                        <i>2026-03-03</i>
-                        <a href="https://monerica.com/site/changee">Changee</a>
-                             — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/changee#review-332"> 5/5</a></span>
-                        — A great experience everything went without delays and errors. It&#x27;s easy to figure out, the&#x2026;
-                    </li>
-                    <li>
-                        <i>2026-03-03</i>
-                        <a href="https://monerica.com/site/giga-rapid">Giga Rapid</a>
-                             — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/giga-rapid#review-331"> 5/5</a></span>
-                        — Good pricing, good UI.  seems to work as advertised.
-                    </li>
-                    <li>
-                        <i>2026-03-03</i>
-                        <a href="https://monerica.com/site/bitania">Bitania</a>
-                             — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/bitania#review-330"> 5/5</a></span>
-                        — used Bitania for a p2p trade, escrow worked as expected just like on localmonero, no issues during&#x2026;
-                    </li>
-                    <li>
-                        <i>2026-03-03</i>
-                        <a href="https://monerica.com/site/b1exch">b1eXch</a>
-                             — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/b1exch#review-329"> 5/5</a></span>
-                        — did a small test transaction, transparent and straightforward, swap went smoothly
-                    </li>
-                    <li>
-                        <i>2026-03-03</i>
-                        <a href="https://monerica.com/site/zenx">ZENX</a>
-                             — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/zenx#review-328"> 5/5</a></span>
-                        — Clean swap experience, Sent LTC, received my XMR without issues. fair rate.
-                    </li>
-                    <li>
-                        <i>2026-03-03</i>
-                        <a href="https://monerica.com/site/jud-ex">Jud-ex</a>
-                             — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/jud-ex#review-327"> 5/5</a></span>
-                        — successfull xmr-&gt;btc swap, happy with service, fast, fees r low, don&#x27;t ask questions
-                    </li>
-            </ul>
-                <h3>Latest Replies</h3>
-                <ul class="blank_list_item">
-                        <li>
-                            <i>2026-03-03</i>
-                            <a href="https://monerica.com/site/bitlist#review-comment-38">BitList</a>
-                            — BitList has helped me a lot in finding the KYC free exchanges without any hassle and now is my first&#x2026;
-                        </li>
-                        <li>
-                            <i>2026-02-25</i>
-                            <a href="https://monerica.com/site/wagyu-xyz#review-comment-37">Wagyu.xyz</a>
-                            — Hey, the marketing campaign is something we just started this week. All Wagyu sponsored influencers&#x2026;
-                        </li>
-                        <li>
-                            <i>2026-02-25</i>
-                            <a href="https://monerica.com/site/wagyu-xyz#review-comment-36">Wagyu.xyz</a>
-                            — Edit:  Here&#x27;s my Monero receiving address that needs to be input to view the order on the Wagyu&#x2026;
-                        </li>
-                        <li>
-                            <i>2026-02-21</i>
-                            <a href="https://monerica.com/site/swapuz#review-comment-35">Swapuz</a>
-                            — Thank you for your trust!  We&#x2019;re proud to be your go-to crypto exchanger and glad to hear our speed,&#x2026;
-                        </li>
-                        <li>
-                            <i>2026-02-21</i>
-                            <a href="https://monerica.com/site/swapuz#review-comment-34">Swapuz</a>
-                            — Thanks for the feedback.  We&#x2019;re glad the swap was completed in ~25 minutes &#x2014; speed matters to us.&#x2026;
-                        </li>
-                        <li>
-                            <i>2026-02-21</i>
-                            <a href="https://monerica.com/site/swapuz#review-comment-33">Swapuz</a>
-                            — Thank you for your trust and for being with Swapuz for over a year &#x2014; we truly appreciate it.  We&#x2019;re&#x2026;
-                        </li>
-                        <li>
-                            <i>2026-02-21</i>
-                            <a href="https://monerica.com/site/swapuz#review-comment-31">Swapuz</a>
-                            — Thanks for your feedback &#x2014; we&#x2019;re really sorry to hear about your experience.  At Swapuz, we aim to&#x2026;
-                        </li>
-                        <li>
-                            <i>2026-02-21</i>
-                            <a href="https://monerica.com/site/wagyu-xyz#review-comment-30">Wagyu.xyz</a>
-                            — Problem solved. It didn&#x27;t detect the WBTC payment of one version, because by default it was shown&#x2026;
-                        </li>
-                        <li>
-                            <i>2026-02-20</i>
-                            <a href="https://monerica.com/site/wagyu-xyz#review-comment-28">Wagyu.xyz</a>
-                            — This order has been fixed with the user. The reason the issue wasn&#x27;t handled faster is that he was&#x2026;
-                        </li>
-                        <li>
-                            <i>2026-02-20</i>
-                            <a href="https://monerica.com/site/wagyu-xyz#review-comment-27">Wagyu.xyz</a>
-                            — Hey, are you sure you didn&#x27;t send funds on the wrong chain? That is often a common issue with&#x2026;
-                        </li>
-                </ul>
-    </div>
 
     </main>
 </div>

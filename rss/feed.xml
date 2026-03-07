@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>NoSINT</title>
+      <link>https://nosint.org/</link>
+      <description>Businesses &gt; Digital Goods/ Services : A powerful CSINT platform designed for security researchers, intelligence analysts, and investigative professionals. - Processor: Paylix</description>
+      <pubDate>Sat, 07 Mar 2026 13:40:06 GMT</pubDate>
+    </item>
+    <item>
       <title>GhostSims</title>
       <link>https://ghostsims.com/</link>
       <description>Businesses &gt; Phone Plans, SMS &amp; SIM Cards : Stay anonymous and secure with our encrypted SIM cards. No personal data required, no logs stored, works in 200+ countries worldwide. - Processor: NOWPayments</description>
@@ -659,12 +665,6 @@ BTC, ETH, XMR, USDT, USDC and more.</description>
       <link>https://github.com/lalanza808/lwsadmin</link>
       <description>Utilities &gt; Open Source Projects : A self-hosted Monero light-wallet service, allowing for an always-on, immediate use wallet without sync times and with private connectivity over Tor. - Contact: https://x.com/monerodotfail</description>
       <pubDate>Sun, 25 Jan 2026 16:31:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>XPL-EX</title>
-      <link>https://github.com/0bbedCode/XPL-EX</link>
-      <description>Non-Profits &gt; Technologies : Really simple to use privacy manager for Android 6.0 Marshmallow and later</description>
-      <pubDate>Sun, 25 Jan 2026 12:24:24 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Silent Exchange (sponsored)</title>
