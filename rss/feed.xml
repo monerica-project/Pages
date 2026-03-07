@@ -11,6 +11,12 @@
       <pubDate>Sun, 08 Mar 2026 12:57:24 GMT</pubDate>
     </item>
     <item>
+      <title>Stagenet Faucet</title>
+      <link>https://stagenet-faucet.xmr-tw.org/</link>
+      <description>Utilities &gt; Developer Tools : Monero stagenet faucet</description>
+      <pubDate>Sat, 07 Mar 2026 19:01:13 GMT</pubDate>
+    </item>
+    <item>
       <title>Tristero</title>
       <link>https://app.tristero.com/swap</link>
       <description>Exchanges &gt; Instant Swaps : Exchange</description>
@@ -665,12 +671,6 @@ BTC, ETH, XMR, USDT, USDC and more.</description>
       <link>https://github.com/niyid/apo</link>
       <description>Wallets &gt; Mobile Wallets : A native Android Monero wallet application built with Kotlin and Jetpack Compose.</description>
       <pubDate>Mon, 26 Jan 2026 02:10:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Servury</title>
-      <link>https://servury.com/?ref=monerica</link>
-      <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : Windows and Linux VPS / VDS, proxies with no personal info required. Custom durations, instant deployment, delete anytime. Datacenter proxies, residential proxies and white label partner options. - Processor: Heleket</description>
-      <pubDate>Sun, 25 Jan 2026 18:11:28 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; xChange.me (sponsored)</title>
