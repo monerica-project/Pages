@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>XMRPrice.live</title>
+      <link>https://xmrprice.live/</link>
+      <description>Finance &gt; Price Display : Access real-time XMR stats, network resistance, and exchange weather.</description>
+      <pubDate>Tue, 10 Mar 2026 17:31:49 GMT</pubDate>
+    </item>
+    <item>
       <title>&amp;#x2753; XMRCrash</title>
       <link>https://xmrcrash.xyz/</link>
       <description>Businesses &gt; Gambling : XMR Crash Game</description>
@@ -661,12 +667,6 @@ Helping to find the best rates for your swaps without KYC - Location: London - C
       <description>Exchanges &gt; Decentralized Exchanges : Trade native cryptos on-chain
 BTC, ETH, XMR, USDT, USDC and more.</description>
       <pubDate>Wed, 28 Jan 2026 00:58:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>MoneroDroid</title>
-      <link>https://github.com/AtencionEsTodoNecesitas/monerodroid</link>
-      <description>Nodes &gt; Node Software &amp; Deployment : Mobile Monero Node.</description>
-      <pubDate>Tue, 27 Jan 2026 20:24:06 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Mynymbox (sponsored)</title>
