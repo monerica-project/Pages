@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Pago</title>
+      <link>https://github.com/dnvie/pago</link>
+      <description>Merchant Services &gt; Open Source Projects : A lightweight, fully self-hosted Point-of-Sale (POS) backend and embeddable checkout widget for accepting Monero (XMR) payments.</description>
+      <pubDate>Thu, 19 Mar 2026 14:37:29 GMT</pubDate>
+    </item>
+    <item>
       <title>Kotova X</title>
       <link>https://app.kotova.io/</link>
       <description>Exchanges &gt; Instant Swaps : Cryptocurrency exchange service</description>
@@ -648,12 +654,6 @@ Helping to find the best rates for your swaps without KYC - Location: London - C
       <link>https://moneroswapper.com</link>
       <description>Exchanges &gt; Instant Swaps : Private and fast instant swap service focused on Monero. No registration, no KYC, no email required. Swap between XMR and 200+ cryptocurrencies in minutes with competitive rat - Contact: contact@moneroswapper.com</description>
       <pubDate>Tue, 17 Feb 2026 13:27:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Off Grid</title>
-      <link>https://www.offgrid.cash/en</link>
-      <description>Cards &gt; Prepaid Cards : The privacy-first crypto card program for modern spending. - Contact: @offgridcash on Twitter</description>
-      <pubDate>Mon, 16 Feb 2026 20:28:21 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Cake Wallet (sponsored)</title>
