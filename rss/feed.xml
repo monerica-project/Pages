@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>xmr.irish</title>
+      <link>https://xmr.irish/</link>
+      <description>Media &gt; News Aggregators : Education, mining, network stats, and the investment thesis for Monero (XMR)</description>
+      <pubDate>Sat, 21 Mar 2026 16:04:29 GMT</pubDate>
+    </item>
+    <item>
       <title>MoneroDM</title>
       <link>https://monerodm.org/</link>
       <description>Non-Profits &gt; Technologies : Monero Direct Messaging</description>
@@ -642,12 +648,6 @@ Helping to find the best rates for your swaps without KYC - Location: London - C
       <link>https://xmrhub.org/directory.html</link>
       <description>Other Directories &gt; Business Directories : Your comprehensive guide to the Monero ecosystem</description>
       <pubDate>Thu, 19 Feb 2026 02:21:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Saxemberg</title>
-      <link>https://saxemberg.com/</link>
-      <description>Nodes &gt; Public Remote Nodes &amp; Operators : A Monero node operator with Tor and HTTP options with a dedicated server and bandwidth located in Northern Europe. - Contact: @saxemberg</description>
-      <pubDate>Wed, 18 Feb 2026 01:15:03 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Cake Wallet (sponsored)</title>
