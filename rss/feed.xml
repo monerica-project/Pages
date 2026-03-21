@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>MoneroDM</title>
+      <link>https://monerodm.org/</link>
+      <description>Non-Profits &gt; Technologies : Monero Direct Messaging</description>
+      <pubDate>Sat, 21 Mar 2026 15:17:47 GMT</pubDate>
+    </item>
+    <item>
       <title>AskMonero</title>
       <link>https://www.reddit.com/r/AskMonero</link>
       <description>Communities &gt; Reddit : A community for asking questions and sharing knowledge about Monero, privacy focused digital currency, and related tools.</description>
@@ -642,12 +648,6 @@ Helping to find the best rates for your swaps without KYC - Location: London - C
       <link>https://saxemberg.com/</link>
       <description>Nodes &gt; Public Remote Nodes &amp; Operators : A Monero node operator with Tor and HTTP options with a dedicated server and bandwidth located in Northern Europe. - Contact: @saxemberg</description>
       <pubDate>Wed, 18 Feb 2026 01:15:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Antifine</title>
-      <link>https://www.antifine.info</link>
-      <description>Non-Profits &gt; Activism : Pays off fines for anti-war protestors in Russia</description>
-      <pubDate>Tue, 17 Feb 2026 14:39:43 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Cake Wallet (sponsored)</title>
