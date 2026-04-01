@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>monero-csharp</title>
+      <link>https://github.com/btcpay-monero/monero-csharp</link>
+      <description>Utilities &gt; Open Source Projects : Library for interacting with Monero daemon and wallet RPCs.</description>
+      <pubDate>Wed, 01 Apr 2026 16:26:30 GMT</pubDate>
+    </item>
+    <item>
       <title>IncoCard.com</title>
       <link>https://incocard.com</link>
       <description>Cards &gt; Prepaid Cards : Get instant virtual and physical cards. Apple/Google Pay No KYC, no ID verification. - Location: LA - Processor: Custom</description>
@@ -648,12 +654,6 @@ Specializing in Dell, Sonicwall, Unifi and N-Able products. - Location: Veedersb
       <link>https://saucenao.com/</link>
       <description>Non-Profits &gt; Technologies : Reverse Image search engine</description>
       <pubDate>Mon, 23 Feb 2026 13:20:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>InstantShippingLabels.com</title>
-      <link>https://instantshippinglabels.com</link>
-      <description>Businesses &gt; Postage &amp; Shipping Services : Shipping labels instantly. USPS, Fedex, UPS, Canada Post and more.</description>
-      <pubDate>Sun, 22 Feb 2026 22:05:44 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; MoneroDice (sponsored)</title>
