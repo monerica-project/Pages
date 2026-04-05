@@ -5,6 +5,18 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>I2Pd</title>
+      <link>https://i2pd.website/</link>
+      <description>Non-Profits &gt; Technologies : i2pd (I2P Daemon) is a full-featured C++ implementation of I2P client</description>
+      <pubDate>Sun, 05 Apr 2026 20:05:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>I2P Project</title>
+      <link>https://i2p.net/en/</link>
+      <description>Non-Profits &gt; Technologies : I2P (Invisible Internet Project) is a decentralized, privacy-focused network that allows people to communicate and share information anonymously.</description>
+      <pubDate>Sun, 05 Apr 2026 20:04:43 GMT</pubDate>
+    </item>
+    <item>
       <title>Aminos.science</title>
       <link>https://aminos.science</link>
       <description>Businesses &gt; Health &amp; Beauty : Research-grade peptides for the scientific community, with verified purity and direct ordering. Specializing in bioactive peptides for in-vitro and investigational use. - Location: Las Vegas, NV - Processor: Direct to wallet - Contact: @peptide_shop_bot</description>
@@ -641,18 +653,6 @@ The first decentralized orderbook exchange supporting native XMR deposits. - Not
       <link>https://netexbit.com/en/</link>
       <description>Exchanges &gt; Instant Swaps : Electronic currencies exchanger</description>
       <pubDate>Mon, 02 Mar 2026 16:41:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mine Exchange</title>
-      <link>https://mine.exchange/</link>
-      <description>Exchanges &gt; Instant Swaps : Automatic electronic currency exchange</description>
-      <pubDate>Mon, 02 Mar 2026 03:37:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stoxswap Swapper</title>
-      <link>https://www.stoxswap.com</link>
-      <description>Exchanges &gt; Peer-to-Peer Exchanges : A manual swapper supporting XMR, BTC, ETH, TRX and USDT(ERC20/TRC20). Because of its manual operation we support mixing/anonymizer services discreetly. - Location: Muscat - Processor: Direct to wallet - Contact: @g64group on Telegram</description>
-      <pubDate>Sat, 28 Feb 2026 14:31:16 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; MoneroDice (sponsored)</title>
