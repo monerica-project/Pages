@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Monero.st</title>
+      <link>https://monero.st/</link>
+      <description>Nodes &gt; Public Remote Nodes &amp; Operators : Public remote node sponsored by Mynynbox.</description>
+      <pubDate>Mon, 06 Apr 2026 19:31:22 GMT</pubDate>
+    </item>
+    <item>
       <title>&amp;#x2753; AnonRefill.com</title>
       <link>https://anonrefill.com</link>
       <description>Cards &gt; Gift &amp; Prepaid Cards : eSIM Data, Gift Cards, Game Cards, Visa/Mastercard &amp; E-money. Instant access. - Note: sign up link uses localhost, clearly not working correctly - Processor: Heleket - Contact: @anonrefill</description>
@@ -647,12 +653,6 @@ The first decentralized orderbook exchange supporting native XMR deposits. - Not
       <link>https://instantexchangers.com/</link>
       <description>Exchanges &gt; Instant Swaps : Swap crypto around the world</description>
       <pubDate>Mon, 02 Mar 2026 16:41:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Abcobmen</title>
-      <link>https://abcobmen.net/en/</link>
-      <description>Exchanges &gt; Instant Swaps : Friendly and fast exchange</description>
-      <pubDate>Mon, 02 Mar 2026 16:41:52 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; MoneroDice (sponsored)</title>
