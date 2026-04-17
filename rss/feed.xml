@@ -67,9 +67,9 @@ See whether it requires KYC before you sign up.</description>
       <pubDate>Wed, 15 Apr 2026 09:52:38 GMT</pubDate>
     </item>
     <item>
-      <title>&amp;#x2753; Monero Web</title>
+      <title>&amp;#x2753; monero-web</title>
       <link>https://monero-web.com/</link>
-      <description>Wallets &gt; Web Wallets : Monero browser wallet - Note: unable to highlight text</description>
+      <description>Wallets &gt; Web Wallets : Non-custodial web wallet with client-side transaction signing. Keys never leave the browser. Supports seed phrases, spend/view keys, and view-only mode. - Note: Self-hostable. SHA-256 file verification page included. - Contact: @Medtabka on GitHub</description>
       <pubDate>Wed, 15 Apr 2026 01:16:26 GMT</pubDate>
     </item>
     <item>
