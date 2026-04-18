@@ -475,12 +475,6 @@ Maintain private ledgers of your portfolio history. - Location: balkan - Process
       <pubDate>Thu, 19 Mar 2026 21:00:37 GMT</pubDate>
     </item>
     <item>
-      <title>&amp;#x2705; Comcash.cc (sponsored)</title>
-      <link>https://comcash.cc/en</link>
-      <description>Exchanges &gt; Instant Swaps : Reliably exchange cryptos with anonymity.</description>
-      <pubDate>Thu, 19 Mar 2026 16:52:21 GMT</pubDate>
-    </item>
-    <item>
       <title>Pago</title>
       <link>https://github.com/dnvie/pago</link>
       <description>Merchant Services &gt; Open Source Projects : A lightweight, fully self-hosted Point-of-Sale (POS) backend and embeddable checkout widget for accepting Monero (XMR) payments.</description>
@@ -557,6 +551,12 @@ Maintain private ledgers of your portfolio history. - Location: balkan - Process
       <link>https://app.cardtoshi.com/signup?ref=69b8aced3c7ab369996ebc32</link>
       <description>Cards &gt; Prepaid Cards : Deposit Monero, get instant USD cards and spend your crypto anywhere Mastercards are accepted. - Note: Nothing happens after deposit, card does not issue, support page doesn't load - Processor: Custom</description>
       <pubDate>Tue, 17 Mar 2026 01:24:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2705; Comcash.cc</title>
+      <link>https://comcash.cc/en</link>
+      <description>Exchanges &gt; Instant Swaps : Reliably exchange cryptos with anonymity.</description>
+      <pubDate>Mon, 16 Mar 2026 16:50:08 GMT</pubDate>
     </item>
     <item>
       <title>Swex</title>
