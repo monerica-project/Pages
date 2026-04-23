@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Monero Coalition</title>
+      <link>https://monerocoalition.org/</link>
+      <description>Non-Profits &gt; Activism : Group dedicated to advancing the adoption of Monero.</description>
+      <pubDate>Thu, 23 Apr 2026 17:57:45 GMT</pubDate>
+    </item>
+    <item>
       <title>XMRpriced</title>
       <link>https://xmrpriced.xyz/</link>
       <description>Finance &gt; Price Display : A browser extension that displays XMR prices alongside USD on any online store. Shop with a Monero mindset.</description>
@@ -638,12 +644,6 @@ Maintain private ledgers of your portfolio history. - Location: balkan - Process
       <link>https://cointivo.com/signup?referralCode=zdgrtb8rml</link>
       <description>Exchanges &gt; Centralized Exchanges : Privacy-focused cryptocurrency exchange that allows users to trade, deposit, and withdraw digital assets quickly without requiring identity verification. - Note: AML/KYC policy page 404s after previously loading to get verified. Website has many bugs which make it unsafe to use reliably. - Processor: Custom - Contact: https://t.me/cointivo</description>
       <pubDate>Sat, 14 Mar 2026 18:42:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monero One</title>
-      <link>https://monero.one/</link>
-      <description>Wallets &gt; Mobile Wallets : Monero wallet for iOS. Send, receive, and store XMR with complete privacy.</description>
-      <pubDate>Sat, 14 Mar 2026 14:00:51 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Silent Exchange (sponsored)</title>
