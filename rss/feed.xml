@@ -1,9 +1,15 @@
 <rss version="2.0">
   <channel>
     <title>Monerica - Newest and Sponsored Listings</title>
-    <link>https://monerica.com/rss/feed.xml</link>
+    <link>http://app.monerica.com/rss/feed.xml</link>
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
+    <item>
+      <title>Minimal.Blog</title>
+      <link>https://minimal.blog/</link>
+      <description>Businesses &gt; IT Services : Get your own minimal blog online in seconds, no complicated setup, no ads, no distractions, just blogging.</description>
+      <pubDate>Fri, 01 May 2026 16:04:31 GMT</pubDate>
+    </item>
     <item>
       <title>Mukhost</title>
       <link>https://mukhost.com/</link>
@@ -638,12 +644,6 @@ Maintain private ledgers of your portfolio history. - Location: balkan - Process
       <link>https://www.thinkpenguin.com/</link>
       <description>Businesses &gt; Electronics/ Computer Hardware : A tech company focused exclusively on properly supported hardware for GNU/Linux: Get your next laptop, desktop, or accessory without registering, ID, or tracking built-in. - Location: Keene, New Hampshire - Processor: Custom - Contact: @mr_penguin@social.freetalklive.com</description>
       <pubDate>Tue, 17 Mar 2026 16:43:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x274C; Cardtoshi.com</title>
-      <link>https://app.cardtoshi.com/signup?ref=69b8aced3c7ab369996ebc32</link>
-      <description>Cards &gt; Prepaid Cards : Deposit Monero, get instant USD cards and spend your crypto anywhere Mastercards are accepted. - Note: Nothing happens after deposit, card does not issue, support page doesn't load - Processor: Custom</description>
-      <pubDate>Tue, 17 Mar 2026 01:24:30 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Silent Exchange (sponsored)</title>
