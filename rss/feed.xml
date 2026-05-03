@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>&amp;#x2705; xChange.me (sponsored)</title>
+      <link>https://xchange.me</link>
+      <description>Exchanges &gt; Instant Swaps : No kyc instant exchange since 2017. Tor mirror, CLI client, fully anonymous, private and safe. - Contact: @xchange_me_</description>
+      <pubDate>Fri, 29 May 2026 08:15:36 GMT</pubDate>
+    </item>
+    <item>
       <title>Diyar Ciftci Node</title>
       <link>https://xmr.diyarciftci.xyz/</link>
       <description>Nodes &gt; Public Remote Nodes &amp; Operators : Public monero node. - Contact: diyarciftci@protonmail.com</description>
@@ -676,12 +682,6 @@ The first decentralized orderbook exchange supporting native XMR deposits. - Not
       <link>https://cce.cash/exchange</link>
       <description>Exchanges &gt; Instant Swaps : This is a fully automated service that allows you to quickly exchange various cryptocurrencies such as XMR, BTC, ETH, and SOL without requiring identity verification. - Contact: https://x.com/Cce_Cash</description>
       <pubDate>Wed, 28 Jan 2026 08:05:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x2705; xChange.me (sponsored)</title>
-      <link>https://xchange.me</link>
-      <description>Exchanges &gt; Instant Swaps : No kyc instant exchange since 2017. Tor mirror, CLI client, fully anonymous, private and safe. - Contact: @xchange_me_</description>
-      <pubDate>Sun, 30 Nov 2025 08:15:36 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Coincards (sponsored)</title>
