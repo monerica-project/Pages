@@ -1791,6 +1791,27 @@
 
     <main class="main">
         
+
+    <style>
+    .review-tags {
+        display: inline;
+        margin-left: 0.25rem;
+    }
+
+    .review-tags .badge {
+        margin: 0 0.15em;
+        font-size: 0.75em;
+        font-weight: 600;
+        padding: 0.25em 0.5em;
+    }
+
+    /* Bootstrap 5 has no bg-orange; ReviewTagUiHelper.Risk uses it */
+    .bg-orange {
+        background-color: #fd7e14 !important;
+    }
+</style>
+ 
+
     <div>
         <!-- Logo -->
     <img src="/images/monerica-logo.png" alt="Monerica Logo" class="logo">
@@ -2106,158 +2127,183 @@ The first decentralized orderbook exchange supporting native XMR deposits. <i>(N
             <hr>
             <h3>Latest Activity</h3>
             <ul class="blank_list_item">
-                        <li>
-                            <i>2026-05-02</i>
-                            &#9989; <a href="https://monerica.com/site/cce-cash">CCE Cash</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/sc.png" alt="Flag of Seychelles" title="Seychelles">
-                                 — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/cce-cash#review-541"> 5/5</a></span>
-                            — I have used CCE Cash a couple of times, and it has always been a good experience.  I just swapped&#x2026;
-                        </li>
-                        <li>
-                            <i>2026-05-02</i>
-                            <a href="https://monerica.com/site/tomboi-io">tomboi.io</a>&nbsp;
-                                 — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/tomboi-io#review-540"> 5/5</a></span>
-                            — Had a few successful XMR swaps here lately. Totally private and reliable, which is exactly what I&#x2026;
-                        </li>
-                        <li>
-                            <i>2026-05-02</i>
-                            &#9989; <a href="https://monerica.com/site/private-webhost">Private WebHost</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/ch.png" alt="Flag of Switzerland" title="Switzerland">
-                                 — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/private-webhost#review-539"> 5/5</a></span>
-                            — Private WebHost stands out for a couple of reasons. First, you can set your SSH key during server&#x2026;
-                        </li>
-                        <li>
-                            <i>2026-05-01</i>
-                            &#9989; <a href="https://monerica.com/site/anti-moonboy">Anti Moonboy</a>&nbsp;
-                                 — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/anti-moonboy#review-538"> 5/5</a></span>
-                            — I listen to antimoonboy news religiously, and I must say that the host, Xenu, is a very knowledgable&#x2026;
-                        </li>
-                        <li>
-                            <i>2026-05-01</i>
-                            &#10067; <a href="https://monerica.com/site/b1exch">b1eXch</a>&nbsp;
-                                 — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/b1exch#review-537"> 5/5</a></span>
-                            — Dread Username: Kaktusman2024 What I Tested: ETH to XMR Swap Order ID:&#x2026;
-                        </li>
-                        <li>
-                            <i>2026-05-01</i>
-                            &#10067; <a href="https://monerica.com/site/b1exch">b1eXch</a>&nbsp;
-                                 — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/b1exch#review-536"> 5/5</a></span>
-                            — Dread Username: /u/stupfire What I Tested: 50 USDT to LTC  First swap on Black Exchange, and I&#x2019;m&#x2026;
-                        </li>
-                        <li>
-                            <i>2026-05-01</i>
-                            &#9989; <a href="https://monerica.com/site/splitnow">SplitNOW</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/hk.png" alt="Flag of Hong Kong" title="Hong Kong">
-                                 — <span class="rating-wrapper" aria-label="2 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:40%"></span></span><a class="rating-text" href="https://monerica.com/site/splitnow#review-534"> 2/5</a></span>
-                            — They claim 1% fee but in reality they probably take more.  If you swap xmr to some currency, it will&#x2026;
-                        </li>
-                        <li>
-                            <i>2026-05-01</i>
-                            &#10067; <a href="https://monerica.com/site/solvocard-com">SolvoCard.com</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/us.png" alt="Flag of United States" title="United States">
-                                 — <span class="rating-wrapper" aria-label="3 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:60%"></span></span><a class="rating-text" href="https://monerica.com/site/solvocard-com#review-533"> 3/5</a></span>
-                            — Works but having to spend $100 just to open the card is crazy.  Only used it cause 2fiat was down&#x2026;
-                        </li>
-                        <li>
-                            <i>2026-04-30</i>
-                            &#9989; <a href="https://monerica.com/site/wagyu-xyz">Wagyu.xyz</a>&nbsp;
-                                 — <span class="rating-wrapper" aria-label="1 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:20%"></span></span><a class="rating-text" href="https://monerica.com/site/wagyu-xyz#review-532"> 1/5</a></span>
-                            — I wan&#x2019;t to update my review from poor to bad because now I can&#x2019;t even withdraw from Wagyu. It says&#x2026;
-                        </li>
-                        <li>
-                            <i>2026-04-30</i>
-                            &#9989; <a href="https://monerica.com/site/wagyu-xyz">Wagyu.xyz</a>&nbsp;
-                                 — <span class="rating-wrapper" aria-label="2 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:40%"></span></span><a class="rating-text" href="https://monerica.com/site/wagyu-xyz#review-531"> 2/5</a></span>
-                            — I was disappointed with the 2% withdrawal fees if you want to bridge out your XMR1 from Hyperliquid.&#x2026;
-                        </li>
-                        <li>
-                            <i>2026-04-29</i>
-                            <a href="https://monerica.com/site/anon-raffle">Anon Raffle</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/is.png" alt="Flag of Iceland" title="Iceland">
-                                 — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/anon-raffle#review-530"> 5/5</a></span>
-                            — Xenu mentioned this on his show a few days ago (I listen every week), so I figured I&#x27;d give it a&#x2026;
-                        </li>
-                        <li>
-                            <i>2026-04-29</i>
-                            &#9989; <a href="https://monerica.com/site/changee">Changee</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/nl.png" alt="Flag of Netherlands" title="Netherlands">
-                                 — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/changee#review-529"> 5/5</a></span>
-                            — Amazing service! Fast and accurate exchange. Thank you! I definitely recommend this exchanger to&#x2026;
-                        </li>
-                        <li>
-                            <i>2026-04-28</i>
-                            &#9989; <a href="https://monerica.com/site/comcash-cc">Comcash.cc</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/ru.png" alt="Flag of Russia" title="Russia">
-                                 — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/comcash-cc#review-528"> 5/5</a></span>
-                            — A good exchange; they did everything right&#x2014;I exchanged XMR for USDT
-                        </li>
-                        <li>
-                            <i>2026-04-28</i>
-                            &#9989; <a href="https://monerica.com/site/quickex">QuickEx</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/sc.png" alt="Flag of Seychelles" title="Seychelles">
-                                 — <span class="rating-wrapper" aria-label="1 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:20%"></span></span><a class="rating-text" href="https://monerica.com/site/quickex#review-517"> 1/5</a></span>
-                            — My ETH  &gt; XMR transaction got stuck. I only found out what the issue was after contacting support.&#x2026;
-                            <br>
-                            &nbsp;&nbsp;↩ <em>Reply:</em> Thank you so much for sharing your experience in such detail. We&#x27;re truly sorry for the stress and&#x2026;
-                        </li>
-                        <li>
-                            <i>2026-04-28</i>
-                            <a href="https://monerica.com/site/yifi">YiFi</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/pa.png" alt="Flag of Panama" title="Panama">
-                                 — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/yifi#review-526"> 5/5</a></span>
-                            — Useful aggregator. Found trusted exchangers I&#x27;ve used before. Tested it - overall satisfied.
-                        </li>
-                        <li>
-                            <i>2026-04-27</i>
-                            &#9989; <a href="https://monerica.com/site/xmrbazaar">XMRBazaar</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/us.png" alt="Flag of United States" title="United States">
-                                 — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/xmrbazaar#review-525"> 5/5</a></span>
-                            — The marketplace is really quite good. Escrow and bonds help to solve trust between parties and the&#x2026;
-                        </li>
-                        <li>
-                            <i>2026-04-27</i>
-                            &#10067; <a href="https://monerica.com/site/rebex">REBEX</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/ru.png" alt="Flag of Russia" title="Russia">
-                                 — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/rebex#review-524"> 5/5</a></span>
-                            — Thank you! Everything was very fast. The support was responsive and competent. I am satisfied with&#x2026;
-                        </li>
-                        <li>
-                            <i>2026-04-27</i>
-                            <a href="https://monerica.com/site/dex-fo">DEX.fo</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/ru.png" alt="Flag of Russia" title="Russia">
-                                 — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/dex-fo#review-523"> 5/5</a></span>
-                            — Quick and easy!  Swapped my BTC for USDT ERC20, first time using this service and I was pleasantly&#x2026;
-                        </li>
-                        <li>
-                            <i>2026-04-25</i>
-                            <a href="https://monerica.com/site/shapebtc">ShapeBTC</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/ru.png" alt="Flag of Russia" title="Russia">
-                                 — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/shapebtc#review-521"> 5/5</a></span>
-                            — Thanks! Everything is fine, fast, reliable, a good course.
-                        </li>
-                        <li>
-                            <i>2026-04-25</i>
-                            <a href="https://monerica.com/site/tomboi-io">tomboi.io</a>&nbsp;
-                                 — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/tomboi-io#review-520"> 5/5</a></span>
-                            — Good service, working smooth, did a quick swap - guys had a btt escrow so it kinda safe. good luck!
-                        </li>
-                        <li>
-                            <i>2026-04-24</i>
-                            <a href="https://monerica.com/site/xenaps">Xenaps</a>&nbsp;
-                                 — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/xenaps#review-519"> 5/5</a></span>
-                            — Never had an issue with delays personally. Always reliable.
-                        </li>
-                        <li>
-                            <i>2026-04-23</i>
-                            <a href="https://monerica.com/site/dex-fo">DEX.fo</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/ru.png" alt="Flag of Russia" title="Russia">
-                                 — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/dex-fo#review-518"> 5/5</a></span>
-                            — Great tool for anyone who needs to permanently break the transaction trail. I specifically tested&#x2026;
-                        </li>
-                        <li>
-                            <i>2026-04-23</i>
-                            &#9989; <a href="https://monerica.com/site/quickex">QuickEx</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/sc.png" alt="Flag of Seychelles" title="Seychelles">
-                                 — <span class="rating-wrapper" aria-label="1 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:20%"></span></span><a class="rating-text" href="https://monerica.com/site/quickex#review-517"> 1/5</a></span>
-                            — My ETH  &gt; XMR transaction got stuck. I only found out what the issue was after contacting support.&#x2026;
-                        </li>
-                        <li>
-                            <i>2026-04-23</i>
-                            <a href="https://monerica.com/site/dex-fo">DEX.fo</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/ru.png" alt="Flag of Russia" title="Russia">
-                                 — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/dex-fo#review-516"> 5/5</a></span>
-                            — Exploit.in Username: OlegMega  I really liked this exchange; there are almost no alternatives to it&#x2026;
-                        </li>
-                        <li>
-                            <i>2026-04-23</i>
-                            <a href="https://monerica.com/site/dex-fo">DEX.fo</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/ru.png" alt="Flag of Russia" title="Russia">
-                                 — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/dex-fo#review-514"> 5/5</a></span>
-                            — Exchanged Bitcoin for Monero &#x2014; everything went smoothly. The rate was locked in immediately, and the&#x2026;
-                        </li>
+<li>
+    <i>2026-05-02</i>
+    &#9989; <a href="https://monerica.com/site/cce-cash">CCE Cash</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/sc.png" alt="Flag of Seychelles" title="Seychelles">
+     <span class="review-tags"><span class="badge bg-info">Under $50</span><span class="badge bg-success">Verified Order</span></span>
+         — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/cce-cash#review-541"> 5/5</a></span>
+    — I have used CCE Cash a couple of times, and it has always been a good experience.  I just swapped&#x2026;
+</li>
+<li>
+    <i>2026-05-02</i>
+    <a href="https://monerica.com/site/tomboi-io">tomboi.io</a>&nbsp;
+     <span class="review-tags"><span class="badge bg-success">Verified Order</span></span>
+         — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/tomboi-io#review-540"> 5/5</a></span>
+    — Had a few successful XMR swaps here lately. Totally private and reliable, which is exactly what I&#x2026;
+</li>
+<li>
+    <i>2026-05-02</i>
+    &#9989; <a href="https://monerica.com/site/private-webhost">Private WebHost</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/ch.png" alt="Flag of Switzerland" title="Switzerland">
+    
+         — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/private-webhost#review-539"> 5/5</a></span>
+    — Private WebHost stands out for a couple of reasons. First, you can set your SSH key during server&#x2026;
+</li>
+<li>
+    <i>2026-05-01</i>
+    &#9989; <a href="https://monerica.com/site/anti-moonboy">Anti Moonboy</a>&nbsp;
+    
+         — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/anti-moonboy#review-538"> 5/5</a></span>
+    — I listen to antimoonboy news religiously, and I must say that the host, Xenu, is a very knowledgable&#x2026;
+</li>
+<li>
+    <i>2026-05-01</i>
+    &#10067; <a href="https://monerica.com/site/b1exch">b1eXch</a>&nbsp;
+     <span class="review-tags"><span class="badge bg-info">Under $50</span><span class="badge bg-success">Verified Order</span></span>
+         — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/b1exch#review-537"> 5/5</a></span>
+    — Dread Username: Kaktusman2024 What I Tested: ETH to XMR Swap Order ID:&#x2026;
+</li>
+<li>
+    <i>2026-05-01</i>
+    &#10067; <a href="https://monerica.com/site/b1exch">b1eXch</a>&nbsp;
+    
+         — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/b1exch#review-536"> 5/5</a></span>
+    — Dread Username: /u/stupfire What I Tested: 50 USDT to LTC  First swap on Black Exchange, and I&#x2019;m&#x2026;
+</li>
+<li>
+    <i>2026-05-01</i>
+    &#9989; <a href="https://monerica.com/site/splitnow">SplitNOW</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/hk.png" alt="Flag of Hong Kong" title="Hong Kong">
+    
+         — <span class="rating-wrapper" aria-label="2 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:40%"></span></span><a class="rating-text" href="https://monerica.com/site/splitnow#review-534"> 2/5</a></span>
+    — They claim 1% fee but in reality they probably take more.  If you swap xmr to some currency, it will&#x2026;
+</li>
+<li>
+    <i>2026-05-01</i>
+    &#10067; <a href="https://monerica.com/site/solvocard-com">SolvoCard.com</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/us.png" alt="Flag of United States" title="United States">
+    
+         — <span class="rating-wrapper" aria-label="3 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:60%"></span></span><a class="rating-text" href="https://monerica.com/site/solvocard-com#review-533"> 3/5</a></span>
+    — Works but having to spend $100 just to open the card is crazy.  Only used it cause 2fiat was down&#x2026;
+</li>
+<li>
+    <i>2026-04-30</i>
+    &#9989; <a href="https://monerica.com/site/wagyu-xyz">Wagyu.xyz</a>&nbsp;
+    
+         — <span class="rating-wrapper" aria-label="1 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:20%"></span></span><a class="rating-text" href="https://monerica.com/site/wagyu-xyz#review-532"> 1/5</a></span>
+    — I wan&#x2019;t to update my review from poor to bad because now I can&#x2019;t even withdraw from Wagyu. It says&#x2026;
+</li>
+<li>
+    <i>2026-04-30</i>
+    &#9989; <a href="https://monerica.com/site/wagyu-xyz">Wagyu.xyz</a>&nbsp;
+    
+         — <span class="rating-wrapper" aria-label="2 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:40%"></span></span><a class="rating-text" href="https://monerica.com/site/wagyu-xyz#review-531"> 2/5</a></span>
+    — I was disappointed with the 2% withdrawal fees if you want to bridge out your XMR1 from Hyperliquid.&#x2026;
+</li>
+<li>
+    <i>2026-04-29</i>
+    <a href="https://monerica.com/site/anon-raffle">Anon Raffle</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/is.png" alt="Flag of Iceland" title="Iceland">
+     <span class="review-tags"><span class="badge bg-info">$200-500</span><span class="badge bg-success">Verified Order</span></span>
+         — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/anon-raffle#review-530"> 5/5</a></span>
+    — Xenu mentioned this on his show a few days ago (I listen every week), so I figured I&#x27;d give it a&#x2026;
+</li>
+<li>
+    <i>2026-04-29</i>
+    &#9989; <a href="https://monerica.com/site/changee">Changee</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/nl.png" alt="Flag of Netherlands" title="Netherlands">
+    
+         — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/changee#review-529"> 5/5</a></span>
+    — Amazing service! Fast and accurate exchange. Thank you! I definitely recommend this exchanger to&#x2026;
+</li>
+<li>
+    <i>2026-04-28</i>
+    &#9989; <a href="https://monerica.com/site/comcash-cc">Comcash.cc</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/ru.png" alt="Flag of Russia" title="Russia">
+    
+         — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/comcash-cc#review-528"> 5/5</a></span>
+    — A good exchange; they did everything right&#x2014;I exchanged XMR for USDT
+</li>
+<li>
+    <i>2026-04-28</i>
+    &#9989; <a href="https://monerica.com/site/quickex">QuickEx</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/sc.png" alt="Flag of Seychelles" title="Seychelles">
+    
+         — <span class="rating-wrapper" aria-label="1 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:20%"></span></span><a class="rating-text" href="https://monerica.com/site/quickex#review-517"> 1/5</a></span>
+    — My ETH  &gt; XMR transaction got stuck. I only found out what the issue was after contacting support.&#x2026;
+    <br>
+    &nbsp;&nbsp;↩ <em>Reply:</em> Thank you so much for sharing your experience in such detail. We&#x27;re truly sorry for the stress and&#x2026;
+</li>
+<li>
+    <i>2026-04-28</i>
+    <a href="https://monerica.com/site/yifi">YiFi</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/pa.png" alt="Flag of Panama" title="Panama">
+     <span class="review-tags"><span class="badge bg-info">$200-500</span><span class="badge bg-success">Verified Order</span></span>
+         — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/yifi#review-526"> 5/5</a></span>
+    — Useful aggregator. Found trusted exchangers I&#x27;ve used before. Tested it - overall satisfied.
+</li>
+<li>
+    <i>2026-04-27</i>
+    &#9989; <a href="https://monerica.com/site/xmrbazaar">XMRBazaar</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/us.png" alt="Flag of United States" title="United States">
+    
+         — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/xmrbazaar#review-525"> 5/5</a></span>
+    — The marketplace is really quite good. Escrow and bonds help to solve trust between parties and the&#x2026;
+</li>
+<li>
+    <i>2026-04-27</i>
+    &#10067; <a href="https://monerica.com/site/rebex">REBEX</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/ru.png" alt="Flag of Russia" title="Russia">
+    
+         — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/rebex#review-524"> 5/5</a></span>
+    — Thank you! Everything was very fast. The support was responsive and competent. I am satisfied with&#x2026;
+</li>
+<li>
+    <i>2026-04-27</i>
+    <a href="https://monerica.com/site/dex-fo">DEX.fo</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/ru.png" alt="Flag of Russia" title="Russia">
+     <span class="review-tags"><span class="badge bg-info">$1K-5K</span><span class="badge bg-success">Verified Order</span></span>
+         — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/dex-fo#review-523"> 5/5</a></span>
+    — Quick and easy!  Swapped my BTC for USDT ERC20, first time using this service and I was pleasantly&#x2026;
+</li>
+<li>
+    <i>2026-04-25</i>
+    <a href="https://monerica.com/site/shapebtc">ShapeBTC</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/ru.png" alt="Flag of Russia" title="Russia">
+    
+         — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/shapebtc#review-521"> 5/5</a></span>
+    — Thanks! Everything is fine, fast, reliable, a good course.
+</li>
+<li>
+    <i>2026-04-25</i>
+    <a href="https://monerica.com/site/tomboi-io">tomboi.io</a>&nbsp;
+     <span class="review-tags"><span class="badge bg-success">Verified Order</span></span>
+         — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/tomboi-io#review-520"> 5/5</a></span>
+    — Good service, working smooth, did a quick swap - guys had a btt escrow so it kinda safe. good luck!
+</li>
+<li>
+    <i>2026-04-24</i>
+    <a href="https://monerica.com/site/xenaps">Xenaps</a>&nbsp;
+    
+         — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/xenaps#review-519"> 5/5</a></span>
+    — Never had an issue with delays personally. Always reliable.
+</li>
+<li>
+    <i>2026-04-23</i>
+    <a href="https://monerica.com/site/dex-fo">DEX.fo</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/ru.png" alt="Flag of Russia" title="Russia">
+    
+         — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/dex-fo#review-518"> 5/5</a></span>
+    — Great tool for anyone who needs to permanently break the transaction trail. I specifically tested&#x2026;
+</li>
+<li>
+    <i>2026-04-23</i>
+    &#9989; <a href="https://monerica.com/site/quickex">QuickEx</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/sc.png" alt="Flag of Seychelles" title="Seychelles">
+     <span class="review-tags"><span class="badge bg-warning text-dark">KYC Issue</span></span>
+         — <span class="rating-wrapper" aria-label="1 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:20%"></span></span><a class="rating-text" href="https://monerica.com/site/quickex#review-517"> 1/5</a></span>
+    — My ETH  &gt; XMR transaction got stuck. I only found out what the issue was after contacting support.&#x2026;
+</li>
+<li>
+    <i>2026-04-23</i>
+    <a href="https://monerica.com/site/dex-fo">DEX.fo</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/ru.png" alt="Flag of Russia" title="Russia">
+    
+         — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/dex-fo#review-516"> 5/5</a></span>
+    — Exploit.in Username: OlegMega  I really liked this exchange; there are almost no alternatives to it&#x2026;
+</li>
+<li>
+    <i>2026-04-23</i>
+    <a href="https://monerica.com/site/dex-fo">DEX.fo</a>&nbsp;<img class="country-flag" src="https://monerica.com/images/flags/ru.png" alt="Flag of Russia" title="Russia">
+    
+         — <span class="rating-wrapper" aria-label="5 out of 5 stars"><span class="stars"><span class="stars-fill" style="width:100%"></span></span><a class="rating-text" href="https://monerica.com/site/dex-fo#review-514"> 5/5</a></span>
+    — Exchanged Bitcoin for Monero &#x2014; everything went smoothly. The rate was locked in immediately, and the&#x2026;
+</li>
             </ul>
     </div>
 
