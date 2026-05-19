@@ -248,12 +248,6 @@ You only need a key.
       <pubDate>Mon, 04 May 2026 11:49:03 GMT</pubDate>
     </item>
     <item>
-      <title>Lurk</title>
-      <link>https://lurk.st</link>
-      <description>Exchanges &gt; Aggregators : Non-custodial cross-chain swap aggregator. No registration, no KYC, no data collection. - Note: XMR swaps route natively through THORChain. No freeze possible regardless of amount.</description>
-      <pubDate>Mon, 04 May 2026 11:33:09 GMT</pubDate>
-    </item>
-    <item>
       <title>LibreGuide</title>
       <link>https://libre.guide</link>
       <description>Non-Profits &gt; Media : The guide to independent news. - Processor: MoneroPay</description>
@@ -633,12 +627,6 @@ See whether it requires KYC before you sign up.</description>
       <pubDate>Sun, 05 Apr 2026 15:42:59 GMT</pubDate>
     </item>
     <item>
-      <title>&amp;#x274C; Monero multiplier</title>
-      <link>https://www.xmrpyramid.us/</link>
-      <description>Businesses &gt; Gambling : Multiply your XMR by 7x entering a pyramid structure that pays out automatically after 11 investors enter behind you. Currently 4 tiers ranging from .01 XMR to 5 XMR. - Note: This is a ponzi scheme, this is a well known type of scam and it is not sustainable, so someone will always lose money. - Processor: Direct to wallet - Contact: @xmrpyramid</description>
-      <pubDate>Sun, 05 Apr 2026 15:42:20 GMT</pubDate>
-    </item>
-    <item>
       <title>XCancel</title>
       <link>https://xcancel.com</link>
       <description>Non-Profits &gt; Technologies : Twitter/X frontend focused on privacy and performance. Free, open-source, no account, no JavaScript, no ads. - Note: Nitter instance</description>
@@ -649,6 +637,18 @@ See whether it requires KYC before you sign up.</description>
       <link>https://pyro.host</link>
       <description>Web Hosting &gt; Gaming Servers : IaaS provider offering game server hosting, virtual private servers, and dedicated servers, incorporated in Delaware. - Note: We comply with local law enforcement and forward DMCA requests directly to customers. We are not a bulletproof host. - Location: Delaware - Processor: Custom - Contact: X: @withpyro, Bluesky: @pyro.host, support tickets available on portal.</description>
       <pubDate>Fri, 03 Apr 2026 17:00:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bitcoin.com Checkout</title>
+      <link>https://checkout.bitcoin.com/</link>
+      <description>Merchant Services &gt; Integrations : Accept crypto payments in seconds.</description>
+      <pubDate>Fri, 03 Apr 2026 15:47:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>404.cash</title>
+      <link>https://404.cash/</link>
+      <description>Exchanges &gt; Instant Swaps : Add a privacy-first crypto swap widget to any website in 30 seconds.</description>
+      <pubDate>Thu, 02 Apr 2026 21:08:05 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; CypherGoat (sponsored)</title>
