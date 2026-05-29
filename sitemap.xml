@@ -163,6 +163,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://monerica.com/tagged/affiliate-program</loc>
+    <lastmod>2026-05-29T21:01:38+00:00</lastmod>
+    <changefreq>Weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://monerica.com/tagged/affiliate-program/page/2</loc>
+    <lastmod>2026-05-29T21:01:38+00:00</lastmod>
+    <changefreq>Weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://monerica.com/tagged</loc>
     <lastmod>2026-05-29T19:19:10+00:00</lastmod>
     <changefreq>Monthly</changefreq>
