@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>MoneroSwap.net</title>
+      <link>https://moneroswap.net/</link>
+      <description>Exchanges &gt; Instant Swaps : Non-custodial interface to swap in and out of Monero. No account, no KYC, no logs — funds are never held. Open-source frontend with a published canary and TOR service. - Contact: support@moneroswap.net</description>
+      <pubDate>Wed, 03 Jun 2026 16:35:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Nitro Eggs</title>
       <link>https://nitroeggs.com/</link>
       <description>Businesses &gt; Miscellaneous : A working free-range egg farm in Serbia. Open an account, back hens with Monero (XMR), watch the flock on a live 24/7 camera, and receive your share of egg-sale revenue.</description>
@@ -659,12 +665,6 @@ Accept Monero Instantly, without giving up custody. - Processor: Monero Gateway 
       <description>Merchant Services &gt; Open Source Projects : Self-hosted, privacy-first point of sale.
 Accept Monero payments at any business.</description>
       <pubDate>Wed, 15 Apr 2026 17:45:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>YT-DLP online</title>
-      <link>https://ytdlp.online/</link>
-      <description>Non-Profits &gt; Technologies : Download videos from various websites using yt-dlp command-line tool in browsers.</description>
-      <pubDate>Wed, 15 Apr 2026 10:26:51 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; CypherGoat (sponsored)</title>
