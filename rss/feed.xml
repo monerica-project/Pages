@@ -1,31 +1,701 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="refresh" content="15">
-  <title>Updating - app.monerica.com</title>
-  <style>
-    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-    body {
-      min-height: 100vh; display: flex; align-items: center; justify-content: center;
-      background: #0f0f0f; color: #e0e0e0;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    }
-    .card { text-align: center; padding: 3rem 2.5rem; max-width: 440px; }
-    .icon { font-size: 2.8rem; margin-bottom: 1.25rem; display: inline-block; animation: spin 3s linear infinite; }
-    @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
-    h1 { font-size: 1.5rem; font-weight: 600; margin-bottom: 0.75rem; color: #ff6600; }
-    p  { font-size: 0.95rem; line-height: 1.6; color: #aaa; }
-    .note { margin-top: 1.75rem; font-size: 0.8rem; color: #555; }
-  </style>
-</head>
-<body>
-  <div class="card">
-    <div class="icon">&#9881;</div>
-    <h1>Updating in progress</h1>
-    <p>The site is being updated and will be back shortly.</p>
-    <p class="note">This page refreshes automatically every 15 seconds.</p>
-  </div>
-</body>
-</html>
+<rss version="2.0">
+  <channel>
+    <title>Monerica - Newest and Sponsored Listings</title>
+    <link>https://monerica.com/rss/feed.xml</link>
+    <description>The latest additions and sponsors in our directory.</description>
+    <image url="https://monerica.com/images/monerica-logo.png" />
+    <item>
+      <title>&amp;#x2705; GhostSwap (sponsored)</title>
+      <link>https://ghostswap.io/?utm_source=monerica</link>
+      <description>Exchanges &gt; Instant Swaps : Anonymous Crypto Exchange – No KYC Crypto Swap. 1,600+ supported coins, a fast, private, and hassle-free way to exchange crypto on your own terms. - Contact: https://t.me/GhostSwap1</description>
+      <pubDate>Fri, 12 Jun 2026 08:59:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dex.CR</title>
+      <link>https://dex.cr</link>
+      <description>Exchanges &gt; Instant Swaps : Instant privacy-oriented XMR exchange. Own liquidity pools, no 3rd parties.</description>
+      <pubDate>Fri, 05 Jun 2026 12:10:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2753; mone.so</title>
+      <link>https://mone.so</link>
+      <description>Exchanges &gt; Peer-to-Peer Exchanges : Peer to peer market - Note: Claims to be from 2025</description>
+      <pubDate>Wed, 03 Jun 2026 17:00:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2753; Nitro Eggs</title>
+      <link>https://nitroeggs.com/</link>
+      <description>Businesses &gt; Miscellaneous : A working free-range egg farm in Serbia. Open an account, back hens with Monero (XMR), watch the flock on a live 24/7 camera, and receive your share of egg-sale revenue. - Note: unclear if it's economically viable</description>
+      <pubDate>Tue, 02 Jun 2026 14:40:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>bespale</title>
+      <link>https://bespale.com</link>
+      <description>VPNs &gt; Global / Unspecified : No-logs doubleVPN, de-Googled secure smartphone, bootable encrypted privacy-OS SSD, personals messengers and private email. No account required to order. - Processor: Custom - Contact: matrix - @sup:bes.spa</description>
+      <pubDate>Mon, 01 Jun 2026 20:15:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2753; Priamex</title>
+      <link>https://priamex.com/en?referral_code=Lh0bamcd</link>
+      <description>Exchanges &gt; Instant Swaps : Privacy-focused crypto exchange offering fast, secure, and confidential swaps with no unnecessary collection of personal data. - Note: reviews and rating shown on page do not match or link to actual TrustPilot page - Contact: https://t.me/Priamex_support</description>
+      <pubDate>Mon, 01 Jun 2026 13:40:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bitania - P2P</title>
+      <link>https://p2p.bitania.com/</link>
+      <description>Exchanges &gt; Peer-to-Peer Exchanges : Trade globally with complete privacy. No KYC. No limits. No surveillance.</description>
+      <pubDate>Sun, 31 May 2026 20:36:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bitania - Swap</title>
+      <link>https://bitania.com/swap</link>
+      <description>Exchanges &gt; Instant Swaps : Account-less, non-custodial. Swap crypto in minutes.</description>
+      <pubDate>Sun, 31 May 2026 20:16:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bitania - CEX (sponsored)</title>
+      <link>https://bitania.com</link>
+      <description>Exchanges &gt; Centralized Exchanges : A fast, low-fee cryptocurrency CEX service. Trade XMR, BTC, LTC, USDT, TRX on live books. - Processor: Custom - Contact: t.me/BitaniaNews</description>
+      <pubDate>Sun, 31 May 2026 18:16:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x274C; 0xSwap</title>
+      <link>https://0xswap.cc/</link>
+      <description>Exchanges &gt; Instant Swaps : No KYC. No registration. No IP logs.
+Swap Monero, Bitcoin, and 100+ assets — better rates, faster fills, zero trail. You trade. - Note: engaged in XSS attack to change listing status - Contact: @oxswapsupport</description>
+      <pubDate>Sun, 31 May 2026 17:50:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2705; XMR.WIN</title>
+      <link>https://xmr.win/register?ref=x7F79EID</link>
+      <description>Businesses &gt; Gambling : Monero Prediction Market - Zero KYC - Deposit any crypto - API/MCP for agents - Processor: Custom - Contact: support@xmr.win</description>
+      <pubDate>Sat, 30 May 2026 13:45:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2753; Pryvero.net</title>
+      <link>https://pryvero.net/</link>
+      <description>Cards &gt; Prepaid Cards : Spend Your Crypto.
+Privately. Effortlessly.
+Fund your account with 100+ cryptocurrencies. Get a virtual card instantly. Pay anywhere—online or in-store. - Note: Connection to scam site nokyc.cards - Processor: Cryptomus - Contact: https://t.me/pryvero</description>
+      <pubDate>Sat, 30 May 2026 12:48:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>IronSwaps</title>
+      <link>https://ironswaps.org</link>
+      <description>Exchanges &gt; Instant Swaps : No-KYC instant crypto swap service. No registration, no email required. Supports XMR as both input and output. High AML mode available which routes output directly to XMR. - Contact: t.me/jolyIrony on telegram</description>
+      <pubDate>Sat, 30 May 2026 12:47:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>n.exchange</title>
+      <link>https://n.exchange/swap-now</link>
+      <description>Exchanges &gt; Instant Swaps : Swap your crypto instantly with an average delivery time of 5 minutes.</description>
+      <pubDate>Fri, 29 May 2026 19:19:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2705; xChange.me (sponsored)</title>
+      <link>https://xchange.me</link>
+      <description>Exchanges &gt; Instant Swaps : No kyc instant exchange since 2017. Tor mirror, CLI client, fully anonymous, private and safe. - Contact: @xchange_me_</description>
+      <pubDate>Fri, 29 May 2026 08:15:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Skylight Wallet (Desktop)</title>
+      <link>https://github.com/MAGICGrants/skylight-wallet#desktop</link>
+      <description>Wallets &gt; Desktop Wallets : A modern, open-source, and self-custody Monero light-wallet.</description>
+      <pubDate>Thu, 28 May 2026 21:45:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Plaintext</title>
+      <link>https://www.youtube.com/playlist?list=PL2wKfEDXGglu27lvnjr6VjhAIkWOm0ZNM</link>
+      <description>Education &gt; Knowledge : A podcast that covers interesting security and privacy related topics in the cryptocurrency ecosystem, especially for Monero.</description>
+      <pubDate>Thu, 28 May 2026 21:45:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2753; Fastexer</title>
+      <link>https://fastexer.com/</link>
+      <description>Exchanges &gt; Miscellaneous : Exchange using various payment methods. - Note: Reports of bad exchange rates</description>
+      <pubDate>Thu, 28 May 2026 14:28:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crow</title>
+      <link>http://crowanavoa5jrmcvafp72f5mirosab6emfurnwg7yv33oakm5obglhid.onion/</link>
+      <description>Onion Only &gt; Miscellaneous : Encrypted messages on Tor - Processor: Direct to wallet</description>
+      <pubDate>Thu, 28 May 2026 12:54:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Privacy Academy</title>
+      <link>https://privacyacademy.com/</link>
+      <description>Businesses &gt; Courses : Join the only community designed to help overwhelmed, non-techy people learn how to get private and secure online. - Processor: Over Email</description>
+      <pubDate>Thu, 28 May 2026 12:19:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>uSwap</title>
+      <link>https://uSwap.net</link>
+      <description>Exchanges &gt; Aggregators : Offers XMR to anything without KYC. Literally anything.
+
+CashApp/other fiats, 100+ Cryptos, Discord Products, Telegram Products, Mullvad B4U &amp; more being added daily. - Processor: Custom - Contact: t.me/maintenance</description>
+      <pubDate>Thu, 28 May 2026 01:40:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2705; Trocador (sponsored)</title>
+      <link>https://trocador.app</link>
+      <description>Exchanges &gt; Aggregators : A privacy-focused exchange aggregator with minimal JavaScript. - Contact: https://t.me/TrocadorSupportBot</description>
+      <pubDate>Wed, 27 May 2026 19:23:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anonkey.st</title>
+      <link>https://anonkey.st/app/</link>
+      <description>Businesses &gt; AI Services : Get 80% off OpenAI API pricing. One-click setup for Codex, OpenCode, Aider, and other popular apps. No email or JavaScript required. No minimum deposit limit</description>
+      <pubDate>Wed, 27 May 2026 11:34:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2753; ServerExpress</title>
+      <link>https://www.server.express</link>
+      <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : Dedicated &amp; VPS Servers in Stockholm, Sweden and London, UK - Note: Non functional control panel. - Processor: Custom</description>
+      <pubDate>Tue, 26 May 2026 23:38:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pep Labs Research</title>
+      <link>https://www.peplabsresearch.com</link>
+      <description>Businesses &gt; Medical/ Pharmaceutical Treatments : Pharmaceutical-grade research peptides and pharma compounds for Australian buyers. Independent Janoshik COAs at 99 percent plus purity. Crypto-only, no account required. - Note: Australia-only shipping via Australia Post Express. Customer name and address are encrypted client-side under a customer-chosen PIN; the server only stores ciphertext. Order tracking via PIN-protected page or optional Telegram bot. - Location: Melbourne, Victoria - Processor: Direct to wallet - Contact: peplabsresearch@gmail.com</description>
+      <pubDate>Tue, 26 May 2026 16:14:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Key2.com</title>
+      <link>https://key2.com/</link>
+      <description>Freelancers &gt; Designers : A bespoke freelancing service providing a range of digital solutions—from SEO, AEO, and website design, to social media management, graphic design. - Contact: https://www.instagram.com/key2.com_uk/</description>
+      <pubDate>Tue, 26 May 2026 10:12:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>ArkonSwap</title>
+      <link>https://arkonswap.com</link>
+      <description>Exchanges &gt; Instant Swaps : Cross-chain crypto swaps with genuine privacy. No KYC, no registration. Swap BTC, ETH, SOL, XMR and more. Non-custodial. - Note: Fee service : 0.5% - Contact: @ArkonSwap</description>
+      <pubDate>Mon, 25 May 2026 13:38:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Phantom AI</title>
+      <link>https://phantom.codes/</link>
+      <description>Businesses &gt; AI Services : OpenAI-compatible API proxy for AI inference. No accounts, no email, no logs. - Note: Source code release planned. PGP key at /pgp.txt. - Processor: Direct to wallet - Contact: 09654A79076956E6042D11946296DEC4E954FC76 PGP</description>
+      <pubDate>Mon, 25 May 2026 13:35:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>nodo austral</title>
+      <link>https://nodoaustral.ar</link>
+      <description>Businesses &gt; IT Services : Industrial monitoring and control. Dashboards with data from systems and equipment, automatic alerts when something goes out of range, and remote control from anywhere. - Note: Spanish language - Location: Balcarce – Mar del Plata - Processor: Trocador</description>
+      <pubDate>Sun, 24 May 2026 22:25:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Label Drop</title>
+      <link>https://droplabel.shop/</link>
+      <description>Businesses &gt; Postage &amp; Shipping Services : No KYC fill in your shipment details, and receive your approved prepaid shipping label with all duties paid. End to end labels are issued through active business accounts. - Processor: NOWPayments - Contact: https://t.me/droplabel#</description>
+      <pubDate>Sun, 24 May 2026 21:17:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>CypherGoat SimpleX Chat Bot</title>
+      <link>https://cyphergoat.com/simplex-bot</link>
+      <description>Exchanges &gt; Bots : Non-custodial crypto swap aggregator via SimpleX Chat. Swap BTC, XMR, ETH and many more across 20+ exchange partners with no account, no KYC, and no IP logging. Monero-first.</description>
+      <pubDate>Sun, 24 May 2026 12:59:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>XMR Plinko</title>
+      <link>http://xmrplinko.com/</link>
+      <description>Businesses &gt; Gambling : No KYC. No bullshit. No accounts. Drop the ball, win Monero. Provably fair Plinko you can verify yourself, so bring your own wallet and send it. - Processor: Direct to wallet - Contact: info@xmrplinko.com</description>
+      <pubDate>Sun, 24 May 2026 11:12:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2753; Mistex</title>
+      <link>https://mistex.io</link>
+      <description>Exchanges &gt; Instant Swaps : Privacy-first cryptocurrency exchange Without Limits. No KYC. No logs. No signup process. 400+ XMR Pairs with Instant Processing. Trade using Telegram Bot - @mistex_bot 1-2% FEE / 24/7 - Note: misrepresented swap totals on site, may use CEX for some routes, lied to users - Contact: https://mistex.io/contact</description>
+      <pubDate>Sat, 23 May 2026 15:45:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2753; Expeer</title>
+      <link>https://expeer.io/</link>
+      <description>Exchanges &gt; Instant Swaps : Fast, secure, and fully automated crypto-to-crypto exchange. No registration required. Non-custodial instant swaps with competitive rates. - Note: Emails aren’t sending - Contact: @Ex_peer</description>
+      <pubDate>Sat, 23 May 2026 11:06:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>xmr.club</title>
+      <link>https://xmr.club/</link>
+      <description>Other Directories &gt; Business Directories : No-KYC services for the Monero economy</description>
+      <pubDate>Fri, 22 May 2026 11:28:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>IR Eyewear</title>
+      <link>https://ireyewear.com/</link>
+      <description>Businesses &gt; Clothing, Apparel &amp; Accessories : Makes infrared-blocking glasses for people who take their privacy seriously. - Processor: Direct To Wallet - Contact: shop@ireyewear.com Signal: @IReyewear.01</description>
+      <pubDate>Wed, 20 May 2026 20:54:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2705; Coincards (sponsored)</title>
+      <link>https://coincards.com/us/</link>
+      <description>Cards &gt; Gift &amp; Prepaid Cards : Gift cards from hundreds of top brands, including Amazon, Walmart, Airbnb, Uber, DoorDash, Home Depot, and even Visa or Amex cards, with values up to $2,000. - Location: Surrey, B.C. - Processor: BTCPay Server</description>
+      <pubDate>Wed, 20 May 2026 16:39:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2753; GhostSwap.app</title>
+      <link>https://www.ghostswap.app/</link>
+      <description>Exchanges &gt; Instant Swaps : A privacy-focused crypto swap platform built to simplify cross-chain asset exchange - Note: Possible attempt at impersonation of existing GhostSwap service. Listed "partners" have no association with project, highly suspicious. - Location: Berlin - Processor: Custom - Contact: techaddict0x</description>
+      <pubDate>Wed, 20 May 2026 12:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ping192</title>
+      <link>https://ping192.sbs</link>
+      <description>Businesses &gt; IT Services : Delivers elite red teaming, adversary emulation, and penetration testing services. Authorized offensive security for organizations that have more complex requests. - Location: New York</description>
+      <pubDate>Wed, 20 May 2026 01:07:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monero Space - Blockchain Explorer</title>
+      <link>https://monerospace.org/</link>
+      <description>Utilities &gt; Blockchain Explorers : A fork of mempool.space retargeted to Monero. It surfaces what the chain alone proves — height, hashrate, mempool, fee tiers, ring information, RingCT type — and stops there.</description>
+      <pubDate>Tue, 19 May 2026 20:33:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Skytelecom.io</title>
+      <link>https://skytelecom.io</link>
+      <description>Businesses &gt; Phone Plans, SMS &amp; SIM Cards : SMS and VoIP infrastructure for global teams. Allow customers to make international calls and send global sms freely with no restrictions. - Processor: Custom - Contact: @skytelecom_io on telegram</description>
+      <pubDate>Tue, 19 May 2026 18:30:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2705; Malad Valley Marathon</title>
+      <link>https://maladvalleymarathon.com</link>
+      <description>Businesses &gt; Fitness : The first marathon to accept XMR directly for entry fees. Run through the scenic and historic Malad Valley. Established in 1884, it is one of Idaho's oldest towns. - Note: race on September 12, 2026, sponsored by Monerica - Location: Malad City, Idaho - Processor: Monero Gateway</description>
+      <pubDate>Tue, 19 May 2026 01:38:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>KycNotList</title>
+      <link>https://kycnotlist.com</link>
+      <description>Other Directories &gt; Crypto Exchanges : A No KYC / No AML crypto exchanger and mixer monitor for users who value privacy, transparency, and safer swaps. - Contact: kycnotlist@proton.me</description>
+      <pubDate>Tue, 19 May 2026 00:21:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>XMRMatters</title>
+      <link>https://xmrmatters.space</link>
+      <description>Exchanges &gt; Peer-to-Peer Exchanges : A privacy-first, desktop-optimized P2P exchange built from scratch to restore surveillance-free Monero trading with zero KYC and hardened escrow. - Note: Uses stagenet. - Processor: Custom - Contact: @XMRMatters</description>
+      <pubDate>Mon, 18 May 2026 17:45:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2753; Hire a Hacker Pro</title>
+      <link>https://hireahacker.pro</link>
+      <description>Businesses &gt; IT Services : Providing professional services since 2008 such as asset recovery, offensive tactical cybersecurity, mobile data extraction and more. - Note: claims to be from 2008, but domain register in 2019 - Location: Phoenix, AZ - Contact: @tonycapo Telegram</description>
+      <pubDate>Sun, 17 May 2026 01:57:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x274C; Btc Bullions</title>
+      <link>https://btcbullions.com</link>
+      <description>Businesses &gt; Precious Metals : Marketplace for buying certified physical precious metals — shipped discreetly to your door worldwide. - Note: Falsified registration date and uses fake Trustpilot reviews on their site to seem credible. - Processor: BTCPay Server</description>
+      <pubDate>Fri, 15 May 2026 15:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daylight Freedom</title>
+      <link>https://daylightfreedom.org/</link>
+      <description>Non-Profits &gt; Media : We expose the technocracy taking your money, your health, your speech, and your privacy.</description>
+      <pubDate>Fri, 15 May 2026 00:40:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>ipay24</title>
+      <link>https://ipay24.org/</link>
+      <description>Exchanges &gt; Instant Swaps : We make cryptocurrency exchanges simple and straightforward, minimizing the number of steps so you can receive your funds quickly and conveniently. - Contact: t.me/ipay24ex</description>
+      <pubDate>Thu, 14 May 2026 19:18:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Accrescent</title>
+      <link>https://accrescent.app/</link>
+      <description>Non-Profits &gt; Technologies : A novel Android app store focused on security, privacy, and usability. - Processor: Direct to wallet</description>
+      <pubDate>Thu, 14 May 2026 10:07:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2705; Strike (sponsored)</title>
+      <link>https://clientarea.strike.bz/link.php?id=17</link>
+      <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : High performance VPS hosting. Servers available in Poland, USA, and Singapore. - Note: Doesn’t verify invoice data - Location: USA Texas; NJ, Poland, Singapore - Processor: Trocador - Contact: support@strike.bz</description>
+      <pubDate>Wed, 13 May 2026 19:02:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monero Order Book</title>
+      <link>https://monero-orderbooks.com/</link>
+      <description>Exchanges &gt; Miscellaneous : BTC/ XMR order book for decentralized exchanges</description>
+      <pubDate>Wed, 13 May 2026 16:15:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2753; Jink Host</title>
+      <link>https://jink.host</link>
+      <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : High-performance Proxmox VPS hosting, dedicated servers &amp; cloud storage with AMD Ryzen, EPYC &amp; Intel Xeon hardware in USA &amp; Europe. Budget VPS from $0.99/mo. - Note: Appears to be using nulled/pirated WHMCS which may not be secure or up to date. Doesn’t correspond using official domain. - Processor: Heleket - Contact: admin@jink.host | @JinkHost_Admin Telegram | @Jink Discord</description>
+      <pubDate>Wed, 13 May 2026 01:23:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2705; SageSwap (sponsored)</title>
+      <link>https://sageswap.io/</link>
+      <description>Exchanges &gt; Instant Swaps : Never KYC, No AML, No Login, and No JavaScript. Fast and private swap service. - Note: 1-2% FEE | 24/7 - Contact: https://SageSwap.io/Support</description>
+      <pubDate>Wed, 13 May 2026 00:15:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opt Out</title>
+      <link>https://optoutpod.com/</link>
+      <description>Non-Profits &gt; Media : Privacy focused podcast</description>
+      <pubDate>Tue, 12 May 2026 17:43:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>monero.you</title>
+      <link>https://monero.you/</link>
+      <description>Communities &gt; Forums : A Lemmy instance for Monero community - Contact: admin@monero.you</description>
+      <pubDate>Tue, 12 May 2026 14:10:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crypto Agorism</title>
+      <link>https://cryptoagorism.github.io/</link>
+      <description>Media &gt; Miscellaneous : Free markets for a free world - Processor: Direct to wallet</description>
+      <pubDate>Tue, 12 May 2026 02:13:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x274C; Red Mercury Vault</title>
+      <link>https://redmercuryvault.com/</link>
+      <description>Businesses &gt; Miscellaneous : A premier, research-driven materials enterprise operating at the forefront of advanced energy substrates and high-density catalytic compounds within the Industrial Sector. - Note: Red mercury is a discredited substance, most likely a hoax perpetrated by con artists who sought to take advantage of gullible buyers on the black market for arms.</description>
+      <pubDate>Sun, 10 May 2026 16:18:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>PikaSim</title>
+      <link>https://pikasim.com</link>
+      <description>Businesses &gt; Phone Plans, SMS &amp; SIM Cards : Travel eSIMs for 190+ countries. No account, email, name, address, or ID required. Web-based with mobile apps for iOS and Android. Anonymous top-ups via ICCID or order number. - Note: Monero accepted natively (not converted). - Location: Denver, CO - Processor: BTCPay Server - Contact: @PikaSim_esim</description>
+      <pubDate>Sun, 10 May 2026 03:26:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fsky</title>
+      <link>https://fsky.io/</link>
+      <description>Non-Profits &gt; Technologies : Instances of frontend services</description>
+      <pubDate>Sat, 09 May 2026 20:18:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>sshwap</title>
+      <link>https://www.sshwap.com/</link>
+      <description>Exchanges &gt; Instant Swaps : Exchange crypto from your terminal - Note: uses ChangeNow API</description>
+      <pubDate>Sat, 09 May 2026 16:22:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stock Enthusiasts</title>
+      <link>https://stockenthusiasts.com/</link>
+      <description>Businesses &gt; Membership : Group buy: access to top paid investing groups &amp; newsletters for a fraction of the original price - Location: Berlin - Processor: Monero Gateway - Contact: https://t.me/dedmoroz911</description>
+      <pubDate>Fri, 08 May 2026 16:44:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloudzy</title>
+      <link>https://cloudzy.com/</link>
+      <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : AI-ready cloud servers on the latest AMD EPYC and pure NVMe. - Processor: Cryptomus</description>
+      <pubDate>Fri, 08 May 2026 15:19:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2705; Silent Exchange (sponsored)</title>
+      <link>https://silent.exchange</link>
+      <description>Exchanges &gt; Instant Swaps : Fast &amp; Anonymous Crypto to Crypto Swaps. No email. No KYC.Trade-in Minutes. 1500+ Crypto Pairs 24/7/365 Service Fee starting from 1%. - Note: Trade using Telegram Bot - @silentexchangerobot - Contact: Telegram: @silentexchange Email: silentexchange@protonmail.com</description>
+      <pubDate>Thu, 07 May 2026 12:57:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monero Stats</title>
+      <link>https://monerostats.org/</link>
+      <description>Media &gt; Miscellaneous : An aggregate of payment usage data released by businesses that accept Monero.</description>
+      <pubDate>Thu, 07 May 2026 10:41:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>MoneroWire</title>
+      <link>https://monerowire.com/</link>
+      <description>Media &gt; News (English) : Financial privacy news for people who think it matters.</description>
+      <pubDate>Thu, 07 May 2026 09:28:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Privata</title>
+      <link>https://privataswap.com/#/swap</link>
+      <description>Exchanges &gt; Aggregators : Exchange crypto across 50+ providers. Sort by KYC, rate, speed, or fee, and pick what matters to you.</description>
+      <pubDate>Wed, 06 May 2026 18:54:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Rage</title>
+      <link>https://www.therage.co/</link>
+      <description>Non-Profits &gt; Media : An independent publication covering financial surveillance. Privacy is not a crime.</description>
+      <pubDate>Wed, 06 May 2026 13:06:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Disroot</title>
+      <link>https://disroot.org/</link>
+      <description>Non-Profits &gt; Technologies : A platform providing online services based on principles of freedom, privacy, federation and decentralization. Email and file storage.</description>
+      <pubDate>Wed, 06 May 2026 09:50:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monero Deutschsprachig</title>
+      <link>https://smp19.simplex.im/g#4yjC-qvEeTciqVr2WIctrKbZ9P_6fjW4fQdY8eF2TtI</link>
+      <description>Communities &gt; SimpleX : Monero German-Speaking SimpleX group</description>
+      <pubDate>Tue, 05 May 2026 21:34:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2753; Miradex</title>
+      <link>https://miradex.io/</link>
+      <description>Exchanges &gt; Decentralized Exchanges : Swap Across 50+ blockchains via Atomic Swap, THORChain, Chainflip, and Near-Intents all without KYC - Note: User reported slow protocol with refund due to beta bug, or possibly only being refunded due to escalation. - Contact: https://t.me/superuser</description>
+      <pubDate>Tue, 05 May 2026 18:09:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>crocuda_vps</title>
+      <link>https://crocuda.com</link>
+      <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : A VPS provider accessible from your terminal.
+No registration form.
+You only need a key.
+-&gt; `ssh crocuda.com`</description>
+      <pubDate>Tue, 05 May 2026 14:24:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Escrow0</title>
+      <link>https://escrow.birojasa.biz.id/</link>
+      <description>Exchanges &gt; Peer-to-Peer Exchanges : Protects buyers and sellers with a simple flow: lock funds, verify delivery, then release securely. - Contact: https://X.com/trinaldao</description>
+      <pubDate>Tue, 05 May 2026 12:07:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>KingSMTP.com</title>
+      <link>https://kingsmtp.com/</link>
+      <description>Businesses &gt; Digital Goods/ Services : Fast, private, and reliable SMTP for businesses.   No KYC required. Up and running in 2 minutes.</description>
+      <pubDate>Mon, 04 May 2026 21:27:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x274C; EasyCCV</title>
+      <link>https://easyccv.com/</link>
+      <description>Cards &gt; Prepaid Cards : No KYC Virtual prepaid Mastercard Card. Apple Pay supported. - Note: report of scam and bad card number - Processor: Custom</description>
+      <pubDate>Mon, 04 May 2026 21:19:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>0trace</title>
+      <link>https://0trace.io/</link>
+      <description>Exchanges &gt; Instant Swaps : Instant private cryptocurrency exchange service. Built for fast cross-network exchange with no logs and tracking. - Processor: Custom - Contact: https://x.com/notifications</description>
+      <pubDate>Mon, 04 May 2026 12:28:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>WTF is XMR?</title>
+      <link>https://wtfisxmr.lol/</link>
+      <description>Education &gt; Guides : Complete Monero Privacy Guide</description>
+      <pubDate>Mon, 04 May 2026 11:49:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>LibreGuide</title>
+      <link>https://libre.guide</link>
+      <description>Non-Profits &gt; Media : The guide to independent news. - Processor: MoneroPay</description>
+      <pubDate>Sun, 03 May 2026 22:22:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Diyar Ciftci Node</title>
+      <link>https://xmr.diyarciftci.xyz/</link>
+      <description>Nodes &gt; Public Remote Nodes &amp; Operators : Public Monero node. - Contact: diyarciftci@protonmail.com</description>
+      <pubDate>Sun, 03 May 2026 10:26:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>OzPeps</title>
+      <link>https://www.ozpeps.is</link>
+      <description>Businesses &gt; Medical/ Pharmaceutical Treatments : Research-grade peptides for Australian researchers. COA-verified products including BPC-157, GHK-Cu, MOTS-C, Retatrutide and more. Express Post shipping. XMR payment no KYC - Processor: BTCPay Server - Contact: support@ozpeps.is</description>
+      <pubDate>Sat, 02 May 2026 23:40:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shadowdesk.io</title>
+      <link>https://shadowdesk.io/</link>
+      <description>Exchanges &gt; Instant Swaps : Non-custodial swap aggregator routing assets through Monero (XMR) to enhance transaction privacy. - Note: disable Shadow Route for XMR swap</description>
+      <pubDate>Sat, 02 May 2026 20:31:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>RetaLABS</title>
+      <link>https://www.retalabs.is</link>
+      <description>Businesses &gt; Medical/ Pharmaceutical Treatments : Australian-owned online store supplying research-grade lyophilised peptides to researchers and laboratories. Ships Australia-wide via Express Post. - Processor: BTCPay Server - Contact: support@retalabs.is</description>
+      <pubDate>Sat, 02 May 2026 11:18:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>ProBiller</title>
+      <link>https://www.probiller.com/</link>
+      <description>Merchant Services &gt; Integrations : A secure online payment solution handling millions of transactions for innovative businesses around the world every month. - Location: 96-197 Old Nicosia-Limassol Road, Dali Industrial Zone 2540, Block 1</description>
+      <pubDate>Fri, 01 May 2026 22:22:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ava Holyass</title>
+      <link>https://www.avaholyass.com/en/ava-holyass/</link>
+      <description>Businesses &gt; Pornography &amp; Adult Products : Official adult videos, themed collections, direct bundles and private delivery. - Processor: Custom</description>
+      <pubDate>Fri, 01 May 2026 19:01:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x274C; GrifHost.com</title>
+      <link>https://www.grifhost.com</link>
+      <description>Web Hosting &gt; Domain Registration &amp; DNS Services : We offer high-quality and affordable web hosting, domain registration, email marketing services (SMTP), and RDPs. We don't require any kind of KYC verification. - Note: report of scam domain registration</description>
+      <pubDate>Fri, 01 May 2026 17:18:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Minimal.Blog</title>
+      <link>https://minimal.blog/</link>
+      <description>Businesses &gt; IT Services : Get your own minimal blog online in seconds, no complicated setup, no ads, no distractions, just blogging.</description>
+      <pubDate>Fri, 01 May 2026 16:04:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mukhost</title>
+      <link>https://mukhost.com/</link>
+      <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : A UK-based hosting company committed to delivering powerful, secure, and affordable hosting service. - Processor: Cryptomus</description>
+      <pubDate>Wed, 29 Apr 2026 11:36:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monero Avg. Transaction Fee historical chart</title>
+      <link>https://bitinfocharts.com/comparison/monero-transactionfees.html</link>
+      <description>Utilities &gt; Transactions : Average transaction fee, USD</description>
+      <pubDate>Tue, 28 Apr 2026 01:27:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>PriEco</title>
+      <link>https://prieco.net/</link>
+      <description>Non-Profits &gt; Search Engines : Fair general purpose web search engine - Contact: @PriEcoSearch</description>
+      <pubDate>Mon, 27 Apr 2026 14:35:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>DNSProxy</title>
+      <link>https://dnsproxy.org/</link>
+      <description>Businesses &gt; Proxies : DDoS protection - Location: Buenos Aires, 9821, Dupler - Processor: NOWPayments</description>
+      <pubDate>Fri, 24 Apr 2026 19:09:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>CryptoZapravka</title>
+      <link>https://crypto-zapravka.com/</link>
+      <description>Exchanges &gt; Instant Swaps : Service for fast and secure exchange of electronic currencies.</description>
+      <pubDate>Fri, 24 Apr 2026 15:09:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qubicall</title>
+      <link>https://qubicall.com</link>
+      <description>Businesses &gt; Phone Plans, SMS &amp; SIM Cards : International phone calls at a fraction of the carrier's price. - Processor: OxaPay</description>
+      <pubDate>Fri, 24 Apr 2026 11:17:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monero Merchant</title>
+      <link>https://github.com/Monero-Merchant/monero-merchant</link>
+      <description>Merchant Services &gt; Open Source Projects : FOSS Monero Point of Sale (POS) Android App - Contact: https://github.com/ajs-xmr</description>
+      <pubDate>Thu, 23 Apr 2026 18:20:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monero Coalition</title>
+      <link>https://monerocoalition.org/</link>
+      <description>Non-Profits &gt; Activism : Group dedicated to advancing the adoption of Monero.</description>
+      <pubDate>Thu, 23 Apr 2026 17:57:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>XMRpriced</title>
+      <link>https://xmrpriced.xyz/</link>
+      <description>Finance &gt; Price Display : A browser extension that displays XMR prices alongside USD on any online store. Shop with a Monero mindset.</description>
+      <pubDate>Wed, 22 Apr 2026 15:28:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>MoodSIM</title>
+      <link>https://moodsim.com/</link>
+      <description>Businesses &gt; Phone Plans, SMS &amp; SIM Cards : Buy, scan, connect - Processor: NOWPayments</description>
+      <pubDate>Wed, 22 Apr 2026 00:19:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>disapeer</title>
+      <link>https://disapeer.xyz/</link>
+      <description>Exchanges &gt; Messenger : A privacy-preserving on and offramp which connects to wallets.</description>
+      <pubDate>Tue, 21 Apr 2026 01:48:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Call Me HEMP</title>
+      <link>https://callmehemp.com</link>
+      <description>Businesses &gt; Medical/ Pharmaceutical Treatments : Federally Legal Cannabis – Ships Discreetly. 
+All of our products are federally legal. - Note: Save 50% off at checkout with Monero - Location: 65 Merrimon Ave #1004, Asheville NC 28801 - Processor: MyCryptoCheckout - Contact: support@callmehemp.com</description>
+      <pubDate>Sun, 19 Apr 2026 01:44:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>xmr-shop.eth</title>
+      <link>https://xmr-shop.eth.limo/</link>
+      <description>Businesses &gt; Proxy Shopping : Buy anything &amp; Pay with Monero. Thousands of products: electronics, laptops, phones audiobooks &amp; more.  No accounts, no tracking, no middlemen. Fully private. - Contact: https://xmr-shop.eth.limo/#/contact</description>
+      <pubDate>Sun, 19 Apr 2026 01:25:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monero.Software</title>
+      <link>https://monero.software</link>
+      <description>Freelancers &gt; Software Developers : I am Nolan, providing affordable development service for community.
+
+Hourly rate is 15$/h ~ 0.045 XMR/h - Note: If you are NGO, we can discuss about rate. - Location: South East Asia - ICT (UTC+7) Timezone - Processor: Direct to wallet - Contact: Email: hi@monero.software</description>
+      <pubDate>Sun, 19 Apr 2026 00:07:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2753; Secrex</title>
+      <link>https://secrex.io</link>
+      <description>Exchanges &gt; Instant Swaps : No KYC, No AML modern cryptocurrency exchange service designed with a focus on convenience, anonymity, transparency, and operational stability. - Note: Suspicious review cadence - Contact: https://t.me/secret_ex</description>
+      <pubDate>Sat, 18 Apr 2026 20:07:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Navi Land</title>
+      <link>https://navi.land</link>
+      <description>Businesses &gt; Email Providers/ Forwarders : A stable, private email service. We don't track you, we don't sell your data, and we don't annoy you with ads. We provide standard email (IMAP/SMTP) that just works.</description>
+      <pubDate>Fri, 17 Apr 2026 17:26:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2753; MoneroFlow</title>
+      <link>https://moneroflow.com</link>
+      <description>Merchant Services &gt; Open Source Projects : Comprehensive Monero POS and accounting System. Fully Open Source. XMR referral rewards system. 
+
+Accept Monero Instantly, without giving up custody. - Processor: Monero Gateway - Contact: https://docs.moneroflow.com/wiki.html</description>
+      <pubDate>Fri, 17 Apr 2026 13:24:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2705; Anon Raffle</title>
+      <link>https://anonraffle.com</link>
+      <description>Businesses &gt; Gambling : Monero based raffle with provably fair draws, low fees, and prizes including XMR payouts &amp; firearms. - Processor: Direct to wallet - Contact: https://x.com/anon_raffle</description>
+      <pubDate>Fri, 17 Apr 2026 11:32:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2705; MoneroShameList.com</title>
+      <link>https://moneroshamelist.com/</link>
+      <description>Other Directories &gt; Miscellaneous : Companies that market themselves as privacy-focused but refuse to accept Monero — the only truly private money. - Note: Sponsored by Monerica</description>
+      <pubDate>Thu, 16 Apr 2026 20:51:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>BTC Burger</title>
+      <link>https://btcburger.net/</link>
+      <description>Finance &gt; Conversion : Compares different cryptocurrencies to commodities like burgers to see how many you can get for 1 unit</description>
+      <pubDate>Thu, 16 Apr 2026 20:05:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>PrivacyOpSec</title>
+      <link>https://privacyopsec.com/</link>
+      <description>Businesses &gt; Electronics/ Computer Hardware : Crypto store for OpSec and Security gadgets - Note: 5% Monero discount</description>
+      <pubDate>Thu, 16 Apr 2026 17:51:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Swapzilla</title>
+      <link>https://swapzilla.io/</link>
+      <description>Exchanges &gt; Aggregators : Crypto swap aggregator that compares rates across multiple exchangers instantly. Enter the amount, see the best rate, and swap directly from your wallet. No registration. - Contact: https://x.com/swapzilla_io</description>
+      <pubDate>Thu, 16 Apr 2026 14:12:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>XMR Land</title>
+      <link>https://xmrland.com/directory</link>
+      <description>Other Directories &gt; Business Directories : Discover wallets, exchanges, mining tools, and services powering the Monero ecosystem.</description>
+      <pubDate>Wed, 15 Apr 2026 19:21:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2705; CypherGoat (sponsored)</title>
+      <link>https://cyphergoat.com/</link>
+      <description>Exchanges &gt; Aggregators : Non-custodial swap aggregator for private crypto exchanges. Find the best rate across trusted providers and swap instantly. - Location: Sweden</description>
+      <pubDate>Mon, 23 Mar 2026 20:12:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2705; Wagyu.xyz (sponsored)</title>
+      <link>https://wagyu.xyz/</link>
+      <description>Exchanges &gt; Instant Swaps : Seamlessly bridge assets between Monero and Hyperliquid with Wagyu.
+Private Cross-Chain Bridge.
+The first decentralized orderbook exchange supporting native XMR deposits. - Note: US &amp; UAE citizens are not welcome in using any Wagyu products. - Contact: https://t.me/PerpetualCow</description>
+      <pubDate>Mon, 02 Mar 2026 18:26:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2705; MoneroDice (sponsored)</title>
+      <link>https://monerodice.pro</link>
+      <description>Businesses &gt; Gambling : Simple, fast, privacy-respecting dice and blackjack game. Provably fair mode for dice is available too. - Contact: contact [at] monerodice.pro</description>
+      <pubDate>Sun, 22 Feb 2026 08:14:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2705; Cake Wallet (sponsored)</title>
+      <link>https://cakewallet.com</link>
+      <description>Wallets &gt; Mobile Wallets : Allows you to safely store, send, receive, and exchange your XMR, BTC, and LTC (and exchange other currencies) - Location: United States</description>
+      <pubDate>Sun, 01 Feb 2026 10:24:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>&amp;#x2705; CCE Cash (sponsored)</title>
+      <link>https://cce.cash/exchange</link>
+      <description>Exchanges &gt; Instant Swaps : This is a fully automated service that allows you to quickly exchange various cryptocurrencies such as XMR, BTC, ETH, and SOL without requiring identity verification. - Contact: https://x.com/Cce_Cash</description>
+      <pubDate>Wed, 28 Jan 2026 08:05:37 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
