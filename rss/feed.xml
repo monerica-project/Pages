@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Velotek</title>
+      <link>https://velotek.org</link>
+      <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : A small, independent hosting provider offering server administration, development solutions, and infrastructure services. Tor-Friendly, Privacy Oriented, No KYC, anonymous. - Processor: NOWPayments</description>
+      <pubDate>Sat, 20 Jun 2026 13:55:15 GMT</pubDate>
+    </item>
+    <item>
       <title>GhostVPS</title>
       <link>https://www.ghostvps.shop/</link>
       <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : Anonymous, no-KYC virtual private servers on real DigitalOcean cloud infrastructure. Accounts are token-based, with no name, ID, or bank card required. Servers deploy automati - Note: Hourly prepaid billing. Eight server locations. Managed via web panel or Telegram bot. - Contact: support@ghostvps.shop</description>
@@ -659,15 +665,6 @@ Preparing for the Mainnet - Location: Worldwide - Processor: Custom - Contact: @
       <link>https://miradex.io/</link>
       <description>Exchanges &gt; Decentralized Exchanges : Swap Across 50+ blockchains via Atomic Swap, THORChain, Chainflip, and Near-Intents all without KYC - Note: User reported slow protocol with refund due to beta bug, or possibly only being refunded due to escalation. - Contact: https://t.me/superuser</description>
       <pubDate>Tue, 05 May 2026 18:09:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>crocuda_vps</title>
-      <link>https://crocuda.com</link>
-      <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : A VPS provider accessible from your terminal.
-No registration form.
-You only need a key.
--&gt; `ssh crocuda.com`</description>
-      <pubDate>Tue, 05 May 2026 14:24:29 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; CypherGoat (sponsored)</title>
