@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>cbuy</title>
+      <link>http://cbuy.ing/</link>
+      <description>Businesses &gt; Marketplaces (Peer-to-Peer) : Real people selling real things — art, electronics, clothes, collectibles — for Bitcoin, Ethereum, Monero, and more. 4.2069% transaction fee. Built-in buyer protection.</description>
+      <pubDate>Sat, 20 Jun 2026 19:44:26 GMT</pubDate>
+    </item>
+    <item>
       <title>Velotek</title>
       <link>https://velotek.org</link>
       <description>Web Hosting &gt; VPS &amp; Dedicated Server Providers : A small, independent hosting provider offering server administration, development solutions, and infrastructure services. Tor-Friendly, Privacy Oriented, No KYC, anonymous. - Processor: NOWPayments</description>
@@ -659,12 +665,6 @@ Preparing for the Mainnet - Location: Worldwide - Processor: Custom - Contact: @
       <link>https://smp19.simplex.im/g#4yjC-qvEeTciqVr2WIctrKbZ9P_6fjW4fQdY8eF2TtI</link>
       <description>Communities &gt; SimpleX : Monero German-Speaking SimpleX group</description>
       <pubDate>Tue, 05 May 2026 21:34:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x2753; Miradex</title>
-      <link>https://miradex.io/</link>
-      <description>Exchanges &gt; Decentralized Exchanges : Swap Across 50+ blockchains via Atomic Swap, THORChain, Chainflip, and Near-Intents all without KYC - Note: User reported slow protocol with refund due to beta bug, or possibly only being refunded due to escalation. - Contact: https://t.me/superuser</description>
-      <pubDate>Tue, 05 May 2026 18:09:03 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; CypherGoat (sponsored)</title>
