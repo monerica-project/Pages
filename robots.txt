@@ -1,2 +1,20 @@
 User-agent: *
 Allow: /
+
+# Admin and management routes
+Disallow: /directoryentry/
+Disallow: /subcategory/
+Disallow: /category/create
+Disallow: /category/edit
+Disallow: /category/index
+Disallow: /admin/
+Disallow: /sponsoredlisting/create
+Disallow: /sponsoredlisting/delete/
+Disallow: /submission/index
+Disallow: /submission/pending
+Disallow: /submission/audit/
+Disallow: /trafficlog/
+Disallow: /user/
+Disallow: /emailmanagement/
+
+Sitemap: https://monerica.com/sitemap.xml
