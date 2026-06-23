@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>XMRescrow</title>
+      <link>https://xmrescrow.app/</link>
+      <description>Exchanges &gt; Peer-to-Peer Exchanges : Peer-to-peer Monero escrow. Private, non-custodial, and works over Tor. No accounts. No KYC. Just a secure hold between two parties.</description>
+      <pubDate>Tue, 23 Jun 2026 14:39:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Torstash</title>
       <link>https://torstash.com/</link>
       <description>Web Hosting &gt; Cloud &amp; Web Hosting Providers : An anonymous, Tor only file storage service requiring Monero payments and client side encryption. Access requires a wallet ID and password. - Processor: Custom - Contact: torstash@proton.me</description>
@@ -665,12 +671,6 @@ Preparing for the Mainnet - Location: Worldwide - Processor: Custom - Contact: @
       <link>https://monerowire.com/</link>
       <description>Media &gt; News (English) : Financial privacy news for people who think it matters.</description>
       <pubDate>Thu, 07 May 2026 09:28:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Privata</title>
-      <link>https://privataswap.com/#/swap</link>
-      <description>Exchanges &gt; Aggregators : Exchange crypto across 50+ providers. Sort by KYC, rate, speed, or fee, and pick what matters to you.</description>
-      <pubDate>Wed, 06 May 2026 18:54:20 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Wagyu.xyz (sponsored)</title>
