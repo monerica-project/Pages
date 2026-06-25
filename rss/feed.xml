@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>SwapRaven</title>
+      <link>https://swapraven.com/</link>
+      <description>Other Directories &gt; Crypto Exchanges : A vetted directory of crypto swap exchanges and aggregators — fees, grades, KYC &amp; AML posture, and whether they run without JavaScript. - Processor: BTCPay Server</description>
+      <pubDate>Thu, 25 Jun 2026 02:14:42 GMT</pubDate>
+    </item>
+    <item>
       <title>BillAndKeonne</title>
       <link>https://billandkeonne.org/</link>
       <description>Non-Profits &gt; Individuals : Behind Every Line of Code, There's a Family
@@ -549,9 +555,8 @@ CashApp/other fiats, 100+ Cryptos, Discord Products, Telegram Products, Mullvad 
     </item>
     <item>
       <title>XMRMatters</title>
-      <link>https://xmrmatters.space</link>
-      <description>Exchanges &gt; Peer-to-Peer Exchanges : A privacy-first, desktop-optimized P2P exchange built from scratch to restore surveillance-free Monero trading with zero KYC and hardened escrow. - Note: Stagenet until 19th of June.
-Preparing for the Mainnet - Location: Worldwide - Processor: Custom</description>
+      <link>https://xmrmatters.space/</link>
+      <description>Exchanges &gt; Peer-to-Peer Exchanges : A decentralized, peer-to-peer exchange platform engineered for absolute Monero privacy. Built to operate entirely without background tracking or surveillance. - Note: Mainnet Migrated on: 25th June 2026 - Location: Worldwide - Processor: Custom</description>
       <pubDate>Mon, 18 May 2026 17:45:32 GMT</pubDate>
     </item>
     <item>
@@ -667,12 +672,6 @@ Preparing for the Mainnet - Location: Worldwide - Processor: Custom</description
       <link>https://silent.exchange</link>
       <description>Exchanges &gt; Instant Swaps : Fast &amp; Anonymous Crypto to Crypto Swaps. No email. No KYC.Trade-in Minutes. 1500+ Crypto Pairs 24/7/365 Service Fee starting from 1%. - Note: Trade using Telegram Bot - @silentexchangerobot</description>
       <pubDate>Thu, 07 May 2026 12:57:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monero Stats</title>
-      <link>https://monerostats.org/</link>
-      <description>Media &gt; Miscellaneous : An aggregate of payment usage data released by businesses that accept Monero.</description>
-      <pubDate>Thu, 07 May 2026 10:41:52 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Wagyu.xyz (sponsored)</title>
