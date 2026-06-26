@@ -1,5 +1,5 @@
 # Monerica
-> A curated directory of 1376 websites and services that accept or relate to Monero (XMR).
+> A curated directory of 1373 websites and services that accept or relate to Monero (XMR).
 > https://monerica.com
 
 ## Businesses
