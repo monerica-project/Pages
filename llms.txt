@@ -1,5 +1,5 @@
 # Monerica
-> A curated directory of 1390 websites and services that accept or relate to Monero (XMR).
+> A curated directory of 1376 websites and services that accept or relate to Monero (XMR).
 > https://monerica.com
 
 ## Businesses
@@ -169,16 +169,6 @@
 - Search Engines: https://monerica.com/non-profits/search-engines
 - Security: https://monerica.com/non-profits/security
 - Technologies: https://monerica.com/non-profits/technologies
-
-## Onion Only
-- Education: https://monerica.com/onion-only/education
-- Exchanges: https://monerica.com/onion-only/exchanges
-- Forums: https://monerica.com/onion-only/forums
-- Gambling: https://monerica.com/onion-only/gambling
-- Markets: https://monerica.com/onion-only/markets
-- Miscellaneous: https://monerica.com/onion-only/miscellaneous
-- Organizations: https://monerica.com/onion-only/organizations
-- Wallets: https://monerica.com/onion-only/wallets
 
 ## Other Directories
 - Business Directories: https://monerica.com/other-directories/business-directories
