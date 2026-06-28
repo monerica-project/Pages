@@ -172,7 +172,7 @@
 
 ## Other Directories
 - Business Directories: https://monerica.com/other-directories/business-directories
-- Crypto Exchanges: https://monerica.com/other-directories/crypto-exchanges
+- Exchange Monitors: https://monerica.com/other-directories/exchange-monitors
 - Miscellaneous: https://monerica.com/other-directories/miscellaneous
 
 ## Utilities
