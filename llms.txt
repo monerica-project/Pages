@@ -174,6 +174,8 @@
 - Business Directories: https://monerica.com/other-directories/business-directories
 - Exchange Monitors: https://monerica.com/other-directories/exchange-monitors
 - Miscellaneous: https://monerica.com/other-directories/miscellaneous
+- Monero Directories: https://monerica.com/other-directories/monero-directories
+- No KYC Services: https://monerica.com/other-directories/no-kyc-services
 
 ## Utilities
 - Address Verification: https://monerica.com/utilities/address-verification
