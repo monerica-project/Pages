@@ -295,6 +295,12 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://monerica.com/network</loc>
+    <lastmod>2026-06-29T19:54:45+00:00</lastmod>
+    <changefreq>Monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
     <loc>https://monerica.com/rss/feed.xml</loc>
     <lastmod>2026-06-29T19:54:45+00:00</lastmod>
     <changefreq>Daily</changefreq>
