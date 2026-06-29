@@ -1,214 +1,31 @@
-# Monerica
-> A curated directory of 1381 websites and services that accept or relate to Monero (XMR).
-> https://monerica.com
-
-## Businesses
-- Accounting: https://monerica.com/businesses/accounting
-- AI Services: https://monerica.com/businesses/ai-services
-- Artwork: https://monerica.com/businesses/artwork
-- Automotives: https://monerica.com/businesses/automotives
-- Blockchain Services: https://monerica.com/businesses/blockchain-services
-- Books & Magazines: https://monerica.com/businesses/books-and-magazines
-- Clothing, Apparel & Accessories: https://monerica.com/businesses/clothing-apparel-and-accessories
-- Counseling & Therapy: https://monerica.com/businesses/counseling-and-therapy
-- Courses: https://monerica.com/businesses/courses
-- Design Services: https://monerica.com/businesses/design-services
-- Digital Goods/ Services: https://monerica.com/businesses/digital-goods-services
-- DJs: https://monerica.com/businesses/djs
-- Electricians: https://monerica.com/businesses/electricians
-- Electronics/ Computer Hardware: https://monerica.com/businesses/electronics-computer-hardware
-- Email Providers/ Forwarders: https://monerica.com/businesses/email-providers-forwarders
-- Fitness: https://monerica.com/businesses/fitness
-- Food & Drink: https://monerica.com/businesses/food-and-drink
-- Food & Drink (IRL): https://monerica.com/businesses/food-and-drink-irl
-- Gambling: https://monerica.com/businesses/gambling
-- General Stores: https://monerica.com/businesses/general-stores
-- Health & Beauty: https://monerica.com/businesses/health-and-beauty
-- IT Services: https://monerica.com/businesses/it-services
-- Legal Services: https://monerica.com/businesses/legal-services
-- Locksmiths: https://monerica.com/businesses/locksmiths
-- Luxury Goods: https://monerica.com/businesses/luxury-goods
-- Marketing: https://monerica.com/businesses/marketing
-- Marketplaces: https://monerica.com/businesses/marketplaces
-- Marketplaces (Peer-to-Peer): https://monerica.com/businesses/marketplaces-peer-to-peer
-- Medical Testing & Laboratory Supplies: https://monerica.com/businesses/medical-testing-and-laboratory-supplies
-- Medical/ Pharmaceutical Treatments: https://monerica.com/businesses/medical-pharmaceutical-treatments
-- Membership: https://monerica.com/businesses/membership
-- Miscellaneous: https://monerica.com/businesses/miscellaneous
-- Monero Hardware: https://monerica.com/businesses/monero-hardware
-- Monero Merchandise: https://monerica.com/businesses/monero-merchandise
-- Phone Plans, SMS & SIM Cards: https://monerica.com/businesses/phone-plans-sms-and-sim-cards
-- Pornography & Adult Products: https://monerica.com/businesses/pornography-and-adult-products
-- Postage & Shipping Services: https://monerica.com/businesses/postage-and-shipping-services
-- Precious Metals: https://monerica.com/businesses/precious-metals
-- Printing Services: https://monerica.com/businesses/printing-services
-- Proxies: https://monerica.com/businesses/proxies
-- Proxy Shopping: https://monerica.com/businesses/proxy-shopping
-- Real Estate Services: https://monerica.com/businesses/real-estate-services
-- Recycling: https://monerica.com/businesses/recycling
-- Residency: https://monerica.com/businesses/residency
-- Seeds & Spores: https://monerica.com/businesses/seeds-and-spores
-- Tobacco Products & Accessories: https://monerica.com/businesses/tobacco-products-and-accessories
-- Translation: https://monerica.com/businesses/translation
-- Travel: https://monerica.com/businesses/travel
-- Weapons & Self-Defense: https://monerica.com/businesses/weapons-and-self-defense
-
-## Cards
-- Gift & Prepaid Cards: https://monerica.com/cards/gift-and-prepaid-cards
-- Gift Cards: https://monerica.com/cards/gift-cards
-- Prepaid Cards: https://monerica.com/cards/prepaid-cards
-
-## Communities
-- Chatrooms (Other): https://monerica.com/communities/chatrooms-other
-- Forums: https://monerica.com/communities/forums
-- Matrix: https://monerica.com/communities/matrix
-- Offline Conferences: https://monerica.com/communities/offline-conferences
-- Online Communities: https://monerica.com/communities/online-communities
-- Other: https://monerica.com/communities/other
-- Reddit: https://monerica.com/communities/reddit
-- SimpleX: https://monerica.com/communities/simplex
-- Technical Questions: https://monerica.com/communities/technical-questions
-- Telegram: https://monerica.com/communities/telegram
-
-## Education
-- E-Books: https://monerica.com/education/e-books
-- Guides: https://monerica.com/education/guides
-- Knowledge: https://monerica.com/education/knowledge
-- Physical Books: https://monerica.com/education/physical-books
-- Research: https://monerica.com/education/research
-- Tutorials: https://monerica.com/education/tutorials
-
-## Exchanges
-- Aggregators: https://monerica.com/exchanges/aggregators
-- ATMs: https://monerica.com/exchanges/atms
-- Atomic Swaps: https://monerica.com/exchanges/atomic-swaps
-- Bots: https://monerica.com/exchanges/bots
-- Centralized Exchanges: https://monerica.com/exchanges/centralized-exchanges
-- Decentralized Exchanges: https://monerica.com/exchanges/decentralized-exchanges
-- Instant Swaps: https://monerica.com/exchanges/instant-swaps
-- Messenger: https://monerica.com/exchanges/messenger
-- Miscellaneous: https://monerica.com/exchanges/miscellaneous
-- Peer-to-Peer Exchanges: https://monerica.com/exchanges/peer-to-peer-exchanges
-- Software: https://monerica.com/exchanges/software
-
-## Finance
-- Calculator: https://monerica.com/finance/calculator
-- Charts & Portfolios: https://monerica.com/finance/charts-and-portfolios
-- Conversion: https://monerica.com/finance/conversion
-- Interest/ Loans: https://monerica.com/finance/interest-loans
-- Market Cap Comparision: https://monerica.com/finance/market-cap-comparision
-- Price Display: https://monerica.com/finance/price-display
-
-## Freelancers
-- Designers: https://monerica.com/freelancers/designers
-- Privacy & Security Consultants: https://monerica.com/freelancers/privacy-and-security-consultants
-- Software Developers: https://monerica.com/freelancers/software-developers
-
-## Jobs
-- Bounties: https://monerica.com/jobs/bounties
-- Chatrooms: https://monerica.com/jobs/chatrooms
-- Crowdfunding: https://monerica.com/jobs/crowdfunding
-- Fundraising: https://monerica.com/jobs/fundraising
-- Grants: https://monerica.com/jobs/grants
-- Job Boards: https://monerica.com/jobs/job-boards
-
-## Media
-- Artwork: https://monerica.com/media/artwork
-- Miscellaneous: https://monerica.com/media/miscellaneous
-- Music: https://monerica.com/media/music
-- News (English): https://monerica.com/media/news-english
-- News (Russian): https://monerica.com/media/news-russian
-- News (Spanish): https://monerica.com/media/news-spanish
-- News (Taiwanese): https://monerica.com/media/news-taiwanese
-- News Aggregators: https://monerica.com/media/news-aggregators
-- Newsletters: https://monerica.com/media/newsletters
-- Radio Stations: https://monerica.com/media/radio-stations
-- Social Media (Twitter): https://monerica.com/media/social-media-twitter
-- Talk Shows/ Podcasts (English): https://monerica.com/media/talk-shows-podcasts-english
-- Videos: https://monerica.com/media/videos
-- YouTube Channels (English): https://monerica.com/media/youtube-channels-english
-- YouTube Channels (German): https://monerica.com/media/youtube-channels-german
-- YouTube Channels (Russian): https://monerica.com/media/youtube-channels-russian
-- YouTube Channels (Spanish): https://monerica.com/media/youtube-channels-spanish
-
-## Merchant Services
-- ATMs: https://monerica.com/merchant-services/atms
-- Integrations: https://monerica.com/merchant-services/integrations
-- Miscellaneous: https://monerica.com/merchant-services/miscellaneous
-- Open Source Projects: https://monerica.com/merchant-services/open-source-projects
-
-## Mining
-- Apps: https://monerica.com/mining/apps
-- Benchmarks: https://monerica.com/mining/benchmarks
-- Calculators: https://monerica.com/mining/calculators
-- Guides: https://monerica.com/mining/guides
-- Miscellaneous: https://monerica.com/mining/miscellaneous
-- Pools: https://monerica.com/mining/pools
-- Rentals: https://monerica.com/mining/rentals
-- Software: https://monerica.com/mining/software
-
-## Nodes
-- Guides: https://monerica.com/nodes/guides
-- Node Hardware: https://monerica.com/nodes/node-hardware
-- Node Indexes & Policy Lists: https://monerica.com/nodes/node-indexes-and-policy-lists
-- Node Software & Deployment: https://monerica.com/nodes/node-software-and-deployment
-- Public Remote Nodes & Operators: https://monerica.com/nodes/public-remote-nodes-and-operators
-- Relay/Exit Operators (individual relays): https://monerica.com/nodes/relay-exit-operators-individual-relays
-
-## Non-Profits
-- Activism: https://monerica.com/non-profits/activism
-- Charities: https://monerica.com/non-profits/charities
-- Individuals: https://monerica.com/non-profits/individuals
-- Institutes: https://monerica.com/non-profits/institutes
-- Knowledge: https://monerica.com/non-profits/knowledge
-- Media: https://monerica.com/non-profits/media
-- Medical: https://monerica.com/non-profits/medical
-- Miscellaneous: https://monerica.com/non-profits/miscellaneous
-- Operating Systems: https://monerica.com/non-profits/operating-systems
-- Research: https://monerica.com/non-profits/research
-- Search Engines: https://monerica.com/non-profits/search-engines
-- Security: https://monerica.com/non-profits/security
-- Technologies: https://monerica.com/non-profits/technologies
-
-## Other Directories
-- Business Directories: https://monerica.com/other-directories/business-directories
-- Exchange Monitors: https://monerica.com/other-directories/exchange-monitors
-- Miscellaneous: https://monerica.com/other-directories/miscellaneous
-- Monero Directories: https://monerica.com/other-directories/monero-directories
-- No KYC Services: https://monerica.com/other-directories/no-kyc-services
-
-## Utilities
-- Address Verification: https://monerica.com/utilities/address-verification
-- Blockchain Explorers: https://monerica.com/utilities/blockchain-explorers
-- Developer Tools: https://monerica.com/utilities/developer-tools
-- Open Source Projects: https://monerica.com/utilities/open-source-projects
-- QR Code Generator: https://monerica.com/utilities/qr-code-generator
-- Transactions: https://monerica.com/utilities/transactions
-
-## VPNs
-- Africa: https://monerica.com/vpns/africa
-- Asia: https://monerica.com/vpns/asia
-- Europe (EU): https://monerica.com/vpns/europe-eu
-- Europe (Non-EU): https://monerica.com/vpns/europe-non-eu
-- Global / Unspecified: https://monerica.com/vpns/global-unspecified
-- North America (Central America & Caribbean): https://monerica.com/vpns/north-america-central-america-and-caribbean
-- USA: https://monerica.com/vpns/usa
-
-## Wallets
-- Browser Wallets: https://monerica.com/wallets/browser-wallets
-- CLI Wallets: https://monerica.com/wallets/cli-wallets
-- Desktop Wallets: https://monerica.com/wallets/desktop-wallets
-- Hardware Wallets: https://monerica.com/wallets/hardware-wallets
-- Mobile Wallets: https://monerica.com/wallets/mobile-wallets
-- Web Wallets: https://monerica.com/wallets/web-wallets
-
-## Web Hosting
-- Cloud & Web Hosting Providers: https://monerica.com/web-hosting/cloud-and-web-hosting-providers
-- Domain Registration & DNS Services: https://monerica.com/web-hosting/domain-registration-and-dns-services
-- Gaming Servers: https://monerica.com/web-hosting/gaming-servers
-- Offshore & Privacy-Focused Hosting: https://monerica.com/web-hosting/offshore-and-privacy-focused-hosting
-- Resellers & Aggregators: https://monerica.com/web-hosting/resellers-and-aggregators
-- Specialized or Niche Hosting Services: https://monerica.com/web-hosting/specialized-or-niche-hosting-services
-- Tor & Dark Web Hosting Services: https://monerica.com/web-hosting/tor-and-dark-web-hosting-services
-- VPS & Dedicated Server Providers: https://monerica.com/web-hosting/vps-and-dedicated-server-providers
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="refresh" content="15">
+  <title>Updating - app.monerica.com</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      min-height: 100vh; display: flex; align-items: center; justify-content: center;
+      background: #0f0f0f; color: #e0e0e0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    .card { text-align: center; padding: 3rem 2.5rem; max-width: 440px; }
+    .icon { font-size: 2.8rem; margin-bottom: 1.25rem; display: inline-block; animation: spin 3s linear infinite; }
+    @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+    h1 { font-size: 1.5rem; font-weight: 600; margin-bottom: 0.75rem; color: #ff6600; }
+    p  { font-size: 0.95rem; line-height: 1.6; color: #aaa; }
+    .note { margin-top: 1.75rem; font-size: 0.8rem; color: #555; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="icon">&#9881;</div>
+    <h1>Updating in progress</h1>
+    <p>The site is being updated and will be back shortly.</p>
+    <p class="note">This page refreshes automatically every 15 seconds.</p>
+  </div>
+</body>
+</html>
