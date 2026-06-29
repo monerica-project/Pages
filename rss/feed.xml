@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Saketo</title>
+      <link>https://saketo.io/</link>
+      <description>Wallets &gt; Mobile Wallets : The first Rust-based mobile Monero wallet</description>
+      <pubDate>Mon, 29 Jun 2026 12:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>SendSwap</title>
       <link>https://sendswap.io</link>
       <description>Exchanges &gt; Instant Swaps : Non-custodial instant swap exchange. Trade 2000+ assets wallet-to-wallet with no signup, no account and no KYC. Fixed or float rates.</description>
@@ -665,12 +671,6 @@ CashApp/other fiats, 100+ Cryptos, Discord Products, Telegram Products, Mullvad 
       <link>https://pikasim.com</link>
       <description>Businesses &gt; Phone Plans, SMS &amp; SIM Cards : Travel eSIMs for 190+ countries. No account, email, name, address, or ID required. Web-based with mobile apps for iOS and Android. Anonymous top-ups via ICCID or order number. - Note: Monero accepted natively (not converted). - Location: Denver, CO - Processor: BTCPay Server</description>
       <pubDate>Sun, 10 May 2026 03:26:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>FSKY</title>
-      <link>https://fsky.io/</link>
-      <description>Non-Profits &gt; Technologies : Instances of frontend services</description>
-      <pubDate>Sat, 09 May 2026 20:18:37 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Silent Exchange (sponsored)</title>
