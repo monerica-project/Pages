@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>Mistex Bot</title>
+      <link>https://t.me/mistex_bot</link>
+      <description>Exchanges &gt; Bots : Privacy-first XMR swaps on Telegram. No KYC. No account. No IP logging</description>
+      <pubDate>Wed, 01 Jul 2026 15:38:00 GMT</pubDate>
+    </item>
+    <item>
       <title>OpaqueDB</title>
       <link>https://opaquedb.io</link>
       <description>Non-Profits &gt; Security : A fully open-source, post-quantum distributed private database that lets you run SQL queries over encrypted data without revealing either the data or the query itself. - Processor: Custom</description>
@@ -665,12 +671,6 @@ CashApp/other fiats, 100+ Cryptos, Discord Products, Telegram Products, Mullvad 
       <link>https://monero.you/</link>
       <description>Communities &gt; Forums : A Lemmy instance for Monero community</description>
       <pubDate>Tue, 12 May 2026 14:10:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Crypto Agorism</title>
-      <link>https://cryptoagorism.github.io/</link>
-      <description>Media &gt; Miscellaneous : Free markets for a free world - Processor: Direct to wallet</description>
-      <pubDate>Tue, 12 May 2026 02:13:40 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Silent Exchange (sponsored)</title>
