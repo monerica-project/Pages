@@ -5,6 +5,18 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>OpaqueDB</title>
+      <link>https://opaquedb.io</link>
+      <description>Non-Profits &gt; Security : A fully open-source, post-quantum distributed private database that lets you run SQL queries over encrypted data without revealing either the data or the query itself. - Processor: Custom</description>
+      <pubDate>Wed, 01 Jul 2026 12:10:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>0xEsim</title>
+      <link>https://0xesim.io/monero-esim</link>
+      <description>Businesses &gt; Phone Plans, SMS &amp; SIM Cards : A no-KYC eSIM store for 190+ countries. No account, no ID, no email — buy a prepaid data plan and get the eSIM QR by email or a private tracking code. Plans from $2.99.</description>
+      <pubDate>Wed, 01 Jul 2026 12:07:35 GMT</pubDate>
+    </item>
+    <item>
       <title>&amp;#x2705; Monero Academy</title>
       <link>https://moneroacademy.com/</link>
       <description>Education &gt; Guides : Learn Monero for free: courses, lessons and quizzes from beginner to advanced. Create a free account to track your quiz scores. Tor friendly, works without JavaScript. - Note: built by Monerica</description>
@@ -659,18 +671,6 @@ CashApp/other fiats, 100+ Cryptos, Discord Products, Telegram Products, Mullvad 
       <link>https://cryptoagorism.github.io/</link>
       <description>Media &gt; Miscellaneous : Free markets for a free world - Processor: Direct to wallet</description>
       <pubDate>Tue, 12 May 2026 02:13:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>&amp;#x274C; Red Mercury Vault</title>
-      <link>https://redmercuryvault.com/</link>
-      <description>Businesses &gt; Miscellaneous : A premier, research-driven materials enterprise operating at the forefront of advanced energy substrates and high-density catalytic compounds within the Industrial Sector. - Note: Red mercury is a discredited substance, most likely a hoax perpetrated by con artists who sought to take advantage of gullible buyers on the black market for arms.</description>
-      <pubDate>Sun, 10 May 2026 16:18:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>PikaSim</title>
-      <link>https://pikasim.com</link>
-      <description>Businesses &gt; Phone Plans, SMS &amp; SIM Cards : Travel eSIMs for 190+ countries. No account, email, name, address, or ID required. Web-based with mobile apps for iOS and Android. Anonymous top-ups via ICCID or order number. - Note: Monero accepted natively (not converted). - Location: Denver, CO - Processor: BTCPay Server</description>
-      <pubDate>Sun, 10 May 2026 03:26:20 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Silent Exchange (sponsored)</title>
