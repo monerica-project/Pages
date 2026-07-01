@@ -865,13 +865,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://monerica.com/businesses/medical-testing-and-laboratory-supplies</loc>
+    <loc>https://monerica.com/businesses/medical-pharmaceutical-treatments</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://monerica.com/businesses/medical-pharmaceutical-treatments</loc>
+    <loc>https://monerica.com/businesses/medical-testing-and-laboratory-supplies</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
     <priority>0.5</priority>
@@ -997,13 +997,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://monerica.com/cards/gift-and-prepaid-cards</loc>
+    <loc>https://monerica.com/cards/gift-cards</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://monerica.com/cards/gift-cards</loc>
+    <loc>https://monerica.com/cards/gift-and-prepaid-cards</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
     <priority>0.5</priority>
@@ -1321,7 +1321,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://monerica.com/media/news-aggregators</loc>
+    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
+    <changefreq>Weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://monerica.com/media/news-english</loc>
+    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
+    <changefreq>Weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://monerica.com/media/newsletters</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
     <priority>0.5</priority>
@@ -1340,18 +1352,6 @@
   </url>
   <url>
     <loc>https://monerica.com/media/news-taiwanese</loc>
-    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
-    <changefreq>Weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://monerica.com/media/news-aggregators</loc>
-    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
-    <changefreq>Weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://monerica.com/media/newsletters</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
     <priority>0.5</priority>
@@ -1873,6 +1873,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://monerica.com/site/telnum</loc>
+    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
+    <changefreq>Weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://monerica.com/site/ziga-studio</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
@@ -2023,6 +2029,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://monerica.com/site/workgroups</loc>
+    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
+    <changefreq>Weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://monerica.com/site/johnathan-kleiman</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
@@ -2162,12 +2174,6 @@
   </url>
   <url>
     <loc>https://monerica.com/site/smspool</loc>
-    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
-    <changefreq>Weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://monerica.com/site/telnum</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
     <priority>0.7</priority>
@@ -2318,6 +2324,12 @@
   </url>
   <url>
     <loc>https://monerica.com/site/vpn-surf</loc>
+    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
+    <changefreq>Weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://monerica.com/site/xmr-trader</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
     <priority>0.7</priority>
@@ -2534,18 +2546,6 @@
   </url>
   <url>
     <loc>https://monerica.com/site/official-monero-reddit</loc>
-    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
-    <changefreq>Weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://monerica.com/site/workgroups</loc>
-    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
-    <changefreq>Weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://monerica.com/site/xmr-trader</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
     <priority>0.7</priority>
@@ -3817,6 +3817,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://monerica.com/site/basicswap</loc>
+    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
+    <changefreq>Weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://monerica.com/site/monero-discourse-subscriptions-plugin</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
@@ -3997,12 +4003,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://monerica.com/site/basicswap</loc>
-    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
-    <changefreq>Weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://monerica.com/site/docker-monero-node</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
@@ -4093,6 +4093,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://monerica.com/site/xmrstreet</loc>
+    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
+    <changefreq>Weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://monerica.com/site/travessa-restaurant</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
@@ -4153,12 +4159,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://monerica.com/site/xmrstreet</loc>
-    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
-    <changefreq>Weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://monerica.com/site/staynsee</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
@@ -4214,6 +4214,12 @@
   </url>
   <url>
     <loc>https://monerica.com/site/biomance-technologies</loc>
+    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
+    <changefreq>Weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://monerica.com/site/jabbim</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
     <priority>0.7</priority>
@@ -4861,6 +4867,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://monerica.com/site/meduza</loc>
+    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
+    <changefreq>Weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://monerica.com/site/quackr</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
@@ -5293,12 +5305,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://monerica.com/site/meduza</loc>
-    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
-    <changefreq>Weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://monerica.com/site/orange-nikky</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
@@ -5653,6 +5659,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://monerica.com/site/fat-chips</loc>
+    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
+    <changefreq>Weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://monerica.com/site/cce-cash</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
@@ -5863,7 +5875,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://monerica.com/site/fat-chips</loc>
+    <loc>https://monerica.com/site/project-media</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
     <priority>0.7</priority>
@@ -6169,12 +6181,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://monerica.com/site/project-media</loc>
-    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
-    <changefreq>Weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://monerica.com/site/xmr-beast</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
@@ -6331,12 +6337,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://monerica.com/site/jabbim</loc>
-    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
-    <changefreq>Weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://monerica.com/site/xmpp-is</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
@@ -6428,6 +6428,12 @@
   </url>
   <url>
     <loc>https://monerica.com/site/tallhatdoug-mining-pool</loc>
+    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
+    <changefreq>Weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://monerica.com/site/nanswap</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
     <priority>0.7</priority>
@@ -6674,6 +6680,12 @@
   </url>
   <url>
     <loc>https://monerica.com/site/hostwinds-com</loc>
+    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
+    <changefreq>Weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://monerica.com/site/flyp-me</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
     <priority>0.7</priority>
@@ -6955,6 +6967,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://monerica.com/site/swaptrade</loc>
+    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
+    <changefreq>Weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://monerica.com/site/etz-swap</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
@@ -7087,7 +7105,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://monerica.com/site/nanswap</loc>
+    <loc>https://monerica.com/site/felix</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
     <priority>0.7</priority>
@@ -7549,18 +7567,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://monerica.com/site/flyp-me</loc>
-    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
-    <changefreq>Weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://monerica.com/site/swaptrade</loc>
-    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
-    <changefreq>Weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://monerica.com/site/rs-computers</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
@@ -7718,12 +7724,6 @@
   </url>
   <url>
     <loc>https://monerica.com/site/monerotopia-matrix</loc>
-    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
-    <changefreq>Weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://monerica.com/site/felix</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
     <priority>0.7</priority>
@@ -7915,6 +7915,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://monerica.com/site/my-node-pay</loc>
+    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
+    <changefreq>Weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://monerica.com/site/ludlow-institute</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
@@ -7988,6 +7994,12 @@
   </url>
   <url>
     <loc>https://monerica.com/site/privacy-guides</loc>
+    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
+    <changefreq>Weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://monerica.com/site/monero-malware-response</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
     <priority>0.7</priority>
@@ -8167,6 +8179,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://monerica.com/site/crypto-bitmart</loc>
+    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
+    <changefreq>Weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://monerica.com/site/shadowrelay</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
@@ -8281,6 +8299,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://monerica.com/site/quantum-proxies</loc>
+    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
+    <changefreq>Weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://monerica.com/site/xmr2cex</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
@@ -8360,30 +8384,6 @@
   </url>
   <url>
     <loc>https://monerica.com/site/bridgoro</loc>
-    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
-    <changefreq>Weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://monerica.com/site/my-node-pay</loc>
-    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
-    <changefreq>Weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://monerica.com/site/crypto-bitmart</loc>
-    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
-    <changefreq>Weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://monerica.com/site/quantum-proxies</loc>
-    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
-    <changefreq>Weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://monerica.com/site/monero-malware-response</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
     <priority>0.7</priority>
@@ -8689,6 +8689,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://monerica.com/site/cointivo-com</loc>
+    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
+    <changefreq>Weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://monerica.com/site/nosint</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
@@ -8768,12 +8774,6 @@
   </url>
   <url>
     <loc>https://monerica.com/site/monero-one</loc>
-    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
-    <changefreq>Weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://monerica.com/site/cointivo-com</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
     <priority>0.7</priority>
@@ -9217,6 +9217,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://monerica.com/site/monero-you</loc>
+    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
+    <changefreq>Weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://monerica.com/site/monero-software</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
@@ -9349,6 +9355,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://monerica.com/site/opt-out</loc>
+    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
+    <changefreq>Weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://monerica.com/site/wtf-is-xmr</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
@@ -9458,18 +9470,6 @@
   </url>
   <url>
     <loc>https://monerica.com/site/crypto-agorism</loc>
-    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
-    <changefreq>Weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://monerica.com/site/monero-you</loc>
-    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
-    <changefreq>Weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://monerica.com/site/opt-out</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
     <priority>0.7</priority>
@@ -9901,6 +9901,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://monerica.com/site/gpu-screen-recorder</loc>
+    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
+    <changefreq>Weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://monerica.com/site/fitotrack</loc>
+    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
+    <changefreq>Weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://monerica.com/site/webmonero</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
@@ -10004,18 +10016,6 @@
   </url>
   <url>
     <loc>https://monerica.com/site/ethos-found</loc>
-    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
-    <changefreq>Weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://monerica.com/site/gpu-screen-recorder</loc>
-    <lastmod>2026-07-01T16:46:05+00:00</lastmod>
-    <changefreq>Weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://monerica.com/site/fitotrack</loc>
     <lastmod>2026-07-01T16:46:05+00:00</lastmod>
     <changefreq>Weekly</changefreq>
     <priority>0.7</priority>

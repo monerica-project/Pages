@@ -31,8 +31,8 @@
 - Marketing: https://monerica.com/businesses/marketing
 - Marketplaces: https://monerica.com/businesses/marketplaces
 - Marketplaces (Peer-to-Peer): https://monerica.com/businesses/marketplaces-peer-to-peer
-- Medical Testing & Laboratory Supplies: https://monerica.com/businesses/medical-testing-and-laboratory-supplies
 - Medical/ Pharmaceutical Treatments: https://monerica.com/businesses/medical-pharmaceutical-treatments
+- Medical Testing & Laboratory Supplies: https://monerica.com/businesses/medical-testing-and-laboratory-supplies
 - Membership: https://monerica.com/businesses/membership
 - Miscellaneous: https://monerica.com/businesses/miscellaneous
 - Monero Hardware: https://monerica.com/businesses/monero-hardware
@@ -54,8 +54,8 @@
 - Weapons & Self-Defense: https://monerica.com/businesses/weapons-and-self-defense
 
 ## Cards
-- Gift & Prepaid Cards: https://monerica.com/cards/gift-and-prepaid-cards
 - Gift Cards: https://monerica.com/cards/gift-cards
+- Gift & Prepaid Cards: https://monerica.com/cards/gift-and-prepaid-cards
 - Prepaid Cards: https://monerica.com/cards/prepaid-cards
 
 ## Communities
@@ -116,12 +116,12 @@
 - Artwork: https://monerica.com/media/artwork
 - Miscellaneous: https://monerica.com/media/miscellaneous
 - Music: https://monerica.com/media/music
+- News Aggregators: https://monerica.com/media/news-aggregators
 - News (English): https://monerica.com/media/news-english
+- Newsletters: https://monerica.com/media/newsletters
 - News (Russian): https://monerica.com/media/news-russian
 - News (Spanish): https://monerica.com/media/news-spanish
 - News (Taiwanese): https://monerica.com/media/news-taiwanese
-- News Aggregators: https://monerica.com/media/news-aggregators
-- Newsletters: https://monerica.com/media/newsletters
 - Radio Stations: https://monerica.com/media/radio-stations
 - Social Media (Twitter): https://monerica.com/media/social-media-twitter
 - Talk Shows/ Podcasts (English): https://monerica.com/media/talk-shows-podcasts-english
