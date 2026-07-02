@@ -5,6 +5,12 @@
     <description>The latest additions and sponsors in our directory.</description>
     <image url="https://monerica.com/images/monerica-logo.png" />
     <item>
+      <title>XMRPAY</title>
+      <link>https://xmrpay.shop</link>
+      <description>Merchant Services &gt; Integrations : Lightweight non custodial toolkit for accepting Monero. Includes embeddable checkout widget, serverless proof verification, optional watch agent, and more. - Processor: Custom</description>
+      <pubDate>Thu, 02 Jul 2026 02:09:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Mistex Bot</title>
       <link>https://t.me/mistex_bot</link>
       <description>Exchanges &gt; Bots : Privacy-first XMR swaps on Telegram. No KYC. No account. No IP logging</description>
@@ -665,12 +671,6 @@ CashApp/other fiats, 100+ Cryptos, Discord Products, Telegram Products, Mullvad 
       <link>https://optoutpod.com/</link>
       <description>Non-Profits &gt; Media : Privacy focused podcast</description>
       <pubDate>Tue, 12 May 2026 17:43:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>monero.you</title>
-      <link>https://monero.you/</link>
-      <description>Communities &gt; Forums : A Lemmy instance for Monero community</description>
-      <pubDate>Tue, 12 May 2026 14:10:31 GMT</pubDate>
     </item>
     <item>
       <title>&amp;#x2705; Silent Exchange (sponsored)</title>
